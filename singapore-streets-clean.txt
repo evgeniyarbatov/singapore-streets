@@ -56,10 +56,6 @@ Andover Road
 Andrew Road
 Andrews Terrace
 Ang Mo Kio
-Ang Mo Kio Ave 4
-Ang Mo Kio Ave 5
-Ang Mo Kio Ave 6
-Ang Mo Kio Ave 8
 Ang Mo Kio Avenue 1
 Ang Mo Kio Avenue 10
 Ang Mo Kio Avenue 12
@@ -156,7 +152,6 @@ Basement North
 Bassein Court
 Bassein Road
 Battery Road
-Bayfront Ave
 Bayfront Avenue
 Bays Water Road
 Bayshore Road
@@ -292,7 +287,6 @@ Bridport Avenue
 Bright Hill Crescent
 Bright Hill Dr
 Bright Hill Drive
-Brighton Ave
 Brighton Avenue
 Brighton Crescent
 Bristol Road
@@ -315,7 +309,6 @@ Bukit Batok
 Bukit Batok Central
 Bukit Batok Central Link
 Bukit Batok Crescent
-Bukit Batok East Ave 5
 Bukit Batok East Avenue 2
 Bukit Batok East Avenue 3
 Bukit Batok East Avenue 4
@@ -336,8 +329,6 @@ Bukit Batok Street 34
 Bukit Batok Street 41
 Bukit Batok Street 51
 Bukit Batok Street 52
-Bukit Batok West Ave 5
-Bukit Batok West Ave 8
 Bukit Batok West Avenue 2
 Bukit Batok West Avenue 3
 Bukit Batok West Avenue 4
@@ -446,7 +437,6 @@ Chancery Lane
 Chander Road
 Chang Charn Road
 Change Alley
-Changi Business Park Ave 1
 Changi Business Park Avenue 1
 Changi Business Park Central 1
 Changi Business Park Central 2
@@ -499,7 +489,6 @@ Chiselhurst Grove
 Chitty Road
 Chnagi Coast Walk
 Choa Chu Kang
-Choa Chu Kang Ave 4
 Choa Chu Kang Avenue 1
 Choa Chu Kang Avenue 2
 Choa Chu Kang Avenue 3
@@ -551,14 +540,9 @@ Claymore Hill
 Claymore Road
 CleanTech Loop
 Cleantech Loop
-Clemenceau Ave
-Clemenceau Ave North
 Clemenceau Avenue
 Clemenceau Avenue North
 Clemenceau Avenue Singapore Shopping Centre
-Clementi Ave 1
-Clementi Ave 2
-Clementi Ave 3
 Clementi Avenue 1
 Clementi Avenue 2
 Clementi Avenue 3
@@ -774,13 +758,13 @@ Essex Road
 Eu Chin Street
 Eu Tong Sen Street
 Eu Tong Sen Street Clarke Quay Central
-Eunos Ave 7A
 Eunos Avenue 3
 Eunos Avenue 4
 Eunos Avenue 5
 Eunos Avenue 5A
 Eunos Avenue 6
 Eunos Avenue 7
+Eunos Avenue 7A
 Eunos Avenue 8
 Eunos Avenue 8A
 Eunos Crescent
@@ -884,7 +868,6 @@ Gerald Park
 Getlang Bahru
 Geylang Bahru
 Geylang Bahru Lane
-Geylang East Ave 1
 Geylang East Avenue
 Geylang East Avenue 1
 Geylang East Avenue 2
@@ -1009,7 +992,6 @@ Hill Street
 Hillcrest Road
 Hillside Drive
 Hillside Terrace
-Hillview Ave
 Hillview Avenue
 Hillview Crescent
 Hillview Drive
@@ -1024,7 +1006,6 @@ Hindhede Walk
 Hindoo Road
 Ho Ching Road
 Hoe Chiang Road
-Holland Ave
 Holland Avenue
 Holland Close
 Holland Drive
@@ -1050,13 +1031,11 @@ Horne Road
 Hospital Boulevard
 Hospital Crescent
 Hospital Drive
-Hougang Ave 1
-Hougang Ave 10
-Hougang Ave 3 Park Connector
 Hougang Avenue 1
 Hougang Avenue 10
 Hougang Avenue 2
 Hougang Avenue 3
+Hougang Avenue 3 Park Connector
 Hougang Avenue 4
 Hougang Avenue 5
 Hougang Avenue 6
@@ -1620,11 +1599,10 @@ Jurong West Street 92
 Jurong West Street 93
 KIM TIAN PLACE
 Kadayanallur Street
-Kaki Bukit Ave 1
-Kaki Bukit Ave 6
 Kaki Bukit Avenue 1
 Kaki Bukit Avenue 3
 Kaki Bukit Avenue 4
+Kaki Bukit Avenue 6
 Kaki Bukit Industrial Terrace
 Kaki Bukit Place
 Kaki Bukit Road 1
@@ -2389,7 +2367,6 @@ Ponggol TwentyFourth Avenue
 Poole Road
 Portchester Avenue
 Portsdown Road
-Potong Pasir Ave 2
 Potong Pasir Avenue 1
 Potong Pasir Avenue 2
 Potong Pasir Avenue 3
@@ -2552,7 +2529,6 @@ Segar Road
 Sejar Road
 Selegie Road
 Selegie Road Parklane Shopping Mall
-Seletar Aerospace Ave
 Seletar Aerospace Avenue
 Seletar Aerospace Crescent
 Seletar Aerospace Heights
@@ -2581,13 +2557,11 @@ Seng Kang East Way
 Seng Poh Lane
 Seng Poh Road
 Sengkang Central
-Sengkang East Ave
 Sengkang East Avenue
 Sengkang East Drive
 Sengkang East Road
 Sengkang East Way
 Sengkang Square
-Sengkang West Ave
 Sengkang West Avenue
 Sengkang West Road
 Sengkang West Way
@@ -2629,7 +2603,6 @@ Serangoon Road
 Serangoon RoadDunlop Street
 Serangoon Steet
 Serangoon Terrace
-Seraya Ave
 Seraya Avenue
 Seraya Crescent
 Seraya Road
@@ -2648,7 +2621,6 @@ Short Street
 Shrewsbury Road
 Shunfu Road
 Siak Kew Avenue
-Sian Tuan Ave
 Sian Tuan Avenue
 Siang Kuang Avenue
 Siglap Avenue South
@@ -2692,7 +2664,6 @@ Sims Place
 Sims View
 Sims Way
 Sin Joo Walk
-Sin Min Ave
 Sin Min Avenue
 Sin Ming Avenue
 Sin Ming Drive
@@ -2887,8 +2858,6 @@ Taman Serasi
 Taman Sireh
 Taman Warna
 Tamarind Road
-Tampines Ave 3
-Tampines Ave 4
 Tampines Avenue
 Tampines Avenue 1
 Tampines Avenue 10
@@ -3182,7 +3151,6 @@ Tyersall Avenue
 Tyersall Road
 Tyrwhitt Road
 UOB Centre
-Ubi Ave 1
 Ubi Avenue 1
 Ubi Avenue 2
 Ubi Avenue 3
@@ -3230,7 +3198,7 @@ Upper Thomson Road
 Upper Toh Tuck Terrace
 Upper Weld Road
 Upper Wilkie Road
-Vanda Ave
+Vanda Avenue
 Vanda Crescent
 Vanda Drive
 Vanda Road
@@ -3322,7 +3290,7 @@ Wilby Road
 Wilkie Road
 Wilkie Terrace
 Willow Avenue
-Wilmonar Ave
+Wilmonar Avenue
 Wilton Close
 Wilton Gardens
 Winchester Road
@@ -3339,9 +3307,6 @@ Woodgrove Walk
 Woodland Drive 75
 Woodland View
 Woodlands
-Woodlands Ave 1
-Woodlands Ave 3
-Woodlands Ave 9
 Woodlands Avenue 1
 Woodlands Avenue 12
 Woodlands Avenue 2
@@ -3412,7 +3377,6 @@ Worchester Road
 Worthing Road
 Xilin Avenue
 Yan Kit Road
-Yarwood Ave
 Yarwood Avenue
 Yew Siang Road
 Yew Tee
@@ -3420,8 +3384,6 @@ Yio Chu Kang Gardens
 Yio Chu Kang Link
 Yio Chu Kang Road
 Yio Chu Kang Terrace
-Yishun Ave 2
-Yishun Ave 6
 Yishun Avenue
 Yishun Avenue 1
 Yishun Avenue 11
