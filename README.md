@@ -2,8 +2,6 @@
 
 How many streets are there in Singapore? 
 
-Using OSM map data to find out.
-
 ## Steps
 
 Make sure only Singapore map is included:
