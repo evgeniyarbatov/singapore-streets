@@ -27,3 +27,19 @@ Get streets:
 ```
 grep "<tag k=\"addr:street\" v=" ~/osm/singapore.osm | sed 's/.*v=\"\(.*\)\".*/\1/' | sort | uniq > singapore-streets.txt
 ```
+
+Cleanup street names:
+
+```
+cat singapore-streets.txt | \
+grep -v ^# |
+grep -v '^[0-9 ]\+' | \
+grep -v '^Blk [0-9 ]\+' | \
+awk -F ',' '{print $1}' | \
+sed 's/ #.*//' | \
+sed 's/^[0-9]* //' | \
+sed "s/&apos;/'/g" | \
+sed 's/Blk [0-9]* //i' | \
+sort | uniq | \
+less
+```
