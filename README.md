@@ -44,15 +44,15 @@ Cleanup street names:
 cat singapore-streets.txt | \
 grep -v ^# |
 grep -v '^[0-9 ]\+' | \
+sed 's/^[0-9]* //' | \
 grep '^[A-Z]' | \
 grep -v '^Blk [0-9 ]\+' | \
-awk -F ',' '{print $1}' | \
-sed 's/ #.*//' | \
-sed 's/^[0-9]* //' | \
-sed "s/&apos;/'/g" | \
-sed "s/’/'/g" | \
 sed -E 's/[Bb][Ll][Kk] [0-9]+[A-Za-z] //i' | \
 sed -E 's/Block [0-9 ]+//i' | \
+awk -F ',' '{print $1}' | \
+sed 's/ #.*//' | \
+sed "s/&apos;/'/g" | \
+sed "s/’/'/g" | \
 sed 's/[^a-zA-Z0-9 ]//g; s/;//g' | \
 sed 's/ Rd$/ Road/g; s/ St$/ Street/g; s/Jln/Jalan/g;' | \
 sort | uniq \
