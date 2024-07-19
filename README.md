@@ -4,7 +4,7 @@ How many streets are there in Singapore?
 
 ```
 $ wc -l singapore-streets-clean.txt
-    3441 singapore-streets-clean.txt
+    3438 singapore-streets-clean.txt
 ```
 
 ## Details
@@ -54,7 +54,7 @@ sed 's/ #.*//' | \
 sed "s/&apos;/'/g" | \
 sed "s/’/'/g" | \
 sed 's/[^a-zA-Z0-9 ]//g; s/;//g' | \
-sed 's/ Rd$/ Road/g; s/ St$/ Street/g; s/Jln/Jalan/g; s/Ave /Avenue /g; s/Ave$/Avenue/g;' | \
+sed 's/ Rd$/ Road/g; s/ St$/ Street/g; s/Jln/Jalan/g; s/Ave /Avenue /g; s/Ave$/Avenue/g; s/Blvd/Boulevard/g;' | \
 sort | uniq \
 > singapore-streets-clean.txt
 ```

@@ -9,7 +9,6 @@ Admiralty Street
 Ah Hood Road
 Aida Street
 Airline Road
-Airport Blvd
 Airport Boulevard
 Airport Cargo Road
 Airport Road
@@ -1969,7 +1968,6 @@ Margaret Drive
 Margate Road
 Margoliouth Road
 Mariam Way
-Marina Blvd
 Marina Boulevard
 Marina Coastal Drive
 Marina East Drive
@@ -2977,7 +2975,6 @@ Telok Kurau
 Telok Kurau Court
 Telok Kurau Road
 Temasek Avenue
-Temasek Blvd
 Temasek Boulevard
 Temasek Polytechnic
 Temasek Tower
