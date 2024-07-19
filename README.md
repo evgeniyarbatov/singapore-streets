@@ -7,6 +7,11 @@ $ wc -l singapore-streets-clean.txt
     3479 singapore-streets-clean.txt
 ```
 
+## Details
+
+- `singapore-streets.txt`: street names based on OSM data
+- `singapore-streets-clean.txt`: cleaned up version of street names
+
 ## Steps
 
 Make sure only Singapore map is included:
