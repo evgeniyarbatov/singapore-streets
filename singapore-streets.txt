@@ -306,7 +306,6 @@ Brooke Road
 Brookvale Drive
 Bt Timah Road
 Btw Timah Road
-Buangkok (Nel)
 Buangkok Crescent
 Buangkok Drive
 Buangkok Green
@@ -1801,7 +1800,6 @@ Limau Rise
 Limau Terrace
 Lincoln Road
 Linden Drive
-Little India (Nel)
 Little Road
 Lloyd Road
 Lock Road
@@ -2411,7 +2409,6 @@ Prinsep Street
 Prome Road
 Puay Hee Avenue
 Pulau Tekong Besar
-Punggol (Nel)
 Punggol Barat Lane
 Punggol Central
 Punggol Drive
@@ -2785,7 +2782,6 @@ Stratton Place
 Stratton Road
 Stratton Walk
 Street 81
-Street Engineering Digital Hub (Front Entrance)
 Street Nicholas View
 Street Wilfred Road
 Sturdee Road

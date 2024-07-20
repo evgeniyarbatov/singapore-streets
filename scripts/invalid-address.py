@@ -10,7 +10,7 @@ def main():
       line = line.rstrip()
       
       starts_with_letter = re.match(r'^[A-Z]', line)
-      contains_punctuation = bool(re.search(r'[;,#]', line))
+      contains_punctuation = bool(re.search(r'[;,#()]', line))
       
       if (
         starts_with_letter and 
