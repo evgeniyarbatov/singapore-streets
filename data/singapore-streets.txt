@@ -40,8 +40,6 @@
 1 Orchid Club Rd #02-02/03, Driving Range unit (Carpark, A Orchid Country Club, 769162
 1 Park Rd
 1 Pasir Ris Central Street 3, White Sands
-1 Pasir Ris Central Street 3, White Sands Mall
-1 Pasir Ris Central Street 3, White Sands Shopping Centre
 1 Pasir Ris Close, E! Hub @Downtown East
 1 Pasir Ris Close, E!hub@Downtown East
 1 Raffles Place, One Raffles Place
@@ -221,7 +219,7 @@
 699B Hougang Street 52
 699C Hougang Street 52
 6A Napier Road, Gleneagles Hospital and Medical Centre
-7 Draycott Drive
+7 Temasek Boulevard #12-07
 70 Nanyang Drive
 70 Shenton Way, #01-05
 70 Woodlands Ave 7
@@ -362,6 +360,7 @@ Ang Mo Kio Street 65
 Ang Mo Kio Street 66
 Ang Mo Kio Street 82
 Ang Mo Kio avenue 3
+Angora Close
 Angsana Avenue
 Angsana Breeze
 Angullia Park
@@ -413,6 +412,7 @@ Bangkit Road
 Banyan Avenue
 Banyan Road
 Banyan View
+Barbary Walk
 Barker Road
 Bartley Road
 Bartley Road East
@@ -479,7 +479,6 @@ Belilios Road
 Belimbing Avenue
 Belmont Road
 Belvedere Close
-Bencoolen
 Bencoolen Street
 Bendemeer Road
 Beng Wan Road
@@ -719,6 +718,7 @@ Carmichael Road
 Carpenter Street
 Cashew Crescent
 Cashew Road
+Cashew Terrace
 Cassia Crescent
 Cassia Crescent #01-80
 Cassia Drive
@@ -746,7 +746,6 @@ Chancery Hill Walk
 Chancery Lane
 Chander Road
 Chang Charn Road
-Change Alley
 Changi Business Park Ave 1
 Changi Business Park Avenue 1
 Changi Business Park Central 1
@@ -820,6 +819,7 @@ Choa Chu Kang Road
 Choa Chu Kang Road Track 10
 Choa Chu Kang Street 51
 Choa Chu Kang Street 52
+Choa Chu Kang Street 53
 Choa Chu Kang Street 54
 Choa Chu Kang Street 62
 Choa Chu Kang Street 64
@@ -833,6 +833,7 @@ Chuan Close
 Chuan Drive
 Chuan Garden
 Chuan Hoe Avenue
+Chuan Link
 Chuan Place
 Chuan Terrace
 Chuan View
@@ -896,7 +897,6 @@ Cluny Park Road
 Cluny Road
 Colchester Grove
 Coldstream Avenue
-Coleman St
 Coleman Street
 College Avenue East
 College Avenue West
@@ -941,7 +941,6 @@ Cove Drive
 Cove Grove
 Cove Way
 Cox Terrace
-Craig Rd
 Craig Road
 Cranwell Road
 Crawford Lane
@@ -1211,6 +1210,7 @@ Geylang Lorong 38
 Geylang Rd
 Geylang Road
 Geylang Serai
+Ghim Moh Close
 Ghim Moh Link
 Ghim Moh Road
 Gibraltar Crescent
@@ -1250,6 +1250,7 @@ Greenleaf Place
 Greenleaf Rise
 Greenleaf Road
 Greenleaf View
+Greenleaf Walk
 Greenmead Avenue
 Greenpark Avenue
 Greenridge Crescent
@@ -1261,6 +1262,10 @@ Greenwood Grove
 Greenwood Place
 Greenwood Terrace
 Greenwood Walk
+Grove Avenue
+Grove Crescent
+Grove Drive
+Grove Lane
 Guan Chuan Street
 Guillemard Close
 Guillemard Crescent
@@ -1284,6 +1289,7 @@ Gunner Lane
 Guok Avenue
 Gymkhana Avenue
 Haig Avenue
+Haig Lane
 Haig Road
 Haji Lane
 Halifax Road
@@ -1354,8 +1360,13 @@ Holland Avenue
 Holland Close
 Holland Drive
 Holland Green
+Holland Grove Avenue
+Holland Grove Drive
+Holland Grove Lane
 Holland Grove Road
+Holland Grove Terrace
 Holland Grove View
+Holland Grove Walk
 Holland Heights
 Holland Hill
 Holland Link
@@ -1440,6 +1451,7 @@ Irrawaddy Road
 Irrawaddy Road #01-14 Mount Elizabeth Novena Hospital
 Irving Place
 Irving Place #07-04
+Irving Place, #08-06
 Irving Point
 Irving Road
 Irwell Hill
@@ -1510,6 +1522,8 @@ Jalan Buloh Perindu
 Jalan Bunga Rampai
 Jalan Buroh
 Jalan Cendera
+Jalan Chegar
+Jalan Chempah
 Jalan Chempaka Kuning
 Jalan Chempaka Puteh
 Jalan Chempedak
@@ -1578,6 +1592,8 @@ Jalan Insaf
 Jalan Intan
 Jalan Ishak
 Jalan Ismail
+Jalan Isnin
+Jalan Istimewa
 Jalan Jamal
 Jalan Jambu Ayer
 Jalan Jambu Batu
@@ -1596,6 +1612,7 @@ Jalan Kayu
 Jalan Kebaya
 Jalan Kechot
 Jalan Kechubong
+Jalan Kelabu Asap
 Jalan Kelawar
 Jalan Keli
 Jalan Keluli
@@ -1623,8 +1640,10 @@ Jalan Kolam Ayer
 Jalan Korban
 Jalan Krian
 Jalan Kuak
+Jalan Kuala
 Jalan Kubor
 Jalan Kukoh
+Jalan Kuning
 Jalan Kuras
 Jalan Kurnia
 Jalan Labu Ayer
@@ -1743,6 +1762,7 @@ Jalan Piring
 Jalan Pisang
 Jalan Punai
 Jalan Puteh Jerneh
+Jalan Rabu
 Jalan Rahmat
 Jalan Raja Udang
 Jalan Rajah
@@ -1759,6 +1779,7 @@ Jalan Rindu
 Jalan Rukam
 Jalan Rumah Tinggi
 Jalan Rumbia
+Jalan Rumia
 Jalan Rupawan
 Jalan Sahabat
 Jalan Sajak
@@ -1810,6 +1831,7 @@ Jalan Straits View 5
 Jalan Straits View 6
 Jalan Stulang Darat
 Jalan Stulang Laut
+Jalan Stulang Laut 2
 Jalan Suasa
 Jalan Suka
 Jalan Sukachita
@@ -1839,6 +1861,7 @@ Jalan Telipok
 Jalan Tembusu
 Jalan Tempua
 Jalan Tenaga
+Jalan Tenang
 Jalan Tengku Azizah
 Jalan Tengku Petrie 1
 Jalan Tengku Puteri
@@ -1912,6 +1935,7 @@ Joo Koon Way
 Joo Seng Road
 Joon Hiang Road
 Joon Koon Circle
+Jubilee Road
 Jupiter Rd
 Jupiter Road
 Jurong Central 3
@@ -2092,6 +2116,7 @@ Lakepoint Drive
 Lakeside Drive
 Lambeth Walk
 Lange Road
+Lantana Avenue
 Larkhill Road
 Lavender Street
 Lebuh Laksamana
@@ -2133,6 +2158,7 @@ Li Hwan Close
 Li Hwan Drive
 Li Hwan Place
 Li Hwan Terrace
+Li Hwan View
 Li Hwan Walk
 Li Po Avenue
 Liang Seah Street
@@ -2256,6 +2282,7 @@ Lorong Chuan
 Lorong G Telok Kurau
 Lorong Gambir
 Lorong H Telok Kurau
+Lorong Halus
 Lorong How Sun
 Lorong J Telok Kurau
 Lorong K Telok Kurau
@@ -2309,10 +2336,13 @@ Loyang Way 4
 Ludlow Place
 Lutheran Road
 Luxus Hill Avenue
+Luxus Hill Drive
+Luxus Hill View
 Lynwood Grove
 MacKenzie Road
 MacPherson Lane
 MacPherson Road
+MacPherson Walk
 MacTaggart Road
 Macalister Road
 Mackenzie Road
@@ -2371,6 +2401,7 @@ Marine Terrace #01-108
 Marine Vista
 Maritime Square
 Market Street
+Marlene Avenue
 Marne Road
 Marsiling Crescent
 Marsiling Drive
@@ -2387,6 +2418,7 @@ Martin Road
 Maryland Drive
 Marymount Lane
 Marymount Road
+Marymount Terrace
 Mattar Road
 Maude Road
 Maxwell Road
@@ -2409,6 +2441,7 @@ Media Circle
 Media Close
 Media Link
 Medical Drive
+Medway Drive
 Mei Hwan Crescent
 Mei Hwan Drive
 Mei Hwan Road
@@ -2447,9 +2480,14 @@ Ming Teck Park
 Mistri Road
 Moh Guan Terrace
 Mohamed Sultan Road
+Monk&apos;s Hill Road
 Montreal Drive
 Montreal Link
 Montreal Road
+Moonbeam Drive
+Moonbeam Terrace
+Moonbeam View
+Moonbeam Walk
 Moonstone Lane
 Moreton Close
 Morley Road
@@ -2468,10 +2506,15 @@ Mount Pleasant Drive
 Mount Pleasant Road
 Mount Rosie Road
 Mount Rosie Terrace
+Mount Sinai Avenue
+Mount Sinai Crescent
 Mount Sinai Drive
 Mount Sinai Lane
+Mount Sinai Plain
 Mount Sinai Rise
 Mount Sinai Road
+Mount Sinai View
+Mount Sinai Walk
 Mount Sophia
 Mount Vernon Road
 Mountbatten Road
@@ -2481,9 +2524,11 @@ Mulberry Avenue
 Munshi Abdullah Avenue
 Muscat Street
 Muswell Hill
+Muthuraman Chetty Road
 Nallur Road
 Namly Avenue
 Namly Crescent
+Namly Hill
 Namly Place
 Nankin Street
 Nanson Road
@@ -2544,6 +2589,7 @@ North Bridge Road, #01-09, Raffles Hospital
 North Bridge Road, Odeon Towers
 North Bridge Road. #03-07. Raffles City Shopping Centre.
 North Buona Vista Drive
+North Buona Vista Link
 North Buona Vista Road
 North Canal Road
 North Coast Drive
@@ -2577,6 +2623,7 @@ One Raffles Link
 One Tree Hill
 One-North Gateway
 One-north Gateway
+Ontario Avenue
 Opal Crescent
 Ophir Road
 Orange Grove Road
@@ -2627,6 +2674,7 @@ Pandan Crescent
 Pandan Gardens
 Pandan Loop
 Pandan Road
+Pandan Valley
 Pang Seng Road
 Paradise Island
 Paragon
@@ -2645,19 +2693,18 @@ Pasir Panjang Road Mapletree Business City #02-11
 Pasir Ris Avenue
 Pasir Ris Central
 Pasir Ris Central Street 3
+Pasir Ris Central Street 3, White Sands Mall #01-18/19/20
 Pasir Ris Close
-Pasir Ris Coast Industrial Park 1
-Pasir Ris Coast Industrial Park 3
 Pasir Ris Dr 6
 Pasir Ris Drive 1
 Pasir Ris Drive 10
+Pasir Ris Drive 12
 Pasir Ris Drive 2
 Pasir Ris Drive 3
 Pasir Ris Drive 4
 Pasir Ris Drive 6
 Pasir Ris Drive 8
 Pasir Ris Farmway 1
-Pasir Ris Farmway 3
 Pasir Ris Green
 Pasir Ris Green Carkpark C
 Pasir Ris Grove
@@ -2726,6 +2773,7 @@ Penjuru Lane
 Penjuru Place
 Penjuru Road
 Penjuru Walk
+Penshurst Place
 Pepys Road
 Perak Road
 Pereira Road
@@ -2738,6 +2786,7 @@ Petir Road, #B1 – 28/29/30 Hillion Mall
 Pheng Geck Avenue
 Phillip Street
 Phoenix Avenue
+Phoenix Road
 Pickering Street
 Pillai Road
 Pine Close
@@ -2767,6 +2816,10 @@ Plymouth Avenue
 Poh Huat Drive
 Poh Huat Road
 Poh Huat Road West
+Pollen Crescent
+Pollen Place
+Pollen View
+Pollen Walk
 Ponggol Seventeenth Avenue
 Ponggol Twenty-Fourth Avenue
 Poole Road
@@ -2787,6 +2840,7 @@ Prome Road
 Puay Hee Avenue
 Pulau Tekong Besar
 Punggol (NEL)
+Punggol Barat Lane
 Punggol Central
 Punggol Drive
 Punggol Drivel
@@ -2824,7 +2878,6 @@ Raffles Exchange
 Raffles Institution Lane
 Raffles Link
 Raffles Place
-Raffles Place #01-02B Singapore Land Tower
 Raffles Place #01-15/16 Republic Plaza
 Raffles Place, #19-16, Singapore Land Tower
 Raffles Quay
@@ -2884,6 +2937,7 @@ Rose Lane
 Rosewood Drive
 Ross Avenue
 Rosyth Road
+Rowell Rd
 Rowell Road
 Royal Road
 Russels Road
@@ -2896,6 +2950,7 @@ Saint Anne&apos;s Wood
 Saint Francis Road
 Saint George&apos;s Lane
 Saint George&apos;s Road
+Saint Helier&apos;s Avenue
 Saint John&apos;s Road
 Saint Margaret&apos;s Road
 Saint Martin&apos;s Drive
@@ -2912,7 +2967,6 @@ Sandilands Road
 Sandwich Road
 Sandy Island
 Sandy Lane
-Sang Nila Utama Road (U/C)
 Saraca Drive
 Saraca Hill
 Saraca Place
@@ -2947,11 +3001,16 @@ Seletar Aerospace Ave
 Seletar Aerospace Avenue
 Seletar Aerospace Crescent
 Seletar Aerospace Heights
+Seletar Aerospace Lane
+Seletar Aerospace Link
 Seletar Aerospace Rise
 Seletar Aerospace Road 1
 Seletar Aerospace View
 Seletar Club Road
+Seletar Green Avenue
 Seletar Green View
+Seletar Green Walk
+Seletar Hills Drive
 Seletar Rd, Greenwich V
 Seletar Road
 Seletar Terrace
@@ -3010,6 +3069,11 @@ Serangoon Avenue 4
 Serangoon Central
 Serangoon Central Drive
 Serangoon Central, Isetan-Nex Mall
+Serangoon Garden Close
+Serangoon Garden Drive
+Serangoon Garden Place
+Serangoon Garden Rise
+Serangoon Garden Terrace
 Serangoon Garden Way
 Serangoon Lane
 Serangoon North Avenue
@@ -3027,6 +3091,7 @@ Serangoon Terrace
 Seraya Ave
 Seraya Avenue
 Seraya Crescent
+Seraya Lane
 Seraya Road
 Serenade Walk
 Serene Centre #02-03
@@ -3040,6 +3105,7 @@ Shelford Road
 Shenton Way
 Shenton Way Terminal
 Shenton Way, #01-02
+Shepherd&apos;s Drive
 Short Street
 Shrewsbury Road
 Shunfu Road
@@ -3109,6 +3175,7 @@ Sirat Place
 Sirat Road
 Sireh Place
 Sixth Avenue
+Sixth Crescent
 Sixth Lok Yang Road
 Slim Barracks Rise
 Smith Street
@@ -3132,7 +3199,6 @@ Soo Chow Way
 Soon Lee Road
 Soon Lee Street
 Sophia Road
-Sophia Road Peace Centre
 Sorby Adams Drive
 South Bedok Road
 South Bridge Road
@@ -3232,6 +3298,7 @@ Sunsate Drive
 Sunset Avenue
 Sunset Crescent
 Sunset Drive
+Sunset Grove
 Sunset Heights
 Sunset Place
 Sunset Square
@@ -3269,11 +3336,15 @@ Tagore Lane
 Tah Ching Road
 Tai Gin Road
 Tai Hwan Avenue
+Tai Hwan Close
 Tai Hwan Crescent
 Tai Hwan Drive
 Tai Hwan Grove
 Tai Hwan Heights
+Tai Hwan Lane
+Tai Hwan Place
 Tai Hwan Terrace
+Tai Hwan Walk
 Tai Keng Gardens
 Tai Keng Lane
 Tai Seng Avenue
@@ -3459,6 +3530,7 @@ Thomson Grove
 Thomson Heights
 Thomson Hill
 Thomson Lane
+Thomson Ridge
 Thomson Road
 Thomson View
 Thomson Walk
@@ -3479,6 +3551,7 @@ Toa Payoh Lorong 7
 Toa Payoh Lorong 8
 Toa Payoh North
 Toa Payoh Rise
+Toa Payoh West
 Toh Avenue
 Toh Close
 Toh Crescent
@@ -3486,6 +3559,7 @@ Toh Guan Road
 Toh Guan Road East
 Toh Heights
 Toh Tuck Avenue
+Toh Tuck Close
 Toh Tuck Crescent
 Toh Tuck Drive
 Toh Tuck Link
@@ -3661,6 +3735,7 @@ Upper Toh Tuck Terrace
 Upper Weld Road
 Upper Wilkie Rd
 Upper Wilkie Road
+Valley Road
 Vanda Ave
 Vanda Crescent
 Vanda Drive
@@ -3760,6 +3835,7 @@ Wilkie Road #01-19/20 Wilkie Edge
 Wilkie Terrace
 Willow Avenue
 Wilmonar Ave
+Wilmonar Avenue
 Wilton Close
 Wilton Gardens
 Winchester Road
