@@ -2,9 +2,14 @@ import sys
 import re
 
 def format(text):
+  text = text.title()
   text = re.sub(r"&apos;", "'", text)
   text = re.sub(r"’", "'", text)
-  text = text.title()
+  text = re.sub(r"Rd\b", "Road", text)
+  text = re.sub(r"St\b", "Street", text)
+  text = re.sub(r"Jln\b", "Jalan", text)
+  text = re.sub(r"Ave\b", "Avenue", text)
+  text = re.sub(r"Blvd\b", "Boulevard", text)
   return text
 
 def main():
