@@ -9,7 +9,13 @@ def main():
     for line in sys.stdin:
       line = line.rstrip()
       
-      if re.match(r'^[A-Z]', line):
+      starts_with_letter = re.match(r'^[A-Z]', line)
+      contains_punctuation = bool(re.search(r'[;,#]', line))
+      
+      if (
+        starts_with_letter and 
+        not contains_punctuation
+      ):
         print(line)
       else:
         f.write(line + '\n')

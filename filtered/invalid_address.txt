@@ -1,6 +1,6 @@
 
-#01-07 - #01-08 FairPrice
-#01-110A - #02-200 FairPrice
+#01-07 - #01-08 Fairprice
+#01-110A - #02-200 Fairprice
 #01-209
 #01-32 Anson Rd, International Plaza
 #01-87B
@@ -8,17 +8,17 @@
 #B1-26
 #B1-32 - Level 2
 #B1-K10
-#B2-02 OG, Orchard Point
+#B2-02 Og, Orchard Point
 1 Bukit Batok Central Link, West Mall
 1 Ceate Way
 1 Everton Park
 1 Expo Dr, Foyer 1, Max Atria
-1 Expo Drive, 2nd Foyer Admin Building
+1 Expo Drive, 2Nd Foyer Admin Building
 1 Fifth Avenue, Guthrie House
 1 Fusionopolis Way
 1 George Street
 1 Harbourfront Walk Shop, Vivo City
-1 Harbourfront Walk, VivoCity
+1 Harbourfront Walk, Vivocity
 1 Harbourfront Walk, Vivocity
 1 Hougang Street 91, Hougang 1
 1 Jalan Anak Bukit, Bukit Timah Plaza
@@ -28,20 +28,20 @@
 1 Jurong West Central 2, Jurong Point
 1 Jurong West Central 2, Jurong Point Shopping Mall
 1 Kim Seng Promenade, Great World City
-1 Maju Ave, MyVillage
-1 Maju Avenue, myVillage @ Serangoon Garden Way
+1 Maju Ave, Myvillage
+1 Maju Avenue, Myvillage @ Serangoon Garden Way
 1 Mandalay Road
-1 Maritime Square, HarbourFront Centre
+1 Maritime Square, Harbourfront Centre
 1 Maritime Square, Harbourfront Centre
 1 Maritime Square, Singapore Cruise Centre
 1 North Bridge Rd
 1 Northpoint Drive, Northpoint City
 1 Northpoint Drive, Northpoint City South Wing
-1 Orchid Club Rd #02-02/03, Driving Range unit (Carpark, A Orchid Country Club, 769162
+1 Orchid Club Rd #02-02/03, Driving Range Unit (Carpark, A Orchid Country Club, 769162
 1 Park Rd
 1 Pasir Ris Central Street 3, White Sands
 1 Pasir Ris Close, E! Hub @Downtown East
-1 Pasir Ris Close, E!hub@Downtown East
+1 Pasir Ris Close, E!Hub@Downtown East
 1 Raffles Place, One Raffles Place
 1 Seletar Rd, Greenwich V
 1 Sengkang Square
@@ -51,7 +51,7 @@
 1 Sunview Road #02-18
 1 Wallich St Guoco Tower
 1 Woodlands Square,
-1 Woodlands Square, #02 - 33 &amp; #02 - K02
+1 Woodlands Square, #02 - 33 &Amp; #02 - K02
 1 Woodlands Square, Causeway Point
 10 Airport Blvd, Changi Airport Terminal 4
 10 Anson Road
@@ -61,7 +61,7 @@
 100 Bukit Timah Road
 101 Thomson Road, United Square
 101 Thomson Road, United Square Shopping Mall
-101 Upper Cross Street, People&apos;s Park Centre
+101 Upper Cross Street, People'S Park Centre
 1013 Geylang East Ave 3
 1028 Upper Serangoon Rd
 107
@@ -91,37 +91,37 @@
 181 Orchard Road, Orchard Central
 182 Cecil Street, Frasers Tower
 19 Burn Rd
-19 Kampongo Bahru, level 1
+19 Kampongo Bahru, Level 1
 19 Leedon Heights
 190 Middle Road, Fortune Centre
 2
 2 Bayfront Avenue, Galleria Level, Marina Bay Sands
-2 Bayfront Avenue, The Shoppes at Marina Bay Sands
+2 Bayfront Avenue, The Shoppes At Marina Bay Sands
 2 Choa Chu Kang Loop, Keart Hong Community Club
 2 Cox Terrace Fort Canning Park
-2 Jurong East Street 21,  IMM
-2 Jurong East Street 21, IMM
-2 Jurong East Street 21, IMM Building
-2 Orchard Link, *SCAPE
-2 Orchard Turn, ION Orchard
+2 Jurong East Street 21,  Imm
+2 Jurong East Street 21, Imm
+2 Jurong East Street 21, Imm Building
+2 Orchard Link, *Scape
+2 Orchard Turn, Ion Orchard
 2 Orchard Turn, Ion Orchard
 2 Tampines Central 5, Century Square
 2 Tampines Central 5, Century Square S.C.
-2 kensington park drive
+2 Kensington Park Drive
 20 Upper Circular Road
 200 Victoria St, Bugis Junction
 200 Victoria Street, Bugis Junction
-201 Yishun Avenue 2, Khatib MRT Station
+201 Yishun Avenue 2, Khatib Mrt Station
 208 New Upper Changi Road
 21 Choa Chu Kang Ave 4, Lot One
 21 Choa Chu Kang Avenue 4, Lot One
 21 Choa Chu Kang North 6, Yew Tee Point
-21 Choa Chu kang Ave 4, Lot 1 Shoppers&apos; Mall,
+21 Choa Chu Kang Ave 4, Lot 1 Shoppers' Mall,
 220 Turf Club Road
-23 Serangoon Central, NEX
-238 Orchard Blvd, ION Orchard
+23 Serangoon Central, Nex
+238 Orchard Blvd, Ion Orchard
 238 Thomson Rd, Novena Square
-24, 26 &amp; 28 Dunlop Street
+24, 26 &Amp; 28 Dunlop Street
 252 North Bridge Rd, Raffles City Shopping Centre
 252 North Bridge Road
 252 North Bridge Road, Raffles City Shopping Centre
@@ -172,34 +172,34 @@
 435 Orchard Road
 435 Orchard Road, Wisma Atria
 43A, 43B, 43C Jalan Besar
-45 Maxwell Road, URA Centre
+45 Maxwell Road, Ura Centre
 456
 460 Alexandra Rd
-460 Alexandra Rd, PSA Building (Alexandra Retail Centre
-480 Toa Payoh Lorong 6, HDB Hub
+460 Alexandra Rd, Psa Building (Alexandra Retail Centre
+480 Toa Payoh Lorong 6, Hdb Hub
 5 Changi Business Park Central 1, Changi City Point
 5 Draycott Drive
 5 Stadium Walk, Leisure Park Kallang
 5 Straits View, Marina One (West Tower),
 5 Straits View, Marina One, The Heart
 5 Wallich Street, Guoco Tower
-50 Jurong Gateway Rd, JEM
+50 Jurong Gateway Rd, Jem
 50 Jurong Gateway Road, Jem
 50 Nanyang Avenue, Nanyang Technological University
 51 Hougang Ave 9
 530 Lorong 6, Toa Payoh Hub
 535 Clementi Road, Ngee Ann Polytechnic
 535 Upper Changi Road
-55 kim chuan drive
+55 Kim Chuan Drive
 6 Eu Tong Sen Street, Clarke Quay Central
 6 Raffles Boulevard, Marina Square
-6 Shenton Way, OUE Downtown Gallery
+6 Shenton Way, Oue Downtown Gallery
 60 Airport Boulevard, Singapore Changi Airport Terminal 2  Departure/ Transit Lounge South, Transfer F, Level 2
 60 Nanyang Crescent
 60 Paya Lebar Rd, Paya Lebar Square
 604 Sembawang Rd, Sembawang Shopping Centre
 604 Sembawang Road, Sembawang Shopping Centre
-61A/B &amp; 63A/B Pagoda Street
+61A/B &Amp; 63A/B Pagoda Street
 62 Nanyang Crescent
 62 Nanyang Drive
 623 Elias Road
@@ -209,7 +209,7 @@
 65 Airport Boulevard, Singapore Changi Airport Terminal 3 Departure/ Transit Lounge South
 65 Ubi Road
 66 Nanyang Crescent
-67, Ubi road 1, Oxley Biz Hub 1, #07-08
+67, Ubi Road 1, Oxley Biz Hub 1, #07-08
 68 Orchard Rd
 68 Orchard Road, Plaza Singapore
 68 Orchard Road, Plaza Singapura
@@ -218,14 +218,14 @@
 699A Hougang Street 52
 699B Hougang Street 52
 699C Hougang Street 52
-6A Napier Road, Gleneagles Hospital and Medical Centre
+6A Napier Road, Gleneagles Hospital And Medical Centre
 7 Temasek Boulevard #12-07
 70 Nanyang Drive
 70 Shenton Way, #01-05
 70 Woodlands Ave 7
-70 Woodlands Ave 7, Admiralty MRT Station
+70 Woodlands Ave 7, Admiralty Mrt Station
 73 Lorong 4 Toa Payoh, Singapore 310073
-769, 771, 773 &amp; 775 North Bridge Road
+769, 771, 773 &Amp; 775 North Bridge Road
 78 Airport Boulevard
 78 Airport Boulevard, Jewel Changi Airport
 8 Cross Street, Manulife Tower
@@ -234,7 +234,7 @@
 80 Airport Boulevard Changi Airport Terminal 1 Departure / Transit Lounge East
 80 Airport Boulevard, Departure / Transit Lounge Central, Singapore Changi Airport Terminal 2
 80 Airport Boulevard, Singapore Changi Airport Terminal 1,  Departure/Transit Lounge West
-80 Bencoolen Street, NAFA (Campus 1)
+80 Bencoolen Street, Nafa (Campus 1)
 80 Marine Parade Rd, Parkway Parade
 80 Marine Parade Road, Parkway Parade
 83 Punggol Central, Waterway Point
@@ -246,20 +246,176 @@
 9 Taman Serasi
 90 Hougang Ave 10, Hougang Mall
 90 Hougang Avenue 10, Hougang Mall
-90 Stamford Road, Singapore Management University School of Economics/Social Sciences
+90 Stamford Road, Singapore Management University School Of Economics/Social Sciences
 930 Yishun Ave 2, Northpoint City North Wing
 930 Yishun Avenue 2, Northpoint City North Wing
 94 Nanyang Crescent
-ah soo garden
-bukit timah road
-circuilar road
-jalan kubor
-jln afifi
-kalidassa avenue
-newton Road
-nex
-no 1 queensway shopping centre
-one-north Crescent
-serangoon Avenue 3
-sunbird rd
+Airport Blvd, #01-K207 Jewel Changi Airport Kiosk
+Airport Boulevard, #02-90, Departure Hall Level 2,
+Airport Cargo Road, Gate C7, Changi Airfreight Centre
+Albert Street, #12-11/12 Og Albert Complex
+Amoy Street, Far East Square
+Ang Mo Kio Avenue 10, #01-1974
+Ang Mo Kio Industrial Park 2A, #04-06 Amk Techlink
+Anson Road #31-06
+Anson Road, #01-02
+Arrival Hall North, Basement 2 South (In Front Of Foodcourt), Departure Transit South Central, Departure Check-In Hall South, Departure Check-In Hall North
+Basement North, Arrival Hall South, Arrival Hall North, Departure/Check-In Hall North, Departure/Transit Lounge South, Departure/Transit North
+Bayfront Ave, #B2-20/20A
+Bedok Reservoir Road #01-3053
+Bedok Ria Crescent #01 - 28 Stratford Court
+Blk 178, Toa Payoh Central
+Blk 258, Pasir Ris Street 21, #01-08 Loyang Point
+Blk 445 Fajar Road, Fajar Shopping Centre
+Blk 475 Choa Chu Kang Ave 3, Sunshine Placex
+Blk 490 Lor 6 Toa Payoh, Hdb Hub
+Blk 524A Jelapang Road, Greenridge Shopping Centre
+Blk 548 Woodlands Drive 44, Vista Point
+Blk 676 Woodlands Drive 71, Kampung Admiralty
+Blk 716, Yishun Street 71, #01-254
+Blk 768 Woodlands Ave 6, Woodlands Mart
+Blk 883 Woodlands St 82, Woodlands North Plaza
+Boon Tiong Road #01-08
+Boon Tiong Road #01-09
+Burn Road, Suite 08-09 Trivex
+Buroh Street #01-05/06
+Cassia Crescent #01-80
+Changi Business Park Central 1, #01-41
+Cheong Chin Nam Road;Upper Bukit Timah Road
+Chulia Street #01-01A/01B Ocbc Centre East
+Clemenceau Ave #01-31 Ue Square
+Clementi Road, Singapore Institute Of Management, Block C Unit C.1.07
+Collyer Quay, #B1-07 Ocean Financial Centre
+Departure / Check-In Hall South, #026-049 Terminal 2 Singapore Changi Airport
+Departure / Check-In Hall,Terminal 4 Singapore Changi Airport
+Dover Road, Food Court 5,
+East Coast Road #03-09
+East Coast Road #03-14
+Everton Park, #01-33
+Fullerton Road #01-04 One Fullerton
+Gb Point, Kallang Bahru
+Gateway Drive, #02-04/04A
+George Street #01-02
+Grange Road, #01-K1 Cathay Cineleisure Orchard
+Guillemard Road,Level 3 Wing Fong Building
+Handy Road The Cathay #01-05
+Harbourfront Walk #03-05 (Lobby F) Vivocity
+Harbourfront Walk, #02-03/04 Vivo City
+Harbourfront Walk, #02-234, Vivocity
+Hillview Terrace #01-06
+Holland Village Way #03-06
+Hougang Avenue 7 #01-787
+Hougang Street 21 #03-207
+Imm Building 2, Jurong East Street 21
+Irrawaddy Rd, #20-01 Royal Square Medical Centre Royal Square @ Novena
+Irrawaddy Road #01-14 Mount Elizabeth Novena Hospital
+Irving Place #07-04
+Irving Place, #08-06
+Jalan Anak Bukit, #B2-06A.
+Jalan Anak Bukit, Bukit Timah Plaza
+Jalan Serene #01-04
+Jalan Serene #02-09
+Jalan Siapstrictly Speaking, The Signs Say So, But Really..
+Jln Tan Tock Seng, #01-16/17 Tan Tock Seng Hospital,
+Jurong East Street 21 #02-08 Ng Teng Fong General Hospital Tower A
+Jurong Gateway Road, #03-48. Jem Shopping Mall.
+Jurong West Central 2, Jp1, Jurong Point Shopping Centre
+Jurong West Central 3 #03-52/52A Jurong Point
+Jurong West Street 61, Pioneer Mall
+Kallang Way #01-03/04/05/06
+Kallang Avenue, Aperia
+Kampung Telok Kabong, Kampung Pasir Puteh
+Killiney Road, Orchard Grand Court
+Koek Road #03-21
+Lor 6 Toa Payoh, Safra
+Lorong 6 Toa Payoh #01-14, Singapore
+Lower Kent Ridge Road, National University Hospital
+Mandai Lake Road, River Safari
+Marina Blvd, #B2-10 Marina Bay Link Mall
+Marina Boulevard #B2-38-36
+Marine Crescent #01-49
+Marine Parade Rd, Isetan, Parkway Parade
+Marine Parade Road #01-10A/B Parkway Parade
+Marine Parade Road, #02-45, Parkway Parade
+Marine Terrace #01-108
+Marsiling Ind Estate Road 5, #03-06A
+Millenia Walk #01-K7/K11/K12/K13
+Mosque Street;摩士街
+Neil Rd, #01-06
+Neil Rd, #01-07
+New Bridge Rd, #02-55 Chinatown Point
+New Upper Changi Road Bedok Mall,
+North Bridge Road, #01-09, Raffles Hospital
+North Bridge Road, Odeon Towers
+North Bridge Road. #03-07. Raffles City Shopping Centre.
+Orchard Rd #B1-69 Lucky Plaza
+Orchard Rd,
+Orchard Rd, Isetan Orchard-Wisma Atria
+Orchard Rd, Tower A Level 4, Takashimaya Dept
+Orchard Road, #01-26 Orchard Central
+Orchard Road, #01-45/46, Forum The Shopping Mall
+Orchard Road, #B1-12/13
+Orchard Road, 313@Somerset #02-38/39
+Orchard Road, Centrepoint
+Orchard Road, Isetan, Shaw Centre
+Orchard Turn, #B1-12 Ion Orchard
+Pasir Panjang Road Mapletree Business City #02-11
+Pasir Ris Central Street 3, White Sands Mall #01-18/19/20
+Paya Lebar Link #05-05 Plq 2
+Petir Road, #B1 – 28/29/30 Hillion Mall
+Punngol Drive, Oasis Terraces, #02-35
+Raffles Boulevard #03-217/218 Marina Square
+Raffles Boulevard, #01-106 Millenia Walk
+Raffles Place #01-15/16 Republic Plaza
+Raffles Place, #19-16, Singapore Land Tower
+Rivervale Cres, Rivervale Mall
+Robinson Road #01-02 City House
+Rochor Canal Road #02-85
+Seah Street;Beach Road
+Seletar Rd, Greenwich V
+Sengkang Square, Compass One
+Sentosa Gateway, Universal Studios Singapore
+Serangoon Central, Isetan-Nex Mall
+Serangoon Road;Dunlop Street
+Serene Centre #02-03
+Shenton Way, #01-02
+Silat Avenue, #01-40
+Simei Street 3, Level 1 Main Atrium, Changi General Hospital
+Sims Avenue, #05-03 Chancerlodge Complex
+Sims Drive #05-12B
+Sin Ming Road #01-05
+Smith Street #02-127 Chinatown Complex
+Stadium Place, #01-56, Kallang Wave Mall
+Students Walk, Ntu Canteen 2
+Sun Plaza, 30 Sembawang Drive,
+Tampines Ave 3, #01-09
+Tampines Central 5, #01-19, Century Square
+Tampines Central 5, #01-50,
+Tampines Mall, Tampines Central Rd, #02-01
+Tampines Walk, Our Tampines Hub #01-104,
+Tanjong Katong Road, #01-17/18/19
+Tannery Building, No 1 Tannery Road, #09-04
+Temasek Blvd, #02-603/604
+Temasek Boulevard #01-433 Suntec City Mall
+Temasek Boulevard #02-393/394 Suntec Convention Centre
+Temasek Boulevard, #02-613/614, Suntec City Mall
+Tras Street #01-05, 100 Am
+Ubi Road 1 #01-23
+Ubi Road 1 #05-28
+Ubi Road 1, Oxley Bizhub #10-55
+Universal Studio (Jurassic Outfitter), Festive Walk Level 2, Basement 1 Forum (Near Shops), Forum Level 1, Forum Basement 1, Near Waterfront Monorail Station
+Upper Cross Street, #01-38 Hong Lim Complex
+Upper Serangoon Road, #01-02 The Poiz Centre
+Upper Thomson Road #01-37A Thomson Plaza
+Venture Drive #02-17
+Vista Exchange Green, B1-21. The Star Vista.
+Wallich Street #01-08 Tanjong Pagar Centre
+Waterway Point, 83 Punggol Central
+West Coast Rd, #01-01
+Wilkie Road #01-19/20 Wilkie Edge
+Woodlands Avenue 2, #01-7/8/15
+Woodlands Drive 71, Kampung Admiralty #01-02,
+Woodlands Industrial Park E9 #01-01
+Yio Chu Kang Road #01-02
+Yishun Ave 2 #01-07/08 Northpoint
 公司65
