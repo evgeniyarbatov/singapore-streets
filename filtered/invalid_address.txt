@@ -277,6 +277,7 @@ Blk 768 Woodlands Avenue 6, Woodlands Mart
 Blk 883 Woodlands Street 82, Woodlands North Plaza
 Boon Tiong Road #01-08
 Boon Tiong Road #01-09
+Buangkok (Nel)
 Burn Road, Suite 08-09 Trivex
 Buroh Street #01-05/06
 Cassia Crescent #01-80
@@ -338,6 +339,7 @@ King&Apos;S Avenue
 King&Apos;S Drive
 King&Apos;S Road
 Koek Road #03-21
+Little India (Nel)
 Lor 6 Toa Payoh, Safra
 Lorong 6 Toa Payoh #01-14, Singapore
 Lower Kent Ridge Road, National University Hospital
@@ -379,6 +381,7 @@ Pearl&Apos;S Hill Road
 Pearl&Apos;S Hill Terrace
 Petir Road, #B1 – 28/29/30 Hillion Mall
 Prince George&Apos;S Park
+Punggol (Nel)
 Punngol Drive, Oasis Terraces, #02-35
 Queen&Apos;S Avenue
 Queen&Apos;S Close
@@ -391,6 +394,7 @@ Raffles Place, #19-16, Singapore Land Tower
 Rivervale Cres, Rivervale Mall
 Robinson Road #01-02 City House
 Rochor Canal Road #02-85
+Street Engineering Digital Hub (Front Entrance)
 Saint Andrew&Apos;S Road
 Saint Anne&Apos;S Wood
 Saint George&Apos;S Lane
