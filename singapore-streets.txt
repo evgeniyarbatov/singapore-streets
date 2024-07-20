@@ -703,7 +703,7 @@ Cuppage Terrace
 Cuscaden Road
 Cuscaden Walk
 Cypress Avenue
-D&apos;Almeida Street
+D'Almeida Street
 Dafne Street
 Dairy Farm Crescent
 Dairy Farm Heights
@@ -764,7 +764,7 @@ Draycott Park
 Dublin Road
 Duchess Avenue
 Duchess Road
-Duke&apos;s Road
+Duke's Road
 Dunbar Walk
 Dundee Road
 Dunearn Close
@@ -1289,10 +1289,10 @@ Jalan Dato Menteri 1/1
 Jalan Dato Mohd Salleh
 Jalan Dato Onn
 Jalan Dato Setia
-Jalan Dato&apos; Hj. Abdullah
-Jalan Dato&apos; Menteri
-Jalan Dato&apos; Menteri 1/1
-Jalan Dato&apos; Mohamad
+Jalan Dato' Hj. Abdullah
+Jalan Dato' Menteri
+Jalan Dato' Menteri 1/1
+Jalan Dato' Mohamad
 Jalan Datoh
 Jalan Daud
 Jalan Delima
@@ -1424,7 +1424,7 @@ Jalan Limu
 Jalan Lokam
 Jalan Loyang Besar
 Jalan Lumba Kuda
-Jalan Ma&apos;mor
+Jalan Ma'mor
 Jalan Mahmoodiah
 Jalan Malu Malu
 Jalan Malu-malu
@@ -1829,11 +1829,11 @@ Kim Tian Place
 Kim Tian Road
 Kim Yam Road
 King Albert Park
-King George&apos;s Avenue
-King George’s Avenue
-King&apos;s Avenue
-King&apos;s Drive
-King&apos;s Road
+King George's Avenue
+King George's Avenue
+King's Avenue
+King's Drive
+King's Road
 Kingsmead Road
 Kingswear Avenue
 Kinta Road
@@ -2228,7 +2228,7 @@ Ming Teck Park
 Mistri Road
 Moh Guan Terrace
 Mohamed Sultan Road
-Monk&apos;s Hill Road
+Monk's Hill Road
 Montreal Drive
 Montreal Link
 Montreal Road
@@ -2496,9 +2496,9 @@ Peakville Grove
 Peakville Walk
 Pearl Bank
 Pearl Island
-Pearl&apos;s Hill City Park
-Pearl&apos;s Hill Road
-Pearl&apos;s Hill Terrace
+Pearl's Hill City Park
+Pearl's Hill Road
+Pearl's Hill Terrace
 Peck Hay Road
 Peck Seah Street
 Peel Road
@@ -2579,7 +2579,7 @@ Potong Pasir Avenue 2
 Potong Pasir Avenue 3
 Preston Road
 Prince Charles Crescent
-Prince George&apos;s Park
+Prince George's Park
 Prince Road
 Princess of Wales Road
 Prinsep Link
@@ -2608,10 +2608,10 @@ Puteri Harbour
 Quality Road
 Queen Astrid Park
 Queen Street
-Queen&apos;s Avenue
-Queen&apos;s Close
-Queen&apos;s Crescent
-Queen&apos;s Road
+Queen's Avenue
+Queen's Close
+Queen's Crescent
+Queen's Road
 Queensway
 Race Course Lane
 Race Course Road
@@ -2693,17 +2693,17 @@ Rutland Road
 ST Engineering Digital Hub (Front Entrance)
 Sago Lane
 Sago Street
-Saint Andrew&apos;s Road
-Saint Anne&apos;s Wood
+Saint Andrew's Road
+Saint Anne's Wood
 Saint Francis Road
-Saint George&apos;s Lane
-Saint George&apos;s Road
-Saint Helier&apos;s Avenue
-Saint John&apos;s Road
-Saint Margaret&apos;s Road
-Saint Martin&apos;s Drive
-Saint Michael&apos;s Road
-Saint Patrick&apos;s Road
+Saint George's Lane
+Saint George's Road
+Saint Helier's Avenue
+Saint John's Road
+Saint Margaret's Road
+Saint Martin's Drive
+Saint Michael's Road
+Saint Patrick's Road
 Saint Thomas Walk
 Sakra Avenue
 Sakra Road
@@ -2853,7 +2853,7 @@ Shelford Road
 Shenton Way
 Shenton Way Terminal
 Shenton Way, #01-02
-Shepherd&apos;s Drive
+Shepherd's Drive
 Short Street
 Shrewsbury Road
 Shunfu Road
@@ -2982,10 +2982,10 @@ Springwood Height
 Springwood Terrace
 Springwood Walk
 Sprinsgide Green
-St Andrew&apos;s Road
-St John&apos;s Road
+St Andrew's Road
+St John's Road
 St Nicholas View
-St Patrick&apos;s Road
+St Patrick's Road
 St Wilfred Road
 Stadium Boulevard
 Stadium Drive

@@ -2,5 +2,6 @@
 
 process:
 	cat data/singapore-streets.txt | \
-	python3 scripts/invalid-addresses.py \
+	python3 scripts/invalid-address.py | \
+	python3 scripts/format-address.py \
 	> singapore-streets.txt

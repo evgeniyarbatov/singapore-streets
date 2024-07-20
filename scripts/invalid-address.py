@@ -3,7 +3,7 @@ import re
 
 def main():
   with open(
-    "filtered/invalid_addresses.txt", 
+    "filtered/invalid_address.txt", 
     "w",
   ) as f:
     for line in sys.stdin:
