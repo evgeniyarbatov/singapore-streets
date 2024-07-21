@@ -466,6 +466,9 @@ Choa Chu Kang Avenue 7
 Choa Chu Kang Central
 Choa Chu Kang Drive
 Choa Chu Kang Loop
+Choa Chu Kang North 5
+Choa Chu Kang North 6
+Choa Chu Kang North 7
 Choa Chu Kang Park Connector
 Choa Chu Kang Road
 Choa Chu Kang Road Track 10
@@ -661,6 +664,7 @@ Dyson Road
 East Coast Avenue
 East Coast Drive
 East Coast Park Service Road
+East Coast Parkway
 East Coast Road
 East Sussex Lane
 Eastwood Place
@@ -731,6 +735,7 @@ Faber Walk
 Fairway Drive
 Fajar Road
 Falkland Road
+Far East Plaza
 Farleigh Avenue
 Farrer Drive
 Farrer Park Road
@@ -2029,6 +2034,7 @@ No.336 Smith Street
 Norfolk Road
 Normanton Park
 Norris Road
+North Boat Quay
 North Bridge Road
 North Bridge Road Funan
 North Bridge Road Raffles City
@@ -2066,6 +2072,7 @@ Onan Road
 One Raffles Link
 One Tree Hill
 One-North Crescent
+One-North Gateway
 Ontario Avenue
 Opal Crescent
 Ophir Road
@@ -2240,6 +2247,7 @@ Puay Hee Avenue
 Punggol Barat Lane
 Punggol Central
 Punggol Drive
+Punggol East
 Punggol Field Walk
 Punggol Park Connector
 Punggol Place
@@ -2365,6 +2373,7 @@ Seletar Green Walk
 Seletar Hills Drive
 Seletar Road
 Seletar Terrace
+Seletar West Farmway 5
 Sembawang Close
 Sembawang Crescent
 Sembawang Drive
@@ -2792,13 +2801,16 @@ Thrift Drive
 Tiong Bahru Road
 Tiong Poh Road
 Toa Payoh Central
+Toa Payoh East
 Toa Payoh Industrial Park
 Toa Payoh Lorong 1
 Toa Payoh Lorong 2
 Toa Payoh Lorong 4
 Toa Payoh Lorong 7
 Toa Payoh Lorong 8
+Toa Payoh North
 Toa Payoh Rise
+Toa Payoh West
 Toh Avenue
 Toh Close
 Toh Crescent
@@ -3012,13 +3024,16 @@ West Coast Avenue
 West Coast Crescent
 West Coast Drive
 West Coast Ferry Road
+West Coast Green
 West Coast Grove
+West Coast Highway
 West Coast Lane
 West Coast Park
 West Coast Place
 West Coast Rise
 West Coast Road
 West Coast Terrace
+West Coast Vale
 West Coast Walk
 West Coast Way
 Westbourne Road
@@ -3033,7 +3048,10 @@ Westwood Terrace
 Westwood Walk
 Weyhill Close
 Whampoa Drive
+Whampoa East
 Whampoa Road
+Whampoa South
+Whampoa West
 Whitchurch Road
 White House Park
 White House Road
