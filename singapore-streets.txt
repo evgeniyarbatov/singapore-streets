@@ -1,13 +1,31 @@
+A Walk Along The Bay
+Abingdon Road
+Ace The Place Cc
+Adam Drive
+Adam Green
+Adam Place
 Adam Road
+Adam Road Medical Center
+Adam Road Presbyterian Church
 Adis Road
 Admiralty Drive
+Admiralty Grove
+Admiralty Lane
 Admiralty Link
+Admiralty Place
 Admiralty Road
 Admiralty Road East
 Admiralty Road West
 Admiralty Street
+Adora Green
+Aero Green Technology Pte Ltd
+Ah Hood Gardens
+Ah Hood Gardens Community Garden
 Ah Hood Road
+Ah Soo Walk
 Aida Street
+Air House / The Green House
+Airline Cargo Road
 Airline Road
 Airport Boulevard
 Airport Cargo Road
@@ -21,10 +39,12 @@ Ajunied Road
 Akyab Road
 Albert Street
 Albert Winsemius Lane
+Alexandra Central
 Alexandra Lane
 Alexandra Road
 Alexandra Terrace
 Alexandra View
+Alexandria Hill East Neighborhood Park
 Aliwal Street
 Aljunied Avenue 1
 Aljunied Avenue 2
@@ -32,44 +52,71 @@ Aljunied Avenue 3
 Aljunied Avenue 4
 Aljunied Avenue 5
 Aljunied Crescent
+Aljunied Crescent Street Soccer Court
 Aljunied Road
 Aljunied Walk
 Alkaff Crescent
+Allamanda Grove
+Allanbrooke Road
+Allenby Road
+Allotment Gardens
+Allotment Gardens @ Punggol Waterway Park
+Allotment Gardens @ Sengkang Riverside Park
 Almond Avenue
+Almond Crescent
+Almond Crescent Playground
 Almond Street
+Alnwick Road
 Alps Avenue
 Ama Keng Road
+Amaranda Gardens
+Amber Close
+Amber Gardens
 Amber Road
+Amk Tech Link
 Amoy Street
+Amoy Street Dental
+Amoy Street Food Centre
 Anamalai Avenue
+Anchor Green Primary School
+Anchorvale Close
 Anchorvale Crescent
 Anchorvale Drive
+Anchorvale Gardens
+Anchorvale Grove
 Anchorvale Lane
 Anchorvale Link
+Anchorvale Place
 Anchorvale Road
 Anchorvale Street
+Anchorvale Walk
 Anderson Road
 Andover Road
 Andrew Road
+Andrews Avenue
 Andrews Terrace
 Ang Mo Kio Avenue 1
+Ang Mo Kio Avenue 1 Flyover
 Ang Mo Kio Avenue 10
 Ang Mo Kio Avenue 12
 Ang Mo Kio Avenue 2
 Ang Mo Kio Avenue 3
 Ang Mo Kio Avenue 4
 Ang Mo Kio Avenue 5
+Ang Mo Kio Avenue 5 Flyover
 Ang Mo Kio Avenue 6
 Ang Mo Kio Avenue 8
 Ang Mo Kio Avenue 9
+Ang Mo Kio Central
 Ang Mo Kio Central 1
 Ang Mo Kio Central 2
 Ang Mo Kio Central 3
+Ang Mo Kio Central Flyover
+Ang Mo Kio Central Post Office
 Ang Mo Kio Drive
 Ang Mo Kio Electronics Park Road
-Ang Mo Kio Industrial Park 1
-Ang Mo Kio Industrial Park 2
-Ang Mo Kio Industrial Park 2A
+Ang Mo Kio Grove
+Ang Mo Kio Heights
 Ang Mo Kio Rise
 Ang Mo Kio Street 11
 Ang Mo Kio Street 12
@@ -77,9 +124,12 @@ Ang Mo Kio Street 13
 Ang Mo Kio Street 21
 Ang Mo Kio Street 22
 Ang Mo Kio Street 23
+Ang Mo Kio Street 24
 Ang Mo Kio Street 31
 Ang Mo Kio Street 32
+Ang Mo Kio Street 41
 Ang Mo Kio Street 42
+Ang Mo Kio Street 43
 Ang Mo Kio Street 44
 Ang Mo Kio Street 51
 Ang Mo Kio Street 52
@@ -87,30 +137,56 @@ Ang Mo Kio Street 53
 Ang Mo Kio Street 54
 Ang Mo Kio Street 61
 Ang Mo Kio Street 62
+Ang Mo Kio Street 63
 Ang Mo Kio Street 64
 Ang Mo Kio Street 65
 Ang Mo Kio Street 66
+Ang Mo Kio Street 81
 Ang Mo Kio Street 82
+Ang Mo Kio View
+Ang Siang Hill
+Angklong Lane
 Angora Close
 Angsana Avenue
-Angullia Park
+Angsana Drive
+Angsana Green East Coast Parkway
 Ann Siang Hill
+Ann Siang Hill Park
+Ann Siang Hill Water Well
 Ann Siang Road
+Annamalai Chitty Lane
 Anson Road
 Anthony Road
+Aperia/Before Kallang Road
+Appleton View
+Aquatic Avenue
+Aqueen Prestige Hotel Jalan Besar
 Arab Street
+Arab Street Shops
 Arcadia Road
 Architecture Drive
-Ardmore Park
+Ark Lane
 Armenian Street
 Arnasalam Chetty Road
 Aroozoo Avenue
+Aroozoo Avenue Playground
+Aroozoo Lane
 Arthur Road
 Artillery Avenue
+Artillery Avenue South
+Arts Link
 Arumugam Road
+Arun Road
 Ascot Rise
+Ascott Raffles Place
+Ash Grove
+Ashley Green
 Ashwood Grove
 Asimont Lane
+Aspen Heights
+Assemblage @ 362 Holland Road
+Aston Green
+Astor Green
 Astrid Hill
 Attap Valley Road
 Auckland Road East
@@ -127,7 +203,6 @@ Balestier Road
 Bali Lane
 Balmeg Hill
 Balmoral Crescent
-Balmoral Park
 Balmoral Road
 Ban San Street
 Banda Street
@@ -209,11 +284,9 @@ Bhamo Road
 Bidadari Park Drive
 Bideford Road
 Biggin Hill Road
-Bin Tong Park
 Binchang Rise
 Binchang Walk
 Binjai Hill
-Binjai Park
 Binjai Rise
 Binjai Walk
 Biomedical Grove
@@ -255,6 +328,7 @@ Borthwick Drive
 Boscombe Road
 Boundary Close
 Boundary Road
+Bowmont Gardens
 Braddel Road
 Braddell Rise
 Braddell Road
@@ -270,7 +344,6 @@ Bright Hill Drive
 Brighton Avenue
 Brighton Crescent
 Bristol Road
-Brizay Park
 Broadrick Road
 Brooke Road
 Brookvale Drive
@@ -360,7 +433,6 @@ Cairnhill Road
 Caldecott Close
 Camborne Road
 Cambridge Road
-Camden Park
 Campbell Lane
 Canada Road
 Canberra Crescent
@@ -412,7 +484,6 @@ Changi Business Park Avenue 1
 Changi Business Park Central 1
 Changi Business Park Central 2
 Changi Business Park Crescent
-Changi Business Park Vista
 Changi Coast Road
 Changi Coast Walk
 Changi Ferry Road
@@ -466,10 +537,6 @@ Choa Chu Kang Avenue 7
 Choa Chu Kang Central
 Choa Chu Kang Drive
 Choa Chu Kang Loop
-Choa Chu Kang North 5
-Choa Chu Kang North 6
-Choa Chu Kang North 7
-Choa Chu Kang Park Connector
 Choa Chu Kang Road
 Choa Chu Kang Road Track 10
 Choa Chu Kang Street 51
@@ -535,7 +602,6 @@ Clover Way
 Club Street
 Clunry Road
 Cluny Hill
-Cluny Park
 Cluny Park Road
 Cluny Road
 Colchester Grove
@@ -564,6 +630,7 @@ Conservatory Drive
 Conway Circle
 Conway Grove
 Cook Street
+Cornwall Gardens
 Cornwall Road
 Coronation Road
 Coronation Road West
@@ -644,7 +711,6 @@ Dover Drive
 Dover Rise
 Dover Road
 Draycott Drive
-Draycott Park
 Dublin Road
 Duchess Avenue
 Duchess Road
@@ -665,7 +731,6 @@ Dyson Road
 East Coast Avenue
 East Coast Drive
 East Coast Park Service Road
-East Coast Parkway
 East Coast Road
 East Sussex Lane
 Eastwood Drive
@@ -716,16 +781,13 @@ Eunos Avenue 7A
 Eunos Avenue 8
 Eunos Avenue 8A
 Eunos Crescent
-Eunos Park
 Eunos Road 2
 Eunos Road 5
 Eunos Road 8
 Evans Road
 Evelyn Road
 Everitt Road
-Everton Park
 Everton Road
-Ewart Park
 Ewe Boon Road
 Exeter Road
 Expo Drive
@@ -734,13 +796,11 @@ Faber Crescent
 Faber Drive
 Faber Green
 Faber Heights
-Faber Park
 Faber Terrace
 Faber Walk
 Fairway Drive
 Fajar Road
 Falkland Road
-Far East Plaza
 Farleigh Avenue
 Farrer Drive
 Farrer Park Road
@@ -763,7 +823,6 @@ First Street
 Flora Drive
 Flora Road
 Florence Road
-Florissa Park
 Flower Road
 Foch Road
 Folkestone Road
@@ -786,7 +845,6 @@ Fusionopolis View
 Fusionopolis Walk
 Fusionopolis Way
 Galistan Avenue
-Gallop Park
 Gallop Park Road
 Gallop Road
 Gallop Walk
@@ -807,7 +865,6 @@ Gentle Road
 George Street
 Gerald Crescent
 Gerald Drive
-Gerald Park
 Geylang Bahru Lane
 Geylang East Avenue
 Geylang East Avenue 1
@@ -834,15 +891,12 @@ Goldhill Rise
 Goldhill View
 Gombak Drive
 Gombak Rise
-Goodlink Park
 Goodman Road
 Goodwood Hill
 Gopeng Street
-Grace Park
 Grace Walk
 Grange Road
 Green Lane
-Greenbank Park
 Greendale Avenue
 Greenleaf Avenue
 Greenleaf Drive
@@ -960,7 +1014,6 @@ Holland Grove Walk
 Holland Heights
 Holland Hill
 Holland Link
-Holland Park
 Holland Road
 Holland Village Way
 Hong Kong Street
@@ -1012,7 +1065,6 @@ Hua Guan Avenue
 Hua Guan Crescent
 Huddington Avenue
 Hume Avenue
-Hyde Park Gate
 Hyderabad Road
 Hythe Road
 Imbiah Hill Road
@@ -1022,7 +1074,6 @@ Indus Road
 Inggu Road
 Innovation Drive
 Institution Hill
-International Business Park
 International Road
 Iqbal Avenue
 Irrawaddy Road
@@ -1576,7 +1627,6 @@ Kenanga Avenue
 Keng Cheow Street
 Keng Chin Road
 Keng Lee Road
-Kensington Park
 Kensington Park Drive
 Kensington Park Road
 Kent Ridge Crescent
@@ -1591,7 +1641,6 @@ Keppel Road
 Kerbau Road
 Kew Crescent
 Kew Drive
-Kheam Hock Park
 Kheam Hock Road
 Khiang Guan Avenue
 Kian Teck Avenue
@@ -1613,7 +1662,6 @@ Kim Seng Walk
 Kim Tian Place
 Kim Tian Road
 Kim Yam Road
-King Albert Park
 King George'S Avenue
 Kingsmead Road
 Kingswear Avenue
@@ -1648,16 +1696,15 @@ Lantana Avenue
 Larkhill Road
 Lavender Street
 Leedon Heights
-Leedon Park
 Leedon Road
 Leicester Road
-Leith Park
 Leith Road
 Lembu Road
 Leng Kee Road
 Lentor Central
 Lentor Crescent
 Lentor Drive
+Lentor Gardens
 Lentor Green
 Lentor Hills Road
 Lentor Link
@@ -1857,7 +1904,6 @@ Makepeace Road
 Makeway Avenue
 Malacca Street
 Malan Road
-Malcolm Park
 Malcolm Road
 Mandai Lake Road
 Mandai Link
@@ -1956,7 +2002,6 @@ Mimosa Walk
 Minaret Walk
 Minbu Road
 Minden Road
-Ming Teck Park
 Mistri Road
 Moh Guan Terrace
 Mohamed Sultan Road
@@ -1992,7 +2037,6 @@ Mount Sinai View
 Mount Sinai Walk
 Mount Vernon Road
 Mountbatten Road
-Mugliston Park
 Mugliston Walk
 Mulberry Avenue
 Munshi Abdullah Avenue
@@ -2023,7 +2067,6 @@ Nemesu Avenue
 Neo Tiew Crescent
 Neo Tiew Lane 2
 Neo Tiew Lane 3
-Nepal Park
 Neram Crescent
 Neram Road
 Netharavon Road
@@ -2046,9 +2089,7 @@ Nim Terrace
 No.30 Sembawang Drive
 No.336 Smith Street
 Norfolk Road
-Normanton Park
 Norris Road
-North Boat Quay
 North Bridge Road
 North Bridge Road Funan
 North Bridge Road Raffles City
@@ -2086,7 +2127,6 @@ Onan Road
 One Raffles Link
 One Tree Hill
 One-North Crescent
-One-North Gateway
 Ontario Avenue
 Opal Crescent
 Ophir Road
@@ -2118,6 +2158,7 @@ Palm Grove Avenue
 Palm Road
 Pandan Avenue
 Pandan Crescent
+Pandan Gardens
 Pandan Loop
 Pandan Road
 Pang Seng Road
@@ -2126,7 +2167,6 @@ Pari Dedap Walk
 Park Crescent
 Park Lane
 Park Road
-Park Vale
 Parkstone Road
 Parliament Place
 Parry Avenue
@@ -2144,6 +2184,7 @@ Pasir Ris Drive 3
 Pasir Ris Drive 4
 Pasir Ris Drive 6
 Pasir Ris Drive 8
+Pasir Ris Farmway 1
 Pasir Ris Green
 Pasir Ris Green Carkpark C
 Pasir Ris Grove
@@ -2264,9 +2305,7 @@ Puay Hee Avenue
 Punggol Barat Lane
 Punggol Central
 Punggol Drive
-Punggol East
 Punggol Field Walk
-Punggol Park Connector
 Punggol Place
 Punggol Point Walk
 Punggol Road
@@ -2275,11 +2314,9 @@ Punggol Walk
 Punggol Way
 Purvis Street
 Quality Road
-Queen Astrid Park
 Queen Street
 Race Course Lane
 Race Course Road
-Raeburn Park
 Raffles Avenue
 Raffles Boulevard
 Raffles Boulevard Marina Square
@@ -2301,7 +2338,6 @@ Richards Avenue
 Richards Place
 Ridgewood Close
 Ridgwood Close
-Ridley Park
 Ridout Road
 Rifle Range Road
 Ripley Crescent
@@ -2326,7 +2362,6 @@ Robin Road
 Robin Walk
 Robinson Road
 Rochester Drive
-Rochester Park
 Rochor Canal Road
 Rochor Road
 Rodyk Street
@@ -2675,6 +2710,7 @@ Tai Hwan Lane
 Tai Hwan Place
 Tai Hwan Terrace
 Tai Hwan Walk
+Tai Keng Gardens
 Tai Keng Lane
 Tai Seng Avenue
 Tai Seng Drive
@@ -2809,7 +2845,6 @@ Teo Kim Eng Road
 Tessensohn Road
 Thai Thong Crescent
 Tham Soong Avenue
-The Oval Seletar Aerospace Park
 Third Hospital Avenue
 Thomson Green
 Thomson Grove
@@ -2827,16 +2862,12 @@ Thrift Drive
 Tiong Bahru Road
 Tiong Poh Road
 Toa Payoh Central
-Toa Payoh East
-Toa Payoh Industrial Park
 Toa Payoh Lorong 1
 Toa Payoh Lorong 2
 Toa Payoh Lorong 4
 Toa Payoh Lorong 7
 Toa Payoh Lorong 8
-Toa Payoh North
 Toa Payoh Rise
-Toa Payoh West
 Toh Avenue
 Toh Close
 Toh Crescent
@@ -2968,7 +2999,6 @@ Ubi Road 2
 Ubi Road 3
 Ubi Road 4
 Ubi View
-Ulu Pandan Park Connector
 Ulu Pandan Road
 Unity Street
 University Road
@@ -3031,7 +3061,6 @@ Wallace Way
 Wallich Street
 Wan Tho Avenue
 Wareham Road
-Waringin Park
 Waringin Walk
 Warwick Road
 Waterloo Close
@@ -3040,7 +3069,6 @@ Waterloo Street
 Watten Drive
 Watten Estate Road
 Watten Heights
-Watten Park
 Watten Rise
 Watten Terrace
 Weld Road
@@ -3053,14 +3081,11 @@ West Coast Drive
 West Coast Ferry Road
 West Coast Green
 West Coast Grove
-West Coast Highway
 West Coast Lane
-West Coast Park
 West Coast Place
 West Coast Rise
 West Coast Road
 West Coast Terrace
-West Coast Vale
 West Coast Walk
 West Coast Way
 Westbourne Road
@@ -3075,12 +3100,8 @@ Westwood Terrace
 Westwood Walk
 Weyhill Close
 Whampoa Drive
-Whampoa East
 Whampoa Road
-Whampoa South
-Whampoa West
 Whitchurch Road
-White House Park
 White House Road
 Whitley Road
 Wilby Road
@@ -3089,6 +3110,7 @@ Wilkie Terrace
 Willow Avenue
 Wilmonar Avenue
 Wilton Close
+Wilton Gardens
 Winchester Road
 Windsor Park Road
 Winstedt Road
@@ -3131,17 +3153,8 @@ Woodlands Drive 70
 Woodlands Drive 71
 Woodlands Drive 72
 Woodlands Drive 73
-Woodlands Industrial Park D
 Woodlands Industrial Park D Street 1
 Woodlands Industrial Park D Street 2
-Woodlands Industrial Park E1
-Woodlands Industrial Park E3
-Woodlands Industrial Park E5
-Woodlands Industrial Park E6
-Woodlands Industrial Park E7
-Woodlands Industrial Park E8
-Woodlands Industrial Park E8/E9
-Woodlands Industrial Park E9
 Woodlands North Coast Road
 Woodlands Ring Road
 Woodlands Rise
@@ -3159,16 +3172,15 @@ Woodlands Terrace
 Woodleigh Close
 Woodleigh Lane
 Woodleigh Link
-Woodleigh Park
 Woodsville Close
 Woollerton Drive
-Woollerton Park
 Worchester Road
 Worthing Road
 Xilin Avenue
 Yan Kit Road
 Yarwood Avenue
 Yew Siang Road
+Yio Chu Kang Gardens
 Yio Chu Kang Link
 Yio Chu Kang Road
 Yio Chu Kang Terrace
@@ -3185,7 +3197,6 @@ Yishun Avenue 8
 Yishun Avenue 9
 Yishun Central
 Yishun Central 1
-Yishun Industrial Park A
 Yishun Industrial Street 1
 Yishun Ring Road
 Yishun Street 11
