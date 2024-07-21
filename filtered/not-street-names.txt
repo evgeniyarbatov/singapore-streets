@@ -10,7 +10,6 @@ Blue Square Grade Trail
 Boat Quay
 Bowmont Gardens
 Braddell
-Buangkok Green
 Bugis Junction
 Bukit Ayer Molek
 Bukit Batok
@@ -27,25 +26,19 @@ Clarke Quay
 Clifton Vale
 Clover Cres
 Cluny Court
-College Green
 Collyer Quay
 Compassvale Bow
 Coral Island
 Cornwall Gardens
 Dalvey Estate
 Delta Estate
-Eastwood Dr
-Eastwood Green
 Edgedale Plains
 Edgefield Plains
-Elias Green
 Elite Terrance
 Ellington Square
 Eng Kong Garden
 Engku Aman Turn
-Faber Green
 Fairprice
-Finlayson Green
 Fullerton Square
 Funan
 Getlang Bahru
@@ -56,7 +49,6 @@ Grange Garden
 Harbourfront Centre
 Havelock Square
 Hawk Arena
-Holland Green
 Holland Piazza
 Hougang Mrt Station
 Imm
@@ -77,8 +69,6 @@ Kampung Sireh
 Keppel Bay Vista
 Kim Seng Promenade
 Kim Seng Promenade Great World
-Kismis Green
-Laguna Golf Green
 Lebuh Laksamana
 Lengkok Bahru
 Lengkok Merak
@@ -90,19 +80,8 @@ Lengkong Satu
 Lengkong Tiga
 Lengkong Tujoh
 Lentor Gardens
-Lentor Green
 Lew Lian Vale
-Libra Dr
 Limau Garden
-Lor 6 Toa Payoh
-Lor Ah Soo
-Lor Buang Kok
-Lor Buangkok
-Lor Liput
-Lor Napiri
-Lor Sarhad
-Lor Sari
-Lor Telok
 Loring Telok
 Mahmoodiah Interchange
 Maida Vale
@@ -118,7 +97,6 @@ Mount Elizabeth
 Mount Elizabeth Medical Centre
 Mount Sinai Plain
 Mount Sophia
-Nim Green
 Nong Chik Height
 Orchard
 Orchard Promenade
@@ -129,11 +107,7 @@ Pandan Gardens
 Pandan Valley
 Paradise Island
 Paragon
-Pasir Ris Dr 6
 Pasir Ris Farmway 1
-Pasir Ris Green
-Pasir Ris Green Carkpark C
-Pavilion Green
 Pearl Bank
 Pearl Island
 Persiaran Laksamana
@@ -154,7 +128,6 @@ Raffles Quay
 Redhill
 Rhu Cross
 River Valley
-River Valley Green
 Rivervale Gateway
 Robertson Quay
 Sandy Island
@@ -174,16 +147,11 @@ Siglap Plain
 Social Club House
 Spottiswoode
 Springleaf Garden
-Springside Green
 Springwood Height
-Sprinsgide Green
-Stagmont Ring
-Stratton Green
 Sultan Gate
 Sunset Square
 Sunset Vale
 Suntec City
-Swettenham Green
 Swiss Cottage Estate
 Tai Keng Gardens
 Takashimaya S.C.
@@ -201,7 +169,6 @@ Tampines Grande
 Tanah Merah Kasturi
 Tanjong Pagar Plaza
 Tanjong Penjuru
-Telok Blangah Green
 Telok Kurau
 Telok Kurau Court
 Temasek Polytechnic
@@ -214,16 +181,13 @@ The Knolls
 The Oval
 The Sensoria
 The Star Vista
-Thomson Green
 Thomson Ridge
-Thong Soon Green
 Toh Tuck Pl
 Treasure Island
 Uob Centre
 United Square
 Upper Pickering Stree
 Upper Thomson
-Vista Exchange Green
 Vivocity
 Waterway Point
 Whampoa Spring

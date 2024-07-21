@@ -7,7 +7,9 @@ def format(text):
   text = re.sub(r"’", "'", text)
   text = re.sub(r"Rd\b", "Road", text)
   text = re.sub(r"St\b", "Street", text)
+  text = re.sub(r"Dr\b", "Drive", text)
   text = re.sub(r"Jln\b", "Jalan", text)
+  text = re.sub(r"Lor\b", "Lorong", text)
   text = re.sub(r"Ave\b", "Avenue", text)
   text = re.sub(r"Blvd\b", "Boulevard", text)
   return text
