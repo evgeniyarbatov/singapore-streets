@@ -38,7 +38,9 @@ def main():
         r'East|'
         r'South|'
         r'North|'
-        r'West'
+        r'West|'
+        r'Ring|'
+        r'Green'
         r')\b',
         line,
         re.IGNORECASE,

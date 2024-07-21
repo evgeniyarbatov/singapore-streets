@@ -266,7 +266,6 @@ Brickland Crescent
 Brickland Lane
 Bridport Avenue
 Bright Hill Crescent
-Bright Hill Dr
 Bright Hill Drive
 Brighton Avenue
 Brighton Crescent
@@ -279,6 +278,7 @@ Bt Timah Road
 Btw Timah Road
 Buangkok Crescent
 Buangkok Drive
+Buangkok Green
 Buangkok Link
 Buangkok View
 Buckley Road
@@ -543,6 +543,7 @@ Coldstream Avenue
 Coleman Street
 College Avenue East
 College Avenue West
+College Green
 College Road
 Commonwealth Avenue
 Commonwealth Avenue West
@@ -667,6 +668,8 @@ East Coast Park Service Road
 East Coast Parkway
 East Coast Road
 East Sussex Lane
+Eastwood Drive
+Eastwood Green
 Eastwood Place
 Eastwood Road
 Eastwood Terrace
@@ -677,6 +680,7 @@ Eden Grove
 Edgefield Walk
 Edinburgh Road
 Ee Teow Leng Road
+Elias Green
 Elias Road
 Elias Terrace
 Elite Park Avenue
@@ -728,6 +732,7 @@ Expo Drive
 Faber Avenue
 Faber Crescent
 Faber Drive
+Faber Green
 Faber Heights
 Faber Park
 Faber Terrace
@@ -752,6 +757,7 @@ Fernwood Terrace
 Fidelio Street
 Fifth Avenue
 Figaro Street
+Finlayson Green
 Fir Avenue
 First Street
 Flora Drive
@@ -943,6 +949,7 @@ Hoe Chiang Road
 Holland Avenue
 Holland Close
 Holland Drive
+Holland Green
 Holland Grove Avenue
 Holland Grove Drive
 Holland Grove Lane
@@ -1612,6 +1619,7 @@ Kingsmead Road
 Kingswear Avenue
 Kinta Road
 Kismis Avenue
+Kismis Green
 Kismis Place
 Kitchener Link
 Kitchener Road
@@ -1631,6 +1639,7 @@ La Salle Street
 Labrador Villa Road
 Lady Hill Road
 Lagos Circle
+Laguna Golf Green
 Lakepoint Drive
 Lakeside Drive
 Lambeth Walk
@@ -1649,6 +1658,7 @@ Leng Kee Road
 Lentor Central
 Lentor Crescent
 Lentor Drive
+Lentor Green
 Lentor Hills Road
 Lentor Link
 Lentor Loop
@@ -1668,6 +1678,7 @@ Li Hwan View
 Li Hwan Walk
 Li Po Avenue
 Liang Seah Street
+Libra Drive
 Lichi Avenue
 Lien Ying Chow Drive
 Lilac Drive
@@ -1691,8 +1702,6 @@ Little Road
 Lloyd Road
 Lock Road
 Loewen Road
-Lor 2 Realty Park
-Lor 7 Realty Park
 Lornie Road
 Lornie Walk
 Lorong 1
@@ -1713,6 +1722,7 @@ Lorong 18 Geylang
 Lorong 19 Geylang
 Lorong 1A Toa Payoh
 Lorong 2
+Lorong 2 Realty Park
 Lorong 2 Toa Payoh
 Lorong 20 Geylang
 Lorong 21 Geylang
@@ -1767,6 +1777,8 @@ Lorong Ampas
 Lorong Bakar Batu
 Lorong Bekukong
 Lorong Biawak
+Lorong Buang Kok
+Lorong Buangkok
 Lorong Bunga
 Lorong Chencharu
 Lorong Chuan
@@ -1800,6 +1812,7 @@ Lorong Penchalak
 Lorong Pisang Batu
 Lorong Puntong
 Lorong Samak
+Lorong Sarhad
 Lorong Sari
 Lorong Sarina
 Lorong Selangat
@@ -2026,6 +2039,7 @@ Neythal Road
 Nicoll Drive
 Nim Crescent
 Nim Drive
+Nim Green
 Nim Rise
 Nim Road
 Nim Terrace
@@ -2130,6 +2144,8 @@ Pasir Ris Drive 3
 Pasir Ris Drive 4
 Pasir Ris Drive 6
 Pasir Ris Drive 8
+Pasir Ris Green
+Pasir Ris Green Carkpark C
 Pasir Ris Grove
 Pasir Ris Heights
 Pasir Ris Industrial Drive 1
@@ -2155,6 +2171,7 @@ Pasir Ris Way
 Paterson Hill
 Paterson Road
 Pavilion Circle
+Pavilion Green
 Pavilion Grove
 Pavilion Place
 Pavilion Rise
@@ -2289,6 +2306,7 @@ Ridout Road
 Rifle Range Road
 Ripley Crescent
 River Valley Close
+River Valley Green
 River Valley Road
 Riverina Crescent
 Riverina View
@@ -2545,6 +2563,7 @@ Springleaf Walk
 Springside Avenue
 Springside Crescent
 Springside Drive
+Springside Green
 Springside Link
 Springside Place
 Springside Road
@@ -2555,10 +2574,12 @@ Springwood Close
 Springwood Crescent
 Springwood Terrace
 Springwood Walk
+Sprinsgide Green
 Stadium Boulevard
 Stadium Drive
 Stadium Place
 Stadium Walk
+Stagmont Ring
 Stamford Road
 Stamford Road Capitol Piazza
 Stangee Close
@@ -2578,6 +2599,7 @@ Straits View
 Strathmore Avenue
 Strathmore Road
 Stratton Drive
+Stratton Green
 Stratton Place
 Stratton Road
 Stratton Walk
@@ -2628,6 +2650,7 @@ Surrey Road
 Swan Lake Avenue
 Swanage Road
 Swettenham Close
+Swettenham Green
 Swettenham Road
 Swiss Club Avenue
 Swiss Club Link
@@ -2761,6 +2784,7 @@ Teck Whye Walk
 Telok Ayer Street
 Telok Blangah Crescent
 Telok Blangah Drive
+Telok Blangah Green
 Telok Blangah Heights
 Telok Blangah Rise
 Telok Blangah Road
@@ -2787,6 +2811,7 @@ Thai Thong Crescent
 Tham Soong Avenue
 The Oval Seletar Aerospace Park
 Third Hospital Avenue
+Thomson Green
 Thomson Grove
 Thomson Heights
 Thomson Hill
@@ -2796,6 +2821,7 @@ Thomson View
 Thomson Walk
 Thong Bee Road
 Thong Soon Avenue
+Thong Soon Green
 Thong Soon Road
 Thrift Drive
 Tiong Bahru Road
@@ -2997,6 +3023,7 @@ Victoria Park Grove
 Victoria Park Road
 Victoria Street
 Victoria Street Bugis Junction
+Vista Exchange Green
 Vista Terrace
 Wajek Walk
 Wak Hassan Drive

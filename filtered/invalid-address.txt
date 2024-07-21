@@ -12,7 +12,7 @@
 1 Bukit Batok Central Link, West Mall
 1 Ceate Way
 1 Everton Park
-1 Expo Dr, Foyer 1, Max Atria
+1 Expo Drive, Foyer 1, Max Atria
 1 Expo Drive, 2Nd Foyer Admin Building
 1 Fifth Avenue, Guthrie House
 1 Fusionopolis Way
@@ -132,7 +132,7 @@
 3 Fullerton Road, The Fullerton Waterboat House
 3 Gateway Drive, Isetan Westgate
 3 Gateway Drive, Westgate
-3 Lor Liput, Holland Piazza
+3 Lorong Liput, Holland Piazza
 3 Mount Elizabeth, Mount Elizabeth Hospital Level 2
 3 Phillip Street
 3 Pickering Street, Nankin Row
@@ -144,7 +144,7 @@
 3 Temasek Boulevard, Suntec City Tower 3
 3 Temasek Boulevard, Suntec City Tower 5
 3,  Simei Street 6, Eastpoint Mall
-30 Sembawang Dr, Sun Plaza
+30 Sembawang Drive, Sun Plaza
 30 Sembawang Drive, Sun Plaza
 302 Tiong Bahru Road, Tiong Bahru Plaza
 311 Jalan Ahmad Ibrahim
@@ -279,7 +279,7 @@ Blk 418 Yishun Avenue 11
 Blk 445 Fajar Road, Fajar Shopping Centre
 Blk 468B Admiralty Drive
 Blk 475 Choa Chu Kang Avenue 3, Sunshine Placex
-Blk 490 Lor 6 Toa Payoh, Hdb Hub
+Blk 490 Lorong 6 Toa Payoh, Hdb Hub
 Blk 524A Jelapang Road, Greenridge Shopping Centre
 Blk 525 Ang Mo Kio Avenue 10
 Blk 548 Woodlands Drive 44, Vista Point
@@ -356,7 +356,7 @@ King&Apos;S Drive
 King&Apos;S Road
 Koek Road #03-21
 Little India (Nel)
-Lor 6 Toa Payoh, Safra
+Lorong 6 Toa Payoh, Safra
 Lorong 6 Toa Payoh #01-14, Singapore
 Lower Kent Ridge Road, National University Hospital
 Mandai Lake Road, River Safari
