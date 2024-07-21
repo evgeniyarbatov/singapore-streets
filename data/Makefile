@@ -22,3 +22,5 @@ process:
 
 extract:
 	grep '<tag k="addr:street" v=' $(SG_OSM_PATH) | sed 's/.*v="\([^"]*\)".*/\1/' | sort | uniq > $(SG_STREETS_FILE)
+	grep '<tag k="name" v=' $(SG_OSM_PATH) | sed 's/.*v="\([^"]*\)".*/\1/' | sort | uniq >> $(SG_STREETS_FILE)
+	sort $(SG_STREETS_FILE) | uniq | tee $(SG_STREETS_FILE) > /dev/null

@@ -12,6 +12,7 @@ def format(text):
   text = re.sub(r"Lor\b", "Lorong", text)
   text = re.sub(r"Ave\b", "Avenue", text)
   text = re.sub(r"Blvd\b", "Boulevard", text)
+  text = re.sub(r"Aft\b", "After", text)
   return text
 
 def main():
