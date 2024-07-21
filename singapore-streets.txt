@@ -1,12 +1,12 @@
-A Walk Along The Bay
+A South
 Abingdon Road
-Ace The Place Cc
+Acacia @ Sengkang South
+Academic Block North
+Academic Building South
 Adam Drive
 Adam Green
 Adam Place
 Adam Road
-Adam Road Medical Center
-Adam Road Presbyterian Church
 Adis Road
 Admiralty Drive
 Admiralty Grove
@@ -75,8 +75,6 @@ Amber Gardens
 Amber Road
 Amk Tech Link
 Amoy Street
-Amoy Street Dental
-Amoy Street Food Centre
 Anamalai Avenue
 Anchor Green Primary School
 Anchorvale Close
@@ -96,14 +94,12 @@ Andrew Road
 Andrews Avenue
 Andrews Terrace
 Ang Mo Kio Avenue 1
-Ang Mo Kio Avenue 1 Flyover
 Ang Mo Kio Avenue 10
 Ang Mo Kio Avenue 12
 Ang Mo Kio Avenue 2
 Ang Mo Kio Avenue 3
 Ang Mo Kio Avenue 4
 Ang Mo Kio Avenue 5
-Ang Mo Kio Avenue 5 Flyover
 Ang Mo Kio Avenue 6
 Ang Mo Kio Avenue 8
 Ang Mo Kio Avenue 9
@@ -117,7 +113,9 @@ Ang Mo Kio Drive
 Ang Mo Kio Electronics Park Road
 Ang Mo Kio Grove
 Ang Mo Kio Heights
+Ang Mo Kio North
 Ang Mo Kio Rise
+Ang Mo Kio South
 Ang Mo Kio Street 11
 Ang Mo Kio Street 12
 Ang Mo Kio Street 13
@@ -143,6 +141,8 @@ Ang Mo Kio Street 65
 Ang Mo Kio Street 66
 Ang Mo Kio Street 81
 Ang Mo Kio Street 82
+Ang Mo Kio Town Garden East
+Ang Mo Kio Town Garden West
 Ang Mo Kio View
 Ang Siang Hill
 Angklong Lane
@@ -150,6 +150,7 @@ Angora Close
 Angsana Avenue
 Angsana Drive
 Angsana Green East Coast Parkway
+Angsana Rc @ Sengkang South
 Ann Siang Hill
 Ann Siang Hill Park
 Ann Siang Hill Water Well
@@ -162,14 +163,12 @@ Appleton View
 Aquatic Avenue
 Aqueen Prestige Hotel Jalan Besar
 Arab Street
-Arab Street Shops
 Arcadia Road
 Architecture Drive
 Ark Lane
 Armenian Street
 Arnasalam Chetty Road
 Aroozoo Avenue
-Aroozoo Avenue Playground
 Aroozoo Lane
 Arthur Road
 Artillery Avenue
@@ -221,7 +220,6 @@ Bayfront Avenue
 Bays Water Road
 Bayshore Road
 Beach Road
-Beach Road 1Street Storey Lobby The Concourse
 Beach View
 Beatty Lane
 Beatty Road
@@ -238,7 +236,6 @@ Bedok North Road
 Bedok North Street 1
 Bedok North Street 2
 Bedok North Street 3
-Bedok North Street 3 Block 510
 Bedok North Street 4
 Bedok North Street 5
 Bedok Reservoir Crescent
@@ -537,8 +534,10 @@ Choa Chu Kang Avenue 7
 Choa Chu Kang Central
 Choa Chu Kang Drive
 Choa Chu Kang Loop
+Choa Chu Kang North 5
+Choa Chu Kang North 6
+Choa Chu Kang North 7
 Choa Chu Kang Road
-Choa Chu Kang Road Track 10
 Choa Chu Kang Street 51
 Choa Chu Kang Street 52
 Choa Chu Kang Street 53
@@ -576,7 +575,6 @@ Claymore Road
 Cleantech Loop
 Clemenceau Avenue
 Clemenceau Avenue North
-Clemenceau Avenue Singapore Shopping Centre
 Clementi Avenue 1
 Clementi Avenue 2
 Clementi Avenue 3
@@ -641,7 +639,6 @@ Corporation Walk
 Cosford Road
 Cotswold Close
 Cove Avenue
-Cove Avenue Circus
 Cove Drive
 Cove Grove
 Cove Way
@@ -952,7 +949,6 @@ Hamilton Place
 Hamilton Road
 Hampshire Road
 Handy Road
-Handy Road The Cathay
 Happy Avenue Central
 Harbour Drive
 Harbourfront Avenue
@@ -1032,7 +1028,6 @@ Hougang Avenue 1
 Hougang Avenue 10
 Hougang Avenue 2
 Hougang Avenue 3
-Hougang Avenue 3 Park Connector
 Hougang Avenue 4
 Hougang Avenue 5
 Hougang Avenue 6
@@ -1929,7 +1924,6 @@ Marine Crescent
 Marine Drive
 Marine Parade Central
 Marine Parade Road
-Marine Parade Road Park
 Marine Terrace
 Market Street
 Marlene Avenue
@@ -2091,8 +2085,6 @@ No.336 Smith Street
 Norfolk Road
 Norris Road
 North Bridge Road
-North Bridge Road Funan
-North Bridge Road Raffles City
 North Buona Vista Drive
 North Buona Vista Link
 North Buona Vista Road
@@ -2133,12 +2125,6 @@ Ophir Road
 Orange Grove Road
 Orchard Boulevard
 Orchard Road
-Orchard Road 313 Somerset
-Orchard Road Paragon
-Orchard Road Plaza Singapura
-Orchard Road Takashimaya S.C.
-Orchard Road The Heeren
-Orchard Road Wisma Atria
 Orchard Spring Lane
 Orchid Club Road
 Ottawa Road
@@ -2305,6 +2291,7 @@ Puay Hee Avenue
 Punggol Barat Lane
 Punggol Central
 Punggol Drive
+Punggol East
 Punggol Field Walk
 Punggol Place
 Punggol Point Walk
@@ -2410,7 +2397,6 @@ Second Hospital Avenue
 Segar Road
 Sejar Road
 Selegie Road
-Selegie Road Parklane Shopping Mall
 Seletar Aerospace Avenue
 Seletar Aerospace Crescent
 Seletar Aerospace Heights
@@ -2563,7 +2549,6 @@ Sixth Crescent
 Sixth Lok Yang Road
 Slim Barracks Rise
 Smith Street
-Smith Street New Bridge Centre
 Somapah Road
 Somerset Road
 Sommerville Estate Road
@@ -2616,7 +2601,6 @@ Stadium Place
 Stadium Walk
 Stagmont Ring
 Stamford Road
-Stamford Road Capitol Piazza
 Stangee Close
 Stanley Street
 Starlight Road
@@ -2796,7 +2780,6 @@ Tanah Merah Kechil Road South
 Tanglin Halt Road
 Tanglin Hill
 Tanglin Road
-Tanglin Road Tanglin Mall
 Tanjong Katong Road
 Tanjong Kling Road
 Tanjong Pagar Road
@@ -2862,12 +2845,15 @@ Thrift Drive
 Tiong Bahru Road
 Tiong Poh Road
 Toa Payoh Central
+Toa Payoh East
 Toa Payoh Lorong 1
 Toa Payoh Lorong 2
 Toa Payoh Lorong 4
 Toa Payoh Lorong 7
 Toa Payoh Lorong 8
+Toa Payoh North
 Toa Payoh Rise
+Toa Payoh West
 Toh Avenue
 Toh Close
 Toh Crescent
@@ -3052,7 +3038,6 @@ Victoria Park Close
 Victoria Park Grove
 Victoria Park Road
 Victoria Street
-Victoria Street Bugis Junction
 Vista Exchange Green
 Vista Terrace
 Wajek Walk
@@ -3100,7 +3085,10 @@ Westwood Terrace
 Westwood Walk
 Weyhill Close
 Whampoa Drive
+Whampoa East
 Whampoa Road
+Whampoa South
+Whampoa West
 Whitchurch Road
 White House Road
 Whitley Road
