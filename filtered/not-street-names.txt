@@ -2,19 +2,12 @@ Albert Court
 Amber Gardens
 Ang Mo Kio
 Angsana Breeze
-Ashwood Grove
 Bassein Court
 Beach Roo
 Bedok Garden
-Bedok Ria Place
-Beechwood Grove
-Benoi Place
 Benoi Sector
-Biomedical Grove
-Bishan Place
 Blue Square Grade Trail
 Boat Quay
-Boon Lay Place
 Bowmont Gardens
 Braddell
 Buangkok Green
@@ -24,106 +17,62 @@ Bukit Batok
 Bukit Gombak
 Bukit Mugliston
 Bukit Timah Shopping Centre
-Cairnhill Circle
-Cardiff Grove
-Carisbrooke Grove
 Cathay Forecourt
-Cedarwood Grove
 Chancery Court
 Chaun Garden
-Chiselhurst Grove
 Choa Chu Kang
 Choa Chu Kang Cresent
-Choa Chu Kang Loop
 Choa Chu Kang North 5
 Choa Chu Kang North 6
 Choa Chu Kang North 7
 Chuan Garden
-Chuan Place
 Clarke Quay
-Cleantech Loop
-Cleantech Loop
-Clementi Loop
 Clifton Vale
 Clover Cres
 Cluny Court
-Colchester Grove
 College Green
 Collyer Quay
 Compassvale Bow
-Coniston Grove
-Conway Circle
-Conway Grove
 Coral Island
 Cornwall Gardens
-Cove Grove
-Dairy Farm Heights
 Dalvey Estate
-Dedap Place
 Delta Estate
 East Coast Parkway
 Eastwood Dr
 Eastwood Green
-Eastwood Place
-Eaton Place
-Eden Grove
 Edgedale Plains
 Edgefield Plains
 Elias Green
 Elite Terrance
 Ellington Square
-Empress Place
 Eng Kong Garden
-Eng Kong Place
 Engku Aman Turn
 Faber Green
-Faber Heights
 Fairprice
 Far East Plaza
 Finlayson Green
 Fullerton Square
 Funan
-Fusionopolis Place
 Getlang Bahru
 Geylang Bahru
 Geylang Serai
-Goldhill Place
 Goldhill Plaza
 Grange Garden
-Greenleaf Grove
-Greenleaf Place
-Greenwood Grove
-Greenwood Place
-Gul Circle
-Hamilton Place
 Harbourfront Centre
-Harbourfront Place
-Hartley Grove
 Havelock Square
 Hawk Arena
-Hindhede Place
 Holland Green
-Holland Heights
 Holland Piazza
-Hong Lee Place
 Hougang Mrt Station
 Imm
 Ion Orchard
-Irving Place
 Irving Point
-Jambol Place
 Japan Besar
 Jin Teck Kee
-Joo Chiat Place
-Joo Koon Circle
-Joon Koon Circle
 Jurong Island Highway
 Jurong Point
-Kim Tian Place
-Kaki Bukit Place
 Kallang Bahru
 Kallang Junction
-Kallang Place
 Kallang Sector
 Kampong Ampat
 Kampong Bugis
@@ -133,13 +82,9 @@ Kampung Sireh
 Keppel Bay Vista
 Kim Seng Promenade
 Kim Seng Promenade Great World
-Kim Tian Place
 Kismis Green
-Kismis Place
-Lagos Circle
 Laguna Golf Green
 Lebuh Laksamana
-Leedon Heights
 Lengkok Bahru
 Lengkok Merak
 Lengkong Dua
@@ -151,12 +96,9 @@ Lengkong Tiga
 Lengkong Tujoh
 Lentor Gardens
 Lentor Green
-Lentor Loop
 Lew Lian Vale
-Li Hwan Place
 Libra Dr
 Limau Garden
-Limau Grove
 Lor 6 Toa Payoh
 Lor Ah Soo
 Lor Buang Kok
@@ -167,8 +109,6 @@ Lor Sarhad
 Lor Sari
 Lor Telok
 Loring Telok
-Ludlow Place
-Lynwood Grove
 Mahmoodiah Interchange
 Maida Vale
 Mandai Estate
@@ -176,23 +116,16 @@ Marina Mall
 Marina Square Shopping Mall
 Marine Vista
 Maritime Square
-Martin Place
-Mayflower Place
 Mckenzie
-Media Circle
 Meldrum
-Meyer Place
-Mimosa Place
 Mimosa Vale
 Mount Elizabeth
 Mount Elizabeth Medical Centre
 Mount Sinai Plain
 Mount Sophia
-Namly Place
 Nim Green
 Nong Chik Height
 North Boat Quay
-Oakwood Grove
 One-North Gateway
 One-North Gateway
 Orchard
@@ -201,67 +134,43 @@ Orchard Turn
 Orchard Turn Ion Orchard
 Padang Chancery
 Pandan Gardens
-Pandan Loop
 Pandan Valley
 Paradise Island
 Paragon
-Parliament Place
 Pasir Ris Dr 6
 Pasir Ris Farmway 1
 Pasir Ris Green
 Pasir Ris Green Carkpark C
-Pasir Ris Grove
-Pasir Ris Heights
-Pavilion Circle
 Pavilion Green
-Pavilion Grove
-Pavilion Place
-Peakville Grove
 Pearl Bank
 Pearl Island
-Pemimpin Place
-Penjuru Place
-Penshurst Place
 Persiaran Laksamana
 Persiaran Layar Perak
 Persiaran Puteri Selatan
-Pine Grove
-Pine Grove Clubhouse
-Pinewood Grove
-Pioneer Place
 Pioneer Sector 1
 Pioneer Sector 3
 Pioneer Turn
 Plaza Singapura
-Pollen Place
 Pulau Tekong Besar
 Punggol Drivel
 Punggol East
 Punggol Field
-Punggol Place
 Puteri Harbour
 Queensway
 Raffles City
 Raffles Exchange
-Raffles Place
 Raffles Quay
-Raglan Grove
 Redhill
 Rhu Cross
-Richards Place
 River Valley
 River Valley Green
 Rivervale Gateway
 Robertson Quay
-Sampan Place
 Sandy Island
-Saraca Place
 Sector A Sin Ming Industrial Estate
 Sector B Sin Ming Ind Estate
 Sector C Sin Ming Ind Estate
-Seletar Aerospace Heights
 Seletar West Farmway 5
-Sembawang Place
 Sembawang Roads
 Sembawang Vista
 Sengkang Square
@@ -269,42 +178,24 @@ Sentosa Gateway
 Sentosa Gateway Rws
 Sentosa Station
 Serangoon Aenue 1
-Serangoon Garden Place
 Serangoon Steet
 Siglap Bank
 Siglap Plain
-Simon Place
-Sims Place
-Sirat Place
-Sireh Place
 Social Club House
 Spottiswoode
 Springleaf Garden
 Springside Green
-Springside Place
 Springwood Height
 Sprinsgide Green
-Stadium Place
 Stagmont Ring
 Stratton Green
-Stratton Place
 Sultan Gate
-Summer Place
-Sunbird Circle
-Sungei Kadut Loop
-Sunset Grove
-Sunset Heights
-Sunset Place
 Sunset Square
 Sunset Vale
 Suntec City
 Swettenham Green
 Swiss Cottage Estate
-Tai Hwan Grove
-Tai Hwan Heights
-Tai Hwan Place
 Tai Keng Gardens
-Tai Yuan Heights
 Takashimaya S.C.
 Taman Kembangan
 Taman Mas Merah
@@ -317,13 +208,10 @@ Taman Sireh
 Taman Warna
 Tampines Concourse
 Tampines Grande
-Tampines Place
 Tanah Merah Kasturi
 Tanjong Pagar Plaza
 Tanjong Penjuru
-Teban Place
 Telok Blangah Green
-Telok Blangah Heights
 Telok Kurau
 Telok Kurau Court
 Temasek Polytechnic
@@ -337,36 +225,22 @@ The Oval
 The Sensoria
 The Star Vista
 Thomson Green
-Thomson Grove
-Thomson Heights
 Thomson Ridge
 Thong Soon Green
 Toa Payoh East
 Toa Payoh North
 Toa Payoh West
-Toh Heights
 Toh Tuck Pl
-Toh Tuck Place
 Treasure Island
-Trevose Place
-Tuas Loop
-Tuas South Place
-Tukang Innovation Grove
 Uob Centre
 United Square
 Upper Pickering Stree
 Upper Thomson
-Verde Grove
-Verde Place
 Vista Exchange Green
 Vivocity
 Waterway Point
-Watten Heights
-Wellington Circle
 West Coast Green
-West Coast Grove
 West Coast Highway
-West Coast Place
 West Coast Vale
 Whampoa East
 Whampoa South
@@ -375,7 +249,6 @@ Whampoa West
 Wholesale Centre
 Wilton Gardens
 Woodlands
-Woodlands Circle
 Woodlands Crossing
 Woodlands Height
 Woodlands Sector 1
@@ -383,7 +256,6 @@ Woodlands Sector 2
 Woodlands Square
 Yew Tee
 Yio Chu Kang Gardens
-York Place
 Ah Soo Garden
 Nex
 No 1 Queensway Shopping Centre

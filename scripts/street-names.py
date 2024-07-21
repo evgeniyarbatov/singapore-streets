@@ -29,7 +29,12 @@ def main():
         r'Park|'
         r'Lorong|'
         r'Central|'
-        r'Way'
+        r'Way|'
+        r'Place|'
+        r'Heights|'
+        r'Grove|'
+        r'Circle|'
+        r'Loop'
         r')\b',
         line,
         re.IGNORECASE,
