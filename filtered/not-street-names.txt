@@ -22,9 +22,6 @@ Chancery Court
 Chaun Garden
 Choa Chu Kang
 Choa Chu Kang Cresent
-Choa Chu Kang North 5
-Choa Chu Kang North 6
-Choa Chu Kang North 7
 Chuan Garden
 Clarke Quay
 Clifton Vale
@@ -37,7 +34,6 @@ Coral Island
 Cornwall Gardens
 Dalvey Estate
 Delta Estate
-East Coast Parkway
 Eastwood Dr
 Eastwood Green
 Edgedale Plains
@@ -49,7 +45,6 @@ Eng Kong Garden
 Engku Aman Turn
 Faber Green
 Fairprice
-Far East Plaza
 Finlayson Green
 Fullerton Square
 Funan
@@ -125,9 +120,6 @@ Mount Sinai Plain
 Mount Sophia
 Nim Green
 Nong Chik Height
-North Boat Quay
-One-North Gateway
-One-North Gateway
 Orchard
 Orchard Promenade
 Orchard Turn
@@ -153,7 +145,6 @@ Pioneer Turn
 Plaza Singapura
 Pulau Tekong Besar
 Punggol Drivel
-Punggol East
 Punggol Field
 Puteri Harbour
 Queensway
@@ -170,7 +161,6 @@ Sandy Island
 Sector A Sin Ming Industrial Estate
 Sector B Sin Ming Ind Estate
 Sector C Sin Ming Ind Estate
-Seletar West Farmway 5
 Sembawang Roads
 Sembawang Vista
 Sengkang Square
@@ -227,9 +217,6 @@ The Star Vista
 Thomson Green
 Thomson Ridge
 Thong Soon Green
-Toa Payoh East
-Toa Payoh North
-Toa Payoh West
 Toh Tuck Pl
 Treasure Island
 Uob Centre
@@ -239,13 +226,7 @@ Upper Thomson
 Vista Exchange Green
 Vivocity
 Waterway Point
-West Coast Green
-West Coast Highway
-West Coast Vale
-Whampoa East
-Whampoa South
 Whampoa Spring
-Whampoa West
 Wholesale Centre
 Wilton Gardens
 Woodlands

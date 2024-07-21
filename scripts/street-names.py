@@ -34,7 +34,11 @@ def main():
         r'Heights|'
         r'Grove|'
         r'Circle|'
-        r'Loop'
+        r'Loop|'
+        r'East|'
+        r'South|'
+        r'North|'
+        r'West'
         r')\b',
         line,
         re.IGNORECASE,
