@@ -12,12 +12,12 @@ A One Claypot House
 A One Signature
 A Plus Glass Pte Ltd
 A Poke Theory
-A South
 A Star Trading
 A Tilly A Day
 A Treasure Trove
 A Vintage Tale
 A Visit To The Museum: ...
+A Walk Along The Bay
 A World United
 A World United Structure
 A Flower Shop
@@ -90,6 +90,7 @@ Ac Vision Design
 Acc Eduhub
 Ace Marketplace
 Ace Mart
+Ace The Place Cc
 Ace Therapy Services
 Ace@Buroh
 Acmi Training Centre
@@ -235,13 +236,10 @@ Aburi-En
 Aburi-En Grand
 Aburiya
 Abwin
-Acacia @ Sengkang South
 Acacia Breeze
 Acacia Home
 Acacia Lodge
 Academia
-Academic Block North
-Academic Building South
 Académie Of Stars
 Academy
 Academy Roastery Cafe
@@ -291,6 +289,8 @@ Adam Hawa Cafe
 Adam Park
 Adam Park Condominium
 Adam Park Connector
+Adam Road Medical Center
+Adam Road Presbyterian Church
 Adamas
 Adamas Bathroom
 Adamas Bathroom Pte Ltd
@@ -729,6 +729,8 @@ Amoy Don
 Amoy Hotel
 Amoy Quee Camp
 Amoy Settlers
+Amoy Street Food Centre
+Amoy Street Dental
 Amp Capital
 Ampang Niang Tou Fu
 Ampas Apartments
@@ -802,6 +804,8 @@ Ang Mo Kio
 Ang Mo Kio 628 Market
 Ang Mo Kio 66 Kv
 Ang Mo Kio 66Kv
+Ang Mo Kio Avenue 1 Flyover
+Ang Mo Kio Avenue 5 Flyover
 Ang Mo Kio Blk 724 Food Centre
 Ang Mo Kio Blk 724 Wet Market
 Ang Mo Kio Bus Interchange
@@ -818,7 +822,6 @@ Ang Mo Kio Industrial Park 2A
 Ang Mo Kio Interchange
 Ang Mo Kio Linear Park
 Ang Mo Kio Methodist Church
-Ang Mo Kio North
 Ang Mo Kio North Flyover
 Ang Mo Kio North Neighbourhood Police Centre
 Ang Mo Kio Park 1
@@ -828,14 +831,11 @@ Ang Mo Kio Polyclinic
 Ang Mo Kio Primary School
 Ang Mo Kio Public Library
 Ang Mo Kio Secondary School
-Ang Mo Kio South
 Ang Mo Kio South Flyover
 Ang Mo Kio South Neighbourhood Police Centre
 Ang Mo Kio Station
 Ang Mo Kio Town Centre
 Ang Mo Kio Town Council
-Ang Mo Kio Town Garden East
-Ang Mo Kio Town Garden West
 Ang Mo Kio Town Garden West Allotment
 Ang Mo Kio Town Garden West Playground
 Ang Mo Kio Underpass
@@ -863,7 +863,6 @@ Angsana 2
 Angsana Breeze
 Angsana Park
 Angsana Primary School
-Angsana Rc @ Sengkang South
 Angsana Residence
 Angsana@21
 Angullia Park
@@ -967,6 +966,7 @@ Aqueen Prestige Hotel Lavender
 Ar Rayyan Corporation Pte Ltd
 Ar Razak Barber
 Ar-Rahman
+Arab Street Shops
 Arabic Market
 Aranda Breeze @ Yishun
 Aranda Country Club
@@ -1040,6 +1040,7 @@ Armour Heritage Centre
 Army Logistics Base
 Army Market
 Aromas Of India
+Aroozoo Avenue Playground
 Aroozoo Centre
 Arox
 Aroy Dee
@@ -1198,8 +1199,10 @@ Astor
 Astoria
 Balmoral Park
 Bassein Court
+Beach Road 1Street Storey Lobby The Concourse
 Beach Roo
 Bedok Garden
+Bedok North Street 3 Block 510
 Benoi Sector
 Bin Tong Park
 Binjai Park
@@ -1220,12 +1223,11 @@ Changi Business Park Vista
 Chaun Garden
 Choa Chu Kang
 Choa Chu Kang Cresent
-Choa Chu Kang North 5
-Choa Chu Kang North 6
-Choa Chu Kang North 7
 Choa Chu Kang Park Connector
+Choa Chu Kang Road Track 10
 Chuan Garden
 Clarke Quay
+Clemenceau Avenue Singapore Shopping Centre
 Clifton Vale
 Clover Cres
 Cluny Court
@@ -1233,6 +1235,7 @@ Cluny Park
 Collyer Quay
 Compassvale Bow
 Coral Island
+Cove Avenue Circus
 Dalvey Estate
 Delta Estate
 Draycott Park
@@ -1262,11 +1265,13 @@ Goodlink Park
 Grace Park
 Grange Garden
 Greenbank Park
+Handy Road The Cathay
 Harbourfront Centre
 Havelock Square
 Hawk Arena
 Holland Park
 Holland Piazza
+Hougang Avenue 3 Park Connector
 Hougang Mrt Station
 Hyde Park Gate
 Imm
@@ -1312,6 +1317,7 @@ Malcolm Park
 Mandai Estate
 Marina Mall
 Marina Square Shopping Mall
+Marine Parade Road Park
 Marine Vista
 Maritime Square
 Mckenzie
@@ -1327,10 +1333,18 @@ Nepal Park
 Nong Chik Height
 Normanton Park
 North Boat Quay
+North Bridge Road Funan
+North Bridge Road Raffles City
 One-North Gateway
 One-North Gateway
 Orchard
 Orchard Promenade
+Orchard Road 313 Somerset
+Orchard Road Paragon
+Orchard Road Plaza Singapura
+Orchard Road Takashimaya S.C.
+Orchard Road The Heeren
+Orchard Road Wisma Atria
 Orchard Turn
 Orchard Turn Ion Orchard
 Padang Chancery
@@ -1349,7 +1363,6 @@ Pioneer Turn
 Plaza Singapura
 Pulau Tekong Besar
 Punggol Drivel
-Punggol East
 Punggol Field
 Punggol Park Connector
 Puteri Harbour
@@ -1370,6 +1383,7 @@ Sandy Island
 Sector A Sin Ming Industrial Estate
 Sector B Sin Ming Ind Estate
 Sector C Sin Ming Ind Estate
+Selegie Road Parklane Shopping Mall
 Sembawang Roads
 Sembawang Vista
 Sengkang Square
@@ -1380,10 +1394,12 @@ Serangoon Aenue 1
 Serangoon Steet
 Siglap Bank
 Siglap Plain
+Smith Street New Bridge Centre
 Social Club House
 Spottiswoode
 Springleaf Garden
 Springwood Height
+Stamford Road Capitol Piazza
 Sultan Gate
 Sunset Square
 Sunset Vale
@@ -1402,6 +1418,7 @@ Taman Warna
 Tampines Concourse
 Tampines Grande
 Tanah Merah Kasturi
+Tanglin Road Tanglin Mall
 Tanjong Pagar Plaza
 Tanjong Penjuru
 Telok Kurau
@@ -1418,10 +1435,7 @@ The Oval Seletar Aerospace Park
 The Sensoria
 The Star Vista
 Thomson Ridge
-Toa Payoh East
 Toa Payoh Industrial Park
-Toa Payoh North
-Toa Payoh West
 Toh Tuck Pl
 Treasure Island
 Uob Centre
@@ -1429,6 +1443,7 @@ Ulu Pandan Park Connector
 United Square
 Upper Pickering Stree
 Upper Thomson
+Victoria Street Bugis Junction
 Vivocity
 Waringin Park
 Waterway Point
@@ -1436,10 +1451,7 @@ Watten Park
 West Coast Highway
 West Coast Park
 West Coast Vale
-Whampoa East
-Whampoa South
 Whampoa Spring
-Whampoa West
 White House Park
 Wholesale Centre
 Woodlands
