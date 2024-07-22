@@ -1,7 +1,4 @@
-A South
 Abingdon Road
-Academic Block North
-Academic Building South
 Adam Drive
 Adam Green
 Adam Place
@@ -13,8 +10,6 @@ Admiralty Lane
 Admiralty Link
 Admiralty Place
 Admiralty Road
-Admiralty Road East
-Admiralty Road West
 Admiralty Street
 Adora Green
 Ah Hood Gardens
@@ -101,9 +96,7 @@ Ang Mo Kio Drive
 Ang Mo Kio Electronics Park Road
 Ang Mo Kio Grove
 Ang Mo Kio Heights
-Ang Mo Kio North
 Ang Mo Kio Rise
-Ang Mo Kio South
 Ang Mo Kio Street 11
 Ang Mo Kio Street 12
 Ang Mo Kio Street 13
@@ -129,8 +122,6 @@ Ang Mo Kio Street 65
 Ang Mo Kio Street 66
 Ang Mo Kio Street 81
 Ang Mo Kio Street 82
-Ang Mo Kio Town Garden East
-Ang Mo Kio Town Garden West
 Ang Mo Kio View
 Ang Siang Hill
 Angklong Lane
@@ -155,7 +146,6 @@ Aroozoo Avenue
 Aroozoo Lane
 Arthur Road
 Artillery Avenue
-Artillery Avenue South
 Arts Link
 Arumugam Road
 Arun Road
@@ -170,8 +160,6 @@ Aston Green
 Astor Green
 Astrid Hill
 Attap Valley Road
-Auckland Road East
-Auckland Road West
 Ava Road
 Ayer Rajah Avenue
 Ayer Rajah Crescent
@@ -194,7 +182,6 @@ Banyan View
 Barbary Walk
 Barker Road
 Bartley Road
-Bartley Road East
 Bartley Walk
 Bassein Road
 Battery Road
@@ -231,7 +218,6 @@ Bedok South Avenue 1
 Bedok South Avenue 2
 Bedok South Avenue 3
 Bedok South Road
-Bedok South Road Siglap East
 Bedok Terrace
 Bedok Walk
 Bee San Avenue
@@ -515,9 +501,6 @@ Choa Chu Kang Avenue 7
 Choa Chu Kang Central
 Choa Chu Kang Drive
 Choa Chu Kang Loop
-Choa Chu Kang North 5
-Choa Chu Kang North 6
-Choa Chu Kang North 7
 Choa Chu Kang Road
 Choa Chu Kang Street 51
 Choa Chu Kang Street 52
@@ -555,7 +538,6 @@ Claymore Hill
 Claymore Road
 Cleantech Loop
 Clemenceau Avenue
-Clemenceau Avenue North
 Clementi Avenue 1
 Clementi Avenue 2
 Clementi Avenue 3
@@ -586,12 +568,9 @@ Cluny Road
 Colchester Grove
 Coldstream Avenue
 Coleman Street
-College Avenue East
-College Avenue West
 College Green
 College Road
 Commonwealth Avenue
-Commonwealth Avenue West
 Commonwealth Close
 Commonwealth Crescent
 Commonwealth Drive
@@ -612,7 +591,6 @@ Cook Street
 Cornwall Gardens
 Cornwall Road
 Coronation Road
-Coronation Road West
 Corporation Drive
 Corporation Rise
 Corporation Road
@@ -683,7 +661,6 @@ Din Pang Avenue
 Dix Road
 Dorset Road
 Dover Avenue
-Dover Close East
 Dover Crescent
 Dover Drive
 Dover Rise
@@ -2233,7 +2210,6 @@ Pioneer Crescent
 Pioneer Crescent 20
 Pioneer Place
 Pioneer Road
-Pioneer Road North
 Pioneer View
 Pioneer Walk
 Pipit Road
@@ -2245,7 +2221,6 @@ Playfair Road
 Plymouth Avenue
 Poh Huat Drive
 Poh Huat Road
-Poh Huat Road West
 Pollen Crescent
 Pollen Place
 Pollen View
@@ -2269,7 +2244,6 @@ Puay Hee Avenue
 Punggol Barat Lane
 Punggol Central
 Punggol Drive
-Punggol East
 Punggol Field Walk
 Punggol Place
 Punggol Point Walk
@@ -2468,7 +2442,6 @@ Shunfu Road
 Siak Kew Avenue
 Sian Tuan Avenue
 Siang Kuang Avenue
-Siglap Avenue South
 Siglap Drive
 Siglap Hill
 Siglap Link
@@ -2499,7 +2472,6 @@ Simon Lane
 Simon Place
 Simon Road
 Sims Avenue
-Sims Avenue East
 Sims Close
 Sims Drive
 Sims Lane
@@ -2585,7 +2557,6 @@ Stars Avenue
 Stevens Close
 Stevens Road
 Still Road
-Still Road South
 Stirling Road
 Stockport Road
 Stone Avenue
@@ -2602,7 +2573,6 @@ Street 81
 Street Nicholas View
 Street Wilfred Road
 Sturdee Road
-Sturdee Road North
 Suffolk Road
 Suffolk Walk
 Sumang Lane
@@ -2752,7 +2722,6 @@ Tanah Merah Kechil Avenue
 Tanah Merah Kechil Link
 Tanah Merah Kechil Rise
 Tanah Merah Kechil Road
-Tanah Merah Kechil Road South
 Tanglin Halt Road
 Tanglin Hill
 Tanglin Road
@@ -2821,20 +2790,16 @@ Thrift Drive
 Tiong Bahru Road
 Tiong Poh Road
 Toa Payoh Central
-Toa Payoh East
 Toa Payoh Lorong 1
 Toa Payoh Lorong 2
 Toa Payoh Lorong 4
 Toa Payoh Lorong 7
 Toa Payoh Lorong 8
-Toa Payoh North
 Toa Payoh Rise
-Toa Payoh West
 Toh Avenue
 Toh Close
 Toh Crescent
 Toh Guan Road
-Toh Guan Road East
 Toh Heights
 Toh Tuck Avenue
 Toh Tuck Close
@@ -2852,7 +2817,6 @@ Topaz Road
 Town Hall Link
 Towner Road
 Townshend Road
-Tph Guan Road East
 Transit Road
 Tras Link
 Tras Street
@@ -2969,8 +2933,6 @@ Upper Aljunied Road
 Upper Boon Keng Road
 Upper Bukit Timah Road
 Upper Changi Road
-Upper Changi Road East
-Upper Changi Road North
 Upper Circular Road
 Upper Cross Street
 Upper Dickson Road
@@ -3058,10 +3020,7 @@ Westwood Terrace
 Westwood Walk
 Weyhill Close
 Whampoa Drive
-Whampoa East
 Whampoa Road
-Whampoa South
-Whampoa West
 Whitchurch Road
 White House Road
 Whitley Road
