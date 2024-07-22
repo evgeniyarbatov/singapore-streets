@@ -6,6 +6,7 @@ def main():
     "filtered/not-street-names.txt", 
     "w",
   ) as f:
+    seen_names = []
     for line in sys.stdin:
       line = line.rstrip()
       
@@ -20,7 +21,7 @@ def main():
         line,
         re.IGNORECASE,
       ))
-      
+         
       is_street_name = bool(re.search(
         r'\b('
         r'Avenue|'
@@ -43,10 +44,6 @@ def main():
         r'Ring|'
         r'Rise|'
         r'Road|'
-        # r'East|'
-        # r'West|'
-        # r'North|'
-        # r'South|'
         r'Street|'
         r'Terrace|'
         r'View|'
@@ -56,15 +53,32 @@ def main():
         line,
         re.IGNORECASE,
       ))
-      
+            
       if (
         is_street_name or
         is_lorong or
         is_jalan
       ):
         print(line)
+        seen_names.append(line)
       else:
-        f.write(line + '\n')
-
+        direction_pattern = r'\b(East|West|North|South)(\s*\d+[A-Za-z]?)?$'
+        is_direction_name = bool(re.search(
+          direction_pattern,
+          line,
+          re.IGNORECASE,
+        ))
+        if is_direction_name:
+          no_direction_name = re.sub(direction_pattern, '', line)
+          if any(
+            re.search(
+              r'\b'+no_direction_name+r'\b', 
+              s,
+            ) for s in seen_names
+          ):
+            print(line)
+        else:
+          f.write(line + '\n')
+        
 if __name__ == "__main__":
     main()
