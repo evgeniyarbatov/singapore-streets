@@ -33,6 +33,5 @@ unique_streets:
 	@echo "" | tee -a $(VALIDATON_RESULT_FILE)
 	@comm -13 $(FILE1) $(FILE2) | gshuf -n $(SAMPLE_SIZE) | tee -a $(VALIDATON_RESULT_FILE)
 
-check_osm:
-	echo comm -13 $(FILE1) $(FILE2) | gshuf -n $(SAMPLE_SIZE) | \
-	xargs -0 -I '{}' grep {} ${SG_OSM_PATH}
+osm:
+	comm -13 $(FILE1) $(FILE2) | gshuf -n $(SAMPLE_SIZE) | xargs -0 -I '{}' grep {} ${SG_OSM_PATH}
