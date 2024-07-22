@@ -33,8 +33,6 @@ def main():
         r'Drive|'
         r'Farmway|'
         r'Gardens|'
-        r'Green|'
-        r'Grove|'
         r'Heights|'
         r'Hill|'
         r'Lane|'

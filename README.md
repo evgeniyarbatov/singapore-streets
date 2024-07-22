@@ -2,6 +2,14 @@
 
 How many streets are there in Singapore? 
 
+## Preqs
+
+Install `gshuf`:
+
+```
+brew install coreutils
+```
+
 ## Steps
 
 Download latest OSM data:
@@ -16,7 +24,3 @@ Get cleaned up street names:
 ```
 make
 ```
-
-## References
-
-- https://gist.github.com/choonkeat/2297910
