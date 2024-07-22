@@ -12,7 +12,7 @@ def main():
       starts_with_letter = re.match(r'^[A-Z]', line)
       is_block = re.match(r'^Blk', line, re.IGNORECASE)
       contains_punctuation = bool(re.search(r'[;,#()]', line))
-      has_stop_words = bool(re.search(r'^After', line))
+      has_stop_words = bool(re.search(r'(^After|^Before|^Entrance)', line))
       has_special_characters = bool(re.search(r'@', line))
       
       if (

@@ -1,52 +1,52 @@
 Summary
 
-    3106 streets in OSM file
+    5217 streets in OSM file
     3968 streets in validation file
-    2594 same streets
-    1887 different streets
+    3252 same streets
+    2682 different streets
 
 Lines only in OSM file:
 
-Yung Shang Road
-Teban Place
-Tampines Avenue 6
-Canberra Walk
-Ajunied Avenue 1
-Aspen Heights
-Serangoon Garden Place
-Jalan Abdul Samad Lorong
-Woodland Drive 75
-Hospital Boulevard
-Jalan Ngee Heng
-Ang Mo Kio Rise
-Jalan Straits View 5
-Tampines Avenue 10
-Jalan Lumba Kuda
-Tuas View Drive
-Lorong 2 Realty Park
-Jalan Yusof Taha 5
-Upp Bt Timah View
-Jalan Keluli
+Sin Ming Street
+Jalan Biru 1
+Straits Boulevard
+Tampines Street 86
+Lorong 15
+Car Park Entrance Way
+Kembangan Gardens
+Swee Hee Lane
+Serangoon Garden Drive
+Tanjong Paagar Terminal Avenue
+Gombak Gardens
+Lorong 27
+Tampines Avenue 11
+Eunos Road 6
+Marsiling Industrial Road 5
+Thong Hup Gardens
+Opposite Dairy Farm Road
+Hotel Grand Central
+Circle Road
+Pasir Ris East
 
 Lines only in validation file:
 
-Bukit Way
-Punggol Road - Track 26
-SUNGEI TENGAH ROAD
-Treasure Island
-Perumal Road
-Siglap Plain
-Robey Crescent
-Karikal Lane
-Pulau Tekong Kechil
 Sengkang East way
-Ash Grove
-Lorong Panchar
-Hyde Park Gate
-Meranti Lane
-Lorong Nangka
-Jalan Ulu Siglap
-Melrose Drive
-Happy Avenue North
-Tanjong Penjuru Crescent
-Compassvale Bow
+Kim Chuan Avenue
+Jalan Angkup
+Saint Patrick's Road
+Kaki Bukit Place
+Lentor Plain
+Queen's Close
+West Coast Grove
+Greenleaf Grove
+McNally Street
+Kampong Amber
+Hong Lee Place
+Ridley Park
+Sentosa Gateway
+Chiselhurst Grove
+Jalan Ma'Mor
+Ellington Square
+Wholesale Centre
+Pitt Street
+Springleaf Close

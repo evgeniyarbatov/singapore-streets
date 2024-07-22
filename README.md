@@ -4,10 +4,9 @@ How many streets are there in Singapore?
 
 ## Preqs
 
-Install `gshuf`:
-
 ```
 brew install coreutils
+brew install wget
 ```
 
 ## Steps
