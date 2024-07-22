@@ -4,6 +4,7 @@ URL = https://gist.githubusercontent.com/choonkeat/$(GIST_ID)/raw
 
 FILE1 = ../singapore-streets.txt
 FILE2 = singapore-streets.txt
+SG_OSM_PATH = ~/osm/singapore.osm
 
 SAMPLE_SIZE = 20
 
@@ -31,3 +32,7 @@ unique_streets:
 	@echo "Lines only in validation file:" | tee -a $(VALIDATON_RESULT_FILE)
 	@echo "" | tee -a $(VALIDATON_RESULT_FILE)
 	@comm -13 $(FILE1) $(FILE2) | gshuf -n $(SAMPLE_SIZE) | tee -a $(VALIDATON_RESULT_FILE)
+
+check_osm:
+	echo comm -13 $(FILE1) $(FILE2) | gshuf -n $(SAMPLE_SIZE) | \
+	xargs -0 -I '{}' grep {} ${SG_OSM_PATH}
