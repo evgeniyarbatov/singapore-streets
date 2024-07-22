@@ -12,6 +12,7 @@ A One Claypot House
 A One Signature
 A Plus Glass Pte Ltd
 A Poke Theory
+A South
 A Star Trading
 A Tilly A Day
 A Treasure Trove
@@ -237,6 +238,8 @@ Acacia Breeze
 Acacia Home
 Acacia Lodge
 Academia
+Academic Block North
+Academic Building South
 Académie Of Stars
 Academy
 Academy Roastery Cafe
@@ -313,6 +316,8 @@ Admiralty Flora
 Admiralty Park
 Admiralty Park North Entrance
 Admiralty Primary School
+Admiralty Road East
+Admiralty Road West
 Admiralty Secondary School
 Admiralty Station
 Admiralty Vista
@@ -819,6 +824,7 @@ Ang Mo Kio Industrial Park 2A
 Ang Mo Kio Interchange
 Ang Mo Kio Linear Park
 Ang Mo Kio Methodist Church
+Ang Mo Kio North
 Ang Mo Kio North Flyover
 Ang Mo Kio North Neighbourhood Police Centre
 Ang Mo Kio Park 1
@@ -828,11 +834,14 @@ Ang Mo Kio Polyclinic
 Ang Mo Kio Primary School
 Ang Mo Kio Public Library
 Ang Mo Kio Secondary School
+Ang Mo Kio South
 Ang Mo Kio South Flyover
 Ang Mo Kio South Neighbourhood Police Centre
 Ang Mo Kio Station
 Ang Mo Kio Town Centre
 Ang Mo Kio Town Council
+Ang Mo Kio Town Garden East
+Ang Mo Kio Town Garden West
 Ang Mo Kio Town Garden West Allotment
 Ang Mo Kio Town Garden West Playground
 Ang Mo Kio Underpass
@@ -1077,6 +1086,7 @@ Arthur D. Forbes
 Artiforest
 Artichoke
 Artificial Island
+Artillery Avenue South
 Artisan Boulangerie Co
 Artisan Boumanger
 Artiste Quotient
@@ -1189,12 +1199,16 @@ Astons Specialties
 Astons Specialities
 Astor
 Astoria
+Auckland Road East
+Auckland Road West
 Balmoral Park
+Bartley Road East
 Bassein Court
 Beach Road 1Street Storey Lobby The Concourse
 Beach Roo
 Bedok Garden
 Bedok North Street 3 Block 510
+Bedok South Road Siglap East
 Benoi Sector
 Bin Tong Park
 Binjai Park
@@ -1216,21 +1230,31 @@ Changi Business Park Vista
 Chaun Garden
 Choa Chu Kang
 Choa Chu Kang Cresent
+Choa Chu Kang North 5
+Choa Chu Kang North 6
+Choa Chu Kang North 7
 Choa Chu Kang Park Connector
 Choa Chu Kang Road Track 10
 Chuan Garden
 Clarke Quay
+Clemenceau Avenue North
+Clemenceau Avenue North
 Clemenceau Avenue Singapore Shopping Centre
 Clifton Vale
 Clover Cres
 Cluny Court
 Cluny Park
+College Avenue East
+College Avenue West
 Collyer Quay
+Commonwealth Avenue West
 Compassvale Bow
 Coral Island
+Coronation Road West
 Cove Avenue Circus
 Dalvey Estate
 Delta Estate
+Dover Close East
 Draycott Park
 East Coast Parkway
 Edgedale Plains
@@ -1353,12 +1377,15 @@ Persiaran Laksamana
 Persiaran Layar Perak
 Persiaran Puteri Selatan
 Pine Grove Clubhouse
+Pioneer Road North
 Pioneer Sector 1
 Pioneer Sector 3
 Pioneer Turn
 Plaza Singapura
+Poh Huat Road West
 Pulau Tekong Besar
 Punggol Drivel
+Punggol East
 Punggol Field
 Punggol Park Connector
 Puteri Harbour
@@ -1390,14 +1417,18 @@ Sentosa Station
 Serangoon Aenue 1
 Serangoon Steet
 Shenton Way Terminal
+Siglap Avenue South
 Siglap Bank
 Siglap Plain
+Sims Avenue East
 Smith Street New Bridge Centre
 Social Club House
 Spottiswoode
 Springleaf Garden
 Springwood Height
 Stamford Road Capitol Piazza
+Still Road South
+Sturdee Road North
 Sultan Gate
 Sunset Square
 Sunset Vale
@@ -1416,6 +1447,7 @@ Taman Warna
 Tampines Concourse
 Tampines Grande
 Tanah Merah Kasturi
+Tanah Merah Kechil Road South
 Tanglin Road Tanglin Mall
 Tanjong Pagar Plaza
 Tanjong Penjuru
@@ -1433,8 +1465,13 @@ The Oval Seletar Aerospace Park
 The Sensoria
 The Star Vista
 Thomson Ridge
+Toa Payoh East
 Toa Payoh Industrial Park
+Toa Payoh North
+Toa Payoh West
+Toh Guan Road East
 Toh Tuck Pl
+Tph Guan Road East
 Treasure Island
 Tuas View Circuit
 Tuas View Square
@@ -1442,6 +1479,8 @@ Uob Centre
 Ubi Crescent Number One Building
 Ulu Pandan Park Connector
 United Square
+Upper Changi Road East
+Upper Changi Road North
 Upper Pickering Stree
 Upper Thomson
 Victoria Street Bugis Junction
@@ -1452,7 +1491,10 @@ Watten Park
 West Coast Highway
 West Coast Park
 West Coast Vale
+Whampoa East
+Whampoa South
 Whampoa Spring
+Whampoa West
 White House Park
 Wholesale Centre
 Woodlands
