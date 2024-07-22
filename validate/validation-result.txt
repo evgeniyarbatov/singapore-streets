@@ -1,0 +1,52 @@
+Summary
+
+    3106 streets in OSM file
+    3968 streets in validation file
+    2594 same streets
+    1887 different streets
+
+Lines only in OSM file:
+
+Yung Shang Road
+Teban Place
+Tampines Avenue 6
+Canberra Walk
+Ajunied Avenue 1
+Aspen Heights
+Serangoon Garden Place
+Jalan Abdul Samad Lorong
+Woodland Drive 75
+Hospital Boulevard
+Jalan Ngee Heng
+Ang Mo Kio Rise
+Jalan Straits View 5
+Tampines Avenue 10
+Jalan Lumba Kuda
+Tuas View Drive
+Lorong 2 Realty Park
+Jalan Yusof Taha 5
+Upp Bt Timah View
+Jalan Keluli
+
+Lines only in validation file:
+
+Bukit Way
+Punggol Road - Track 26
+SUNGEI TENGAH ROAD
+Treasure Island
+Perumal Road
+Siglap Plain
+Robey Crescent
+Karikal Lane
+Pulau Tekong Kechil
+Sengkang East way
+Ash Grove
+Lorong Panchar
+Hyde Park Gate
+Meranti Lane
+Lorong Nangka
+Jalan Ulu Siglap
+Melrose Drive
+Happy Avenue North
+Tanjong Penjuru Crescent
+Compassvale Bow
