@@ -24,3 +24,7 @@ Get cleaned up street names:
 ```
 make
 ```
+
+## Open issues
+
+- Typos in OSM like `Woodland Drive 75` instead of `Woodlands Drive 75`
