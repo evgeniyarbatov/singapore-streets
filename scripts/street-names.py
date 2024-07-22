@@ -9,45 +9,59 @@ def main():
     for line in sys.stdin:
       line = line.rstrip()
       
+      is_lorong = bool(re.search(
+        r'\bLorong(\s*\d+[A-Za-z]?)?\s*',
+        line,
+        re.IGNORECASE,
+      ))
+      
+      is_jalan = bool(re.search(
+        r'^Jalan\s*',
+        line,
+        re.IGNORECASE,
+      ))
+      
       is_street_name = bool(re.search(
         r'\b('
-        r'Avenue(\s*\d+[A-Za-z]?)?$|'
+        r'Avenue|'
         r'Boulevard|'
         r'Central|'
         r'Circle|'
         r'Close|'
         r'Crescent|'
-        r'Drive(\s*\d+[A-Za-z]?)?$|'
+        r'Drive|'
         r'Farmway|'
         r'Gardens|'
         r'Green|'
         r'Grove|'
         r'Heights|'
         r'Hill|'
-        r'Jalan|'
         r'Lane|'
         r'Link|'
         r'Loop|'
-        r'Lorong|'
         r'Place$|'
         r'Ring|'
         r'Rise|'
-        r'Road(\s*\d+[A-Za-z]?)?$|'
-        r'East(\s*\d+[A-Za-z]?)?$|'
-        r'West(\s*\d+[A-Za-z]?)?$|'
-        r'North(\s*\d+[A-Za-z]?)?$|'
-        r'South(\s*\d+[A-Za-z]?)?$|'
-        r'Street(\s*\d+[A-Za-z]?)?$|'
+        r'Road|'
+        r'East|'
+        r'West|'
+        r'North|'
+        r'South|'
+        r'Street|'
         r'Terrace|'
         r'View|'
-        r'Walk(\s*\d+[A-Za-z]?)?$|'
+        r'Walk|'
         r'Way'
-        r')\b',
+        r')(\s*\d+[A-Za-z]?)?$',
         line,
         re.IGNORECASE,
       ))
       
-      if is_street_name:
+      if (
+        is_street_name or
+        is_lorong or
+        is_jalan
+      ):
         print(line)
       else:
         f.write(line + '\n')

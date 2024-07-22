@@ -1,6 +1,5 @@
 A South
 Abingdon Road
-Acacia @ Sengkang South
 Academic Block North
 Academic Building South
 Adam Drive
@@ -18,13 +17,10 @@ Admiralty Road East
 Admiralty Road West
 Admiralty Street
 Adora Green
-Aero Green Technology Pte Ltd
 Ah Hood Gardens
-Ah Hood Gardens Community Garden
 Ah Hood Road
 Ah Soo Walk
 Aida Street
-Air House / The Green House
 Airline Cargo Road
 Airline Road
 Airport Boulevard
@@ -44,7 +40,6 @@ Alexandra Lane
 Alexandra Road
 Alexandra Terrace
 Alexandra View
-Alexandria Hill East Neighborhood Park
 Aliwal Street
 Aljunied Avenue 1
 Aljunied Avenue 2
@@ -52,7 +47,6 @@ Aljunied Avenue 3
 Aljunied Avenue 4
 Aljunied Avenue 5
 Aljunied Crescent
-Aljunied Crescent Street Soccer Court
 Aljunied Road
 Aljunied Walk
 Alkaff Crescent
@@ -60,11 +54,8 @@ Allamanda Grove
 Allanbrooke Road
 Allenby Road
 Allotment Gardens
-Allotment Gardens @ Punggol Waterway Park
-Allotment Gardens @ Sengkang Riverside Park
 Almond Avenue
 Almond Crescent
-Almond Crescent Playground
 Almond Street
 Alnwick Road
 Alps Avenue
@@ -76,7 +67,6 @@ Amber Road
 Amk Tech Link
 Amoy Street
 Anamalai Avenue
-Anchor Green Primary School
 Anchorvale Close
 Anchorvale Crescent
 Anchorvale Drive
@@ -107,8 +97,6 @@ Ang Mo Kio Central
 Ang Mo Kio Central 1
 Ang Mo Kio Central 2
 Ang Mo Kio Central 3
-Ang Mo Kio Central Flyover
-Ang Mo Kio Central Post Office
 Ang Mo Kio Drive
 Ang Mo Kio Electronics Park Road
 Ang Mo Kio Grove
@@ -149,11 +137,7 @@ Angklong Lane
 Angora Close
 Angsana Avenue
 Angsana Drive
-Angsana Green East Coast Parkway
-Angsana Rc @ Sengkang South
 Ann Siang Hill
-Ann Siang Hill Park
-Ann Siang Hill Water Well
 Ann Siang Road
 Annamalai Chitty Lane
 Anson Road
@@ -161,7 +145,6 @@ Anthony Road
 Aperia/Before Kallang Road
 Appleton View
 Aquatic Avenue
-Aqueen Prestige Hotel Jalan Besar
 Arab Street
 Arcadia Road
 Architecture Drive
@@ -183,7 +166,6 @@ Ashley Green
 Ashwood Grove
 Asimont Lane
 Aspen Heights
-Assemblage @ 362 Holland Road
 Aston Green
 Astor Green
 Astrid Hill
@@ -464,7 +446,6 @@ Cedar Avenue
 Cedarwood Grove
 Central Boulevard
 Central Exchange Green
-Central Expressway
 Ceylon Road
 Chai Chee Avenue
 Chai Chee Drive
@@ -1077,7 +1058,6 @@ Irving Road
 Irwell Hill
 Island Club Road
 Island Gardens Walk
-Jabatan Agama Islam Negeri Johormore Info Jalan Masjid Abu Bakar
 Jalan Abadi
 Jalan Abdul Rahman Andak
 Jalan Abdul Rahman Andak 1
@@ -2172,7 +2152,6 @@ Pasir Ris Drive 6
 Pasir Ris Drive 8
 Pasir Ris Farmway 1
 Pasir Ris Green
-Pasir Ris Green Carkpark C
 Pasir Ris Grove
 Pasir Ris Heights
 Pasir Ris Industrial Drive 1
@@ -2247,7 +2226,6 @@ Pickering Street
 Pillai Road
 Pine Close
 Pine Grove
-Pine Grove Clubhouse
 Pine Walk
 Pinewood Grove
 Pinsep Street
@@ -2306,7 +2284,6 @@ Race Course Lane
 Race Course Road
 Raffles Avenue
 Raffles Boulevard
-Raffles Boulevard Marina Square
 Raffles Institution Lane
 Raffles Link
 Raffles Place
@@ -2485,7 +2462,6 @@ Shangri-La Walk
 Shaw Road
 Shelford Road
 Shenton Way
-Shenton Way Terminal
 Short Street
 Shrewsbury Road
 Shunfu Road
@@ -2950,7 +2926,6 @@ Tuas South Street 9
 Tuas Street
 Tuas View Avenue 10
 Tuas View Avenue 14
-Tuas View Circuit
 Tuas View Close
 Tuas View Crescent
 Tuas View Drive
@@ -2958,7 +2933,6 @@ Tuas View Lane
 Tuas View Link
 Tuas View Loop
 Tuas View Place
-Tuas View Square
 Tuas View Walk 1
 Tuas West Avenue
 Tuas West Drive
@@ -2978,7 +2952,6 @@ Ubi Avenue 3
 Ubi Avenue 4
 Ubi Close
 Ubi Crescent
-Ubi Crescent Number One Building
 Ubi Link
 Ubi Road 1
 Ubi Road 2
