@@ -1,52 +1,52 @@
 Summary
 
-    3060 streets in OSM file
+    3117 streets in OSM file
     3968 streets in validation file
-    2577 same streets
-    1875 different streets
+    2605 same streets
+    1876 different streets
 
 Lines only in OSM file:
 
-Seletar Green Avenue
-Defu South Street 2
-Lorong 1
-Jalan Lekas
-Jalan Pak Lomak
-Tampines North Drive 5
-Seletar Aerospace Road 1
-Jalan Pertiwi
-Gateway Drive
-Waterloo Close
-Clarke Quay Central
-Olympic Walk
-Jalan Batu Ubin
-Pays Lebar Road
-Bukit Timah Link
-Conservatory Drive
-Tengah Garden Walk
-Eu Tong Sen Street Clarke Quay Central
-Lentor Gardens
-Tuas South Link 2
+South Bedok Road
+Jalan Piring
+Jalan Inche Besar Zubaidah
+No.30 Sembawang Drive
+Lentor Central
+Yishun Street 42
+Lorong Kerepek
+Waterloo Link
+Lorong 2D Jalan Abdul Samad
+Tuas South Link 4
+Media Link
+Jalan Abdul Rahman Andak 2
+Buroh Crescent
+Yunnan Walk
+Tampines Street 61
+Jalan Petri 7
+Sembawang Link
+Fairway Drive
+Seletar Aerospace Avenue
+Bulim Drive
 
 Lines only in validation file:
 
-Mugliston Gardens
-Jalan Pokok Serunai
-Nutmeg Road
-Jalan Pelajau
-Lentor Lane
-Jamaica Road
-Chia Ping Road
-Leedon Park
-Jalan Arif
-Geylang Bahru
-Ean Kiam Place
-Jalan Pelangi
-Kew Avenue
-Halton Road
-Kelulut Hill
-Kerong Lane
-Lentor Place
-Ark Lane
-Seletar Crescent
-Benoi Sector
+Allamanda Grove
+Tractor Road
+Tanglin Halt Close
+Park Villas Green
+Kalidasa Avenue
+Marsiling Avenue
+Raffles Quay
+Kang Choo Bin Walk
+Jalan Gelam
+Panjang Road
+Defu Lane 6
+Meragi Terrace
+Cheng Soon Crescent
+Kaki Bukit Avenue 2
+Peakville Terrace
+Pasir Ris Crescent
+Joo Yee Road
+Carmen Terrace
+Matlock Rise
+Goodlink Park
