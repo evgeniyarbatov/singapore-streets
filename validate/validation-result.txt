@@ -1,52 +1,52 @@
 Summary
 
-    5217 streets in OSM file
+    3060 streets in OSM file
     3968 streets in validation file
-    3252 same streets
-    2682 different streets
+    2577 same streets
+    1875 different streets
 
 Lines only in OSM file:
 
-Sin Ming Street
-Jalan Biru 1
-Straits Boulevard
-Tampines Street 86
-Lorong 15
-Car Park Entrance Way
-Kembangan Gardens
-Swee Hee Lane
-Serangoon Garden Drive
-Tanjong Paagar Terminal Avenue
-Gombak Gardens
-Lorong 27
-Tampines Avenue 11
-Eunos Road 6
-Marsiling Industrial Road 5
-Thong Hup Gardens
-Opposite Dairy Farm Road
-Hotel Grand Central
-Circle Road
-Pasir Ris East
+Seletar Green Avenue
+Defu South Street 2
+Lorong 1
+Jalan Lekas
+Jalan Pak Lomak
+Tampines North Drive 5
+Seletar Aerospace Road 1
+Jalan Pertiwi
+Gateway Drive
+Waterloo Close
+Clarke Quay Central
+Olympic Walk
+Jalan Batu Ubin
+Pays Lebar Road
+Bukit Timah Link
+Conservatory Drive
+Tengah Garden Walk
+Eu Tong Sen Street Clarke Quay Central
+Lentor Gardens
+Tuas South Link 2
 
 Lines only in validation file:
 
-Sengkang East way
-Kim Chuan Avenue
-Jalan Angkup
-Saint Patrick's Road
-Kaki Bukit Place
-Lentor Plain
-Queen's Close
-West Coast Grove
-Greenleaf Grove
-McNally Street
-Kampong Amber
-Hong Lee Place
-Ridley Park
-Sentosa Gateway
-Chiselhurst Grove
-Jalan Ma'Mor
-Ellington Square
-Wholesale Centre
-Pitt Street
-Springleaf Close
+Mugliston Gardens
+Jalan Pokok Serunai
+Nutmeg Road
+Jalan Pelajau
+Lentor Lane
+Jamaica Road
+Chia Ping Road
+Leedon Park
+Jalan Arif
+Geylang Bahru
+Ean Kiam Place
+Jalan Pelangi
+Kew Avenue
+Halton Road
+Kelulut Hill
+Kerong Lane
+Lentor Place
+Ark Lane
+Seletar Crescent
+Benoi Sector
