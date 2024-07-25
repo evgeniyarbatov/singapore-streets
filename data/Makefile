@@ -23,6 +23,8 @@ process:
 
 extract:
 	grep '<tag k="addr:street" v=' $(SG_OSM_PATH) | sed 's/.*v="\([^"]*\)".*/\1/' | sort | uniq > $(SG_STREETS_FILE)
+#	Filter to get most common Singapore street names from 'name' tag since 'name' tag has a lot of non-street names. 
+# I use it because not all streets are tagged with 'addr:street'
 	grep '<tag k="name" v=' $(SG_OSM_PATH) | sed 's/.*v="\([^"]*\)".*/\1/' | egrep -i '(road$|avenue$|street$|drive$|crescent$|lane$|walk$|jalan|lorong)' | sort | uniq >> $(SG_STREETS_FILE)
 	sort $(SG_STREETS_FILE) | uniq > $(TMP_SG_STREETS_FILE)
 	mv $(TMP_SG_STREETS_FILE) $(SG_STREETS_FILE) 
