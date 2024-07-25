@@ -1,13 +1,6 @@
 # Singapore Streets
 
-How many streets are there in Singapore? 
-
-## Preqs
-
-```
-brew install coreutils
-brew install wget
-```
+How many streets are there in Singapore?
 
 ## Steps
 
