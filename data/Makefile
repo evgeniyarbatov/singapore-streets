@@ -23,7 +23,6 @@ process:
 
 extract:
 	grep '<tag k="addr:street" v=' $(SG_OSM_PATH) | sed 's/.*v="\([^"]*\)".*/\1/' | sort | uniq > $(SG_STREETS_FILE)
-# <tag k="name /> contains valid streets in <tag k="addr:street" /> but adds a lot of noise
-# grep '<tag k="name" v=' $(SG_OSM_PATH) | sed 's/.*v="\([^"]*\)".*/\1/' | sort | uniq >> $(SG_STREETS_FILE)
+	grep '<tag k="name" v=' $(SG_OSM_PATH) | sed 's/.*v="\([^"]*\)".*/\1/' | egrep -i '(road$|avenue$|street$|drive$|crescent$|lane$|walk$|jalan|lorong)' | sort | uniq >> $(SG_STREETS_FILE)
 	sort $(SG_STREETS_FILE) | uniq > $(TMP_SG_STREETS_FILE)
 	mv $(TMP_SG_STREETS_FILE) $(SG_STREETS_FILE) 

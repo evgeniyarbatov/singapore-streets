@@ -250,6 +250,19 @@
 930 Yishun Avenue 2, Northpoint City North Wing
 930 Yishun Avenue 2, Northpoint City North Wing
 94 Nanyang Crescent
+After Lorong 1 Geylang
+After Lorong 106 Changi
+After Lorong 14 Geylang
+After Lorong 28 Geylang
+After Lorong 34 Geylang
+After Lorong Danau
+After Lorong G Telok Kurau
+After Lorong H Telok Kurau
+After Lorong J Telok Kurau
+After Lorong M Telok Kurau
+After Lorong Nangka
+After Lorong Sarhad
+After Lorong Tanggam
 Airport Boulevard, #01-K207 Jewel Changi Airport Kiosk
 Airport Boulevard, #02-90, Departure Hall Level 2,
 Airport Cargo Road, Gate C7, Changi Airfreight Centre
@@ -257,14 +270,26 @@ Albert Street, #12-11/12 Og Albert Complex
 Amoy Street, Far East Square
 Ang Mo Kio Avenue 10, #01-1974
 Ang Mo Kio Industrial Park 2A, #04-06 Amk Techlink
+Angullia Park
 Anson Road #31-06
 Anson Road, #01-02
+Ardmore Park
 Arrival Hall North, Basement 2 South (In Front Of Foodcourt), Departure Transit South Central, Departure Check-In Hall South, Departure Check-In Hall North
 Blk 531A Upper Cross Street
+Balmoral Park
 Basement North, Arrival Hall South, Arrival Hall North, Departure/Check-In Hall North, Departure/Transit Lounge South, Departure/Transit North
 Bayfront Avenue, #B2-20/20A
 Bedok Reservoir Road #01-3053
 Bedok Ria Crescent #01 - 28 Stratford Court
+Before Lorong 110 Changi
+Before Lorong 18 Geylang
+Before Lorong 23 Geylang
+Before Lorong Bakar Batu
+Before Lorong Danau
+Before Lorong K Telok Kurau
+Before Lorong Serambi
+Bin Tong Park
+Binjai Park
 Blk 161 Ang Mo Kio Avenue 4
 Blk 178, Toa Payoh Central
 Blk 256 Bangkit Road
@@ -293,43 +318,67 @@ Blk 86 Redhill Close
 Blk 883 Woodlands Street 82, Woodlands North Plaza
 Boon Tiong Road #01-08
 Boon Tiong Road #01-09
+Brizay Park
 Buangkok (Nel)
 Burn Road, Suite 08-09 Trivex
 Buroh Street #01-05/06
+Camden Park
 Cassia Crescent #01-80
 Changi Business Park Central 1, #01-41
 Cheong Chin Nam Road;Upper Bukit Timah Road
 Chulia Street #01-01A/01B Ocbc Centre East
 Clemenceau Avenue #01-31 Ue Square
 Clementi Road, Singapore Institute Of Management, Block C Unit C.1.07
+Cluny Park
 Collyer Quay, #B1-07 Ocean Financial Centre
 D&Apos;Almeida Street
 Departure / Check-In Hall South, #026-049 Terminal 2 Singapore Changi Airport
 Departure / Check-In Hall,Terminal 4 Singapore Changi Airport
 Dover Road, Food Court 5,
+Draycott Park
 Duke&Apos;S Road
 East Coast Road #03-09
 East Coast Road #03-14
+Eunos Park
+Everton Park
 Everton Park, #01-33
+Ewart Park
+Faber Park
+Farrer Park Station Road
+Farrer Park Station Road
+Florissa Park
 Fullerton Road #01-04 One Fullerton
 Gb Point, Kallang Bahru
+Gallop Park
 Gateway Drive, #02-04/04A
 George Street #01-02
+Gerald Park
+Goodlink Park
+Grace Park
 Grange Road, #01-K1 Cathay Cineleisure Orchard
+Greenbank Park
 Guillemard Road,Level 3 Wing Fong Building
 Handy Road The Cathay #01-05
 Harbourfront Walk #03-05 (Lobby F) Vivocity
 Harbourfront Walk, #02-03/04 Vivo City
 Harbourfront Walk, #02-234, Vivocity
 Hillview Terrace #01-06
+Holland Park
 Holland Village Way #03-06
 Hougang Avenue 7 #01-787
+Hougang Mrt Station
 Hougang Street 21 #03-207
 Imm Building 2, Jurong East Street 21
+International Business Park
 Irrawaddy Road, #20-01 Royal Square Medical Centre Royal Square @ Novena
 Irrawaddy Road #01-14 Mount Elizabeth Novena Hospital
 Irving Place #07-04
 Irving Place, #08-06
+Jb Ciq Kastam Ke Malaysia: Zon A - Lorong 1
+Jb Ciq Kastam Ke Malaysia: Zon A - Lorong 2-3
+Jb Ciq Kastam Ke Malaysia: Zon A - Lorong 4-5
+Jb Ciq Kastam Ke Malaysia: Zon B - Lorong 10
+Jb Ciq Kastam Ke Malaysia: Zon B - Lorong 6-7
 Jalan Anak Bukit, #B2-06A.
 Jalan Anak Bukit, Bukit Timah Plaza
 Jalan Dato&Apos; Hj. Abdullah
@@ -349,35 +398,113 @@ Jurong West Street 61, Pioneer Mall
 Kallang Way #01-03/04/05/06
 Kallang Avenue, Aperia
 Kampung Telok Kabong, Kampung Pasir Puteh
+Kastam Jb Ciq Kastam Ke Malaysia: Zon B - Lorong 8-9
+Kensington Park
+Kheam Hock Park
 Killiney Road, Orchard Grand Court
+King Albert Park
 King George&Apos;S Avenue
 King&Apos;S Avenue
 King&Apos;S Drive
 King&Apos;S Road
 Koek Road #03-21
+Leedon Park
+Leith Park
 Little India (Nel)
+Lorong 2 Realty Park
 Lorong 6 Toa Payoh, Safra
+Lorong 7 Realty Park
+Lorong 1
+Lorong 1 Geylang Terminal
+Lorong 1 Realty Park
+Lorong 10
+Lorong 11
+Lorong 12
+Lorong 13
+Lorong 15
+Lorong 16
+Lorong 17
+Lorong 18
+Lorong 19
+Lorong 2
+Lorong 2 Realty Park
+Lorong 20
+Lorong 21
+Lorong 22
+Lorong 23
+Lorong 24
+Lorong 25
+Lorong 26
+Lorong 27
+Lorong 28
+Lorong 29
+Lorong 3
+Lorong 30
+Lorong 34
+Lorong 35
+Lorong 36
+Lorong 37
+Lorong 38
+Lorong 39
+Lorong 4
+Lorong 4 Realty Park
+Lorong 40
+Lorong 40 Geylang Playground
+Lorong 5
+Lorong 5 Realty Park
+Lorong 6
+Lorong 6 Realty Park
 Lorong 6 Toa Payoh #01-14, Singapore
+Lorong 7
+Lorong 7 Realty Park
+Lorong 8
+Lorong Chuan (Cc)
+Lorong Chuan Station
+Lorong Chuan Station Exit A
+Lorong Halwa (Original)
+Lorong Jalan Dhoby (Parking)
+Lorong Koo Chye Sheng Hong Temple
+Lorong Marican Interim Park
+Lorong Mazuki Interim Park
+Lorong Melayu Interim Park
+Lorong Melayu Park
+Lorong Melayu Park Fitness Centre
+Lorong Melayu Park Playground
+Lorong Mydin Interim Park
+Lorong Ong Lye Park
+Lorong Sarina Interim Park
+Lorong Tanggam Park
 Lower Kent Ridge Road, National University Hospital
+Malcolm Park
 Mandai Lake Road, River Safari
 Marina Boulevard, #B2-10 Marina Bay Link Mall
 Marina Boulevard #B2-38-36
+Marina Station Road
 Marine Crescent #01-49
 Marine Parade Road, Isetan, Parkway Parade
 Marine Parade Road #01-10A/B Parkway Parade
+Marine Parade Road Park
 Marine Parade Road, #02-45, Parkway Parade
 Marine Terrace #01-108
 Marsiling Ind Estate Road 5, #03-06A
 Millenia Walk #01-K7/K11/K12/K13
+Ming Teck Park
 Monk&Apos;S Hill Road
 Mosque Street;摩士街
+Mugliston Park
 Neil Road, #01-06
 Neil Road, #01-07
+Nepal Park
 New Bridge Road, #02-55 Chinatown Point
 New Upper Changi Road Bedok Mall,
+Normanton Park
 North Bridge Road, #01-09, Raffles Hospital
 North Bridge Road, Odeon Towers
 North Bridge Road. #03-07. Raffles City Shopping Centre.
+Opposite Lorong 1 Geylang Terminal
+Opposite Lorong 39 Geylang
+Opposite Lorong Chuan Station Exit B
+Opposite Lorong Sarhad
 Orchard Road #B1-69 Lucky Plaza
 Orchard Road,
 Orchard Road, Isetan Orchard-Wisma Atria
@@ -399,16 +526,20 @@ Petir Road, #B1 – 28/29/30 Hillion Mall
 Prince George&Apos;S Park
 Punggol (Nel)
 Punngol Drive, Oasis Terraces, #02-35
+Queen Astrid Park
 Queen&Apos;S Avenue
 Queen&Apos;S Close
 Queen&Apos;S Crescent
 Queen&Apos;S Road
+Raeburn Park
 Raffles Boulevard #03-217/218 Marina Square
 Raffles Boulevard, #01-106 Millenia Walk
 Raffles Place #01-15/16 Republic Plaza
 Raffles Place, #19-16, Singapore Land Tower
+Ridley Park
 Rivervale Cres, Rivervale Mall
 Robinson Road #01-02 City House
+Rochester Park
 Rochor Canal Road #02-85
 Street Engineering Digital Hub (Front Entrance)
 Saint Andrew&Apos;S Road
@@ -425,9 +556,11 @@ Seah Street;Beach Road
 Seletar Road, Greenwich V
 Sengkang Square, Compass One
 Sentosa Gateway, Universal Studios Singapore
+Sentosa Station
 Serangoon Central, Isetan-Nex Mall
 Serangoon Road;Dunlop Street
 Serene Centre #02-03
+Shenton Way Terminal
 Shenton Way, #01-02
 Shepherd&Apos;S Drive
 Silat Avenue, #01-40
@@ -442,6 +575,30 @@ Street Patrick&Apos;S Road
 Stadium Place, #01-56, Kallang Wave Mall
 Students Walk, Ntu Canteen 2
 Sun Plaza, 30 Sembawang Drive,
+Svc 11 (Roundtrip From Lorong 1 Geylang Terminal)
+Svc 140 (Roundtrip From Lorong 1 Geylang Terminal)
+Svc 141 (Lorong 1 Geylang Terminal → Toa Payoh Interchange)
+Svc 141 (Lorong 1 Geylang Terminal ↔ Toa Payoh Interchange)
+Svc 141 (Toa Payoh Interchange → Lorong 1 Geylang Terminal)
+Svc 175 (Clementi Interchange → Lorong 1 Geylang Terminal)
+Svc 175 (Clementi Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 175 (Lorong 1 Geylang Terminal → Clementi Interchange)
+Svc 21A (Before Lorong 18 Geylang → Before Tai Hoe Hotel)
+Svc 853 (Lorong 1 Geylang Terminal → Yishun Interchange)
+Svc 853 (Yishun Interchange → Lorong 1 Geylang Terminal)
+Svc 853 (Yishun Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 961 (Lorong 1 Geylang Terminal → Woodlands Temporary Interchange)
+Svc 961 (Woodlands Temporary Interchange → Lorong 1 Geylang Terminal)
+Svc 961 (Woodlands Temporary Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 961M (Lorong 1 Geylang Terminal → Woodlands Temporary Interchange)
+Svc 961M (Woodlands Temporary Interchange → Lorong 1 Geylang Terminal)
+Svc 961M (Woodlands Temporary Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 980 (Lorong 1 Geylang Terminal → Sembawang Interchange)
+Svc 980 (Sembawang Interchange → Lorong 1 Geylang Terminal)
+Svc 980 (Sembawang Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 985 (Choa Chu Kang Interchange → Lorong 1 Geylang Terminal)
+Svc 985 (Choa Chu Kang Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 985 (Lorong 1 Geylang Terminal → Choa Chu Kang Interchange)
 Tampines Avenue 3, #01-09
 Tampines Central 5, #01-19, Century Square
 Tampines Central 5, #01-50,
@@ -453,6 +610,11 @@ Temasek Boulevard, #02-603/604
 Temasek Boulevard #01-433 Suntec City Mall
 Temasek Boulevard #02-393/394 Suntec Convention Centre
 Temasek Boulevard, #02-613/614, Suntec City Mall
+Temple Street
+The Oval Seletar Aerospace Park
+Toa Payoh Industrial Park
+Toa Payoh Lorong 7 Park
+Toa Payoh Lorong 8 Market
 Tras Street #01-05, 100 Am
 Ubi Road 1 #01-23
 Ubi Road 1 #05-28
@@ -464,12 +626,18 @@ Upper Thomson Road #01-37A Thomson Plaza
 Venture Drive #02-17
 Vista Exchange Green, B1-21. The Star Vista.
 Wallich Street #01-08 Tanjong Pagar Centre
+Waringin Park
 Waterway Point, 83 Punggol Central
+Watten Park
+West Coast Park
 West Coast Road, #01-01
+White House Park
 Wilkie Road #01-19/20 Wilkie Edge
 Woodlands Avenue 2, #01-7/8/15
 Woodlands Drive 71, Kampung Admiralty #01-02,
 Woodlands Industrial Park E9 #01-01
+Woodleigh Park
+Woollerton Park
 Yio Chu Kang Road #01-02
 Yishun Avenue 2 #01-07/08 Northpoint
 公司65

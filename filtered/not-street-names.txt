@@ -4,10 +4,7 @@ Ang Mo Kio Industrial Park 1
 Ang Mo Kio Industrial Park 2
 Ang Mo Kio Industrial Park 2A
 Angsana Breeze
-Angullia Park
-Ardmore Park
 Ashwood Grove
-Balmoral Park
 Bassein Court
 Beach Road 1Street Storey Lobby The Concourse
 Beach Roo
@@ -15,13 +12,10 @@ Bedok Garden
 Bedok North Street 3 Block 510
 Beechwood Grove
 Benoi Sector
-Bin Tong Park
-Binjai Park
 Biomedical Grove
 Blue Square Grade Trail
 Boat Quay
 Braddell
-Brizay Park
 Buangkok Green
 Bugis Junction
 Bukit Ayer Molek
@@ -29,7 +23,6 @@ Bukit Batok
 Bukit Gombak
 Bukit Mugliston
 Bukit Timah Shopping Centre
-Camden Park
 Cardiff Grove
 Carisbrooke Grove
 Cathay Forecourt
@@ -50,7 +43,6 @@ Clemenceau Avenue Singapore Shopping Centre
 Clifton Vale
 Clover Cres
 Cluny Court
-Cluny Park
 Colchester Grove
 College Green
 Collyer Quay
@@ -62,7 +54,6 @@ Cove Avenue Circus
 Cove Grove
 Dalvey Estate
 Delta Estate
-Draycott Park
 East Coast Parkway
 Eastwood Green
 Eden Grove
@@ -73,27 +64,17 @@ Elite Terrance
 Ellington Square
 Eng Kong Garden
 Engku Aman Turn
-Eunos Park
-Everton Park
-Ewart Park
 Faber Green
-Faber Park
 Fairprice
 Far East Plaza
 Finlayson Green
-Florissa Park
 Fullerton Square
 Funan
-Gallop Park
-Gerald Park
 Getlang Bahru
 Geylang Bahru
 Geylang Serai
 Goldhill Plaza
-Goodlink Park
-Grace Park
 Grange Garden
-Greenbank Park
 Greenleaf Grove
 Greenwood Grove
 Handy Road The Cathay
@@ -102,14 +83,11 @@ Hartley Grove
 Havelock Square
 Hawk Arena
 Holland Green
-Holland Park
 Holland Piazza
 Hougang Avenue 3 Park Connector
-Hougang Mrt Station
 Hyde Park Gate
 Imm
 Ion Orchard
-International Business Park
 Irving Point
 Jabatan Agama Islam Negeri Johormore Info Jalan Masjid Abu Bakar
 Japan Besar
@@ -124,17 +102,12 @@ Kampong Bugis
 Kampong Eunos
 Kampong Kayu
 Kampung Sireh
-Kensington Park
 Keppel Bay Vista
-Kheam Hock Park
 Kim Seng Promenade
 Kim Seng Promenade Great World
-King Albert Park
 Kismis Green
 Laguna Golf Green
 Lebuh Laksamana
-Leedon Park
-Leith Park
 Lengkok Bahru
 Lengkok Merak
 Lengkong Dua
@@ -152,26 +125,20 @@ Loring Telok
 Lynwood Grove
 Mahmoodiah Interchange
 Maida Vale
-Malcolm Park
 Mandai Estate
 Marina Mall
 Marina Square Shopping Mall
-Marine Parade Road Park
 Marine Vista
 Maritime Square
 Mckenzie
 Meldrum
 Mimosa Vale
-Ming Teck Park
 Mount Elizabeth
 Mount Elizabeth Medical Centre
 Mount Sinai Plain
 Mount Sophia
-Mugliston Park
-Nepal Park
 Nim Green
 Nong Chik Height
-Normanton Park
 North Boat Quay
 North Bridge Road Funan
 North Bridge Road Raffles City
@@ -216,9 +183,7 @@ Punggol Drivel
 Punggol Field
 Punggol Park Connector
 Puteri Harbour
-Queen Astrid Park
 Queensway
-Raeburn Park
 Raffles Boulevard Marina Square
 Raffles City
 Raffles Exchange
@@ -226,12 +191,10 @@ Raffles Quay
 Raglan Grove
 Redhill
 Rhu Cross
-Ridley Park
 River Valley
 River Valley Green
 Rivervale Gateway
 Robertson Quay
-Rochester Park
 Sandy Island
 Sector A Sin Ming Industrial Estate
 Sector B Sin Ming Ind Estate
@@ -242,10 +205,8 @@ Sembawang Vista
 Sengkang Square
 Sentosa Gateway
 Sentosa Gateway Rws
-Sentosa Station
 Serangoon Aenue 1
 Serangoon Steet
-Shenton Way Terminal
 Siglap Bank
 Siglap Plain
 Smith Street New Bridge Centre
@@ -292,14 +253,12 @@ The Esplanade
 The Inglewood
 The Knolls
 The Oval
-The Oval Seletar Aerospace Park
 The Sensoria
 The Star Vista
 Thomson Green
 Thomson Grove
 Thomson Ridge
 Thong Soon Green
-Toa Payoh Industrial Park
 Toh Tuck Pl
 Treasure Island
 Tuas View Circuit
@@ -316,16 +275,12 @@ Victoria Park Grove
 Victoria Street Bugis Junction
 Vista Exchange Green
 Vivocity
-Waringin Park
 Waterway Point
-Watten Park
 West Coast Green
 West Coast Grove
 West Coast Highway
-West Coast Park
 West Coast Vale
 Whampoa Spring
-White House Park
 Wholesale Centre
 Woodlands
 Woodlands Crossing
@@ -342,8 +297,6 @@ Woodlands Industrial Park E9
 Woodlands Sector 1
 Woodlands Sector 2
 Woodlands Square
-Woodleigh Park
-Woollerton Park
 Yew Tee
 Yishun Industrial Park A
 Ah Soo Garden

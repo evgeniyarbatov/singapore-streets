@@ -551,6 +551,7 @@ Cuppage Terrace
 Cuscaden Road
 Cuscaden Walk
 Cypress Avenue
+Da Bao Lorong 15
 Dafne Street
 Dairy Farm Crescent
 Dairy Farm Heights
@@ -690,7 +691,6 @@ Falkland Road
 Farleigh Avenue
 Farrer Drive
 Farrer Park Road
-Farrer Park Station Road
 Farrer Road
 Fernhill Crescent
 Fernhill Road
@@ -713,6 +713,7 @@ Foch Road
 Folkestone Road
 Foo Kim Lin Road
 Ford Road
+Former Lorong Tawas
 Fort Canning Road
 Fort Road
 Fourth Avenue
@@ -758,6 +759,7 @@ Geylang East Avenue 3
 Geylang East Central
 Geylang Lorong 25A
 Geylang Lorong 38
+Geylang Lorong 9 Beef Hor Fun
 Geylang Road
 Ghim Moh Close
 Ghim Moh Link
@@ -1273,6 +1275,7 @@ Jalan Ria
 Jalan Riang
 Jalan Rimau
 Jalan Rindu
+Jalan Rubi Lorong 1A
 Jalan Rukam
 Jalan Rumah Tinggi
 Jalan Rumbia
@@ -1489,6 +1492,7 @@ Kampong Arang Road
 Kampong Bahru Road
 Kampong Java Road
 Kampong Kapor Road
+Kampong Lorong Buangkok
 Kandahar Street
 Kang Ching Road
 Kasai Road
@@ -1625,11 +1629,15 @@ Lock Road
 Loewen Road
 Lornie Road
 Lornie Walk
-Lorong 1
 Lorong 1 Geylang
-Lorong 1 Realty Park
 Lorong 1 Toa Payoh
 Lorong 10 Geylang
+Lorong 101 Changi
+Lorong 102 Changi
+Lorong 104 Changi
+Lorong 105 Changi
+Lorong 106 Changi
+Lorong 107 Changi
 Lorong 108 Changi
 Lorong 11 Geylang
 Lorong 110 Changi
@@ -1642,8 +1650,7 @@ Lorong 17 Geylang
 Lorong 18 Geylang
 Lorong 19 Geylang
 Lorong 1A Toa Payoh
-Lorong 2
-Lorong 2 Realty Park
+Lorong 2 Jalan Abdul Samad
 Lorong 2 Toa Payoh
 Lorong 20 Geylang
 Lorong 21 Geylang
@@ -1660,9 +1667,12 @@ Lorong 27A Geylang
 Lorong 28 Geylang
 Lorong 29 Geylang
 Lorong 2A
+Lorong 2A Jalan Abdul Samad
 Lorong 2B
+Lorong 2B Jalan Abdul Samad
 Lorong 2C
-Lorong 3
+Lorong 2C Jalan Abdul Samad
+Lorong 2D Jalan Abdul Samad
 Lorong 3 Geylang
 Lorong 3 Toa Payoh
 Lorong 30 Geylang
@@ -1675,45 +1685,67 @@ Lorong 36 Geylang
 Lorong 37 Geylang
 Lorong 38 Geylang
 Lorong 39 Geylang
-Lorong 4
+Lorong 4 Blk 93 Market And Hawker Centre
 Lorong 4 Geylang
 Lorong 4 Toa Payoh
 Lorong 40 Geylang
 Lorong 41 Geylang
-Lorong 5
+Lorong 42 Geylang
 Lorong 5 Toa Payoh
-Lorong 6
 Lorong 6 Geylang
-Lorong 6 Realty Park
 Lorong 6 Toa Payoh
 Lorong 6 Toa Payoh Hdb Hub B1-23
 Lorong 7 Geylang
-Lorong 7 Realty Park
 Lorong 7 Toa Payoh
 Lorong 8 Geylang
 Lorong 8 Toa Payoh
+Lorong 8A Toa Payoh
 Lorong 9 Geylang
+Lorong Abu Talib
 Lorong Ah Soo
+Lorong Ah Thia
 Lorong Ampas
+Lorong Asrama
+Lorong Ayam Belaga
+Lorong Ayam Denak
+Lorong Ayam Hutan
+Lorong Ayam Jalak
+Lorong Ayam Katek
+Lorong Bachok
 Lorong Bakar Batu
+Lorong Bandang
+Lorong Banir Forest
+Lorong Banir Stream
+Lorong Batawi
 Lorong Bekukong
 Lorong Biawak
+Lorong Bistari
 Lorong Buang Kok
 Lorong Buangkok
 Lorong Bunga
 Lorong Chencharu
 Lorong Chuan
+Lorong Danau
 Lorong G Telok Kurau
 Lorong Gambir
 Lorong H Telok Kurau
 Lorong Halus
+Lorong Halus Bridge
+Lorong Halus Park Connector
+Lorong Halus Wetland
+Lorong Halwa
 Lorong How Sun
 Lorong J Telok Kurau
 Lorong K Telok Kurau
+Lorong Kebasi
 Lorong Kembang
 Lorong Kembangan
+Lorong Kemunchup
+Lorong Kerepek
 Lorong Kilat
 Lorong Kismis
+Lorong L Telok Kurau
+Lorong Lada Hitam
 Lorong Lew Lian
 Lorong Limau
 Lorong Liput
@@ -1723,24 +1755,50 @@ Lorong M Telok Kurau
 Lorong Mambong
 Lorong Marican
 Lorong Marzuki
+Lorong Mega
 Lorong Melayu
+Lorong Melukut
 Lorong Mydin
+Lorong N Telok Kurau
+Lorong Nangka
 Lorong Napiri
 Lorong Ong Lye
 Lorong Pasu
 Lorong Paya Lebar
+Lorong Payah
+Lorong Pelita
 Lorong Penchalak
+Lorong Pendek
+Lorong Pisang Asam
 Lorong Pisang Batu
+Lorong Pisang Emas
+Lorong Pisang Hijau
+Lorong Pisang Raja
+Lorong Pisang Udang
+Lorong Pukal 2
+Lorong Pulai
 Lorong Puntong
+Lorong Rusuk
+Lorong Sakai
+Lorong Salleh
 Lorong Samak
 Lorong Sarhad
 Lorong Sari
 Lorong Sarina
 Lorong Selangat
+Lorong Semangka
+Lorong Serai
+Lorong Serambi
 Lorong Sesuai
+Lorong Sidin
+Lorong Siglap
+Lorong Stangee
 Lorong Tahar
 Lorong Tanggam
+Lorong Tawas
 Lorong Telok
+Lorong Temechut
+Lorong Terigu
 Lorong Toa Payoh 1
 Lorong Way
 Lothian Terrace
@@ -1796,7 +1854,6 @@ Marina Coastal Drive
 Marina East Drive
 Marina Gardens Drive
 Marina Parade Road
-Marina Station Road
 Marina View
 Marine Crescent
 Marine Drive
@@ -1957,6 +2014,7 @@ Nim Drive
 Nim Rise
 Nim Road
 Nim Terrace
+No 61 Lorong N
 No.30 Sembawang Drive
 No.336 Smith Street
 Norfolk Road
@@ -2664,7 +2722,6 @@ Temasek Avenue
 Temasek Boulevard
 Tembeling Road
 Tembusu Crescent
-Temple Street
 Tengah Central
 Tengah Drive
 Tengah Garden Avenue

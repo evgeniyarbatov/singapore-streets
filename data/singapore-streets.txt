@@ -258,6 +258,19 @@ Admiralty Road
 Admiralty Road East
 Admiralty Road West
 Admiralty Street
+After Lorong 1 Geylang
+After Lorong 106 Changi
+After Lorong 14 Geylang
+After Lorong 28 Geylang
+After Lorong 34 Geylang
+After Lorong Danau
+After Lorong G Telok Kurau
+After Lorong H Telok Kurau
+After Lorong J Telok Kurau
+After Lorong M Telok Kurau
+After Lorong Nangka
+After Lorong Sarhad
+After Lorong Tanggam
 Ah Hood Road
 Aida Street
 Airline Road
@@ -467,6 +480,13 @@ Bedok Terrace
 Bedok Walk
 Bee San Avenue
 Beechwood Grove
+Before Lorong 110 Changi
+Before Lorong 18 Geylang
+Before Lorong 23 Geylang
+Before Lorong Bakar Batu
+Before Lorong Danau
+Before Lorong K Telok Kurau
+Before Lorong Serambi
 Begonia Crescent
 Begonia Drive
 Begonia Lane
@@ -956,6 +976,7 @@ Cuscaden Road
 Cuscaden Walk
 Cypress Avenue
 D&apos;Almeida Street
+Da Bao Lorong 15
 Dafne Street
 Dairy Farm Crescent
 Dairy Farm Heights
@@ -1151,6 +1172,7 @@ Foch Road
 Folkestone Road
 Foo Kim Lin Road
 Ford Road
+Former Lorong Tawas
 Fort Canning Road
 Fort Road
 Fourth Avenue
@@ -1207,6 +1229,7 @@ Geylang East Avenue 3
 Geylang East Central
 Geylang Lorong 25A
 Geylang Lorong 38
+Geylang Lorong 9 Beef Hor Fun
 Geylang Rd
 Geylang Road
 Geylang Serai
@@ -1458,6 +1481,11 @@ Irwell Hill
 Island Club Road
 Island Gardens Walk
 JABATAN AGAMA ISLAM NEGERI JOHORmore info Jalan Masjid Abu Bakar
+JB CIQ Kastam ke Malaysia: Zon A - Lorong 1
+JB CIQ Kastam ke Malaysia: Zon A - Lorong 2-3
+JB CIQ Kastam ke Malaysia: Zon A - Lorong 4-5
+JB CIQ Kastam ke Malaysia: Zon B - Lorong 10
+JB CIQ Kastam ke Malaysia: Zon B - Lorong 6-7
 Jalan Abadi
 Jalan Abdul Rahman Andak
 Jalan Abdul Rahman Andak 1
@@ -1776,6 +1804,7 @@ Jalan Ria
 Jalan Riang
 Jalan Rimau
 Jalan Rindu
+Jalan Rubi Lorong 1A
 Jalan Rukam
 Jalan Rumah Tinggi
 Jalan Rumbia
@@ -2021,11 +2050,13 @@ Kampong Eunos
 Kampong Java Road
 Kampong Kapor Road
 Kampong Kayu
+Kampong Lorong Buangkok
 Kampung Sireh
 Kampung Telok Kabong, Kampung Pasir Puteh
 Kandahar Street
 Kang Ching Road
 Kasai Road
+Kastam JB CIQ Kastam ke Malaysia: Zon B - Lorong 8-9
 Kay Siang Road
 Keat Hong Close
 Keat Hong Link
@@ -2107,6 +2138,7 @@ Kranji Road
 Kranji Way
 Kreta Ayer Road
 Kwong Avenue
+LORONG AH SOO
 La Salle Street
 Labrador Villa Road
 Lady Hill Road
@@ -2205,59 +2237,104 @@ Lornie Road
 Lornie Walk
 Lorong 1
 Lorong 1 Geylang
+Lorong 1 Geylang Terminal
 Lorong 1 Realty Park
 Lorong 1 Toa Payoh
+Lorong 10
 Lorong 10 Geylang
+Lorong 101 Changi
+Lorong 102 Changi
+Lorong 104 Changi
+Lorong 105 Changi
+Lorong 106 Changi
+Lorong 107 Changi
 Lorong 108 Changi
+Lorong 11
 Lorong 11 Geylang
 Lorong 110 Changi
+Lorong 12
 Lorong 12 Geylang
+Lorong 13
 Lorong 13 Geylang
 Lorong 14 Geylang
+Lorong 15
 Lorong 15 Geylang
+Lorong 16
 Lorong 16 Geylang
+Lorong 17
 Lorong 17 Geylang
+Lorong 18
 Lorong 18 Geylang
+Lorong 19
 Lorong 19 Geylang
 Lorong 1A Toa Payoh
 Lorong 2
+Lorong 2 Jalan Abdul Samad
+Lorong 2 Realty Park
 Lorong 2 Toa Payoh
+Lorong 20
 Lorong 20 Geylang
+Lorong 21
 Lorong 21 Geylang
 Lorong 21A Geylang
+Lorong 22
 Lorong 22 Geylang
+Lorong 23
 Lorong 23 Geylang
+Lorong 24
 Lorong 24 Geylang
 Lorong 24A Geylang
+Lorong 25
 Lorong 25 Geylang
 Lorong 25A Geylang
+Lorong 26
 Lorong 26 Geylang
+Lorong 27
 Lorong 27 Geylang
 Lorong 27A Geylang
+Lorong 28
 Lorong 28 Geylang
+Lorong 29
 Lorong 29 Geylang
+Lorong 2A Jalan Abdul Samad
+Lorong 2B Jalan Abdul Samad
+Lorong 2C Jalan Abdul Samad
+Lorong 2D Jalan Abdul Samad
 Lorong 2a
 Lorong 2b
 Lorong 2c
 Lorong 3
 Lorong 3 Geylang
 Lorong 3 Toa Payoh
+Lorong 30
 Lorong 30 Geylang
 Lorong 31 Geylang
 Lorong 32 Geylang
 Lorong 33 Geylang
+Lorong 34
 Lorong 34 Geylang
+Lorong 35
 Lorong 35 Geylang
+Lorong 36
 Lorong 36 Geylang
+Lorong 37
 Lorong 37 Geylang
+Lorong 38
 Lorong 38 Geylang
+Lorong 39
 Lorong 39 Geylang
 Lorong 4
+Lorong 4 Blk 93 Market and Hawker Centre
 Lorong 4 Geylang
+Lorong 4 Realty Park
 Lorong 4 Toa Payoh
+Lorong 40
 Lorong 40 Geylang
+Lorong 40 Geylang Playground
 Lorong 41 Geylang
+Lorong 42 Geylang
 Lorong 5
+Lorong 5 Realty Park
 Lorong 5 Toa Payoh
 Lorong 6
 Lorong 6 Geylang
@@ -2265,31 +2342,67 @@ Lorong 6 Realty Park
 Lorong 6 Toa Payoh
 Lorong 6 Toa Payoh #01-14, Singapore
 Lorong 6 Toa Payoh HDB Hub B1-23
+Lorong 7
 Lorong 7 Geylang
 Lorong 7 Realty Park
 Lorong 7 Toa Payoh
+Lorong 8
 Lorong 8 Geylang
 Lorong 8 Toa Payoh
+Lorong 8A Toa Payoh
 Lorong 9 Geylang
+Lorong Abu Talib
 Lorong Ah Soo
+Lorong Ah Thia
 Lorong Ampas
+Lorong Asrama
+Lorong Ayam Belaga
+Lorong Ayam Denak
+Lorong Ayam Hutan
+Lorong Ayam Jalak
+Lorong Ayam Katek
+Lorong Bachok
 Lorong Bakar Batu
+Lorong Bandang
+Lorong Banir Forest
+Lorong Banir Stream
+Lorong Batawi
 Lorong Bekukong
 Lorong Biawak
+Lorong Bistari
+Lorong Buang Kok
+Lorong Buang kok
+Lorong Buangkok
 Lorong Bunga
 Lorong Chencharu
 Lorong Chuan
+Lorong Chuan (CC)
+Lorong Chuan Station
+Lorong Chuan Station Exit A
+Lorong Danau
 Lorong G Telok Kurau
 Lorong Gambir
 Lorong H Telok Kurau
 Lorong Halus
+Lorong Halus Bridge
+Lorong Halus Park Connector
+Lorong Halus Wetland
+Lorong Halwa
+Lorong Halwa (original)
 Lorong How Sun
 Lorong J Telok Kurau
+Lorong Jalan Dhoby (Parking)
 Lorong K Telok Kurau
+Lorong Kebasi
 Lorong Kembang
 Lorong Kembangan
+Lorong Kemunchup
+Lorong Kerepek
 Lorong Kilat
 Lorong Kismis
+Lorong Koo Chye Sheng Hong Temple
+Lorong L Telok Kurau
+Lorong Lada Hitam
 Lorong Lew Lian
 Lorong Limau
 Lorong Liput
@@ -2298,24 +2411,61 @@ Lorong Low Koon
 Lorong M Telok Kurau
 Lorong Mambong
 Lorong Marican
+Lorong Marican Interim Park
 Lorong Marzuki
+Lorong Mazuki Interim Park
+Lorong Mega
 Lorong Melayu
+Lorong Melayu Interim Park
+Lorong Melayu Park
+Lorong Melayu Park Fitness Centre
+Lorong Melayu Park Playground
+Lorong Melukut
 Lorong Mydin
+Lorong Mydin Interim Park
+Lorong N Telok Kurau
+Lorong Nangka
 Lorong Napiri
 Lorong Ong Lye
+Lorong Ong Lye Park
 Lorong Pasu
 Lorong Paya Lebar
+Lorong Payah
+Lorong Pelita
 Lorong Penchalak
+Lorong Pendek
+Lorong Pisang Asam
 Lorong Pisang Batu
+Lorong Pisang Emas
+Lorong Pisang Hijau
+Lorong Pisang Raja
+Lorong Pisang Udang
+Lorong Pukal 2
+Lorong Pulai
 Lorong Puntong
+Lorong Rusuk
+Lorong Sakai
+Lorong Salleh
 Lorong Samak
+Lorong Sarhad
 Lorong Sari
 Lorong Sarina
+Lorong Sarina Interim Park
 Lorong Selangat
+Lorong Semangka
+Lorong Serai
+Lorong Serambi
 Lorong Sesuai
+Lorong Sidin
+Lorong Siglap
+Lorong Stangee
 Lorong Tahar
 Lorong Tanggam
+Lorong Tanggam Park
+Lorong Tawas
 Lorong Telok
+Lorong Temechut
+Lorong Terigu
 Lorong Toa Payoh 1
 Lorong Way
 Lothian Terrace
@@ -2574,6 +2724,7 @@ Nim Green
 Nim Rise
 Nim Road
 Nim Terrace
+No 61 Lorong N
 No.30 Sembawang Drive
 No.336 Smith Street
 Nong Chik Height
@@ -2626,6 +2777,10 @@ One-north Gateway
 Ontario Avenue
 Opal Crescent
 Ophir Road
+Opposite Lorong 1 Geylang Terminal
+Opposite Lorong 39 Geylang
+Opposite Lorong Chuan Station Exit B
+Opposite Lorong Sarhad
 Orange Grove Road
 Orchard
 Orchard Boulevard
@@ -3316,6 +3471,30 @@ Surin Avenue
 Surin Lane
 Surin Road
 Surrey Road
+Svc 11 (Roundtrip from Lorong 1 Geylang Terminal)
+Svc 140 (Roundtrip from Lorong 1 Geylang Terminal)
+Svc 141 (Lorong 1 Geylang Terminal → Toa Payoh Interchange)
+Svc 141 (Lorong 1 Geylang Terminal ↔ Toa Payoh Interchange)
+Svc 141 (Toa Payoh Interchange → Lorong 1 Geylang Terminal)
+Svc 175 (Clementi Interchange → Lorong 1 Geylang Terminal)
+Svc 175 (Clementi Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 175 (Lorong 1 Geylang Terminal → Clementi Interchange)
+Svc 21A (Before Lorong 18 Geylang → Before Tai Hoe Hotel)
+Svc 853 (Lorong 1 Geylang Terminal → Yishun Interchange)
+Svc 853 (Yishun Interchange → Lorong 1 Geylang Terminal)
+Svc 853 (Yishun Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 961 (Lorong 1 Geylang Terminal → Woodlands Temporary Interchange)
+Svc 961 (Woodlands Temporary Interchange → Lorong 1 Geylang Terminal)
+Svc 961 (Woodlands Temporary Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 961M (Lorong 1 Geylang Terminal → Woodlands Temporary Interchange)
+Svc 961M (Woodlands Temporary Interchange → Lorong 1 Geylang Terminal)
+Svc 961M (Woodlands Temporary Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 980 (Lorong 1 Geylang Terminal → Sembawang Interchange)
+Svc 980 (Sembawang Interchange → Lorong 1 Geylang Terminal)
+Svc 980 (Sembawang Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 985 (Choa Chu Kang Interchange → Lorong 1 Geylang Terminal)
+Svc 985 (Choa Chu Kang Interchange ↔ Lorong 1 Geylang Terminal)
+Svc 985 (Lorong 1 Geylang Terminal → Choa Chu Kang Interchange)
 Swan Lake Avenue
 Swanage Road
 Swettenham Close
@@ -3548,7 +3727,9 @@ Toa Payoh Lorong 1
 Toa Payoh Lorong 2
 Toa Payoh Lorong 4
 Toa Payoh Lorong 7
+Toa Payoh Lorong 7 Park
 Toa Payoh Lorong 8
+Toa Payoh Lorong 8 Market
 Toa Payoh North
 Toa Payoh Rise
 Toa Payoh West
