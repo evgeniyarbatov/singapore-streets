@@ -7,6 +7,46 @@ Summary
 
 Lines only in OSM file:
 
+Serangoon Garden Place
+Upper Ajunied Road
+Pasir Ris Drive 8
+Marina East Drive
+Chinatown Food Street
+Serangoon Garden Rise
+Tengah Garden Walk
+Pays Lebar Road
+Ajunied Road
+Tuas South Boulevard
+Venture Drive
+Olympic Walk
+Sejar Road
+Hougang Street 12
+Ang Mo Kio Electronics Park Road
+Dunlop Road
+Yunnan Drive
+Lorong Banir Stream
+Business Park Drive
+Woodlands North Coast Road
 
 Lines only in validation file:
 
+Jalan Mas Kuning
+East Coast Parkway
+Ramsgate Road
+Pitt Street
+Pesek Road
+Joo Hong Road
+Lentor Green
+Still Lane
+Namly Close
+West Coast Highway
+Pulau Tekong Besar
+Rienzi Street
+Adam Drive
+Jalan Mahir
+Bath Road
+Jalan Teck Kee
+Way
+Town Hall Road
+Cluny Park
+Sea Breeze Avenue
