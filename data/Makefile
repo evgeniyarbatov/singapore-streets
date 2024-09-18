@@ -1,5 +1,5 @@
 OSM_URL = https://download.openstreetmap.fr/extracts/asia/singapore-latest.osm.pbf
-BOUNDS = 103.6137,1.1304,104.0922,1.4713
+SG_POLYGON = singapore.poly
 
 OSM_PBF_PATH = ~/osm/singapore.osm.pbf
 SG_OSM_PBF_PATH = /tmp/singapore.osm.pbf
@@ -16,7 +16,7 @@ download:
 	wget $(OSM_URL) -O $(OSM_PBF_PATH)
 
 convert:
-	osmconvert $(OSM_PBF_PATH) -b=$(BOUNDS) -o=$(SG_OSM_PBF_PATH)
+	osmconvert $(OSM_PBF_PATH) -B=$(SG_POLYGON) -o=$(SG_OSM_PBF_PATH)
 
 process:
 	osmium cat --overwrite $(SG_OSM_PBF_PATH) -o $(SG_OSM_PATH)

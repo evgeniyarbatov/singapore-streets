@@ -89,7 +89,6 @@ Hyde Park Gate
 Imm
 Ion Orchard
 Irving Point
-Jabatan Agama Islam Negeri Johormore Info Jalan Masjid Abu Bakar
 Japan Besar
 Jin Teck Kee
 Jurong Island Highway
@@ -107,7 +106,6 @@ Kim Seng Promenade
 Kim Seng Promenade Great World
 Kismis Green
 Laguna Golf Green
-Lebuh Laksamana
 Lengkok Bahru
 Lengkok Merak
 Lengkong Dua
@@ -123,7 +121,6 @@ Limau Garden
 Limau Grove
 Loring Telok
 Lynwood Grove
-Mahmoodiah Interchange
 Maida Vale
 Mandai Estate
 Marina Mall
@@ -131,14 +128,12 @@ Marina Square Shopping Mall
 Marine Vista
 Maritime Square
 Mckenzie
-Meldrum
 Mimosa Vale
 Mount Elizabeth
 Mount Elizabeth Medical Centre
 Mount Sinai Plain
 Mount Sophia
 Nim Green
-Nong Chik Height
 North Boat Quay
 North Bridge Road Funan
 North Bridge Road Raffles City
@@ -168,9 +163,6 @@ Pavilion Grove
 Peakville Grove
 Pearl Bank
 Pearl Island
-Persiaran Laksamana
-Persiaran Layar Perak
-Persiaran Puteri Selatan
 Pine Grove
 Pine Grove Clubhouse
 Pinewood Grove
@@ -182,7 +174,6 @@ Pulau Tekong Besar
 Punggol Drivel
 Punggol Field
 Punggol Park Connector
-Puteri Harbour
 Queensway
 Raffles Boulevard Marina Square
 Raffles City
@@ -215,7 +206,6 @@ Spottiswoode
 Springleaf Garden
 Springside Green
 Springwood Height
-Sprinsgide Green
 Stamford Road Capitol Piazza
 Stratton Green
 Sultan Gate
