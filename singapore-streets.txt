@@ -298,6 +298,7 @@ Bukit Chermin Road
 Bukit Drive
 Bukit Manis Road
 Bukit Merah Central
+Bukit Merah Lane
 Bukit Merah Lane 1
 Bukit Merah Lane 3
 Bukit Merah View
@@ -905,7 +906,6 @@ Hong San Walk
 Hongkong Street
 Hooper Road
 Hoot Kiam Road
-Hopper Road
 Horne Road
 Hospital Boulevard
 Hospital Crescent
@@ -963,23 +963,12 @@ Irving Road
 Irwell Hill
 Island Club Road
 Island Gardens Walk
-Jalan Abadi
-Jalan Abdul Rahman Andak
-Jalan Abdul Rahman Andak 1
-Jalan Abdul Rahman Andak 2
-Jalan Abdul Samad
-Jalan Abdul Samad 1
-Jalan Abdul Samad 8
-Jalan Abdul Samad Lorong
-Jalan Abdullah Ibrahim
-Jalan Abu Bakar
 Jalan Adat
 Jalan Afifi
 Jalan Ahmad Ibrahim
 Jalan Ampang
 Jalan Ampas
 Jalan Anak Bukit
-Jalan Aneka
 Jalan Angin Laut
 Jalan Angklong
 Jalan Arnap
@@ -987,12 +976,9 @@ Jalan Aruan
 Jalan Asas
 Jalan Asuhan
 Jalan Ayer
-Jalan Ayer Molek
 Jalan Bahagia
 Jalan Bahar
 Jalan Bahasa
-Jalan Baja
-Jalan Bakti
 Jalan Bangket
 Jalan Bangsawan
 Jalan Batai
@@ -1003,29 +989,19 @@ Jalan Belangkas
 Jalan Belibas
 Jalan Benaan Kapal
 Jalan Berjaya
-Jalan Berlian
-Jalan Berlian 1
-Jalan Bersatu
 Jalan Berseh
 Jalan Besar
 Jalan Besar Road
-Jalan Bilal Mahmod
 Jalan Binchang
 Jalan Bingka
-Jalan Biru 1
-Jalan Biru 3
 Jalan Bkt Ho Swee
 Jalan Boon Lay
-Jalan Bukit Cagar
 Jalan Bukit Ho Swee
 Jalan Bukit Merah
 Jalan Bukit Merah Central
-Jalan Bukit Timbalan
-Jalan Bukit Timbalan Bandar Johor Bahru
 Jalan Buloh Perindu
 Jalan Bunga Rampai
 Jalan Buroh
-Jalan Cendera
 Jalan Chegar
 Jalan Chempah
 Jalan Chempaka Kuning
@@ -1037,21 +1013,10 @@ Jalan Cherpen
 Jalan Chorak
 Jalan Chulek
 Jalan Damai
-Jalan Dapat
-Jalan Dapat 2
-Jalan Dato Dalam
-Jalan Dato Hassan
-Jalan Dato Menteri 1/1
-Jalan Dato Mohd Salleh
-Jalan Dato Onn
-Jalan Dato Setia
 Jalan Datoh
 Jalan Daud
-Jalan Delima
 Jalan Dermawan
 Jalan Derum
-Jalan Dhoby
-Jalan Drapper
 Jalan Dua
 Jalan Dusun
 Jalan Elok
@@ -1064,30 +1029,18 @@ Jalan Gali Batu
 Jalan Gelenggang
 Jalan Gendang
 Jalan Geneng
-Jalan Gertak Merah
 Jalan Girang
-Jalan Glandening
 Jalan Gotong Royong
 Jalan Grisek
 Jalan Gumilang
-Jalan Haji Ali
 Jalan Haji Alias
 Jalan Haji Salam
-Jalan Haji Yaacob
 Jalan Hang Jebat
 Jalan Hari Raya
-Jalan Harun
-Jalan Hassan Al-Attas
-Jalan Hassan Al-Attas 2
 Jalan Hikayat
 Jalan Hitam Manis
-Jalan Hulubalang
 Jalan Hussein
 Jalan Hwi Yoh
-Jalan Ibrahim
-Jalan Ibrahim Sultan
-Jalan Inche Besar Zubaidah
-Jalan Inderaputra
 Jalan Insaf
 Jalan Intan
 Jalan Ishak
@@ -1099,12 +1052,9 @@ Jalan Jambu Ayer
 Jalan Jambu Batu
 Jalan Jambu Mawar
 Jalan Jarak
-Jalan Jasa
 Jalan Jelita
 Jalan Jeruju
 Jalan Jintan
-Jalan Johan
-Jalan Juara
 Jalan Jurong Kechil
 Jalan Kampong Chantek
 Jalan Kathi
@@ -1115,14 +1065,11 @@ Jalan Kechubong
 Jalan Kelabu Asap
 Jalan Kelawar
 Jalan Keli
-Jalan Keluli
 Jalan Kemajuan
 Jalan Kemaman
-Jalan Kemas
 Jalan Kembang Melati
 Jalan Kembangan
 Jalan Kemboja
-Jalan Kemuncak 3
 Jalan Kemuning
 Jalan Kenarah
 Jalan Keria
@@ -1135,8 +1082,6 @@ Jalan Kilang Barat
 Jalan Kilang Timor
 Jalan Klapa
 Jalan Kledek
-Jalan Kolam Air 2
-Jalan Kolam Ayer
 Jalan Korban
 Jalan Krian
 Jalan Kuak
@@ -1156,12 +1101,10 @@ Jalan Langgar Bedok
 Jalan Lanjut
 Jalan Lapang
 Jalan Lateh
-Jalan Layak
 Jalan Layang Layang
 Jalan Leban
 Jalan Legundi
 Jalan Lekar
-Jalan Lekas
 Jalan Lembah Kallang
 Jalan Lembah Thomson
 Jalan Lempeng
@@ -1175,22 +1118,14 @@ Jalan Limbok
 Jalan Limu
 Jalan Lokam
 Jalan Loyang Besar
-Jalan Lumba Kuda
-Jalan Mahmoodiah
 Jalan Malu Malu
 Jalan Malu-Malu
 Jalan Manis
-Jalan Mariamah
-Jalan Mariamah 3
-Jalan Mariamah 7
-Jalan Mariamah 9
-Jalan Marlborough
 Jalan Mas Puteh
 Jalan Mashhor
 Jalan Masjid
 Jalan Mat Jambol
 Jalan Mata Ayer
-Jalan Meldrum
 Jalan Melor
 Jalan Membina
 Jalan Mempurong
@@ -1201,35 +1136,20 @@ Jalan Merah Saga
 Jalan Merdu
 Jalan Merlimau
 Jalan Mesin
-Jalan Mesjid Abu Bakar
 Jalan Minggu
 Jalan Minyak
-Jalan Mohd Amin
-Jalan Mohd Amin 1
-Jalan Mohd Amin 3
-Jalan Mohd Amin 5
-Jalan Mohd Amin 7
 Jalan Molek
-Jalan Mustaffa
 Jalan Mutiara
 Jalan Naung
-Jalan Ngee Heng
-Jalan Nilam
 Jalan Nipah
 Jalan Nira
-Jalan Noja
-Jalan Nong Chik
-Jalan Nong Chik Heights
 Jalan Novena
 Jalan Novena Barat
 Jalan Novena Selatan
 Jalan Novena Timor
 Jalan Novena Utara
 Jalan Pacheli
-Jalan Pak Lomak
 Jalan Pakis
-Jalan Pangkalan
-Jalan Pangkalan 13
 Jalan Papan
 Jalan Paras
 Jalan Pari Burong
@@ -1237,24 +1157,10 @@ Jalan Pari Depap
 Jalan Pasir Ria
 Jalan Pasiran
 Jalan Pekan Ubin
-Jalan Pekeliling
 Jalan Pelatina
 Jalan Pelepah
 Jalan Pemimpin
 Jalan Penjara
-Jalan Perak 2
-Jalan Perdana
-Jalan Persiaran Medini 3
-Jalan Pertiwi
-Jalan Petri
-Jalan Petri 1
-Jalan Petri 10
-Jalan Petri 3
-Jalan Petri 4
-Jalan Petri 5/1
-Jalan Petri 6
-Jalan Petri 7
-Jalan Petri 9
 Jalan Pinang
 Jalan Pintau
 Jalan Piring
@@ -1275,22 +1181,18 @@ Jalan Ria
 Jalan Riang
 Jalan Rimau
 Jalan Rindu
-Jalan Rubi Lorong 1A
 Jalan Rukam
 Jalan Rumah Tinggi
 Jalan Rumbia
 Jalan Rumia
-Jalan Rupawan
 Jalan Sahabat
 Jalan Sajak
 Jalan Salang
-Jalan Salleh
 Jalan Samarinda
 Jalan Sappan
 Jalan Satu
 Jalan Saudara Ku
 Jalan Sayang
-Jalan Sederhana
 Jalan Seh Chuan
 Jalan Sejarah
 Jalan Selanting
@@ -1304,11 +1206,9 @@ Jalan Sendudok
 Jalan Seni
 Jalan Sentosa
 Jalan Senyum
-Jalan Serai
 Jalan Serene
 Jalan Serengam
 Jalan Seruling
-Jalan Setulang
 Jalan Shaer
 Jalan Siap
 Jalan Simpang Bedok
@@ -1316,43 +1216,21 @@ Jalan Sinar Bintang
 Jalan Sinar Bulan
 Jalan Singa
 Jalan Sipang Bedok
-Jalan Skudai
-Jalan Sri Gelam
-Jalan Sri Lanang
-Jalan Sri Mahligai
-Jalan Sri Rambutan
-Jalan Storey
-Jalan Straits View
-Jalan Straits View 3
-Jalan Straits View 4
-Jalan Straits View 5
-Jalan Straits View 6
-Jalan Stulang Darat
-Jalan Stulang Laut
-Jalan Stulang Laut 2
 Jalan Suasa
 Jalan Suka
 Jalan Sukachita
 Jalan Sultan
-Jalan Sultan Road
-Jalan Sungai Chat
-Jalan Syed Mohammed Mufti
-Jalan Taat
 Jalan Taman
 Jalan Tambur
 Jalan Tampang
-Jalan Tan Hiok Nee
 Jalan Tan Tock Seng
 Jalan Tanah Puteh
-Jalan Tanjung Puteri 1
 Jalan Tari Dulang
 Jalan Tari Payong
 Jalan Tari Piring
 Jalan Tari Serimpi
 Jalan Tari Zapin
-Jalan Tarom
 Jalan Tarum
-Jalan Tebrau
 Jalan Teck Whye
 Jalan Tekad
 Jalan Telang
@@ -1361,41 +1239,25 @@ Jalan Tembusu
 Jalan Tempua
 Jalan Tenaga
 Jalan Tenang
-Jalan Tengku Azizah
-Jalan Tengku Petrie 1
-Jalan Tengku Puteri
-Jalan Tengku Puteri 1
 Jalan Tenteram
 Jalan Terubok
 Jalan Terusan
-Jalan Thompson
 Jalan Tiga
 Jalan Tiong
 Jalan Toa Payoh
 Jalan Todak
-Jalan Trus
 Jalan Tua Kong
 Jalan Tumpu
-Jalan Tun Abdul Razak
 Jalan Tupai
 Jalan Ubi
 Jalan Uji
 Jalan Ulu Sembawang
 Jalan Unggas
-Jalan Ungku Aziz
 Jalan Usaha
 Jalan Wajek
 Jalan Wangi
 Jalan Waringin
-Jalan Waspada
-Jalan Wisata
-Jalan Wong Ah Fook
-Jalan Yahya Al-Datar
-Jalan Yahya Awal
-Jalan Yahya Awal Interchange
 Jalan Yayang Layang
-Jalan Yusof Taha 1
-Jalan Yusof Taha 5
 Jalan Zamrud
 Jambol Place
 Jambol Walk
@@ -1410,7 +1272,6 @@ Jiak Chuan Road
 Jiak Kim Street
 Joan Road
 John Road
-Johor Bahru Inner Ring Road
 Joo Avenue
 Joo Chiat Avenue
 Joo Chiat Lane
@@ -1650,7 +1511,6 @@ Lorong 17 Geylang
 Lorong 18 Geylang
 Lorong 19 Geylang
 Lorong 1A Toa Payoh
-Lorong 2 Jalan Abdul Samad
 Lorong 2 Toa Payoh
 Lorong 20 Geylang
 Lorong 21 Geylang
@@ -1666,13 +1526,6 @@ Lorong 27 Geylang
 Lorong 27A Geylang
 Lorong 28 Geylang
 Lorong 29 Geylang
-Lorong 2A
-Lorong 2A Jalan Abdul Samad
-Lorong 2B
-Lorong 2B Jalan Abdul Samad
-Lorong 2C
-Lorong 2C Jalan Abdul Samad
-Lorong 2D Jalan Abdul Samad
 Lorong 3 Geylang
 Lorong 3 Toa Payoh
 Lorong 30 Geylang
@@ -1775,7 +1628,6 @@ Lorong Pisang Emas
 Lorong Pisang Hijau
 Lorong Pisang Raja
 Lorong Pisang Udang
-Lorong Pukal 2
 Lorong Pulai
 Lorong Puntong
 Lorong Rusuk
@@ -1850,7 +1702,6 @@ Margate Road
 Margoliouth Road
 Mariam Way
 Marina Boulevard
-Marina Coastal Drive
 Marina East Drive
 Marina Gardens Drive
 Marina Parade Road
@@ -2283,6 +2134,7 @@ Rutland Road
 Sago Lane
 Sago Street
 Saint Francis Road
+Saint Nicholas View
 Saint Thomas Walk
 Sakra Avenue
 Sakra Road
@@ -2447,7 +2299,6 @@ Sims Lane
 Sims Place
 Sims View
 Sims Way
-Sin Joo Walk
 Sin Min Avenue
 Sin Ming Avenue
 Sin Ming Drive
@@ -2536,7 +2387,6 @@ Stratton Place
 Stratton Road
 Stratton Walk
 Street 81
-Street Nicholas View
 Street Wilfred Road
 Sturdee Road
 Suffolk Road
@@ -2630,6 +2480,7 @@ Tampines Central 5
 Tampines Central 6
 Tampines Central 7
 Tampines Central 8
+Tampines Industrial Avenue 3
 Tampines Industrial Avenue 5
 Tampines Industrial Crescent
 Tampines Lane
@@ -2722,6 +2573,7 @@ Temasek Avenue
 Temasek Boulevard
 Tembeling Road
 Tembusu Crescent
+Tengah Boulevard
 Tengah Central
 Tengah Drive
 Tengah Garden Avenue

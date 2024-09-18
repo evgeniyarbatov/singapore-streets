@@ -39,7 +39,6 @@
 1 Northpoint Drive, Northpoint City South Wing
 1 Orchid Club Road #02-02/03, Driving Range Unit (Carpark, A Orchid Country Club, 769162
 1 Park Road
-1 Pasir Ris Central Street 3, White Sands
 1 Pasir Ris Close, E! Hub @Downtown East
 1 Pasir Ris Close, E!Hub@Downtown East
 1 Raffles Place, One Raffles Place
@@ -70,7 +69,6 @@
 1091 Woodland Road
 11 Binjai Park
 11 Jalan Tan Tock Seng, Tan Tock Seng Hospital
-111 North Bridge Road, Peninsula Plaza
 111 Somerset
 12 Marina Boulevard, Marina Bay Financial Centre Tower 3
 13 Stamford Road, Capitol Tower
@@ -234,11 +232,9 @@
 80 Airport Boulevard Changi Airport Terminal 1 Departure / Transit Lounge East
 80 Airport Boulevard, Departure / Transit Lounge Central, Singapore Changi Airport Terminal 2
 80 Airport Boulevard, Singapore Changi Airport Terminal 1,  Departure/Transit Lounge West
-80 Bencoolen Street, Nafa (Campus 1)
 80 Marine Parade Road, Parkway Parade
 80 Marine Parade Road, Parkway Parade
 83 Punggol Central, Waterway Point
-86/88 Serangoon Garden Way
 8A Marina Boulevard, Marina Bay Link Mall
 9 Bishan Place
 9 Bishan Place, Junction 8 Shopping Centre
@@ -362,6 +358,7 @@ Handy Road The Cathay #01-05
 Harbourfront Walk #03-05 (Lobby F) Vivocity
 Harbourfront Walk, #02-03/04 Vivo City
 Harbourfront Walk, #02-234, Vivocity
+Henderson Road #13-01
 Hillview Terrace #01-06
 Holland Park
 Holland Village Way #03-06
@@ -371,20 +368,11 @@ Hougang Street 21 #03-207
 Imm Building 2, Jurong East Street 21
 International Business Park
 Irrawaddy Road, #20-01 Royal Square Medical Centre Royal Square @ Novena
-Irrawaddy Road #01-14 Mount Elizabeth Novena Hospital
 Irving Place #07-04
 Irving Place, #08-06
-Jb Ciq Kastam Ke Malaysia: Zon A - Lorong 1
-Jb Ciq Kastam Ke Malaysia: Zon A - Lorong 2-3
-Jb Ciq Kastam Ke Malaysia: Zon A - Lorong 4-5
-Jb Ciq Kastam Ke Malaysia: Zon B - Lorong 10
-Jb Ciq Kastam Ke Malaysia: Zon B - Lorong 6-7
+Irving Place, #08-06;The Commerze@Irving
 Jalan Anak Bukit, #B2-06A.
 Jalan Anak Bukit, Bukit Timah Plaza
-Jalan Dato&Apos; Hj. Abdullah
-Jalan Dato&Apos; Menteri
-Jalan Dato&Apos; Menteri 1/1
-Jalan Dato&Apos; Mohamad
 Jalan Ma&Apos;Mor
 Jalan Serene #01-04
 Jalan Serene #02-09
@@ -396,11 +384,7 @@ Jurong West Central 2, Jp1, Jurong Point Shopping Centre
 Jurong West Central 3 #03-52/52A Jurong Point
 Jurong West Street 61, Pioneer Mall
 Kallang Way #01-03/04/05/06
-Kallang Avenue, Aperia
-Kampung Telok Kabong, Kampung Pasir Puteh
-Kastam Jb Ciq Kastam Ke Malaysia: Zon B - Lorong 8-9
 Kensington Park
-Kheam Hock Park
 Killiney Road, Orchard Grand Court
 King Albert Park
 King George&Apos;S Avenue
@@ -438,7 +422,6 @@ Lorong 26
 Lorong 27
 Lorong 28
 Lorong 29
-Lorong 3
 Lorong 30
 Lorong 34
 Lorong 35
@@ -446,7 +429,6 @@ Lorong 36
 Lorong 37
 Lorong 38
 Lorong 39
-Lorong 4
 Lorong 4 Realty Park
 Lorong 40
 Lorong 40 Geylang Playground
@@ -462,7 +444,6 @@ Lorong Chuan (Cc)
 Lorong Chuan Station
 Lorong Chuan Station Exit A
 Lorong Halwa (Original)
-Lorong Jalan Dhoby (Parking)
 Lorong Koo Chye Sheng Hong Temple
 Lorong Marican Interim Park
 Lorong Mazuki Interim Park

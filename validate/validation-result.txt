@@ -1,52 +1,12 @@
 Summary
 
-    3117 streets in OSM file
+    2969 streets in OSM file
     3968 streets in validation file
     2605 same streets
-    1876 different streets
+    1728 different streets
 
 Lines only in OSM file:
 
-South Bedok Road
-Jalan Piring
-Jalan Inche Besar Zubaidah
-No.30 Sembawang Drive
-Lentor Central
-Yishun Street 42
-Lorong Kerepek
-Waterloo Link
-Lorong 2D Jalan Abdul Samad
-Tuas South Link 4
-Media Link
-Jalan Abdul Rahman Andak 2
-Buroh Crescent
-Yunnan Walk
-Tampines Street 61
-Jalan Petri 7
-Sembawang Link
-Fairway Drive
-Seletar Aerospace Avenue
-Bulim Drive
 
 Lines only in validation file:
 
-Allamanda Grove
-Tractor Road
-Tanglin Halt Close
-Park Villas Green
-Kalidasa Avenue
-Marsiling Avenue
-Raffles Quay
-Kang Choo Bin Walk
-Jalan Gelam
-Panjang Road
-Defu Lane 6
-Meragi Terrace
-Cheng Soon Crescent
-Kaki Bukit Avenue 2
-Peakville Terrace
-Pasir Ris Crescent
-Joo Yee Road
-Carmen Terrace
-Matlock Rise
-Goodlink Park
