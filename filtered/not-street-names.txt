@@ -1,3 +1,4 @@
+Amk Hub
 Albert Court
 Ang Mo Kio
 Ang Mo Kio Industrial Park 1
@@ -5,10 +6,12 @@ Ang Mo Kio Industrial Park 2
 Ang Mo Kio Industrial Park 2A
 Angsana Breeze
 Ashwood Grove
+Ayer Rajah Expressway
 Bassein Court
 Beach Road 1Street Storey Lobby The Concourse
 Beach Roo
 Bedok Garden
+Bedok Interchange Hawker Centre
 Bedok North Street 3 Block 510
 Beechwood Grove
 Benoi Sector
@@ -29,15 +32,19 @@ Cathay Forecourt
 Cedarwood Grove
 Central Exchange Green
 Central Expressway
+Century Square
 Chancery Court
 Changi Business Park Vista
 Chaun Garden
+Chinatown Point
 Chiselhurst Grove
 Choa Chu Kang
 Choa Chu Kang Cresent
+Choa Chu Kang Grove
 Choa Chu Kang Park Connector
 Choa Chu Kang Road Track 10
 Chuan Garden
+Citylink Mall
 Clarke Quay
 Clemenceau Avenue Singapore Shopping Centre
 Clifton Vale
@@ -70,6 +77,7 @@ Far East Plaza
 Finlayson Green
 Fullerton Square
 Funan
+Furama City Centre
 Getlang Bahru
 Geylang Bahru
 Geylang Serai
@@ -89,6 +97,7 @@ Hyde Park Gate
 Imm
 Ion Orchard
 Irving Point
+Jem
 Japan Besar
 Jin Teck Kee
 Jurong Island Highway
@@ -105,6 +114,7 @@ Keppel Bay Vista
 Kim Seng Promenade
 Kim Seng Promenade Great World
 Kismis Green
+Kurau Grove
 Laguna Golf Green
 Lengkok Bahru
 Lengkok Merak
@@ -137,6 +147,7 @@ Nim Green
 North Boat Quay
 North Bridge Road Funan
 North Bridge Road Raffles City
+Northpoint City
 Oakwood Grove
 One-North Gateway
 One-North Gateway
@@ -150,6 +161,7 @@ Orchard Road The Heeren
 Orchard Road Wisma Atria
 Orchard Turn
 Orchard Turn Ion Orchard
+Plq Mall
 Padang Chancery
 Pandan Valley
 Paradise Island
@@ -163,10 +175,13 @@ Pavilion Grove
 Peakville Grove
 Pearl Bank
 Pearl Island
+Phoenix Garden
+Picadilly
 Pine Grove
 Pine Grove Clubhouse
 Pinewood Grove
 Pioneer Sector 1
+Pioneer Sector 2
 Pioneer Sector 3
 Pioneer Turn
 Plaza Singapura
@@ -226,8 +241,10 @@ Taman Selamat
 Taman Serasi
 Taman Sireh
 Taman Warna
+Tampines 1
 Tampines Concourse
 Tampines Grande
+Tampines Mall
 Tanah Merah Kasturi
 Tanglin Road Tanglin Mall
 Tanjong Pagar Plaza
@@ -243,6 +260,7 @@ The Esplanade
 The Inglewood
 The Knolls
 The Oval
+The Seletar Mall
 The Sensoria
 The Star Vista
 Thomson Green
@@ -270,6 +288,7 @@ West Coast Green
 West Coast Grove
 West Coast Highway
 West Coast Vale
+Westgate
 Whampoa Spring
 Wholesale Centre
 Woodlands
@@ -277,7 +296,9 @@ Woodlands Crossing
 Woodlands Height
 Woodlands Industrial Park D
 Woodlands Industrial Park E1
+Woodlands Industrial Park E2
 Woodlands Industrial Park E3
+Woodlands Industrial Park E4
 Woodlands Industrial Park E5
 Woodlands Industrial Park E6
 Woodlands Industrial Park E7

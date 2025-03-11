@@ -1,6 +1,7 @@
 Adam Road
 Adis Road
 Admiralty Drive
+Admiralty Lane
 Admiralty Link
 Admiralty Road
 Admiralty Street
@@ -134,10 +135,13 @@ Battery Road
 Bayfront Avenue
 Bays Water Road
 Bayshore Road
+Bayshore Street
+Bayshore Walk
 Beach Road
 Beach View
 Beatty Lane
 Beatty Road
+Beaulieau Road
 Bedok Avenue
 Bedok Central
 Bedok Close
@@ -183,6 +187,7 @@ Bencoolen Street
 Bendemeer Road
 Beng Wan Road
 Benoi Crescent
+Benoi Lane
 Benoi Place
 Benoi Road
 Beo Crescent
@@ -220,7 +225,6 @@ Bishan Street 25
 Blackmore Drive
 Blair Road
 Blandford Drive
-Block 90 Whampoa Drive
 Bloxhome Drive
 Bo Seng Avenue
 Bodmin Drive
@@ -334,6 +338,7 @@ Business Park Drive
 Bussorah Street
 Butterworth Lane
 Cable Road
+Cactus Crescent
 Cactus Road
 Cairnhill Circle
 Cairnhill Rise
@@ -430,6 +435,7 @@ China Street
 Chinatown Food Street
 Chitty Road
 Chnagi Coast Walk
+Choa Chu Kang Avenue
 Choa Chu Kang Avenue 1
 Choa Chu Kang Avenue 2
 Choa Chu Kang Avenue 3
@@ -437,6 +443,7 @@ Choa Chu Kang Avenue 4
 Choa Chu Kang Avenue 5
 Choa Chu Kang Avenue 7
 Choa Chu Kang Central
+Choa Chu Kang Crescent
 Choa Chu Kang Drive
 Choa Chu Kang Loop
 Choa Chu Kang North 5
@@ -646,6 +653,7 @@ Empress Place
 Empress Road
 Eng Hoon Street
 Eng Kong Crescent
+Eng Kong Lane
 Eng Kong Place
 Eng Kong Road
 Eng Kong Terrace
@@ -675,6 +683,7 @@ Eunos Road 5
 Eunos Road 8
 Evans Road
 Evelyn Road
+Evergreen Gardens
 Everitt Road
 Everton Road
 Ewe Boon Road
@@ -689,6 +698,7 @@ Faber Walk
 Fairway Drive
 Fajar Road
 Falkland Road
+Fan Yoong Road
 Farleigh Avenue
 Farrer Drive
 Farrer Park Road
@@ -703,8 +713,11 @@ Fernvale Street
 Fernwood Terrace
 Fidelio Street
 Fifth Avenue
+Fifth Lok Yang Road
 Figaro Street
+Fiji Road
 Fir Avenue
+First Lok Yang Road
 First Street
 Flora Drive
 Flora Road
@@ -718,6 +731,7 @@ Former Lorong Tawas
 Fort Canning Road
 Fort Road
 Fourth Avenue
+Fourth Lok Yan Road
 Francis Thomas Drive
 Frankel Avenue
 Frankel Terrace
@@ -839,6 +853,7 @@ Hamilton Road
 Hampshire Road
 Handy Road
 Happy Avenue Central
+Happy Avenue North
 Harbour Drive
 Harbourfront Avenue
 Harbourfront Place
@@ -969,6 +984,7 @@ Jalan Ahmad Ibrahim
 Jalan Ampang
 Jalan Ampas
 Jalan Anak Bukit
+Jalan Anggerek
 Jalan Angin Laut
 Jalan Angklong
 Jalan Arnap
@@ -979,6 +995,7 @@ Jalan Ayer
 Jalan Bahagia
 Jalan Bahar
 Jalan Bahasa
+Jalan Baiduri
 Jalan Bangket
 Jalan Bangsawan
 Jalan Batai
@@ -1055,6 +1072,7 @@ Jalan Jarak
 Jalan Jelita
 Jalan Jeruju
 Jalan Jintan
+Jalan Jitong
 Jalan Jurong Kechil
 Jalan Kampong Chantek
 Jalan Kathi
@@ -1072,6 +1090,7 @@ Jalan Kembangan
 Jalan Kemboja
 Jalan Kemuning
 Jalan Kenarah
+Jalan Kerayong
 Jalan Keria
 Jalan Keris
 Jalan Kesoma
@@ -1089,6 +1108,7 @@ Jalan Kuala
 Jalan Kubor
 Jalan Kukoh
 Jalan Kuning
+Jalan Kupang
 Jalan Kuras
 Jalan Kurnia
 Jalan Labu Ayer
@@ -1112,12 +1132,14 @@ Jalan Lengkok Sembawang
 Jalan Lim Tai See
 Jalan Limau Bali
 Jalan Limau Kasturi
+Jalan Limau Manis
 Jalan Limau Nipis
 Jalan Limau Purut
 Jalan Limbok
 Jalan Limu
 Jalan Lokam
 Jalan Loyang Besar
+Jalan Machang
 Jalan Malu Malu
 Jalan Malu-Malu
 Jalan Manis
@@ -1161,6 +1183,7 @@ Jalan Pelatina
 Jalan Pelepah
 Jalan Pemimpin
 Jalan Penjara
+Jalan Pesawat
 Jalan Pinang
 Jalan Pintau
 Jalan Piring
@@ -1176,6 +1199,8 @@ Jalan Rama Rama
 Jalan Rebana
 Jalan Redop
 Jalan Remaja
+Jalan Remis
+Jalan Rengkam
 Jalan Resak
 Jalan Ria
 Jalan Riang
@@ -1189,6 +1214,8 @@ Jalan Sahabat
 Jalan Sajak
 Jalan Salang
 Jalan Samarinda
+Jalan Samulun
+Jalan Sankam
 Jalan Sappan
 Jalan Satu
 Jalan Saudara Ku
@@ -1245,7 +1272,6 @@ Jalan Terusan
 Jalan Tiga
 Jalan Tiong
 Jalan Toa Payoh
-Jalan Todak
 Jalan Tua Kong
 Jalan Tumpu
 Jalan Tupai
@@ -1263,6 +1289,7 @@ Jambol Place
 Jambol Walk
 Jansen Close
 Jansen Road
+Jasmine Road
 Jelapang Road
 Jelebu Road
 Jellicoe Road
@@ -1302,6 +1329,7 @@ Jurong Gateway Road
 Jurong Hill
 Jurong Lake Link
 Jurong Pier Road
+Jurong Port Road
 Jurong Town Hall Road
 Jurong West Avenue 1
 Jurong West Avenue 3
@@ -1341,6 +1369,7 @@ Kaki Bukit Road 1
 Kaki Bukit Road 2
 Kaki Bukit Road 3
 Kaki Bukit Road 4
+Kaki Bukit View
 Kalidassa Avenue
 Kallang Airport Way
 Kallang Avenue
@@ -1355,6 +1384,7 @@ Kampong Java Road
 Kampong Kapor Road
 Kampong Lorong Buangkok
 Kandahar Street
+Kandis Link
 Kang Ching Road
 Kasai Road
 Kay Siang Road
@@ -1390,6 +1420,7 @@ Kian Teck Avenue
 Kian Teck Drive
 Kian Teck Lane
 Kian Teck Road
+Kian Teck Way
 Killiney Road
 Kim Chuan Drive
 Kim Chuan Lane
@@ -1405,7 +1436,6 @@ Kim Seng Walk
 Kim Tian Place
 Kim Tian Road
 Kim Yam Road
-King George'S Avenue
 Kingsmead Road
 Kingswear Avenue
 Kinta Road
@@ -1424,7 +1454,10 @@ Kramat Road
 Kranji Road
 Kranji Way
 Kreta Ayer Road
+Kurau Place
+Kurau Terrace
 Kwong Avenue
+Kwong Min Road
 La Salle Street
 Labrador Villa Road
 Lady Hill Road
@@ -1476,6 +1509,7 @@ Lim Ah Woo Road
 Lim Chu Kang Lane 5
 Lim Chu Kang Lane 5A
 Lim Chu Kang Lane 6
+Lim Chu Kang Lane 9A
 Lim Chu Kang Road
 Lim Liak Street
 Lim Teck Kim Road
@@ -1488,6 +1522,8 @@ Little Road
 Lloyd Road
 Lock Road
 Loewen Road
+Lok Yang Way
+Lompang Road
 Lornie Road
 Lornie Walk
 Lorong 1 Geylang
@@ -1663,10 +1699,16 @@ Loyang Close
 Loyang Crescent
 Loyang Drive
 Loyang Lane
+Loyang Place
 Loyang Rise
 Loyang Way
 Loyang Way 1
 Loyang Way 4
+Lucky Crescent
+Lucky Gardens
+Lucky Heights
+Lucky Rise
+Lucky View
 Ludlow Place
 Lutheran Road
 Luxus Hill Avenue
@@ -1721,6 +1763,7 @@ Marsiling Industrial Road 9
 Marsiling Lane
 Marsiling Rise
 Marsiling Road
+Marsiling Street 13
 Martaban Road
 Martia Road
 Martin Place
@@ -1751,6 +1794,7 @@ Media Close
 Media Link
 Medical Drive
 Medway Drive
+Mei Chin Road
 Mei Hwan Crescent
 Mei Hwan Drive
 Mei Hwan Road
@@ -1770,6 +1814,7 @@ Meyappa Chettiar Road
 Meyer Place
 Meyer Road
 Middle Road
+Millenia Walk
 Miller Street
 Miltonia Close
 Mimosa Crescent
@@ -1834,6 +1879,7 @@ Nanyang Avenue
 Nanyang Crescent
 Nanyang Drive
 Nanyang Hill
+Nanyang Link
 Nanyang Terrace
 Nanyang View
 Napier Road
@@ -1844,6 +1890,7 @@ Nathan Road
 Nee Soon Road
 Neil Road
 Nemesu Avenue
+Neo Pee Teck Lane
 Neo Tiew Crescent
 Neo Tiew Lane 2
 Neo Tiew Lane 3
@@ -1858,6 +1905,7 @@ New Market Road
 New Punggol Road
 New Upper Changi Road
 Newton Road
+Neythai Road
 Neythal Road
 Nicoll Drive
 Nim Crescent
@@ -1875,6 +1923,8 @@ North Buona Vista Drive
 North Buona Vista Link
 North Buona Vista Road
 North Canal Road
+North Coast Avenue
+North Coast Crescent
 North Coast Drive
 North Perimeter Road
 North Woodlands Drive
@@ -1941,6 +1991,8 @@ Park Road
 Parkstone Road
 Parliament Place
 Parry Avenue
+Pasir Panjang Close
+Pasir Panjang Drive
 Pasir Panjang Hill
 Pasir Panjang Road
 Pasir Ris Avenue
@@ -1955,7 +2007,6 @@ Pasir Ris Drive 3
 Pasir Ris Drive 4
 Pasir Ris Drive 6
 Pasir Ris Drive 8
-Pasir Ris Farmway 1
 Pasir Ris Heights
 Pasir Ris Industrial Drive 1
 Pasir Ris Lane
@@ -2022,6 +2073,7 @@ Pheng Geck Avenue
 Phillip Street
 Phoenix Avenue
 Phoenix Road
+Phoenix Walk
 Pickering Street
 Pillai Road
 Pine Close
@@ -2031,6 +2083,8 @@ Pioneer Crescent
 Pioneer Crescent 20
 Pioneer Place
 Pioneer Road
+Pioneer Sector Lane
+Pioneer Sector Walk
 Pioneer View
 Pioneer Walk
 Pipit Road
@@ -2055,6 +2109,7 @@ Potong Pasir Avenue 1
 Potong Pasir Avenue 2
 Potong Pasir Avenue 3
 Preston Road
+Primrose Avenue
 Prince Charles Crescent
 Prince Road
 Princess Of Wales Road
@@ -2085,6 +2140,7 @@ Raffles Link
 Raffles Place
 Rangoon Lane
 Rangoon Road
+Rasok Drive
 Recreation Lane
 Recreation Road
 Redhill Close
@@ -2133,6 +2189,7 @@ Russels Road
 Rutland Road
 Sago Lane
 Sago Street
+Saint Barnabas Lane
 Saint Francis Road
 Saint Nicholas View
 Saint Thomas Walk
@@ -2166,6 +2223,7 @@ Sea Avenue
 Seah Im Road
 Seah Street
 Second Hospital Avenue
+Second Lok Yang Road
 Segar Road
 Sejar Road
 Selegie Road
@@ -2211,10 +2269,14 @@ Senja Close
 Senja Link
 Senja Road
 Sennett Avenue
+Sennett Lane
+Sennett Place
 Sennett Road
 Senoko Avenue
 Senoko Crescent
 Senoko Drive
+Senoko Link
+Senoko Loop
 Senoko Road
 Senoko South Road
 Senoko Way
@@ -2257,6 +2319,8 @@ Shangri-La Walk
 Shaw Road
 Shelford Road
 Shenton Way
+Shipyard Crescent
+Shipyard Road
 Short Street
 Shrewsbury Road
 Shunfu Road
@@ -2328,6 +2392,7 @@ Soo Chow Rise
 Soo Chow View
 Soo Chow Walk
 Soo Chow Way
+Soon Lee Drive
 Soon Lee Road
 Soon Lee Street
 Sophia Road
@@ -2389,6 +2454,7 @@ Stratton Walk
 Street 81
 Street Wilfred Road
 Sturdee Road
+Sudan Road
 Suffolk Road
 Suffolk Walk
 Sumang Lane
@@ -2409,8 +2475,11 @@ Sungei Kadut Way
 Sungei Tengah Road
 Sunrise Avenue
 Sunrise Terrace
+Sunrise Walk
+Sunrise Way
 Sunsate Drive
 Sunset Avenue
+Sunset Close
 Sunset Crescent
 Sunset Drive
 Sunset Heights
@@ -2521,6 +2590,7 @@ Tampines Street 86
 Tampines Street 91
 Tampines Street 92
 Tampines Street 93
+Tampines Street 94
 Tampines Street 96
 Tampines Walk
 Tan Boon Chong Avenue
@@ -2542,6 +2612,7 @@ Tanglin Road
 Tanjong Katong Road
 Tanjong Kling Road
 Tanjong Pagar Road
+Tanjong Rhu Close
 Tanjong Rhu Road
 Tank Road
 Tannery Lane
@@ -2586,7 +2657,9 @@ Teo Kim Eng Road
 Tessensohn Road
 Thai Thong Crescent
 Tham Soong Avenue
+Thiam Siew Avenue
 Third Hospital Avenue
+Third Lok Yang Road
 Thomson Heights
 Thomson Hill
 Thomson Lane
@@ -2620,6 +2693,7 @@ Toh Tuck Crescent
 Toh Tuck Drive
 Toh Tuck Link
 Toh Tuck Place
+Toh Tuck Rise
 Toh Tuck Road
 Toh Tuck Terrace
 Toh Tuck Walk
@@ -2627,9 +2701,11 @@ Toh Yi Drive
 Tomlinson Road
 Tong Watt Road
 Topaz Road
+Tosca Street
 Town Hall Link
 Towner Road
 Townshend Road
+Tractor Road
 Transit Road
 Tras Link
 Tras Street
@@ -2786,8 +2862,10 @@ Victoria Street
 Vista Terrace
 Wajek Walk
 Wak Hassan Drive
+Wak Hassan Place
 Wallace Way
 Wallich Street
+Wan Lee Road
 Wan Tho Avenue
 Wareham Road
 Waringin Walk
@@ -2795,6 +2873,7 @@ Warwick Road
 Waterloo Close
 Waterloo Link
 Waterloo Street
+Watten Close
 Watten Drive
 Watten Estate Road
 Watten Heights
@@ -2841,6 +2920,7 @@ Willow Avenue
 Wilmonar Avenue
 Wilton Close
 Wilton Gardens
+Wiltshire Road
 Winchester Road
 Windsor Park Road
 Winstedt Road
@@ -2872,6 +2952,7 @@ Woodlands Drive 14
 Woodlands Drive 16
 Woodlands Drive 17
 Woodlands Drive 40
+Woodlands Drive 43
 Woodlands Drive 44
 Woodlands Drive 50
 Woodlands Drive 53
@@ -2885,7 +2966,10 @@ Woodlands Drive 72
 Woodlands Drive 73
 Woodlands Industrial Park D Street 1
 Woodlands Industrial Park D Street 2
+Woodlands Link
+Woodlands Loop
 Woodlands North Coast Road
+Woodlands North Link
 Woodlands Ring Road
 Woodlands Rise
 Woodlands Road
@@ -2899,6 +2983,7 @@ Woodlands Street 81
 Woodlands Street 82
 Woodlands Street 83
 Woodlands Terrace
+Woodlands Walk
 Woodleigh Close
 Woodleigh Lane
 Woodleigh Link
@@ -2910,6 +2995,7 @@ Xilin Avenue
 Yan Kit Road
 Yarwood Avenue
 Yew Siang Road
+Yew Tee Close
 Yio Chu Kang Gardens
 Yio Chu Kang Link
 Yio Chu Kang Road
@@ -2927,6 +3013,8 @@ Yishun Avenue 8
 Yishun Avenue 9
 Yishun Central
 Yishun Central 1
+Yishun Central 2
+Yishun Close
 Yishun Industrial Street 1
 Yishun Ring Road
 Yishun Street 11
@@ -2935,6 +3023,7 @@ Yishun Street 21
 Yishun Street 22
 Yishun Street 23
 Yishun Street 31
+Yishun Street 41
 Yishun Street 42
 Yishun Street 43
 Yishun Street 51
