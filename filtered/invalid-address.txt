@@ -1,14 +1,13 @@
-
 #01-07 - #01-08 Fairprice
 #01-110A - #02-200 Fairprice
 #01-209
 #01-32 Anson Road, International Plaza
 #01-87B
+#03-14
 #14-02,04,05
 #B1-26
 #B1-32 - Level 2
 #B1-K10
-#B2-02 Og, Orchard Point
 1 Bukit Batok Central Link, West Mall
 1 Ceate Way
 1 Everton Park
@@ -55,12 +54,10 @@
 10 Airport Boulevard, Changi Airport Terminal 4
 10 Anson Road
 10 Eunos Road 8, Singapore Post Centre
-10 Tampines Central 1
 10 Tampines Central 1, Tampines One
 100 Bukit Timah Road
 101 Thomson Road, United Square
 101 Thomson Road, United Square Shopping Mall
-101 Upper Cross Street, People&Apos;S Park Centre
 1013 Geylang East Avenue 3
 1028 Upper Serangoon Road
 107
@@ -72,7 +69,6 @@
 111 Somerset
 12 Marina Boulevard, Marina Bay Financial Centre Tower 3
 13 Stamford Road, Capitol Tower
-133 New Bridge Road, Chinatown Point,
 14 Scotts Road
 14 Scotts Road, Far East Plaza
 140 Maxwell Road
@@ -93,8 +89,6 @@
 19 Leedon Heights
 190 Middle Road, Fortune Centre
 2
-2 Bayfront Avenue, Galleria Level, Marina Bay Sands
-2 Bayfront Avenue, The Shoppes At Marina Bay Sands
 2 Choa Chu Kang Loop, Keart Hong Community Club
 2 Cox Terrace Fort Canning Park
 2 Jurong East Street 21,  Imm
@@ -105,7 +99,6 @@
 2 Orchard Turn, Ion Orchard
 2 Tampines Central 5, Century Square
 2 Tampines Central 5, Century Square S.C.
-2 Kensington Park Drive
 20 Upper Circular Road
 200 Victoria Street, Bugis Junction
 200 Victoria Street, Bugis Junction
@@ -120,15 +113,14 @@
 238 Orchard Boulevard, Ion Orchard
 238 Thomson Road, Novena Square
 24, 26 &Amp; 28 Dunlop Street
+252 North Bridge Road, #01-44B Raffles City Shopping Centre
 252 North Bridge Road, Raffles City Shopping Centre
 252 North Bridge Road
 252 North Bridge Road, Raffles City Shopping Centre
-262
 290 Orchard Road, Paragon
 293 Holland Road, Jelita Shopping Center
 3 Ang Mo Kio Street 62
 3 Fullerton Road, The Fullerton Waterboat House
-3 Gateway Drive, Isetan Westgate
 3 Gateway Drive, Westgate
 3 Lorong Liput, Holland Piazza
 3 Mount Elizabeth, Mount Elizabeth Hospital Level 2
@@ -136,14 +128,15 @@
 3 Pickering Street, Nankin Row
 3 Simei Street 6
 3 Simei Street 6, Eastpoint Mall
+3 Temasek Boulevard, Suntec City
 3 Temasek Boulevard, Suntec City Mall
 3 Temasek Boulevard, Suntec City Mall (West Atrium)
 3 Temasek Boulevard, Suntec City Mall Tower 3
-3 Temasek Boulevard, Suntec City Tower 3
 3 Temasek Boulevard, Suntec City Tower 5
 3,  Simei Street 6, Eastpoint Mall
 30 Sembawang Drive, Sun Plaza
 30 Sembawang Drive, Sun Plaza
+30 Victoria Street, Chijmes
 302 Tiong Bahru Road, Tiong Bahru Plaza
 311 Jalan Ahmad Ibrahim
 311 New Upper Changi Road, Bedok Mall
@@ -174,6 +167,7 @@
 456
 460 Alexandra Road
 460 Alexandra Road, Psa Building (Alexandra Retail Centre
+479 Jurong West Street 41
 480 Toa Payoh Lorong 6, Hdb Hub
 5 Changi Business Park Central 1, Changi City Point
 5 Draycott Drive
@@ -218,6 +212,7 @@
 699C Hougang Street 52
 6A Napier Road, Gleneagles Hospital And Medical Centre
 7 Temasek Boulevard #12-07
+7-B Crane Road
 70 Nanyang Drive
 70 Shenton Way, #01-05
 70 Woodlands Avenue 7
@@ -235,6 +230,7 @@
 80 Marine Parade Road, Parkway Parade
 80 Marine Parade Road, Parkway Parade
 83 Punggol Central, Waterway Point
+85 Dawson Road, #01-05, Singapore 141085
 8A Marina Boulevard, Marina Bay Link Mall
 9 Bishan Place
 9 Bishan Place, Junction 8 Shopping Centre
@@ -251,6 +247,7 @@ After Lorong 106 Changi
 After Lorong 14 Geylang
 After Lorong 28 Geylang
 After Lorong 34 Geylang
+After Lorong 4 Toa Payoh
 After Lorong Danau
 After Lorong G Telok Kurau
 After Lorong H Telok Kurau
@@ -261,8 +258,10 @@ After Lorong Sarhad
 After Lorong Tanggam
 Airport Boulevard, #01-K207 Jewel Changi Airport Kiosk
 Airport Boulevard, #02-90, Departure Hall Level 2,
+Airport Boulevard, Singapore Changi Airport Terminal 1,  Departure/Transit Lounge West
 Airport Cargo Road, Gate C7, Changi Airfreight Centre
 Albert Street, #12-11/12 Og Albert Complex
+Alexandra View, #01-16
 Amoy Street, Far East Square
 Ang Mo Kio Avenue 10, #01-1974
 Ang Mo Kio Industrial Park 2A, #04-06 Amk Techlink
@@ -335,6 +334,7 @@ Draycott Park
 Duke&Apos;S Road
 East Coast Road #03-09
 East Coast Road #03-14
+Eu Tong Sen Street, 8 13-99
 Eunos Park
 Everton Park
 Everton Park, #01-33
@@ -476,11 +476,9 @@ Mugliston Park
 Neil Road, #01-06
 Neil Road, #01-07
 Nepal Park
-New Bridge Road, #02-55 Chinatown Point
 New Upper Changi Road Bedok Mall,
 Normanton Park
-North Bridge Road, #01-09, Raffles Hospital
-North Bridge Road, Odeon Towers
+North Bridge Road #03-16
 North Bridge Road. #03-07. Raffles City Shopping Centre.
 Opposite Lorong 1 Geylang Terminal
 Opposite Lorong 39 Geylang
@@ -533,6 +531,7 @@ Saint Margaret&Apos;S Road
 Saint Martin&Apos;S Drive
 Saint Michael&Apos;S Road
 Saint Patrick&Apos;S Road
+Science Park Drive, #06-01, #1 Cintech Iv, Science Park
 Seah Street;Beach Road
 Seletar Road, Greenwich V
 Sengkang Square, Compass One
@@ -613,7 +612,6 @@ Watten Park
 West Coast Park
 West Coast Road, #01-01
 White House Park
-Wilkie Road #01-19/20 Wilkie Edge
 Woodlands Avenue 2, #01-7/8/15
 Woodlands Drive 71, Kampung Admiralty #01-02,
 Woodlands Industrial Park E9 #01-01
