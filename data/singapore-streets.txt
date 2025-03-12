@@ -1696,6 +1696,7 @@ Jalan Novena Timor
 Jalan Novena Utara
 Jalan Pacheli
 Jalan Pakis
+Jalan Panchor Murai Kulapis
 Jalan Papan
 Jalan Paras
 Jalan Pari Burong
@@ -1734,6 +1735,7 @@ Jalan Rukam
 Jalan Rumah Tinggi
 Jalan Rumbia
 Jalan Rumia
+Jalan SS 2/17
 Jalan Sahabat
 Jalan Sajak
 Jalan Salang
@@ -2249,7 +2251,11 @@ Lorong Bistari
 Lorong Buang Kok
 Lorong Buangkok
 Lorong Bunga
+Lorong Cahya Mata 2A7
+Lorong Cakera Purnama 12/29
+Lorong Chan Chin Mooi
 Lorong Chencharu
+Lorong Chow Thye
 Lorong Chuan
 Lorong Chuan (CC)
 Lorong Chuan Station
@@ -2339,6 +2345,14 @@ Lorong Tawas
 Lorong Telok
 Lorong Temechut
 Lorong Terigu
+Lorong Titiwangsa 1
+Lorong Titiwangsa 11
+Lorong Titiwangsa 2
+Lorong Titiwangsa 5
+Lorong Titiwangsa 6
+Lorong Titiwangsa 7
+Lorong Titiwangsa 8
+Lorong Titiwangsa 9
 Lorong Toa Payoh 1
 Lorong Way
 Lothian Terrace
@@ -3201,6 +3215,7 @@ Simeo Street 5
 Simon Lane
 Simon Place
 Simon Road
+Simpang 50
 Sims Avenue
 Sims Avenue East
 Sims Avenue, #05-03 Chancerlodge Complex
