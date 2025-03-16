@@ -12,4 +12,4 @@ make
 
 ## Todos
 
-- Try using LLM for cases when no patterns match to see if string is a street name
+- [ ] Try using LLM for cases when no patterns match to see if string is a street name
