@@ -2,35 +2,14 @@
 
 How many streets are there in Singapore?
 
-## Steps
+## Running
 
-Download latest OSM data:
-
-```
-cd data
-make
-```
-
-Get cleaned up street names:
+Download latest OSM data and get cleaned up street names:
 
 ```
 make
 ```
 
-Validate against a known list:
+## Todos
 
-```
-cd validate
-make
-```
-
-Check which OSM tags the missing steets belong to:
-
-```
-cd validate
-make osm
-```
-
-## Open issues
-
-- Typos in OSM like `Woodland Drive 75` instead of `Woodlands Drive 75`
+- Try using LLM for cases when no patterns match to see if string is a street name
