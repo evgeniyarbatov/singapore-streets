@@ -13,3 +13,4 @@ make
 ## Todos
 
 - [ ] Try using LLM for cases when no patterns match to see if string is a street name
+- [ ] Create different groups of interesting street names
