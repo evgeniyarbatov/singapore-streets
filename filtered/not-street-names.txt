@@ -1,6 +1,6 @@
-Amk Hub
+Ah Soo Garden
 Albert Court
-Ang Mo Kio
+Amk Hub
 Ang Mo Kio Industrial Park 1
 Ang Mo Kio Industrial Park 2
 Ang Mo Kio Industrial Park 2A
@@ -28,7 +28,6 @@ Bukit Mugliston
 Bukit Timah Shopping Centre
 Cardiff Grove
 Carisbrooke Grove
-Cathay Forecourt
 Cedarwood Grove
 Central Exchange Green
 Central Expressway
@@ -43,6 +42,8 @@ Choa Chu Kang Cresent
 Choa Chu Kang Grove
 Choa Chu Kang Park Connector
 Choa Chu Kang Road Track 10
+Christian Cemetery Path 1
+Christian Cemetery Path 2
 Chuan Garden
 Citylink Mall
 Clarke Quay
@@ -75,6 +76,7 @@ Faber Green
 Fairprice
 Far East Plaza
 Finlayson Green
+Flanders Square
 Fullerton Square
 Funan
 Furama City Centre
@@ -85,7 +87,6 @@ Goldhill Plaza
 Grange Garden
 Greenleaf Grove
 Greenwood Grove
-Handy Road The Cathay
 Harbourfront Centre
 Hartley Grove
 Havelock Square
@@ -95,10 +96,9 @@ Holland Piazza
 Hougang Avenue 3 Park Connector
 Hyde Park Gate
 Imm
-Ion Orchard
 Irving Point
-Jem
 Japan Besar
+Jem
 Jin Teck Kee
 Jurong Island Highway
 Jurong Point
@@ -126,6 +126,7 @@ Lengkong Satu
 Lengkong Tiga
 Lengkong Tujoh
 Lentor Green
+Lentor Plain
 Lew Lian Vale
 Limau Garden
 Limau Grove
@@ -143,7 +144,9 @@ Mount Elizabeth
 Mount Elizabeth Medical Centre
 Mount Sinai Plain
 Mount Sophia
+Nex
 Nim Green
+No 1 Queensway Shopping Centre
 North Boat Quay
 North Bridge Road Funan
 North Bridge Road Raffles City
@@ -161,7 +164,6 @@ Orchard Road The Heeren
 Orchard Road Wisma Atria
 Orchard Turn
 Orchard Turn Ion Orchard
-Plq Mall
 Padang Chancery
 Pandan Valley
 Paradise Island
@@ -185,6 +187,7 @@ Pioneer Sector 2
 Pioneer Sector 3
 Pioneer Turn
 Plaza Singapura
+Plq Mall
 Pulau Tekong Besar
 Punggol Drivel
 Punggol Field
@@ -209,6 +212,7 @@ Selegie Road Parklane Shopping Mall
 Sembawang Roads
 Sembawang Vista
 Sengkang Square
+Sensory Trail
 Sentosa Gateway
 Sentosa Gateway Rws
 Serangoon Aenue 1
@@ -273,10 +277,10 @@ Treasure Island
 Tuas View Circuit
 Tuas View Square
 Tukang Innovation Grove
-Uob Centre
 Ubi Crescent Number One Building
 Ulu Pandan Park Connector
 United Square
+Uob Centre
 Upper Pickering Stree
 Upper Thomson
 Verde Grove
@@ -311,6 +315,3 @@ Woodlands Sector 2
 Woodlands Square
 Yew Tee
 Yishun Industrial Park A
-Ah Soo Garden
-Nex
-No 1 Queensway Shopping Centre
