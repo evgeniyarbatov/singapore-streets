@@ -25,13 +25,13 @@ Useful for:
 make osm
 ```
 
-### 2. Get Singapore OSM using polygon
+### 2. Extract Singapore OSM
 
 ```
 make city
 ```
 
-### 3. Extract street names
+### 3. Get street names
 
 ```
 make streets
