@@ -2,7 +2,7 @@
 
 ## How many streets are there in Singapore?
 
-This project explores OpenStreetMap (OSM) data to find all streets in Singapore. It’s an end-to-end pipeline that downloads and processes OSM data to extract street names. I validate the resulting list against a known but of date list of streets.
+This project explores OpenStreetMap (OSM) data to find all streets in Singapore. It’s an end-to-end pipeline that downloads and processes OSM data to extract street names.
 
 ## 🚀 Overview
 
