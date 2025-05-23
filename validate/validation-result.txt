@@ -1,52 +1,52 @@
 Summary
 
-    2969 streets in OSM file
+    3105 streets in OSM file
     3968 streets in validation file
-    2605 same streets
-    1728 different streets
+    2316 same streets
+    2442 different streets
 
 Lines only in OSM file:
 
-Serangoon Garden Place
-Upper Ajunied Road
-Pasir Ris Drive 8
-Marina East Drive
-Chinatown Food Street
-Serangoon Garden Rise
-Tengah Garden Walk
-Pays Lebar Road
-Ajunied Road
-Tuas South Boulevard
-Venture Drive
-Olympic Walk
-Sejar Road
-Hougang Street 12
-Ang Mo Kio Electronics Park Road
-Dunlop Road
-Yunnan Drive
-Lorong Banir Stream
-Business Park Drive
-Woodlands North Coast Road
+Harlyn Road
+Sungei Kadut Avenue
+Gallop Walk
+Sommerville Walk
+Hindehede Walk
+Lorong Titiwangsa 2
+Guillemard Crescent
+Springleaf Road
+Toa Payoh Lorong 4
+Shangri-La Close
+Punggol Point Walk
+Seletar Aerospace Rise
+Lorong Ayam Hutan
+Havelock Road
+Henderson Crescent
+Serangoon North Avenue 4
+Media Close
+Science Centre Road
+Simei Street 5
+Sennett Avenue
 
 Lines only in validation file:
 
-Jalan Mas Kuning
-East Coast Parkway
-Ramsgate Road
-Pitt Street
-Pesek Road
-Joo Hong Road
-Lentor Green
-Still Lane
-Namly Close
-West Coast Highway
-Pulau Tekong Besar
-Rienzi Street
-Adam Drive
-Jalan Mahir
-Bath Road
-Jalan Teck Kee
-Way
-Town Hall Road
-Cluny Park
-Sea Breeze Avenue
+Tasmania Road
+Stangee Close
+Seletar West Farmway 3
+Cochrane Crescent
+Bukit Batok West
+Sandy Island
+Pulasan Road
+Wee Nam Road
+Avenue
+Lorong Cheng Lim
+Kallang Tengah
+Jalan Azam
+Mangis Road
+Saujana Road
+Cardiff Grove
+Maritime Square
+Jalan Arif
+Lim Chu Kang Lane 6F
+Shan Road
+Defu Lane 5

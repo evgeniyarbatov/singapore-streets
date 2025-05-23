@@ -1,36 +1,54 @@
-# Singapore Streets
+# 🗺️ Singapore Streets
 
-How many streets are there in Singapore?
+## How many streets are there in Singapore?
 
-## Steps
+This project explores OpenStreetMap (OSM) data to find all streets in Singapore. It’s an end-to-end pipeline that downloads and processes OSM data to extract street names. I validate the resulting list against a known but of date list of streets.
 
-Download latest OSM data:
+## 🚀 Overview
 
-```
-cd data
-make
-```
+This project includes:
 
-Get cleaned up street names:
+- Retrieval of the latest OSM data for Singapore
+- Extraction and cleanup of street names
+- Validation of the resulting list
 
-```
-make
-```
+Useful for:
 
-Validate against a known list:
+- Exploring Singapore on foot
+- Discovering unusual and interesting street names
 
-```
-cd validate
-make
-```
+## 🛠️ How to Run
 
-Check which OSM tags the missing steets belong to:
+### 1. Download the latest OSM data
 
 ```
-cd validate
 make osm
 ```
 
-## Open issues
+### 2. Get Singapore OSM using polygon
 
-- Typos in OSM like `Woodland Drive 75` instead of `Woodlands Drive 75`
+```
+make city
+```
+
+### 3. Extract street names
+
+```
+make streets
+```
+
+### 3. Clean street names
+
+```
+make clean
+```
+### 4. Run validation
+
+```
+cd validate
+make
+```
+
+## 📌 Open Issues
+
+- Few typos in OSM data, e.g., `Woodland Drive 75` instead of `Woodlands Drive 75`

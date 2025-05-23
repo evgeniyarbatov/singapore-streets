@@ -3,7 +3,6 @@
 #01-209
 #01-32 Anson Road, International Plaza
 #01-87B
-#03-14
 #14-02,04,05
 #B1-26
 #B1-32 - Level 2
@@ -16,11 +15,10 @@
 1 Fifth Avenue, Guthrie House
 1 Fusionopolis Way
 1 George Street
-1 Harbourfront Walk Shop, Vivo City
 1 Harbourfront Walk, Vivocity
 1 Harbourfront Walk, Vivocity
 1 Hougang Street 91, Hougang 1
-1 Jalan Anak Bukit, Bukit Timah Plaza
+1 Jalan Anak Bukit
 1 Jelebu Road, Bukit Panjang Plaza
 1 Joo Koon Circle, Fairprice Hub
 1 Jurong East Street 21, Tower A, Ng Teng Fong Hospital
@@ -97,17 +95,15 @@
 2 Orchard Link, *Scape
 2 Orchard Turn, Ion Orchard
 2 Orchard Turn, Ion Orchard
-2 Tampines Central 5, Century Square
-2 Tampines Central 5, Century Square S.C.
-20 Upper Circular Road
 200 Victoria Street, Bugis Junction
 200 Victoria Street, Bugis Junction
 201 Yishun Avenue 2, Khatib Mrt Station
 208 New Upper Changi Road
+21 Canberra Link
+21 Choa Chu Kang Avenue 4, Lot 1 Shoppers&Apos; Mall,
 21 Choa Chu Kang Avenue 4, Lot One
 21 Choa Chu Kang Avenue 4, Lot One
 21 Choa Chu Kang North 6, Yew Tee Point
-21 Choa Chu Kang Avenue 4, Lot 1 Shoppers&Apos; Mall,
 220 Turf Club Road
 23 Serangoon Central, Nex
 238 Orchard Boulevard, Ion Orchard
@@ -117,6 +113,7 @@
 252 North Bridge Road, Raffles City Shopping Centre
 252 North Bridge Road
 252 North Bridge Road, Raffles City Shopping Centre
+256A
 290 Orchard Road, Paragon
 293 Holland Road, Jelita Shopping Center
 3 Ang Mo Kio Street 62
@@ -148,7 +145,6 @@
 321 Alexandra Road, Alexandra Central
 33
 331 New Bridge Road
-35 Rochester Drive
 350 Orchard Road, Shaw House
 36 Toh Guan Road East
 370 Alexandra Road, Anchorpoint Shopping Centre
@@ -177,13 +173,10 @@
 5 Wallich Street, Guoco Tower
 50 Jurong Gateway Road, Jem
 50 Jurong Gateway Road, Jem
-50 Nanyang Avenue, Nanyang Technological University
 51 Hougang Avenue 9
 530 Lorong 6, Toa Payoh Hub
-535 Clementi Road, Ngee Ann Polytechnic
 535 Upper Changi Road
 55 Kim Chuan Drive
-6 Eu Tong Sen Street, Clarke Quay Central
 6 Raffles Boulevard, Marina Square
 6 Shenton Way, Oue Downtown Gallery
 60 Airport Boulevard, Singapore Changi Airport Terminal 2  Departure/ Transit Lounge South, Transfer F, Level 2
@@ -198,6 +191,7 @@
 63 Jurong West Central 3, Jurong Point
 63/66 Yung Kuang Road Level 2
 64 Nanyang Crescent
+公司65
 65 Airport Boulevard, Singapore Changi Airport Terminal 3 Departure/ Transit Lounge South
 65 Ubi Road
 66 Nanyang Crescent
@@ -222,7 +216,6 @@
 78 Airport Boulevard
 78 Airport Boulevard, Jewel Changi Airport
 8 Cross Street, Manulife Tower
-8 Raffles Avenue, Esplanade Mall
 8/8A Sixth Avenue
 80 Airport Boulevard Changi Airport Terminal 1 Departure / Transit Lounge East
 80 Airport Boulevard, Departure / Transit Lounge Central, Singapore Changi Airport Terminal 2
@@ -270,7 +263,6 @@ Anson Road #31-06
 Anson Road, #01-02
 Ardmore Park
 Arrival Hall North, Basement 2 South (In Front Of Foodcourt), Departure Transit South Central, Departure Check-In Hall South, Departure Check-In Hall North
-Blk 531A Upper Cross Street
 Balmoral Park
 Basement North, Arrival Hall South, Arrival Hall North, Departure/Check-In Hall North, Departure/Transit Lounge South, Departure/Transit North
 Bayfront Avenue, #B2-20/20A
@@ -302,6 +294,7 @@ Blk 475 Choa Chu Kang Avenue 3, Sunshine Placex
 Blk 490 Lorong 6 Toa Payoh, Hdb Hub
 Blk 524A Jelapang Road, Greenridge Shopping Centre
 Blk 525 Ang Mo Kio Avenue 10
+Blk 531A Upper Cross Street
 Blk 548 Woodlands Drive 44, Vista Point
 Blk 622D Punggol Central
 Blk 671 Edgefield Plains
@@ -334,7 +327,6 @@ Draycott Park
 Duke&Apos;S Road
 East Coast Road #03-09
 East Coast Road #03-14
-Eu Tong Sen Street, 8 13-99
 Eunos Park
 Everton Park
 Everton Park, #01-33
@@ -344,9 +336,9 @@ Farrer Park Station Road
 Farrer Park Station Road
 Florissa Park
 Fullerton Road #01-04 One Fullerton
-Gb Point, Kallang Bahru
 Gallop Park
 Gateway Drive, #02-04/04A
+Gb Point, Kallang Bahru
 George Street #01-02
 Gerald Park
 Goodlink Park
@@ -354,12 +346,12 @@ Grace Park
 Grange Road, #01-K1 Cathay Cineleisure Orchard
 Greenbank Park
 Guillemard Road,Level 3 Wing Fong Building
-Handy Road The Cathay #01-05
 Harbourfront Walk #03-05 (Lobby F) Vivocity
 Harbourfront Walk, #02-03/04 Vivo City
 Harbourfront Walk, #02-234, Vivocity
 Henderson Road #13-01
 Hillview Terrace #01-06
+Holland Grove Road, Tower 3, #01-18
 Holland Park
 Holland Village Way #03-06
 Hougang Avenue 7 #01-787
@@ -377,12 +369,10 @@ Jalan Ma&Apos;Mor
 Jalan Serene #01-04
 Jalan Serene #02-09
 Jalan Siapstrictly Speaking, The Signs Say So, But Really..
-Jalan Tan Tock Seng, #01-16/17 Tan Tock Seng Hospital,
 Jurong East Street 21 #02-08 Ng Teng Fong General Hospital Tower A
 Jurong Gateway Road, #03-48. Jem Shopping Mall.
 Jurong West Central 2, Jp1, Jurong Point Shopping Centre
 Jurong West Central 3 #03-52/52A Jurong Point
-Jurong West Street 61, Pioneer Mall
 Kallang Way #01-03/04/05/06
 Kensington Park
 Killiney Road, Orchard Grand Court
@@ -495,6 +485,7 @@ Orchard Road, 313@Somerset #02-38/39
 Orchard Road, Centrepoint
 Orchard Road, Isetan, Shaw Centre
 Orchard Turn, #B1-12 Ion Orchard
+Outram Road #07-01
 Pasir Panjang Road Mapletree Business City #02-11
 Pasir Ris Central Street 3, White Sands Mall #01-18/19/20
 Paya Lebar Link #05-05 Plq 2
@@ -520,7 +511,6 @@ Rivervale Cres, Rivervale Mall
 Robinson Road #01-02 City House
 Rochester Park
 Rochor Canal Road #02-85
-Street Engineering Digital Hub (Front Entrance)
 Saint Andrew&Apos;S Road
 Saint Anne&Apos;S Wood
 Saint George&Apos;S Lane
@@ -550,6 +540,7 @@ Sims Drive #05-12B
 Sin Ming Road #01-05
 Smith Street #02-127 Chinatown Complex
 Street Andrew&Apos;S Road
+Street Engineering Digital Hub (Front Entrance)
 Street John&Apos;S Road
 Street Patrick&Apos;S Road
 Stadium Place, #01-56, Kallang Wave Mall
@@ -580,7 +571,6 @@ Svc 985 (Choa Chu Kang Interchange → Lorong 1 Geylang Terminal)
 Svc 985 (Choa Chu Kang Interchange ↔ Lorong 1 Geylang Terminal)
 Svc 985 (Lorong 1 Geylang Terminal → Choa Chu Kang Interchange)
 Tampines Avenue 3, #01-09
-Tampines Central 5, #01-19, Century Square
 Tampines Central 5, #01-50,
 Tampines Mall, Tampines Central Road, #02-01
 Tampines Walk, Our Tampines Hub #01-104,
@@ -614,9 +604,7 @@ West Coast Road, #01-01
 White House Park
 Woodlands Avenue 2, #01-7/8/15
 Woodlands Drive 71, Kampung Admiralty #01-02,
-Woodlands Industrial Park E9 #01-01
 Woodleigh Park
 Woollerton Park
 Yio Chu Kang Road #01-02
 Yishun Avenue 2 #01-07/08 Northpoint
-公司65

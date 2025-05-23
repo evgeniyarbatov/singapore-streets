@@ -88,6 +88,7 @@ Ang Mo Kio Street 64
 Ang Mo Kio Street 65
 Ang Mo Kio Street 66
 Ang Mo Kio Street 82
+Angklong Lane
 Angora Close
 Angsana Avenue
 Ann Siang Hill
@@ -248,6 +249,7 @@ Braddell Road
 Braddell View
 Braemar Drive
 Brani Way
+Branksome Road
 Bras Basah Road
 Brickland Crescent
 Brickland Lane
@@ -363,6 +365,7 @@ Cantonment Road
 Capricorn Drive
 Carlisle Road
 Carmichael Road
+Carnation Drive
 Carpenter Street
 Cashew Crescent
 Cashew Road
@@ -371,6 +374,7 @@ Cassia Crescent
 Cassia Drive
 Cassia Link
 Casuarina Road
+Casuarina Walk
 Cavan Road
 Cavenagh Road
 Cecil Street
@@ -541,6 +545,7 @@ Corporation Road
 Corporation Walk
 Cosford Road
 Cotswold Close
+Countryside Road
 Cove Avenue
 Cove Drive
 Cove Way
@@ -560,6 +565,7 @@ Cuscaden Road
 Cuscaden Walk
 Cypress Avenue
 Da Bao Lorong 15
+Daffodil Drive
 Dafne Street
 Dairy Farm Crescent
 Dairy Farm Heights
@@ -667,7 +673,6 @@ Erskine Road
 Essex Road
 Eu Chin Street
 Eu Tong Sen Street
-Eu Tong Sen Street Clarke Quay Central
 Eunos Avenue 3
 Eunos Avenue 4
 Eunos Avenue 5
@@ -717,16 +722,19 @@ Fifth Lok Yang Road
 Figaro Street
 Fiji Road
 Fir Avenue
+First Avenue
 First Lok Yang Road
 First Street
 Flora Drive
 Flora Road
 Florence Road
+Florida Road
 Flower Road
 Foch Road
 Folkestone Road
 Foo Kim Lin Road
 Ford Road
+Former Lorong Panchar
 Former Lorong Tawas
 Fort Canning Road
 Fort Road
@@ -781,6 +789,7 @@ Ghim Moh Link
 Ghim Moh Road
 Gibraltar Crescent
 Gilstead Road
+Gladiola Drive
 Glasgow Road
 Gloucester Road
 Golden Drive
@@ -1017,6 +1026,7 @@ Jalan Bukit Ho Swee
 Jalan Bukit Merah
 Jalan Bukit Merah Central
 Jalan Buloh Perindu
+Jalan Bumbong
 Jalan Bunga Rampai
 Jalan Buroh
 Jalan Chegar
@@ -1034,6 +1044,7 @@ Jalan Datoh
 Jalan Daud
 Jalan Dermawan
 Jalan Derum
+Jalan Dinding
 Jalan Dua
 Jalan Dusun
 Jalan Elok
@@ -1043,6 +1054,7 @@ Jalan Endut Senin
 Jalan Eunos
 Jalan Gaharu
 Jalan Gali Batu
+Jalan Gelegar
 Jalan Gelenggang
 Jalan Gendang
 Jalan Geneng
@@ -1070,11 +1082,13 @@ Jalan Jambu Batu
 Jalan Jambu Mawar
 Jalan Jarak
 Jalan Jelita
+Jalan Jendela
 Jalan Jeruju
 Jalan Jintan
 Jalan Jitong
 Jalan Jurong Kechil
 Jalan Kampong Chantek
+Jalan Kasau
 Jalan Kathi
 Jalan Kayu
 Jalan Kebaya
@@ -1182,6 +1196,7 @@ Jalan Pasiran
 Jalan Pekan Ubin
 Jalan Pelatina
 Jalan Pelepah
+Jalan Pelikat
 Jalan Pemimpin
 Jalan Penjara
 Jalan Pesawat
@@ -1197,6 +1212,7 @@ Jalan Raja Udang
 Jalan Rajah
 Jalan Rajawali
 Jalan Rama Rama
+Jalan Rasok
 Jalan Rebana
 Jalan Redop
 Jalan Remaja
@@ -1356,6 +1372,7 @@ Jurong West Street 72
 Jurong West Street 73
 Jurong West Street 74
 Jurong West Street 75
+Jurong West Street 76
 Jurong West Street 81
 Jurong West Street 91
 Jurong West Street 92
@@ -1453,6 +1470,7 @@ Kovan Close
 Kovan Rise
 Kovan Road
 Kramat Road
+Kranji Loop
 Kranji Road
 Kranji Way
 Kreta Ayer Road
@@ -1462,6 +1480,7 @@ Kwong Avenue
 Kwong Min Road
 La Salle Street
 Labrador Villa Road
+Ladang Street 1
 Lady Hill Road
 Lagos Circle
 Lakepoint Drive
@@ -1610,6 +1629,7 @@ Lorong Banir Stream
 Lorong Batawi
 Lorong Bekukong
 Lorong Biawak
+Lorong Bin Kiang
 Lorong Bistari
 Lorong Buang Kok
 Lorong Buangkok
@@ -1702,6 +1722,7 @@ Lorong Titiwangsa 7
 Lorong Titiwangsa 8
 Lorong Titiwangsa 9
 Lorong Toa Payoh 1
+Lorong Tukol
 Lorong Way
 Lothian Terrace
 Lower Delta Road
@@ -1757,9 +1778,11 @@ Margaret Drive
 Margate Road
 Margoliouth Road
 Mariam Way
+Marigold Drive
 Marina Boulevard
 Marina East Drive
 Marina Gardens Drive
+Marina Gardens Lane
 Marina Parade Road
 Marina View
 Marine Crescent
@@ -1879,6 +1902,7 @@ Mountbatten Road
 Mugliston Walk
 Mulberry Avenue
 Munshi Abdullah Avenue
+Munshi Abdullah Walk
 Muscat Street
 Muswell Hill
 Muthuraman Chetty Road
@@ -1956,6 +1980,7 @@ Ocean Way
 Old Airport Road
 Old Choa Chu Kang Road
 Old Holland Road
+Old Lim Chu Kang Road
 Old Lornie Road
 Old Nelson Road
 Old Parliament Lane
@@ -1976,6 +2001,7 @@ Orchard Boulevard
 Orchard Road
 Orchard Spring Lane
 Orchid Club Road
+Orchid Drive
 Ottawa Road
 Outram Hill
 Outram Road
@@ -2094,7 +2120,6 @@ Pine Close
 Pine Walk
 Pinsep Street
 Pioneer Crescent
-Pioneer Crescent 20
 Pioneer Place
 Pioneer Road
 Pioneer Sector Lane
@@ -2256,7 +2281,6 @@ Seletar Green Walk
 Seletar Hills Drive
 Seletar Road
 Seletar Terrace
-Seletar West Farmway 5
 Sembawang Close
 Sembawang Crescent
 Sembawang Drive
@@ -2445,6 +2469,7 @@ Stadium Drive
 Stadium Place
 Stadium Walk
 Stagmont Ring
+Stagmont Road
 Stamford Road
 Stangee Close
 Stanley Street
@@ -2715,6 +2740,7 @@ Toh Yi Drive
 Tomlinson Road
 Tong Watt Road
 Topaz Road
+Toronto Road
 Tosca Street
 Town Hall Link
 Towner Road
@@ -2806,6 +2832,7 @@ Tuas West Drive
 Tuas West Road
 Tuas West Street
 Tudor Close
+Tukang Innovation Drive
 Tung Po Avenue
 Turf Club Road
 Turnhouse Road
@@ -2936,6 +2963,7 @@ Wilton Close
 Wilton Gardens
 Wiltshire Road
 Winchester Road
+Windsor Park Hill
 Windsor Park Road
 Winstedt Road
 Wishart Road
@@ -3010,6 +3038,7 @@ Yan Kit Road
 Yarwood Avenue
 Yew Siang Road
 Yew Tee Close
+Yio Chu Kang Drive
 Yio Chu Kang Gardens
 Yio Chu Kang Link
 Yio Chu Kang Road
@@ -3064,8 +3093,12 @@ Yung Shang Road
 Yung Sheng Road
 Yunnan Crescent
 Yunnan Drive
+Yunnan Drive 1
 Yunnan Road
 Yunnan Walk
+Yunnan Walk 1
+Yunnan Walk 2
+Yunnan Walk 3
 Zehnder Road
 Zion Close
 Zion Road
