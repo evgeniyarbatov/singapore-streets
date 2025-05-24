@@ -9,18 +9,11 @@ SG_STREETS_FILE = data/singapore-streets.txt
 all: process
 
 osm:
-	@if [ ! -f $(SINGAPORE_OSM_PATH) ]; then \
-		wget $(SINGAPORE_OSM_URL) -P $(OSM_DIR); \
-	fi
+	wget $(SINGAPORE_OSM_URL) -P $(OSM_DIR)
 
 city:
-	@if [ ! -f $(OSM_DIR)/singapore.osm.pbf ]; then \
-		osmconvert $(SINGAPORE_OSM_PATH) -B=$(OSM_DIR)/singapore.poly -o=$(OSM_DIR)/singapore.osm.pbf; \
-	fi
-
-	@if [ ! -f $(OSM_DIR)/singapore.osm ]; then \
-		osmium cat --overwrite $(OSM_DIR)/singapore.osm.pbf -o $(OSM_DIR)/singapore.osm; \
-	fi
+	osmconvert $(SINGAPORE_OSM_PATH) -B=$(OSM_DIR)/singapore.poly -o=$(OSM_DIR)/singapore.osm.pbf
+	osmium cat --overwrite $(OSM_DIR)/singapore.osm.pbf -o $(OSM_DIR)/singapore.osm
 
 streets:
 	grep '<tag k="addr:street" v=' $(OSM_DIR)/singapore.osm | sed 's/.*v="\([^"]*\)".*/\1/' | sort | uniq > $(SG_STREETS_FILE)
