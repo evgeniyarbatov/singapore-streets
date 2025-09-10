@@ -2,6 +2,14 @@ import sys
 import re
 
 def main():
+  # Building/shopping mall exclusions
+  building_keywords = [
+    'mall', 'plaza', 'centre', 'center', 'building', 'tower', 'complex', 
+    'hub', 'junction', 'interchange', 'station', 'terminal', 'hotel',
+    'condominium', 'condo', 'residences', 'apartments', 'flats',
+    'food court', 'foodcourt'
+  ]
+  
   with open(
     "filtered/not-street-names.txt", 
     "w",
@@ -31,20 +39,22 @@ def main():
         r'Close|'
         r'Crescent|'
         r'Drive|'
+        r'Expressway|'
         r'Farmway|'
         r'Gardens|'
+        r'Grove|'
         r'Heights|'
         r'Hill|'
         r'Lane|'
         r'Link|'
         r'Loop|'
-        r'Place$|'
+        r'Parkway|'
         r'Ring|'
         r'Rise|'
         r'Road|'
+        r'Square|'
         r'Street|'
         r'Terrace|'
-        r'View|'
         r'Walk|'
         r'Way'
         r')(\s*\d+[A-Za-z]?)?$',
@@ -52,10 +62,15 @@ def main():
         re.IGNORECASE,
       ))
             
+      # Check for building/shopping mall keywords
+      is_building = any(
+        re.search(r'\b' + keyword + r'\b', line, re.IGNORECASE) 
+        for keyword in building_keywords
+      )
+      
       if (
-        is_street_name or
-        is_lorong or
-        is_jalan
+        (is_street_name or is_lorong or is_jalan) and
+        not is_building
       ):
         print(line)
         seen_names.append(line)
@@ -76,7 +91,14 @@ def main():
           ):
             print(line)
         else:
-          f.write(line + '\n')
+          # Log why the line was filtered out
+          reason = []
+          if is_building:
+            reason.append("building/mall")
+          if not (is_street_name or is_lorong or is_jalan):
+            reason.append("not street pattern")
+          
+          f.write(f"{line} # Filtered: {', '.join(reason)}\n")
         
 if __name__ == "__main__":
     main()
