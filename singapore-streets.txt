@@ -3,7 +3,6 @@ Adam Drive
 Adam Road
 Adis Road
 Admiralty Drive
-Admiralty Grove
 Admiralty Lane
 Admiralty Link
 Admiralty Road
@@ -39,7 +38,6 @@ Aljunied Crescent
 Aljunied Road
 Aljunied Walk
 Alkaff Crescent
-Allamanda Grove
 Allanbrooke Road
 Allenby Road
 Allotment Gardens
@@ -61,7 +59,6 @@ Anchorvale Close
 Anchorvale Crescent
 Anchorvale Drive
 Anchorvale Gardens
-Anchorvale Grove
 Anchorvale Lane
 Anchorvale Link
 Anchorvale Road
@@ -88,7 +85,6 @@ Ang Mo Kio Central 2
 Ang Mo Kio Central 3
 Ang Mo Kio Drive
 Ang Mo Kio Electronics Park Road
-Ang Mo Kio Grove
 Ang Mo Kio Heights
 Ang Mo Kio Rise
 Ang Mo Kio Street 11
@@ -138,8 +134,6 @@ Arts Link
 Arumugam Road
 Arun Road
 Ascot Rise
-Ash Grove
-Ashwood Grove
 Asia Square
 Asimont Lane
 Aspen Heights
@@ -252,7 +246,6 @@ Bedok Terrace
 Bedok Town Square
 Bedok Walk
 Bee San Avenue
-Beechwood Grove
 Begonia Crescent
 Begonia Drive
 Begonia Lane
@@ -292,7 +285,6 @@ Binchang Walk
 Binjai Hill
 Binjai Rise
 Binjai Walk
-Biomedical Grove
 Biopolis Drive
 Biopolis Link
 Biopolis Road
@@ -329,7 +321,6 @@ Boon Keng Road
 Boon Lay Avenue
 Boon Lay Drive
 Boon Lay Gardens
-Boon Lay Grove
 Boon Lay Way
 Boon Leat Terrace
 Boon Tat Link
@@ -508,8 +499,6 @@ Cantonment Link
 Cantonment Road
 Capricorn Drive
 Car Park Entrance Way
-Cardiff Grove
-Carisbrooke Grove
 Carlisle Road
 Carmen Street
 Carmen Terrace
@@ -539,12 +528,10 @@ Cavenagh Gardens
 Cavenagh Road
 Cecil Street
 Cedar Avenue
-Cedarwood Grove
 Centra Heights
 Central
 Central Boulevard
 Central Expressway
-Central Grove
 Central Link
 Central Square
 Centrium Square
@@ -559,7 +546,6 @@ Chai Chee Lane
 Chai Chee Road
 Chai Chee Street
 Champions Way
-Chancery Grove
 Chancery Hill Road
 Chancery Hill Walk
 Chancery Lane
@@ -601,11 +587,9 @@ Chaun Drive
 Chay Yan Street
 Chee Hoon Avenue
 Chelsea Gardens
-Chelsea Grove
 Chempaka Avenue
 Chempaka Kuning Link
 Chencharu Close
-Chencharu Grove
 Chencharu Link
 Cheng Soon Crescent
 Cheong Chin Nam Road
@@ -643,7 +627,6 @@ Chinese And Japanese Gardens
 Chinese Garden Road
 Chip Bee Gardens
 Chip Hock Gardens
-Chiselhurst Grove
 Chitty Road
 Chnagi Coast Walk
 Choa Chu Kang Avenue
@@ -656,7 +639,6 @@ Choa Chu Kang Avenue 7
 Choa Chu Kang Central
 Choa Chu Kang Crescent
 Choa Chu Kang Drive
-Choa Chu Kang Grove
 Choa Chu Kang Hill
 Choa Chu Kang Link
 Choa Chu Kang Loop
@@ -679,7 +661,6 @@ Chu Lin Road
 Chu Yen Street
 Chuan Close
 Chuan Drive
-Chuan Grove
 Chuan Hoe Avenue
 Chuan Lane
 Chuan Link
@@ -694,7 +675,6 @@ Circuilar Road
 Circuit Link
 Circuit Road
 Circular Road
-Citrus Grove
 Clacton Road
 Clarence Lane
 Clarke Quay Central
@@ -739,7 +719,6 @@ Cluny Hill
 Cluny Park Road
 Cluny Park Way
 Cluny Road
-Colchester Grove
 Coldstream Avenue
 Coleman Lane
 Coleman Street
@@ -755,7 +734,6 @@ Commonwealth Heights
 Commonwealth Lane
 Commonwealth Link
 Community Yoga Square
-Como Adventure Grove
 Compass Heights
 Compassvale Crescent
 Compassvale Drive
@@ -766,19 +744,16 @@ Compassvale Road
 Compassvale Street
 Compassvale Walk
 Computing Drive
-Coniston Grove
 Connaught Drive
 Connector Lim Tuatow Road
 Conservatory Drive
 Conway Circle
-Conway Grove
 Cook Street
 Cooling Close
 Cornwall Gardens
 Cornwall Road
 Coronation Drive
 Coronation Gardens
-Coronation Grove
 Coronation Road
 Coronation Walk
 Corporation Drive
@@ -786,17 +761,14 @@ Corporation Rise
 Corporation Road
 Corporation Walk
 Cosford Road
-Costa Grove
 Cotswold Close
 Cottesmore Road
-Countryside Grove
 Countryside Link
 Countryside Road
 Countryside Walk
 Court Road
 Cove Avenue
 Cove Drive
-Cove Grove
 Cove Way
 Covered Walk Way
 Cowdray Avenue
@@ -843,7 +815,6 @@ Dalhousie Lane
 Dalkeith Road
 Dalvey Gate Road
 Dalvey Road
-Damai Grove
 Darat Avenue
 Darat Drive
 Darat Garden Road
@@ -919,7 +890,6 @@ Dunearn Road
 Dunkirk Avenue
 Dunlop Road
 Dunlop Street
-Dunman Grove
 Dunman Lane
 Dunman Road
 Dunsfold Drive
@@ -940,7 +910,6 @@ East Coast Park Service Road
 East Coast Parkway
 East Coast Road
 East Coast Terrace
-East Grove
 East Perimeter Road
 East Sussex Lane
 Eastwood Drive
@@ -951,7 +920,6 @@ Eastwood Way
 Eaton Walk
 Eber Gardens
 Eber Road
-Eden Grove
 Edgefield Walk
 Edgeway Lane
 Edgware Road
@@ -1035,7 +1003,6 @@ Ez-Link
 Faber Avenue
 Faber Crescent
 Faber Drive
-Faber Grove
 Faber Heights
 Faber Terrace
 Faber Walk
@@ -1065,7 +1032,6 @@ Fernhill Road
 Fernvale Close
 Fernvale Drive
 Fernvale Gardens
-Fernvale Grove
 Fernvale Lane
 Fernvale Link
 Fernvale Road
@@ -1237,7 +1203,6 @@ Greendale Rise
 Greenfield Drive
 Greenleaf Avenue
 Greenleaf Drive
-Greenleaf Grove
 Greenleaf Lane
 Greenleaf Rise
 Greenleaf Road
@@ -1249,12 +1214,10 @@ Greenview Crescent
 Greenwich Drive
 Greenwood Avenue
 Greenwood Crescent
-Greenwood Grove
 Greenwood Lane
 Greenwood Terrace
 Greenwood Walk
 Grenade Avenue
-Grove
 Grove Avenue
 Grove Crescent
 Grove Drive
@@ -1286,7 +1249,6 @@ Guoco Midtown Square
 Guok Avenue
 Gv City Square
 Gymkhana Avenue
-Hacienda Grove
 Hai Sing Crescent
 Hai Sing Road
 Haig Avenue
@@ -1313,7 +1275,6 @@ Harding Road
 Harlyn Road
 Harper Road
 Harrison Road
-Hartley Grove
 Harvey Avenue
 Harvey Close
 Harvey Crescent
@@ -1347,10 +1308,8 @@ Hill
 Hill Street
 Hillcrest Road
 Hillgrove Gardens
-Hills Grove
 Hillside Drive
 Hillside Terrace
-Hilltop Grove
 Hilltop Walk
 Hillview Avenue
 Hillview Crescent
@@ -2032,7 +1991,6 @@ Jelebu Road
 Jellicoe Road
 Jervios Road
 Jervois Close
-Jervois Grove
 Jervois Hill
 Jervois Lane
 Jervois Road
@@ -2268,7 +2226,6 @@ Kreta Ayer Square
 Kreta Road
 Kung Chong Road
 Kuo Chuan Avenue
-Kurau Grove
 Kurau Terrace
 Kwong Avenue
 Kwong Min Road
@@ -2281,7 +2238,6 @@ Lady Hill Road
 Lagos Circle
 Lakepoint Drive
 Lakeside Drive
-Lakeside Grove
 Lakeview Gardens
 Lakme Street
 Lakme Terrace
@@ -2294,7 +2250,6 @@ Lasia Avenue
 Laurel Wood Avenue
 Lavender Gardens
 Lavender Street
-Le Grove
 Leaders Square
 Leedon Heights
 Leedon Road
@@ -2310,7 +2265,6 @@ Lentor Central
 Lentor Crescent
 Lentor Drive
 Lentor Gardens
-Lentor Grove
 Lentor Hills Road
 Lentor Lane
 Lentor Link
@@ -2358,7 +2312,6 @@ Lim Tai See Walk
 Lim Teck Boo Road
 Lim Teck Kim Road
 Lim Tua Tow Road
-Limau Grove
 Limau Rise
 Limau Terrace
 Limau Walk
@@ -2607,7 +2560,6 @@ Luxus Hill Heights
 Luxus Hill Road
 Lyndhurst Road
 Lyneham Road
-Lynwood Grove
 Macalister Road
 Mackenzie Road
 Mackerrow Road
@@ -2669,7 +2621,6 @@ Marina Gardens Crescent
 Marina Gardens Drive
 Marina Gardens Lane
 Marina Gardens Walk
-Marina Grove
 Marina Link
 Marina Parade Road
 Marina South Avenue
@@ -2695,7 +2646,6 @@ Marshall Road
 Marsiling Crescent
 Marsiling Drive
 Marsiling Gardens
-Marsiling Grove
 Marsiling Heights
 Marsiling Industrial Road 5
 Marsiling Industrial Road 9
@@ -2855,7 +2805,6 @@ Namly Avenue
 Namly Close
 Namly Crescent
 Namly Drive
-Namly Grove
 Namly Hill
 Namly Rise
 Nankin Street
@@ -2864,7 +2813,6 @@ Nanyang Avenue
 Nanyang Circle
 Nanyang Crescent
 Nanyang Drive
-Nanyang Grove
 Nanyang Heights
 Nanyang Hill
 Nanyang Link
@@ -2876,7 +2824,6 @@ Narooma Road
 Nassim Hill
 Nassim Road
 Nathan Road
-Nava Grove
 Near Dover Drive
 Near West Coast Walk
 Nee Soon Road
@@ -2951,7 +2898,6 @@ Nuffield Dental Central
 Nus Hill
 Nutmeg Road
 Oak Avenue
-Oakwood Grove
 Ocbc Square
 Ocean Drive
 Ocean Way
@@ -2976,7 +2922,6 @@ Old Toh Tuck Road
 Old Upper Thomson Road
 Old Yio Chu Kang Road
 Oldham Lane
-Olive Grove
 Olive Road
 Olympic Walk
 Omar Khayyam Avenue
@@ -3023,7 +2968,6 @@ Palawan Beach Walk
 Palm Avenue
 Palm Drive
 Palm Gardens
-Palm Grove
 Palm Grove Avenue
 Palm Oasis Entrance Road
 Palm Road
@@ -3085,7 +3029,6 @@ Pasir Ris Drive 3
 Pasir Ris Drive 4
 Pasir Ris Drive 6
 Pasir Ris Drive 8
-Pasir Ris Grove
 Pasir Ris Heights
 Pasir Ris Industrial Drive 1
 Pasir Ris Lane
@@ -3107,13 +3050,11 @@ Pasir Ris Terrace
 Pasir Ris Walk
 Pasir Ris Way
 Pasir Way
-Pasta Grove
 Paterson Hill
 Paterson Road
 Patterson Road
 Paul Little Drive
 Pavilion Circle
-Pavilion Grove
 Pavilion Rise
 Pavilion Street
 Paya Lebar Crescent
@@ -3126,7 +3067,6 @@ Paya Lebar Walk
 Paya Lebar Way
 Pays Lebar Road
 Peakville Avenue
-Peakville Grove
 Peakville Terrace
 Peakville Walk
 Pearl Street
@@ -3156,7 +3096,6 @@ Penjuru Road
 Penjuru Street
 Penjuru Walk
 Pennefather Road
-Peppermint Grove
 Pepys Road
 Perahu Road
 Perak Road
@@ -3183,12 +3122,10 @@ Picardy Gardens
 Pickering Street
 Pillai Road
 Pine Close
-Pine Grove
 Pine Lane
 Pine Walk
 Pinetree Hill
 Pinewood Gardens
-Pinewood Grove
 Ping Yi Gardens
 Ping-An Gardens
 Pinsep Street
@@ -3206,7 +3143,6 @@ Plantation Close
 Plantation Crescent
 Plantation Drive
 Plantation Farmway
-Plantation Grove
 Platina Road
 Playfair Road
 Plumer Road
@@ -3292,7 +3228,6 @@ Raffles Institution Lane
 Raffles Link
 Raffles Square
 Raffles Terrace
-Raglan Grove
 Rakit Road
 Rambai Road
 Rambutan Hill
@@ -3315,7 +3250,6 @@ Redhill Road
 Redwood Avenue
 Refinery Road
 Reflexology Walk
-Regent Grove
 Regent Heights
 Regent Street
 Republic Avenue
@@ -3340,7 +3274,6 @@ Ripley Crescent
 Rise
 Ritchie Road
 River Valley Close
-River Valley Grove
 River Valley Road
 Riveria Gardens
 Riverina Crescent
@@ -3350,7 +3283,6 @@ Rivervale Close
 Rivervale Crescent
 Rivervale Drive
 Rivervale Gardens
-Rivervale Grove
 Rivervale Lane
 Rivervale Link
 Rivervale Street
@@ -3449,7 +3381,6 @@ Second Lok Yang Road
 Second Street
 Segar Close
 Segar Gardens
-Segar Grove
 Segar Road
 Sejar Road
 Selarang Park Road
@@ -3689,7 +3620,6 @@ Spc Admiralty Road
 Spooner Road
 Sports Drive
 Spottiswoode Park Road
-Spring Grove
 Spring Street
 Springdew Terrace
 Springleaf Avenue
@@ -3797,7 +3727,6 @@ Sunset Avenue
 Sunset Close
 Sunset Crescent
 Sunset Drive
-Sunset Grove
 Sunset Heights
 Sunset Lane
 Sunset Square
@@ -3805,13 +3734,11 @@ Sunset Terrace
 Sunset Walk
 Sunset Way
 Sunshine Gardens
-Sunshine Grove
 Sunshine Terrace
 Sunstone Hill
 Sunview Drive
 Sunview Road
 Sunview Way
-Supertree Grove
 Supreme Court Lane
 Surin Avenue
 Surin Lane
@@ -3860,7 +3787,6 @@ Tai Hwan Avenue
 Tai Hwan Close
 Tai Hwan Crescent
 Tai Hwan Drive
-Tai Hwan Grove
 Tai Hwan Heights
 Tai Hwan Lane
 Tai Hwan Terrace
@@ -3900,7 +3826,6 @@ Tampines Central 7
 Tampines Central 8
 Tampines Central Shopping Street
 Tampines Expressway
-Tampines Grove
 Tampines Industrial Avenue 3
 Tampines Industrial Avenue 5
 Tampines Industrial Crescent
@@ -3961,8 +3886,6 @@ Tanah Merah Kechil Avenue
 Tanah Merah Kechil Link
 Tanah Merah Kechil Rise
 Tanah Merah Kechil Road
-Tangerine Grove
-Tanglin Grove
 Tanglin Halt Close
 Tanglin Halt Road
 Tanglin Hill
@@ -4020,7 +3943,6 @@ Telok Kurau Road
 Telok Paku Road
 Temasek Avenue
 Temasek Boulevard
-Tembeling Grove
 Tembeling Lane
 Tembeling Road
 Tembusu Avenue
@@ -4060,7 +3982,6 @@ The Gun Terrace
 The Hill
 The Hive North Bridge Road
 The Loop
-The Orange Grove
 The Stage Walk
 The Suites At Central
 The Terrace
@@ -4075,7 +3996,6 @@ Third Street
 This Is A Private Road
 This Road Is A Private Road
 Thomson Close
-Thomson Grove
 Thomson Heights
 Thomson Hill
 Thomson Hills Drive
@@ -4111,7 +4031,6 @@ Toh Avenue
 Toh Close
 Toh Crescent
 Toh Drive
-Toh Guan Grove
 Toh Guan Road
 Toh Heights
 Toh Street
@@ -4245,7 +4164,6 @@ Tuas West Road
 Tuas West Street
 Tudor Close
 Tukang Innovation Drive
-Tukang Innovation Grove
 Tukang Lnnovation Lane
 Tung Po Avenue
 Turf Club Avenue
@@ -4261,7 +4179,6 @@ Ubi Avenue 3
 Ubi Avenue 4
 Ubi Close
 Ubi Crescent
-Ubi Grove
 Ubi Link
 Ubi Road 1
 Ubi Road 2
@@ -4327,18 +4244,15 @@ Venus Loop
 Venus Road
 Verde Avenue
 Verde Crescent
-Verde Grove
 Verde Walk
 Verdun Road
 Victoria Lane
 Victoria Link
 Victoria Park Close
-Victoria Park Grove
 Victoria Park Road
 Victoria Street
 Victory Heights
 Vigilante Drive
-Vine Grove
 Vista Terrace
 Waddington Road
 Wajek Walk
@@ -4378,7 +4292,6 @@ West Coast Crescent
 West Coast Drive
 West Coast Ferry Road
 West Coast Gardens
-West Coast Grove
 West Coast Lane
 West Coast Link
 West Coast Rise
@@ -4475,7 +4388,6 @@ Woodlands Lane
 Woodlands Link
 Woodlands Loop
 Woodlands North Coast Road
-Woodlands North Grove
 Woodlands North Link
 Woodlands North Road
 Woodlands Ring Road
@@ -4517,7 +4429,6 @@ Yih Square
 Yio Chu Kang Crescent
 Yio Chu Kang Drive
 Yio Chu Kang Gardens
-Yio Chu Kang Grove
 Yio Chu Kang Heights
 Yio Chu Kang Link
 Yio Chu Kang Road

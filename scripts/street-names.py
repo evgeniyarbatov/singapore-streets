@@ -42,7 +42,6 @@ def main():
         r'Expressway|'
         r'Farmway|'
         r'Gardens|'
-        r'Grove|'
         r'Heights|'
         r'Hill|'
         r'Lane|'
