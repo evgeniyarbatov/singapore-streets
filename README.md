@@ -6,32 +6,16 @@ This project explores OpenStreetMap (OSM) data to find all streets in Singapore.
 
 ## How to Run
 
-### Download the latest OSM data
-
 ```
+# Download the latest OSM data
 make osm
-```
-
-### Extract Singapore OSM
-
-```
+# Extract Singapore OSM
 make city
-```
-
-### Get street names
-
-```
+# Extract street names from OSM
 make streets
-```
-
-### Clean street names
-
-```
+# Clean street names
 make clean
-```
-### Group street names
-
-```
+# Use ollama to group street names
 make categorize
 ```
 
