@@ -14,6 +14,7 @@ Ang Mo Kio Industrial Park 2 # Filtered: not street pattern
 Ang Mo Kio Industrial Park 2A # Filtered: not street pattern
 Angsana Breeze # Filtered: not street pattern
 Angullia Park # Filtered: not street pattern
+Aperia/Before Kallang Road # Filtered: contains slash
 Aqueen Prestige Hotel Jalan Besar # Filtered: building/mall, not street pattern
 Ardmore Park # Filtered: not street pattern
 Ashley Green # Filtered: not street pattern
@@ -284,6 +285,7 @@ Jalan Batu Hawker Centre # Filtered: building/mall
 Jalan Besar Plaza # Filtered: building/mall
 Jalan Besar Station Exit A # Filtered: building/mall
 Jalan Besar Swimming Complex # Filtered: building/mall
+Jalan Ss 2/17 # Filtered: contains slash
 Jambol Place # Filtered: not street pattern
 Jansen Spring # Filtered: not street pattern
 Japan Besar # Filtered: not street pattern
@@ -366,6 +368,7 @@ Lornie Highway # Filtered: not street pattern
 Lorong 1 Geylang Terminal # Filtered: building/mall
 Lorong 4 Blk 93 Market And Hawker Centre # Filtered: building/mall
 Lorong 6 Toa Payoh Hdb Hub B1-23 # Filtered: building/mall
+Lorong Cakera Purnama 12/29 # Filtered: contains slash
 Lorong Chuan Station # Filtered: building/mall
 Lorong Chuan Station Exit A # Filtered: building/mall
 Lovelyloop # Filtered: not street pattern
@@ -383,6 +386,7 @@ Mandai Boardwalk # Filtered: not street pattern
 Mandai Estate # Filtered: not street pattern
 Mandai Road Track 7 # Filtered: not street pattern
 Mangrove Boardwalk # Filtered: not street pattern
+Marina Boulevard/Marina Coastal Drive # Filtered: contains slash
 Marina Mall # Filtered: building/mall, not street pattern
 Marina Square Shopping Mall # Filtered: building/mall, not street pattern
 Marina Station Road # Filtered: building/mall
@@ -572,6 +576,8 @@ Sembawang Hot Spring # Filtered: not street pattern
 Sembawang Place # Filtered: not street pattern
 Sembawang Roads # Filtered: not street pattern
 Sembawang Vista # Filtered: not street pattern
+Sembcorp/Banyan Avenue # Filtered: contains slash
+Sembcorp/Sakra Avenue # Filtered: contains slash
 Seng Choon Engineering # Filtered: not street pattern
 Seng Heng Engineering # Filtered: not street pattern
 Senja Gateway # Filtered: not street pattern
@@ -742,6 +748,7 @@ Tuas View Circuit # Filtered: not street pattern
 Tuas View Place # Filtered: not street pattern
 Ubi Crescent Number One Building # Filtered: building/mall, not street pattern
 Ubi View # Filtered: not street pattern
+Ue Square/Before Mohd Sultan Road # Filtered: contains slash
 Ulu Pandan Park Connector # Filtered: not street pattern
 Underground Walkway # Filtered: not street pattern
 Unik Engineering # Filtered: not street pattern
@@ -753,6 +760,7 @@ Upper Serangoon View # Filtered: not street pattern
 Upper Thomson # Filtered: not street pattern
 Utoc Engineering # Filtered: not street pattern
 Utoc Engineering # Filtered: not street pattern
+Varsity Park Entrance / Exit Road # Filtered: contains slash
 Veggie House 一芳 - Hougang Green # Filtered: not street pattern
 Venus Green # Filtered: not street pattern
 Verde Place # Filtered: not street pattern
@@ -803,7 +811,7 @@ Woodlands Industrial Park E5 # Filtered: not street pattern
 Woodlands Industrial Park E6 # Filtered: not street pattern
 Woodlands Industrial Park E7 # Filtered: not street pattern
 Woodlands Industrial Park E8 # Filtered: not street pattern
-Woodlands Industrial Park E8/E9 # Filtered: not street pattern
+Woodlands Industrial Park E8/E9 # Filtered: contains slash, not street pattern
 Woodlands Industrial Park E9 # Filtered: not street pattern
 Woodlands Sector 1 # Filtered: not street pattern
 Woodlands Sector 2 # Filtered: not street pattern

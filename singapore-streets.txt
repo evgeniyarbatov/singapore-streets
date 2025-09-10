@@ -123,7 +123,6 @@ Ann Siang Road
 Annamalai Chitty Lane
 Anson Road
 Anthony Road
-Aperia/Before Kallang Road
 Aquatic Avenue
 Arab Street
 Arcadia Road
@@ -1945,7 +1944,6 @@ Jalan Smk Limau-Limauan
 Jalan Songket
 Jalan Soo Bee
 Jalan Sotong
-Jalan Ss 2/17
 Jalan Suasa
 Jalan Suka
 Jalan Sukachita
@@ -2474,7 +2472,6 @@ Lorong Buang Kok
 Lorong Buangkok
 Lorong Bunga
 Lorong Cahya Mata 2A7
-Lorong Cakera Purnama 12/29
 Lorong Chan Chin Mooi
 Lorong Chencharu
 Lorong Chow Thye
@@ -2664,7 +2661,6 @@ Mariam Walk
 Mariam Way
 Marigold Drive
 Marina Boulevard
-Marina Boulevard/Marina Coastal Drive
 Marina Coastal Drive
 Marina Coastal Expressway
 Marina Costal Expressway
@@ -3498,8 +3494,6 @@ Sembawang Link
 Sembawang Road
 Sembawang Walk
 Sembawang Way
-Sembcorp/Banyan Avenue
-Sembcorp/Sakra Avenue
 Sembong Road
 Senang Crescent
 Seng Kang East Way
@@ -4275,7 +4269,6 @@ Ubi Road 3
 Ubi Road 4
 Ue Bizhub Central
 Ue Square
-Ue Square/Before Mohd Sultan Road
 Ulu Pandan Road
 Underpass To Meyer Road
 Union Square
@@ -4321,7 +4314,6 @@ Vanda Crescent
 Vanda Drive
 Vanda Link
 Vanda Road
-Varsity Park Entrance / Exit Road
 Vaughan Road
 Veerago Close
 Veerappa Chitty Lane

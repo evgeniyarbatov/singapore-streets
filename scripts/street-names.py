@@ -68,9 +68,13 @@ def main():
         for keyword in building_keywords
       )
       
+      # Check for '/' character in street name
+      has_slash = '/' in line
+      
       if (
         (is_street_name or is_lorong or is_jalan) and
-        not is_building
+        not is_building and
+        not has_slash
       ):
         print(line)
         seen_names.append(line)
@@ -95,6 +99,8 @@ def main():
           reason = []
           if is_building:
             reason.append("building/mall")
+          if has_slash:
+            reason.append("contains slash")
           if not (is_street_name or is_lorong or is_jalan):
             reason.append("not street pattern")
           
