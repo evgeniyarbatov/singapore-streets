@@ -3,6 +3,7 @@
 #01-209
 #01-32 Anson Rd, International Plaza
 #01-87B
+#03-14
 #14-02,04,05
 #B1-26
 #B1-32 - Level 2
@@ -15,6 +16,7 @@
 1 Fifth Avenue, Guthrie House
 1 Fusionopolis Way
 1 George Street
+1 Harbourfront Walk Shop, Vivo City
 1 Harbourfront Walk, Vivocity
 1 Harbourfront Walk, VivoCity
 1 Hougang Street 91, Hougang 1
@@ -46,9 +48,6 @@
 1 Stadium Place, Kallang Wave Mall
 1 Sunview Road #02-18
 1 Wallich St Guoco Tower
-1 Woodlands Square,
-1 Woodlands Square, #02 - 33 &amp; #02 - K02
-1 Woodlands Square, Causeway Point
 10 Airport Blvd, Changi Airport Terminal 4
 10 Anson Road
 10 Eunos Rd 8, Singapore Post Centre
@@ -95,6 +94,8 @@
 2 Orchard Link, *SCAPE
 2 Orchard Turn, Ion Orchard
 2 Orchard Turn, ION Orchard
+2 Tampines Central 5, Century Square
+2 Tampines Central 5, Century Square S.C.
 200 Victoria St, Bugis Junction
 200 Victoria Street, Bugis Junction
 201 Yishun Avenue 2, Khatib MRT Station
@@ -145,6 +146,7 @@
 321 Alexandra Road, Alexandra Central
 33
 331 New Bridge Road
+35 Rochester Drive
 350 Orchard Rd, Shaw House
 36 Toh Guan Road East
 370 Alexandra Rd, Anchorpoint Shopping Centre
@@ -173,10 +175,12 @@
 5 Wallich Street, Guoco Tower
 50 Jurong Gateway Rd, JEM
 50 Jurong Gateway Road, Jem
+50 Nanyang Avenue, Nanyang Technological University
 51 Hougang Ave 9
 530 Lorong 6, Toa Payoh Hub
 535 Upper Changi Road
 55 kim chuan drive
+6 Eu Tong Sen Street, Clarke Quay Central
 6 Raffles Boulevard, Marina Square
 6 Shenton Way, OUE Downtown Gallery
 60 Airport Boulevard, Singapore Changi Airport Terminal 2  Departure/ Transit Lounge South, Transfer F, Level 2
@@ -235,6 +239,7 @@
 930 Yishun Ave 2, Northpoint City North Wing
 930 Yishun Avenue 2, Northpoint City North Wing
 94 Nanyang Crescent
+Adam Park
 Adam Road
 Adis Road
 Admiralty Drive
@@ -247,8 +252,8 @@ Admiralty Street
 After Lorong 1 Geylang
 After Lorong 106 Changi
 After Lorong 14 Geylang
-After Lorong 28 Geylang
-After Lorong 34 Geylang
+After Lorong 28 Geylang (81029)
+After Lorong 34 Geylang (81049)
 After Lorong 4 Toa Payoh
 After Lorong Danau
 After Lorong G Telok Kurau
@@ -297,6 +302,7 @@ Aljunied Road
 Aljunied Walk
 Alkaff Crescent
 Almond Avenue
+Almond Crescent
 Almond Street
 Alps Avenue
 Ama Keng Road
@@ -384,6 +390,7 @@ Aroozoo Avenue
 Arrival Hall North, Basement 2 South (in front of foodcourt), Departure Transit South Central, Departure Check-In Hall South, Departure Check-In Hall North
 Arthur Road
 Artillery Avenue
+Arts Link
 Arumugam Road
 Ascot Rise
 Ashwood Grove
@@ -478,7 +485,6 @@ Before Lorong 23 Geylang
 Before Lorong Bakar Batu
 Before Lorong Danau
 Before Lorong K Telok Kurau
-Before Lorong Serambi
 Begonia Crescent
 Begonia Drive
 Begonia Lane
@@ -490,7 +496,6 @@ Belilios Lane
 Belilios Road
 Belimbing Avenue
 Belmont Road
-Belvedere Close
 Bencoolen Street
 Bendemeer Road
 Beng Wan Road
@@ -597,6 +602,7 @@ Branksome Road
 Bras Basah Road
 Brickland Crescent
 Brickland Lane
+Brickland Road
 Bridport Avenue
 Bright Hill Crescent
 Bright Hill Dr
@@ -626,6 +632,7 @@ Bukit Batok
 Bukit Batok Central
 Bukit Batok Central Link
 Bukit Batok Crescent
+Bukit Batok East Ave 5
 Bukit Batok East Avenue 2
 Bukit Batok East Avenue 3
 Bukit Batok East Avenue 4
@@ -657,7 +664,6 @@ Bukit Batok West Avenue 6
 Bukit Batok West Avenue 7
 Bukit Batok West Avenue 8
 Bukit Batok West Avenue 9
-Bukit Chermin Road
 Bukit Drive
 Bukit Gombak
 Bukit Manis Road
@@ -677,6 +683,7 @@ Bukit Sedap Road
 Bukit Teresa Road
 Bukit Timah Link
 Bukit Timah Rd
+bukit timah road
 Bukit Timah Road
 Bukit Timah Shopping Centre
 Bukit Tinggi Road
@@ -735,6 +742,7 @@ Carmichael Road
 Carnation Drive
 Carpenter Street
 Cashew Crescent
+Cashew Link
 Cashew Road
 Cashew Terrace
 Cassia Crescent
@@ -770,6 +778,7 @@ Changi Business Park Avenue 1
 Changi Business Park Central 1
 Changi Business Park Central 1, #01-41
 Changi Business Park Central 2
+Changi Business Park Central1
 Changi Business Park Crescent
 Changi Business Park Vista
 Changi Coast Road
@@ -803,6 +812,7 @@ Cheong Chin Nam Road
 Cheong Chin Nam Road;Upper Bukit Timah Road
 Cherry Avenue
 Chestnut Avenue
+Chestnut Close
 Chestnut Crescent
 Chestnut Drive
 Chestnut Lane
@@ -850,8 +860,6 @@ Choa Chu Kang Way
 Choa Kuo Chuan Avenue
 Chong Kuo Road
 Choon Guan Street
-Christian Cemetery Path 1
-Christian Cemetery Path 2
 Chu Lin Road
 Chu Yen Street
 Chuan Close
@@ -909,6 +917,7 @@ Clementi West Street 2
 Clifton Vale
 Clive Road
 Clive Street
+Clover Ave
 Clover Avenue
 Clover Close
 Clover Cres
@@ -947,6 +956,7 @@ Compassvale Street
 Compassvale Walk
 Computing Drive
 Coniston Grove
+Connaught Drive
 Conservatory Drive
 Conway Circle
 Conway Grove
@@ -1001,6 +1011,7 @@ Dalvey Estate
 Dalvey Road
 Davidson Road
 Dawson Road
+De Souza Avenue
 Deal Road
 Dedap Link
 Dedap Place
@@ -1016,7 +1027,6 @@ Defu Lane 8
 Defu South Street 1
 Defu South Street 2
 Delta Avenue
-Delta Estate
 Delta Road
 Dempsey Road
 Denham Close
@@ -1065,6 +1075,7 @@ East Coast Avenue
 East Coast Drive
 East Coast Park Service Road
 East Coast Parkway
+East Coast Rd
 East Coast Road
 East Coast Road #03-09
 East Coast Road #03-14
@@ -1115,6 +1126,8 @@ Essex Road
 Eu Chin Street
 Eu Tong Sen St
 Eu Tong Sen Street
+Eu Tong Sen Street Clarke Quay Central
+Eu Tong Sen Street, 8 13-99
 Eunos Ave 7A
 Eunos Avenue 3
 Eunos Avenue 4
@@ -1189,6 +1202,7 @@ Flower Road
 Foch Road
 Folkestone Road
 Foo Kim Lin Road
+Ford Avenue
 Ford Road
 former Lorong Panchar
 Former Lorong Tawas
@@ -1388,7 +1402,9 @@ Hillview Ave
 Hillview Avenue
 Hillview Crescent
 Hillview Drive
+Hillview Link
 Hillview Rise
+Hillview Road
 Hillview Terrace
 Hillview Terrace #01-06
 Hillview Way
@@ -1418,6 +1434,7 @@ Holland Hill
 Holland Link
 Holland Park
 Holland Piazza
+Holland Rise
 Holland Road
 Holland Village Way
 Holland Village Way #03-06
@@ -1489,6 +1506,7 @@ Innovation Drive
 Institution Hill
 International Business Park
 International Road
+ION Orchard
 Iqbal Avenue
 Irrawaddy Rd, #20-01 Royal Square Medical Centre Royal Square @ Novena
 Irrawaddy Road
@@ -1612,6 +1630,7 @@ Jalan Kechubong
 Jalan Kelabu Asap
 Jalan Kelawar
 Jalan Keli
+Jalan Kelulut
 Jalan Kemajuan
 Jalan Kemaman
 Jalan Kembang Melati
@@ -1644,7 +1663,7 @@ Jalan Labu Ayer
 Jalan Labu Manis
 Jalan Labu Merah
 Jalan Lam Huat
-Jalan Lam San
+Jalan Lam Sam
 Jalan Lana
 Jalan Langgar Bedok
 Jalan Lanjut
@@ -1714,6 +1733,7 @@ Jalan Pelatina
 Jalan Pelepah
 Jalan Pelikat
 Jalan Pemimpin
+Jalan Pemimpin, Jackie&apos;s Enterprises Building
 Jalan Penjara
 Jalan Pesawat
 Jalan Pinang
@@ -1805,6 +1825,7 @@ Jalan Tenteram
 Jalan Terubok
 Jalan Terusan
 Jalan Tiga
+Jalan Tiga Ratus
 Jalan Toa Payoh
 Jalan Tua Kong
 Jalan Tumpu
@@ -1834,7 +1855,6 @@ Jervois Road
 Jiak Chuan Road
 Jiak Kim Street
 Jin Teck Kee
-jln afifi
 Jln Bkt Ho Swee
 Jln Pelatina
 Jln Seruling
@@ -1863,6 +1883,7 @@ Jurong Central 3
 Jurong East Avenue 1
 Jurong East Central
 Jurong East Central 1
+Jurong East Street
 Jurong East Street 12
 Jurong East Street 13
 Jurong East Street 21
@@ -1896,6 +1917,7 @@ Jurong West Street 42
 Jurong West Street 51
 Jurong West Street 52
 Jurong West Street 61
+Jurong West Street 61, Pioneer Mall
 Jurong West Street 62
 Jurong West Street 63
 Jurong West Street 64
@@ -1905,10 +1927,8 @@ Jurong West Street 72
 Jurong West Street 73
 Jurong West Street 74
 Jurong West Street 75
-Jurong West Street 76
 Jurong West Street 81
 Jurong West Street 91
-jurong west street 92
 Jurong West Street 92
 Jurong West Street 93
 Kadayanallur Street
@@ -2028,6 +2048,7 @@ Kovan Close
 Kovan Rise
 Kovan Road
 Kramat Road
+Kranji Crescent
 Kranji Loop
 Kranji Road
 Kranji Way
@@ -2039,7 +2060,6 @@ Kwong Avenue
 Kwong Min Road
 La Salle Street
 Labrador Villa Road
-Ladang Street 1
 Lady Hill Road
 Lagos Circle
 Laguna Golf Green
@@ -2047,8 +2067,11 @@ Lakepoint Drive
 Lakeside Drive
 Lambeth Walk
 Lange Road
+Langsat Road
 Lantana Avenue
 Larkhill Road
+Lasia Avenue
+Laurel Wood Avenue
 Lavender Street
 Leedon Heights
 Leedon Park
@@ -2099,6 +2122,7 @@ Lien Ying Chow Drive
 Lilac Drive
 Lilac Road
 Lilac Walk
+Lily Avenue
 Lim Ah Pin Road
 Lim Ah Woo Road
 Lim Chu Kang Lane 5
@@ -2133,7 +2157,6 @@ Lor Napiri
 Lor Sarhad
 Lor Sari
 Lor Telok
-Loring Telok
 Lornie Road
 Lornie Walk
 Lorong 1
@@ -2369,9 +2392,9 @@ Lorong Titiwangsa 7
 Lorong Titiwangsa 8
 Lorong Titiwangsa 9
 Lorong Toa Payoh 1
-Lorong Tukol
 Lorong Way
 Lothian Terrace
+Lotus Avenue
 Lower Delta Road
 Lower Kent Ridge Road
 Lower Kent Ridge Road, National University Hospital
@@ -2423,6 +2446,7 @@ Mandai Lake Road
 Mandai Lake Road, River Safari
 Mandai Link
 Mandai Road
+Mandai Road Track 7
 Mandalay Road
 Maple Avenue
 Maple Lane
@@ -2598,6 +2622,8 @@ Nanson Road
 Nanyang Avenue
 Nanyang Crescent
 Nanyang Drive
+Nanyang Drive Academic Building North ABN-B4b-10
+Nanyang Drive Block N4.1-B4-10,
 Nanyang Hill
 Nanyang Link
 Nanyang Terrace
@@ -2608,14 +2634,17 @@ Nassim Hill
 Nassim Road
 Nathan Road
 Nee Soon Road
+Neil rd
 Neil Rd, #01-06
 Neil Rd, #01-07
 Neil Road
 Nemesu Avenue
 Neo Pee Teck Lane
 Neo Tiew Crescent
+Neo Tiew Lane 1
 Neo Tiew Lane 2
 Neo Tiew Lane 3
+Neo Tiew Road
 Nepal Park
 Neram Crescent
 Neram Road
@@ -2676,10 +2705,10 @@ Oak Avenue
 Oakwood Grove
 Ocean Drive
 Ocean Way
+Oei Tiong Ham Park
 Old Airport Road
 Old Choa Chu Kang Road
 Old Holland Road
-Old Lim Chu Kang Road
 Old Lornie Road
 Old Nelson Road
 Old Parliament Lane
@@ -2692,13 +2721,14 @@ Onan Road
 One Raffles Link
 One Tree Hill
 one-north Crescent
+one-north Gateway
 One-north Gateway
 One-North Gateway
 Ontario Avenue
 Opal Crescent
 Ophir Road
 Opposite Lorong 1 Geylang Terminal
-Opposite Lorong 39 Geylang
+Opposite Lorong 39 Geylang (81069)
 Opposite Lorong Chuan Station Exit B
 Opposite Lorong Sarhad
 Orange Grove Road
@@ -2874,6 +2904,7 @@ Pine Walk
 Pinewood Grove
 Pinsep Street
 Pioneer Crescent
+Pioneer Crescent 20
 Pioneer Place
 Pioneer Road
 Pioneer Road North
@@ -2939,6 +2970,7 @@ Punggol Way
 Punngol Drive, Oasis Terraces, #02-35
 Purvis Street
 Quality Road
+Queen Astrid Gardens
 Queen Astrid Park
 Queen Street
 Queen&apos;s Avenue
@@ -3099,6 +3131,9 @@ Seletar Hills Drive
 Seletar Rd, Greenwich V
 Seletar Road
 Seletar Terrace
+Seletar West Farmway 5
+Seletar West Road 1
+Seletar West Road 2
 Sembawang Close
 Sembawang Crescent
 Sembawang Drive
@@ -3142,7 +3177,6 @@ Senoko Loop
 Senoko Road
 Senoko South Road
 Senoko Way
-Sensory Trail
 Sentosa Gateway
 Sentosa Gateway RWS
 Sentosa Gateway, Universal Studios Singapore
@@ -3291,6 +3325,7 @@ Soo Chow Way
 Soon Lee Drive
 Soon Lee Road
 Soon Lee Street
+Soon Wing Road
 Sophia Road
 Sorby Adams Drive
 South Bedok Road
@@ -3337,7 +3372,6 @@ Stadium Place
 Stadium Place, #01-56, Kallang Wave Mall
 Stadium Walk
 Stagmont Ring
-Stagmont Road
 Stamford Road
 Stamford Road Capitol Piazza
 Stangee Close
@@ -3361,8 +3395,7 @@ Stratton Green
 Stratton Place
 Stratton Road
 Stratton Walk
-Street 81
-Students Walk, NTU Canteen 2
+Students Walk
 Sturdee Road
 Sturdee Road North
 Sudan Road
@@ -3376,6 +3409,7 @@ Summer Place
 Sun Plaza, 30 Sembawang Drive,
 Sunbird Avenue
 Sunbird Circle
+sunbird rd
 Sunbird Road
 Sungei Gedong Road
 Sungei Kadut Avenue
@@ -3489,7 +3523,6 @@ Tampines 1
 Tampines Ave 3
 Tampines Ave 3, #01-09
 Tampines Ave 4
-Tampines Ave 5
 Tampines Avenue
 Tampines Avenue 1
 Tampines Avenue 10
@@ -3505,6 +3538,7 @@ Tampines Avenue 9
 Tampines Central
 Tampines Central 1
 Tampines Central 5
+Tampines Central 5, #01-19, Century Square
 Tampines Central 5, #01-50,
 Tampines Central 6
 Tampines Central 7
@@ -3518,6 +3552,7 @@ Tampines Lane
 Tampines Link
 Tampines Mall
 Tampines Mall, Tampines Central Rd, #02-01
+Tampines north drive 1
 Tampines North Drive 1
 Tampines North Drive 2
 Tampines North Drive 3
@@ -3526,6 +3561,9 @@ Tampines North Drive 5
 Tampines Place
 Tampines Road
 Tampines Street 11
+Tampines Street 11 #01-20
+Tampines Street 11 01-03
+Tampines Street 11 01-34
 Tampines Street 12
 Tampines Street 21
 Tampines Street 22
@@ -3631,6 +3669,7 @@ Tembusu Crescent
 Temple Street
 Tengah Boulevard
 Tengah Central
+Tengah Close
 Tengah Drive
 Tengah Garden Avenue
 Tengah Garden Walk
@@ -3803,9 +3842,9 @@ Tuas West Drive
 Tuas West Road
 Tuas West Street
 Tudor Close
-Tukang Innovation Drive
 Tukang Innovation Grove
 Tung Po Avenue
+Turf Club Avenue
 Turf Club Rd
 Turf Club Road
 Turnhouse Road
@@ -3927,6 +3966,7 @@ Watten Heights
 Watten Park
 Watten Rise
 Watten Terrace
+Watten View
 Weld Road
 Wellington Circle
 Wellington Road
@@ -4000,7 +4040,6 @@ Woodlands Ave 9
 Woodlands Avenue 1
 Woodlands Avenue 12
 Woodlands Avenue 2
-Woodlands Avenue 2, #01-7/8/15
 Woodlands Avenue 3
 Woodlands Avenue 4
 Woodlands Avenue 5
@@ -4044,6 +4083,7 @@ Woodlands Industrial Park E7
 Woodlands Industrial Park E8
 Woodlands Industrial Park E8/E9
 Woodlands Industrial Park E9
+Woodlands Industrial Park E9 #01-01
 Woodlands Link
 Woodlands Loop
 Woodlands North Coast Road
@@ -4088,7 +4128,6 @@ Yio Chu Kang Road
 Yio Chu Kang Road #01-02
 Yio Chu Kang Terrace
 Yishun Ave 2 #01-07/08 Northpoint
-Yishun Ave 6
 Yishun Avenue
 Yishun Avenue 1
 Yishun Avenue 11
@@ -4141,12 +4180,8 @@ Yung Shang Road
 Yung Sheng Road
 Yunnan Crescent
 Yunnan Drive
-Yunnan Drive 1
 Yunnan Road
 Yunnan Walk
-Yunnan Walk 1
-Yunnan Walk 2
-Yunnan Walk 3
 Zehnder Road
 Zion Close
 Zion Road

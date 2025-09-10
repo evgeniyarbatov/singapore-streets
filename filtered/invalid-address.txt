@@ -3,6 +3,7 @@
 #01-209
 #01-32 Anson Road, International Plaza
 #01-87B
+#03-14
 #14-02,04,05
 #B1-26
 #B1-32 - Level 2
@@ -15,6 +16,7 @@
 1 Fifth Avenue, Guthrie House
 1 Fusionopolis Way
 1 George Street
+1 Harbourfront Walk Shop, Vivo City
 1 Harbourfront Walk, Vivocity
 1 Harbourfront Walk, Vivocity
 1 Hougang Street 91, Hougang 1
@@ -46,9 +48,6 @@
 1 Stadium Place, Kallang Wave Mall
 1 Sunview Road #02-18
 1 Wallich Street Guoco Tower
-1 Woodlands Square,
-1 Woodlands Square, #02 - 33 &Amp; #02 - K02
-1 Woodlands Square, Causeway Point
 10 Airport Boulevard, Changi Airport Terminal 4
 10 Anson Road
 10 Eunos Road 8, Singapore Post Centre
@@ -95,6 +94,8 @@
 2 Orchard Link, *Scape
 2 Orchard Turn, Ion Orchard
 2 Orchard Turn, Ion Orchard
+2 Tampines Central 5, Century Square
+2 Tampines Central 5, Century Square S.C.
 200 Victoria Street, Bugis Junction
 200 Victoria Street, Bugis Junction
 201 Yishun Avenue 2, Khatib Mrt Station
@@ -145,6 +146,7 @@
 321 Alexandra Road, Alexandra Central
 33
 331 New Bridge Road
+35 Rochester Drive
 350 Orchard Road, Shaw House
 36 Toh Guan Road East
 370 Alexandra Road, Anchorpoint Shopping Centre
@@ -173,10 +175,12 @@
 5 Wallich Street, Guoco Tower
 50 Jurong Gateway Road, Jem
 50 Jurong Gateway Road, Jem
+50 Nanyang Avenue, Nanyang Technological University
 51 Hougang Avenue 9
 530 Lorong 6, Toa Payoh Hub
 535 Upper Changi Road
 55 Kim Chuan Drive
+6 Eu Tong Sen Street, Clarke Quay Central
 6 Raffles Boulevard, Marina Square
 6 Shenton Way, Oue Downtown Gallery
 60 Airport Boulevard, Singapore Changi Airport Terminal 2  Departure/ Transit Lounge South, Transfer F, Level 2
@@ -235,11 +239,12 @@
 930 Yishun Avenue 2, Northpoint City North Wing
 930 Yishun Avenue 2, Northpoint City North Wing
 94 Nanyang Crescent
+Adam Park
 After Lorong 1 Geylang
 After Lorong 106 Changi
 After Lorong 14 Geylang
-After Lorong 28 Geylang
-After Lorong 34 Geylang
+After Lorong 28 Geylang (81029)
+After Lorong 34 Geylang (81049)
 After Lorong 4 Toa Payoh
 After Lorong Danau
 After Lorong G Telok Kurau
@@ -274,7 +279,6 @@ Before Lorong 23 Geylang
 Before Lorong Bakar Batu
 Before Lorong Danau
 Before Lorong K Telok Kurau
-Before Lorong Serambi
 Bin Tong Park
 Binjai Park
 Blk 161 Ang Mo Kio Avenue 4
@@ -327,6 +331,7 @@ Draycott Park
 Duke&Apos;S Road
 East Coast Road #03-09
 East Coast Road #03-14
+Eu Tong Sen Street, 8 13-99
 Eunos Park
 Everton Park
 Everton Park, #01-33
@@ -366,6 +371,7 @@ Irving Place, #08-06;The Commerze@Irving
 Jalan Anak Bukit, #B2-06A.
 Jalan Anak Bukit, Bukit Timah Plaza
 Jalan Ma&Apos;Mor
+Jalan Pemimpin, Jackie&Apos;S Enterprises Building
 Jalan Serene #01-04
 Jalan Serene #02-09
 Jalan Siapstrictly Speaking, The Signs Say So, But Really..
@@ -373,6 +379,7 @@ Jurong East Street 21 #02-08 Ng Teng Fong General Hospital Tower A
 Jurong Gateway Road, #03-48. Jem Shopping Mall.
 Jurong West Central 2, Jp1, Jurong Point Shopping Centre
 Jurong West Central 3 #03-52/52A Jurong Point
+Jurong West Street 61, Pioneer Mall
 Kallang Way #01-03/04/05/06
 Kensington Park
 Killiney Road, Orchard Grand Court
@@ -463,6 +470,7 @@ Ming Teck Park
 Monk&Apos;S Hill Road
 Mosque Street;摩士街
 Mugliston Park
+Nanyang Drive Block N4.1-B4-10,
 Neil Road, #01-06
 Neil Road, #01-07
 Nepal Park
@@ -470,8 +478,9 @@ New Upper Changi Road Bedok Mall,
 Normanton Park
 North Bridge Road #03-16
 North Bridge Road. #03-07. Raffles City Shopping Centre.
+Oei Tiong Ham Park
 Opposite Lorong 1 Geylang Terminal
-Opposite Lorong 39 Geylang
+Opposite Lorong 39 Geylang (81069)
 Opposite Lorong Chuan Station Exit B
 Opposite Lorong Sarhad
 Orchard Road #B1-69 Lucky Plaza
@@ -544,7 +553,6 @@ Street Engineering Digital Hub (Front Entrance)
 Street John&Apos;S Road
 Street Patrick&Apos;S Road
 Stadium Place, #01-56, Kallang Wave Mall
-Students Walk, Ntu Canteen 2
 Sun Plaza, 30 Sembawang Drive,
 Svc 11 (Roundtrip From Lorong 1 Geylang Terminal)
 Svc 140 (Roundtrip From Lorong 1 Geylang Terminal)
@@ -571,8 +579,10 @@ Svc 985 (Choa Chu Kang Interchange → Lorong 1 Geylang Terminal)
 Svc 985 (Choa Chu Kang Interchange ↔ Lorong 1 Geylang Terminal)
 Svc 985 (Lorong 1 Geylang Terminal → Choa Chu Kang Interchange)
 Tampines Avenue 3, #01-09
+Tampines Central 5, #01-19, Century Square
 Tampines Central 5, #01-50,
 Tampines Mall, Tampines Central Road, #02-01
+Tampines Street 11 #01-20
 Tampines Walk, Our Tampines Hub #01-104,
 Tanjong Katong Road, #01-17/18/19
 Tannery Building, No 1 Tannery Road, #09-04
@@ -602,8 +612,8 @@ Watten Park
 West Coast Park
 West Coast Road, #01-01
 White House Park
-Woodlands Avenue 2, #01-7/8/15
 Woodlands Drive 71, Kampung Admiralty #01-02,
+Woodlands Industrial Park E9 #01-01
 Woodleigh Park
 Woollerton Park
 Yio Chu Kang Road #01-02

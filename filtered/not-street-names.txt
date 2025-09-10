@@ -42,8 +42,6 @@ Choa Chu Kang Cresent
 Choa Chu Kang Grove
 Choa Chu Kang Park Connector
 Choa Chu Kang Road Track 10
-Christian Cemetery Path 1
-Christian Cemetery Path 2
 Chuan Garden
 Citylink Mall
 Clarke Quay
@@ -61,7 +59,6 @@ Coral Island
 Cove Avenue Circus
 Cove Grove
 Dalvey Estate
-Delta Estate
 East Coast Parkway
 Eastwood Green
 Eden Grove
@@ -96,6 +93,7 @@ Holland Piazza
 Hougang Avenue 3 Park Connector
 Hyde Park Gate
 Imm
+Ion Orchard
 Irving Point
 Japan Besar
 Jem
@@ -130,10 +128,10 @@ Lentor Plain
 Lew Lian Vale
 Limau Garden
 Limau Grove
-Loring Telok
 Lynwood Grove
 Maida Vale
 Mandai Estate
+Mandai Road Track 7
 Marina Mall
 Marina Square Shopping Mall
 Marine Vista
@@ -144,6 +142,7 @@ Mount Elizabeth
 Mount Elizabeth Medical Centre
 Mount Sinai Plain
 Mount Sophia
+Nanyang Drive Academic Building North Abn-B4B-10
 Nex
 Nim Green
 No 1 Queensway Shopping Centre
@@ -152,6 +151,7 @@ North Bridge Road Funan
 North Bridge Road Raffles City
 Northpoint City
 Oakwood Grove
+One-North Gateway
 One-North Gateway
 One-North Gateway
 Orchard
@@ -212,7 +212,6 @@ Selegie Road Parklane Shopping Mall
 Sembawang Roads
 Sembawang Vista
 Sengkang Square
-Sensory Trail
 Sentosa Gateway
 Sentosa Gateway Rws
 Serangoon Aenue 1
@@ -250,6 +249,8 @@ Tampines 1
 Tampines Concourse
 Tampines Grande
 Tampines Mall
+Tampines Street 11 01-03
+Tampines Street 11 01-34
 Tanah Merah Kasturi
 Tanglin Road Tanglin Mall
 Tanjong Pagar Plaza
