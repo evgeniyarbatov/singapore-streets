@@ -27,14 +27,7 @@ streets:
 	# Extract from general name tags with street patterns
 	grep '<tag k="name" v=' $(OSM_DIR)/singapore.osm | sed 's/.*v="\([^"]*\)".*/\1/' | egrep -i '$(STREET_PATTERN)' | sort | uniq >> $(SG_STREETS_FILE)
 	
-	# Extract from alternative name tags
-	grep '<tag k="alt_name" v=' $(OSM_DIR)/singapore.osm | sed 's/.*v="\([^"]*\)".*/\1/' | egrep -i '$(STREET_PATTERN)' | sort | uniq >> $(SG_STREETS_FILE)
-	
-	# Extract from official name tags  
-	grep '<tag k="official_name" v=' $(OSM_DIR)/singapore.osm | sed 's/.*v="\([^"]*\)".*/\1/' | egrep -i '$(STREET_PATTERN)' | sort | uniq >> $(SG_STREETS_FILE)
-	
-	# Extract from addr:housename and addr:place
-	grep '<tag k="addr:housename" v=' $(OSM_DIR)/singapore.osm | sed 's/.*v="\([^"]*\)".*/\1/' | egrep -i '$(STREET_PATTERN)' | sort | uniq >> $(SG_STREETS_FILE)
+	# Extract from addr:place
 	grep '<tag k="addr:place" v=' $(OSM_DIR)/singapore.osm | sed 's/.*v="\([^"]*\)".*/\1/' | egrep -i '$(STREET_PATTERN)' | sort | uniq >> $(SG_STREETS_FILE)
 	
 	sort $(SG_STREETS_FILE) | uniq > $(TMP_SG_STREETS_FILE)
@@ -44,8 +37,10 @@ clean:
 	cat data/singapore-streets.txt | \
 	python3 scripts/format-address.py | \
 	python3 scripts/invalid-address.py | \
-	python3 scripts/fix_typos.py | \
 	python3 scripts/street-names.py | \
 	sort | uniq > singapore-streets.txt
 
-.PHONY: osm city streets clean
+categorize:
+	ollama run mistral-nemo:latest "Please analyze this list of Singapore street names and categorize them creatively by:\n\n1. **Linguistic Origin**: Malay, English/British, Chinese (Hokkien/Teochew/Cantonese), Tamil, etc.\n2. **Historical Themes**: Colonial administrators, local heroes, historical figures, royalty, etc.\n3. **Nature & Geography**: Trees, flowers, animals, geographical features, etc.\n4. **Cultural & Religious**: Temples, mosques, cultural concepts, festivals, etc.\n5. **Occupational**: Trades, professions, industries\n6. **Directional & Descriptive**: Colors, directions, sizes, shapes\n7. **Modern Development**: New towns, planned developments, contemporary naming\n\nFor each category, provide the street names as bullet points and include brief explanations of etymology or significance where relevant. Format as a comprehensive markdown document with clear headings. Here are the Singapore street names:" < singapore-streets.txt > street_categories.md
+
+.PHONY: osm city streets clean categorize
