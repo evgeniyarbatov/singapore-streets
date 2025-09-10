@@ -41,6 +41,17 @@ clean:
 	sort | uniq > singapore-streets.txt
 
 categorize:
-	ollama run mistral-nemo:latest "Please analyze this list of Singapore street names and categorize them creatively by:\n\n1. **Linguistic Origin**: Malay, English/British, Chinese (Hokkien/Teochew/Cantonese), Tamil, etc.\n2. **Historical Themes**: Colonial administrators, local heroes, historical figures, royalty, etc.\n3. **Nature & Geography**: Trees, flowers, animals, geographical features, etc.\n4. **Cultural & Religious**: Temples, mosques, cultural concepts, festivals, etc.\n5. **Occupational**: Trades, professions, industries\n6. **Directional & Descriptive**: Colors, directions, sizes, shapes\n7. **Modern Development**: New towns, planned developments, contemporary naming\n\nFor each category, provide the street names as bullet points and include brief explanations of etymology or significance where relevant. Format as a comprehensive markdown document with clear headings. Here are the Singapore street names:" < singapore-streets.txt > street_categories.md
+	@rm -f street_categories.md chunks/*.txt chunks/*.md 2>/dev/null || true
+	@mkdir -p chunks
+	@split -l 500 singapore-streets.txt chunks/streets_chunk_
+	@for chunk in chunks/streets_chunk_*; do \
+		echo "Processing $$chunk..."; \
+		ollama run mistral-nemo:latest "Analyze these Singapore street names and categorize them by: 1) Linguistic Origin (Malay, English/British, Chinese, Tamil, etc.) 2) Historical Themes (colonial figures, local heroes, royalty) 3) Nature & Geography (trees, flowers, animals, places) 4) Cultural & Religious (temples, festivals, concepts) 5) Occupational (trades, professions) 6) Descriptive (colors, directions, shapes) 7) Modern Development. List street names under each category with brief explanations. Format as markdown with clear headings:" < $$chunk > chunks/category_$$(basename $$chunk).md; \
+	done
+	@echo "Consolidating results into common headings..."
+	@cat chunks/category_*.md > chunks/all_categories.md
+	@ollama run mistral-nemo:latest "Please consolidate this fragmented categorization of Singapore street names into a single, well-organized markdown document. Merge duplicate categories, combine street names under common headings, remove redundancy, and create a comprehensive final categorization. Maintain the 7 main categories: 1) Linguistic Origin 2) Historical Themes 3) Nature & Geography 4) Cultural & Religious 5) Occupational 6) Descriptive 7) Modern Development. Format with clear headings and bullet points:" < chunks/all_categories.md > street_categories.md
+	@rm -rf chunks
+	@echo "Cleaned up temporary chunk files"
 
 .PHONY: osm city streets clean categorize
