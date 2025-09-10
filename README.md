@@ -42,11 +42,10 @@ make streets
 ```
 make clean
 ```
-### 4. Run validation
+### 4. Group street names
 
 ```
-cd validate
-make
+make categorize
 ```
 
 ## 📌 Open Issues

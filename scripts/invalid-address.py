@@ -12,7 +12,7 @@ def main():
       starts_with_letter = re.match(r'^[A-Z]', line)
       is_block = re.match(r'^Blk', line, re.IGNORECASE)
       contains_punctuation = bool(re.search(r'[;,:#()]', line))
-      has_stop_words = bool(re.search(r'(^After|^Before|Opposite|^Entrance|Station|Temple|Park$|Playground|Fitness Centre|Market$|Terminal$)', line))
+      has_stop_words = bool(re.search(r'(^After|^Before|Opposite|^Entrance|Bus Station|MRT Station|Temple$|Playground|Fitness Centre|Wet Market$|Food Centre$|Bus Terminal$)', line))
       has_special_characters = bool(re.search(r'@', line))
       has_invalid_lorongs = bool(re.search(r'^Lorong\s+\d+$', line))
       
