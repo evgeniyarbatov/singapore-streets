@@ -1,300 +1,86 @@
-#01-07 - #01-08 FairPrice
-#01-110A - #02-200 FairPrice
-#01-209
-#01-32 Anson Rd, International Plaza
-#01-87B
-#03-14
-#14-02,04,05
-#B1-26
-#B1-32 - Level 2
-#B1-K10
-~Marina Hill
-~NUS Hill
-1 Bukit Batok Central Link, West Mall
-1 Ceate Way
-1 Everton Park
-1 Expo Dr, Foyer 1, Max Atria
-1 Expo Drive, 2nd Foyer Admin Building
-1 Fifth Avenue, Guthrie House
-1 Fusionopolis Way
-1 George Street
-1 Harbourfront Walk Shop, Vivo City
-1 Harbourfront Walk, Vivocity
-1 Harbourfront Walk, VivoCity
-1 Hougang Street 91, Hougang 1
-1 Jalan Anak Bukit
-1 Jelebu Rd, Bukit Panjang Plaza
-1 Joo Koon Circle, Fairprice Hub
-1 Jurong East Street 21, Tower A, Ng Teng Fong Hospital
-1 Jurong West Central 2, Jurong Point
-1 Jurong West Central 2, Jurong Point Shopping Mall
-1 Kim Seng Promenade, Great World City
-1 Maju Ave, MyVillage
-1 Maju Avenue, myVillage @ Serangoon Garden Way
-1 Mandalay Road
-1 Maritime Square, Harbourfront Centre
-1 Maritime Square, HarbourFront Centre
-1 Maritime Square, Singapore Cruise Centre
-1 North Bridge Rd
-1 Northpoint Drive, Northpoint City
-1 Northpoint Drive, Northpoint City South Wing
-1 Orchid Club Rd #02-02/03, Driving Range unit (Carpark, A Orchid Country Club, 769162
-1 Park Rd
-1 Pasir Ris Close, E! Hub @Downtown East
-1 Pasir Ris Close, E!hub@Downtown East
-1 Raffles Place, One Raffles Place
-1 Seletar Rd, Greenwich V
-1 Sengkang Square
-1 Sengkang Square, Compass One
-1 Stadium Pl
-1 Stadium Place, Kallang Wave Mall
-1 Sunview Road #02-18
-1 Wallich St Guoco Tower
-10 Airport Blvd, Changi Airport Terminal 4
-10 Anson Road
-10 Eunos Rd 8, Singapore Post Centre
-10 Jalan Eunos Gallery Space
-10 Tampines Central 1, Tampines One
-10 Winstedt Road
-100 Bukit Timah Road
-101 Thomson Road, United Square
-101 Thomson Road, United Square Shopping Mall
-1013 Geylang East Ave 3
-1028 Upper Serangoon Rd
-107
-107 North Bridge Rd, Funan
-107 North Bridge Rd,Funan
-1091 Woodland Road
+105 Henderson Crescent Lobby Drive-Through
 10P ENTERPRISE ROAD
-11 Binjai Park
-11 Jln Tan Tock Seng, Tan Tock Seng Hospital
 111 Emerald Hill
-111 Somerset
-12 Marina Boulevard, Marina Bay Financial Centre Tower 3
-13 Jalan Tan Tock Seng St
-13 Stamford Road, Capitol Tower
 136 Joo Seng Road
-14 Scotts Rd
-14 Scotts Road, Far East Plaza
-140 Maxwell Road
 14th Century Walk
-15 Hamilton Road
 15 Holland Hill
 15 Newton Road
-154 West Coast Rd, West Coast Plaza
 158 Cecil Street
-16 Cairnhill
 16 Shaw Road
-17 Petir Road, Hillion Mall
-170 Tiong Bahru Road, Tiong Bahru Plaza
-176 Orchard Road, Centrepoint
 18 Ah Hood Road
-18 China Street
-18 Yishun Avenue 9 #02-48
-18/20 Kim Tian Road
-180 Kitchener Rd, City Square Mall
-180 Kitchener Road, City Square Mall
-181 Orchard Road, Orchard Central
-182 Cecil Street, Frasers Tower
-19 Burn Rd
-19 Kampongo Bahru, level 1
-19 Koon Seng Road
-19 Leedon Heights
-190 Middle Road, Fortune Centre
-1K GreenLane
+19 Nassim Road showroom
+1920s Terrace Shophouses
 2
-2 Choa Chu Kang Loop, Keart Hong Community Club
-2 Cox Terrace Fort Canning Park
-2 Jurong East Street 21,  IMM
-2 Jurong East Street 21, IMM
-2 Jurong East Street 21, IMM Building
-2 Orchard Link, *SCAPE
-2 Orchard Turn, Ion Orchard
-2 Orchard Turn, ION Orchard
+2 Loyang Lane, Singapore 508913
 2 River Valley Green
-2 Tampines Central 5, Century Square
-2 Tampines Central 5, Century Square S.C.
-200 Victoria St, Bugis Junction
-200 Victoria Street, Bugis Junction
-201 Yishun Avenue 2, Khatib MRT Station
-208 New Upper Changi Road
-21 Canberra Link
-21 Choa Chu kang Ave 4, Lot 1 Shoppers&apos; Mall,
-21 Choa Chu Kang Ave 4, Lot One
-21 Choa Chu Kang Avenue 4, Lot One
-21 Choa Chu Kang North 6, Yew Tee Point
-220 Turf Club Road
-23 Serangoon Central, NEX
-238 Orchard Blvd, ION Orchard
-238 Thomson Rd, Novena Square
+205D Compassvale Lane MSCP (SK3)
+210 Compassvale Lane MSCP (SK76)
+212 Compassvale Drive PCP (SK79)
+214 Compassvale Lane HDB
+224E Compassvale Walk MSCP (SK7)
+228D Compassvale Walk MSCP (SK13)
+23 Genting Road Singapore 349481
+233A Compassvale Walk MSCP (SK6)
+236A Compassvale Walk MSCP (SK2)
+24 Bukit Chermin
 24-hour linkway
 24-hour Linkway
-24, 26 &amp; 28 Dunlop Street
-252 North Bridge Rd, #01-44B Raffles City Shopping Centre
-252 North Bridge Rd, Raffles City Shopping Centre
-252 North Bridge Road
-252 North Bridge Road, Raffles City Shopping Centre
-256A
-28 Hongkong Street
-290 Orchard Rd, Paragon
-293 Holland Road, Jelita Shopping Center
-2C Kallang Heights
-3 Ang Mo Kio Street 62
-3 Fullerton Road, The Fullerton Waterboat House
-3 Gateway Drive, Westgate
-3 Lor Liput, Holland Piazza
-3 Mount Elizabeth, Mount Elizabeth Hospital Level 2
-3 Phillip Street
-3 Pickering St, Nankin Row
-3 Simei Street 6
-3 Simei Street 6, Eastpoint Mall
-3 Temasek Boulevard, Suntec City
-3 Temasek Boulevard, Suntec City Mall
-3 Temasek Boulevard, Suntec City Mall (West Atrium)
-3 Temasek Boulevard, Suntec City Mall Tower 3
-3 Temasek Boulevard, Suntec City Tower 5
-3,  Simei Street 6, Eastpoint Mall
+241A Compassvale Walk MSCP (SK10)
+25 Genting Road, Singapore 349482
+2nd Level Connecting Path
+30 Bukit Chermin
 30 Nanyang Drive
-30 Sembawang Dr, Sun Plaza
-30 Sembawang Drive, Sun Plaza
-30 Victoria St, CHIJMES
-302 Tiong Bahru Rd, Tiong Bahru Plaza
 30SCE Parade Square
-311 Jalan Ahmad Ibrahim
-311 New Upper Changi Rd, Bedok Mall
-311 New Upper Changi Road, Bedok Mall
-313 Orchard Road, 313@Somerset
-3155 Commonwealth Ave West, Clementi Mall
-3155 Commonwealth Ave West, The Clementi Mall
-3155 Commonwealth Avenue West, The Clementi Mall,
-321 Alexandra Road, Alexandra Central
-33
-331 New Bridge Road
-35 Guitar Avenue
-35 Rochester Drive
-350 Orchard Rd, Shaw House
 36 Aroozoo Avenue
-36 Toh Guan Road East
-370 Alexandra Rd, Anchorpoint Shopping Centre
-370 Alexandra Road, Anchorpoint Shopping Centre,
-371 Beach Road
-378 Alexandra Road
+377A Drop-off Point
 38 Draycott Drive
 38 Stevens Road
 38th Draycott Drive
-391 Orchard Road, Takashimaya Shopping Centre,
-391A Orchard Road Food Hall
-3C Kallang Heights
-4 Tampines Central 5, Tampines Mall
-40C Harding Rd, Level 3, Singapore 249548
-435 Orchard Road
-435 Orchard Road, Wisma Atria
-43A, 43B, 43C Jalan Besar
-45 Maxwell Road, URA Centre
-456
-460 Alexandra Rd
-460 Alexandra Rd, PSA Building (Alexandra Retail Centre
-479 Jurong West Street 41
+4 Loyang Lane, Singapore 508914
+413A Commonwealth Avenue West Multi Storey Car Park
 48 Bendemeer Road
-480 Toa Payoh Lorong 6, HDB Hub
-5 Changi Business Park Central 1, Changi City Point
-5 Draycott Drive
 5 Hacienda Grove
-5 Science Park Drive
-5 Stadium Walk, Leisure Park Kallang
-5 Straits View, Marina One (West Tower),
-5 Straits View, Marina One, The Heart
-5 Wallich Street, Guoco Tower
-50 Jurong Gateway Rd, JEM
-50 Jurong Gateway Road, Jem
-50 Nanyang Avenue, Nanyang Technological University
 51 Cuppage Road
-51 Hougang Ave 9
-51 Kopitiam @Jalan Besar
-530 Lorong 6, Toa Payoh Hub
-535 Upper Changi Road
-55 kim chuan drive
-5A Kallang Heights
-6 Eu Tong Sen Street, Clarke Quay Central
+530370
+530371
+53757
 6 PARK VILLAS RISE
-6 Raffles Boulevard, Marina Square
-6 Shenton Way, OUE Downtown Gallery
-60 Airport Boulevard, Singapore Changi Airport Terminal 2  Departure/ Transit Lounge South, Transfer F, Level 2
-60 Nanyang Crescent
-60 Paya Lebar Rd, Paya Lebar Square
-604 Sembawang Rd, Sembawang Shopping Centre
-604 Sembawang Road, Sembawang Shopping Centre
-61A/B &amp; 63A/B Pagoda Street
-62 Nanyang Crescent
-62 Nanyang Drive
-623 Elias Road
-63 Jurong West Central 3, Jurong Point
-63/66 Yung Kuang Road Level 2
-64 Nanyang Crescent
-公司65
-65 Airport Boulevard, Singapore Changi Airport Terminal 3 Departure/ Transit Lounge South
-65 Ubi Road
-66 Nanyang Crescent
-67, Ubi road 1, Oxley Biz Hub 1, #07-08
-68 Orchard Rd
-68 Orchard Road, Plaza Singapore
-68 Orchard Road, Plaza Singapura
-681 Punggol Drive, Oasis Terraces
-699 Hougang Street 52
-699A Hougang Street 52
-699B Hougang Street 52
-699C Hougang Street 52
-6A Napier Road, Gleneagles Hospital and Medical Centre
+611 Link House
+612 Link House
+618 to 619
+618A, 618B, 619A, 619B
+622 Link House
+6th Avenue Center
 7 Claymore Road
 7 Draycott Drive
 7 Jurong Pier Road
-7 Temasek Boulevard #12-07
-7-B Crane Road
-70 Nanyang Drive
-70 Shenton Way, #01-05
 70 Stamford Road
-70 Woodlands Ave 7
-70 Woodlands Ave 7, Admiralty MRT Station
-73 Lorong 4 Toa Payoh, Singapore 310073
+7002 Ang Mo Kio Avenue 5
 73 Meyer Road
 75 Meyer Road
-769, 771, 773 &amp; 775 North Bridge Road
 77 Meyer Road
-78 Airport Boulevard
-78 Airport Boulevard, Jewel Changi Airport
-8 Cross Street, Manulife Tower
+772 Link House
+793 Link House
 8 Eden Grove
 8 Orange Grove
 8 Shenton Way
-8/8A Sixth Avenue
-80 Airport Boulevard Changi Airport Terminal 1 Departure / Transit Lounge East
-80 Airport Boulevard, Departure / Transit Lounge Central, Singapore Changi Airport Terminal 2
-80 Airport Boulevard, Singapore Changi Airport Terminal 1,  Departure/Transit Lounge West
-80 Marine Parade Rd, Parkway Parade
-80 Marine Parade Road, Parkway Parade
-80 Robinson Road
-83 Punggol Central, Waterway Point
-85 Dawson Rd, #01-05, Singapore 141085
-85 Redhill
+872 Link House
 89 Bukit Dr Hindhede Loop
-8A Marina Boulevard, Marina Bay Link Mall
-9 Bishan Place
-9 Bishan Place, Junction 8 Shopping Centre
 9 Penang Road
-9 Raffles Boulevard, Millenia Walk
-9 Taman Serasi
-90 Hougang Ave 10, Hougang Mall
-90 Hougang Avenue 10, Hougang Mall
-90 Stamford Road, Singapore Management University School of Economics/Social Sciences
-930 Yishun Ave 2, Northpoint City North Wing
-930 Yishun Avenue 2, Northpoint City North Wing
-94 Nanyang Crescent
-Abbott Manufacturing
+A
+ABC Waters
+ABC Waters Plaza
+ABCD Cluster Hardcourt
 Abingdon Road
+Access
+Access to path
 Adam Drive
 Adam Green
 Adam Park
+Adam Park Connector
 Adam Road
+Adam Road Presbyterian Church
+Adam Road Presbyterian Church (Tengah)
 Adis Road
 Admiralty Drive
 Admiralty Grove
@@ -304,311 +90,36 @@ Admiralty Road
 Admiralty Road East
 Admiralty Road West
 Admiralty Street
+Admiralty West Park Connector
 Adora Green
-Aft Teck Whye Walk
-After Adam Drive
-After Admiral Hill
-After Airport Road
-After Alexandra Road
-After Ama Keng Road
-After Andrew Road
-After Andrews Avenue
-After Attap Valley Road
-After Baker Street
-After Balmoral Road
-After Bartley Road
-After Beach Road
-After Bedok Road
-After Begonia Road
-After Benoi Road
-After Bidadari Park Drive
-After Bishan Road
-After Braddell Road
-After Buangkok Drive
-After Buangkok East Drive
-After Bukit Merah Central
-After Bukit Timah Road
-After Buroh Street
-After Camp Road
-After Carmen Street
-After Cashew Terrace
-After Central Expressway
-After Chai Chee Street
-After Changi Ferry Road
-After Changi Road
-After Chartwell Road
-After Chestnut Avenue
-After Chin Bee Avenue
-After Chin Bee Road
-After Chun Tin Road
-After Clementi Road
-After Coldstream Avenue
-After Commonwealth Drive
-After Compass Green
-After Corporation Drive
-After Corporation Road
-After Craig Road
-After Cranwell Road
-After Dairy Farm Heights
-After Dairy Farm Road
-After Dawson Road
-After Dedap Road
-After Duku Road
-After Dunbar Walk
-After Dunkirk Avenue
-After Dunman Road
-After Durban Road
-After East Coast Road
-After East Sussex Lane
-After Elite Park Avenue
-After Fan Yoong Road
-After Fifth Lok Yang Road
-After Fourth Chin Bee Road
-After Fourth Lok Yang Road
-After Frankel Drive
-After Frankel Terrace
-After Gambas Avenue
-After Genting Lane
-After Geylang Road
-After Gloucester Road
-After Greenwich Drive
-After Grove Avenue
-After Gul Avenue
-After Gul Lane
-After Gul Way
-After Hong San Terrace
-After Hospital Drive
-After International Road
-After Ipoh Lane
-After Irrawaddy Road
-After Jalan Anggerek
-After Jalan Bahtera
-After Jalan Baiduri
-After Jalan Basong
-After Jalan Batalong
-After Jalan Belangkas
-After Jalan Bena
-After Jalan Berseri
-After Jalan Buloh Perindu
-After Jalan Bumbong
-After Jalan Buroh
-After Jalan Chempaka Kuning
-After Jalan Chermat
-After Jalan Jurong Kechil
-After Jalan Kayu
-After Jalan Kemuning
-After Jalan Lam Huat
-After Jalan Mariam
-After Jalan Muhibbah
-After Jalan Naga Sari
-After Jalan Paras
-After Jalan Pesawat
-After Jalan Remaja
-After Jalan Samulun
-After Jalan Selaseh
-After Jalan Telawi
-After Jalan Terusan
-After Jalan Ulu Sembawang
-After Joo Koon Crescent
-After Joo Koon Road
-After Joo Koon Way
-After Joo Seng Road
-After Jurong Pier Road
-After Jurong Port Road
-After Jurong Town Hall Road
-After Kallang Road
-After Kempas Road
-After Kheam Hock Road
-After Kian Teck Road
-After Kim Chuan Road
-After King George&apos;s Avenue
-After KJE Slip Road
-After Koon Seng Road
-After Kranji Link
-After Kranji Road
-After Kreta Ayer Road
-After Lantana Avenue
-After Lentor Grove
-After Lentor Street
-After Lim Chu Kang Road
-After Lok Yang Way
-After Lornie Walk
-After Lorong 1 Geylang
-After Lorong 106 Changi
-After Lorong 14 Geylang
-After Lorong 28 Geylang (81029)
-After Lorong 34 Geylang (81049)
-After Lorong 4 Toa Payoh
-After Lorong Danau
-After Lorong G Telok Kurau
-After Lorong H Telok Kurau
-After Lorong J Telok Kurau
-After Lorong M Telok Kurau
-After Lorong Nangka
-After Lorong Sarhad
-After Lorong Tanggam
-After Loyang Avenue
-After Loyang Gardens
-After Loyang Way
-After Lynwood Grove
-After Makepeace Road
-After Mandai Avenue
-After Mandai Lake Road
-After Mandai Road
-After Maple Avenue
-After Margaret Drive
-After Marina Gardens Drive
-After Marsiling Lane
-After Medway Drive
-After Meng Suan Road
-After Moonstone Lane
-After Mount Sinai Lane
-After Munshi Abdullah Avenue
-After Nanyang Avenue
-After Neo Tiew Road
-After Neythal Road
-After Old Airport Road
-After Old Choa Chu Kang Road
-After Old Jurong Road
-After Old Lim Chu Kang Road
-After Old Pier Road
-After Old Tampines Road
-After Old Toh Tuck Road
-After Old Upper Thomson Road
-After One Tree Hill
-After Pakistan Road
-After Pan Island Expressway
-After Pandan Gardens
-After Pandan Road
-After Parbury Avenue
-After Pasir Ris Avenue
-After Pasir Ris Road
-After Pasir Ris Way
-After Paya Lebar Road
-After Paya Lebar Street
-After Pegu Road
-After Peirce Road
-After Penjuru Road
-After Phillips Avenue
-After Pioneer Road
-After Plantation Crescent
-After Punggol Central
-After Punggol Road
-After Queen&apos;S Avenue
-After Rambutan Road
-After River Valley Road
-After Riverside Road
-After Rochdale Road
-After Saint John&apos;s Crescent
-After Second Lok Yang Road
-After Seletar Aerospace Lane
-After Seletar Aerospace Link
-After Seletar Aerospace Rise
-After Seletar Road
-After Sengkang East Avenue
-After Sengkang East Drive
-After Sengkang West Road
-After Sennet Road
-After Senoko Avenue
-After Senoko Drive
-After Senoko Way
-After Serangoon Garden Way
-After Shipyard Road
-After Siglap Drive
-After Siglap Road
-After Sime Road
-After Simei Avenue
-After Sims Way
-After Somapah Road
-After Sommerville Road
-After Soon Lee Road
-After South Buona Vista Road
-After Stadium Road
-After Still Lane
-After Sungei Kadut Drive
-After Sunny Metal &amp; Engineering
-After Sunrise Gardens
-After Swan Lake Avenue
-After Swiss Club Road
-After Tagore Drive
-After Tampines Expressway
-After Tampines Industrial Drive
-After Tan Boon Chong Avenue
-After Tanglin Road
-After Tanjong Katong Road
-After Tanjong Kling Road
-After Telok Blangah Heights
-After Tembeling Road
-After Third Lok Yang Road
-After Thomson Hills Drive
-After Tiong Bahru Road
-After Toa Payoh Rise
-After Toh Close
-After Toh Tuck Avenue
-After Toh Tuck Link
-After Toh Tuck Rise
-After Toh Tuck Terrace
-After Tomlinson Road
-After Tractor Road
-After Tuas Bay Link
-After Tuas Road
-After Tuas South Boulevard
-After Tuas West Avenue
-After Tuas West Road
-After Tuas West Street
-After Tukang Innovation Drive
-After Turnhouse Road
-After Unity Street
-After Upper Changi Road
-After Upper Paya Lebar Road
-After Upper Serangoon Road
-After Upper Thomson Road
-After View Road
-After Wallace Way
-After Waterloo Street
-After Wellington Road
-After West Camp Road
-After West Coast Highway
-After West Coast Link
-After Westwood Avenue
-After Whitchurch Road
-After Windsor Park Road
-After Wolskel Road
-After Woodlands Centre Road
-After Woodlands Road
-After Yio Chu Kang Road
-After Yuan Ching Road
+Adventure Bridge
+Aero Green Technology Pte Ltd
 Ah Hood Gardens
+Ah Hood Gardens Community Garden
 Ah Hood Road
-ah soo garden
+Ah Soo Garden
 Ah Soo Walk
+AHMADIYYA PATH 1
 Aida Street
+Air House / The Green House
 Airline Road
-Airport Blvd
-Airport Blvd, #01-K207 JEWEL Changi Airport Kiosk
 Airport Boulevard
-Airport Boulevard, #02-90, Departure Hall Level 2,
-Airport Boulevard, Singapore Changi Airport Terminal 1,  Departure/Transit Lounge West
 Airport Cargo Road
-Airport Cargo Road, Gate C7, Changi Airfreight Centre
 Airport Road
-Ajunied Avenue 1
-Ajunied Avenue 2
-Ajunied Avenue 3
-Ajunied Avenue 4
-Ajunied Avenue 5
-Ajunied Road
 Akyab Road
-Albert Court
 Albert Street
-Albert Street, #12-11/12 OG Albert Complex
 Albert Winsemius Lane
+Alexandra Arch
+Alexandra Canal Linear Park
 Alexandra Central
+Alexandra Garden Trail
 Alexandra Lane
+Alexandra Park Connector
 Alexandra Road
 Alexandra Terrace
 Alexandra View
-Alexandra View, #01-16
+Alexandra-Queensway PCN
+Alexandria Hill East Neighborhood Park
 Aliwal Street
 Aljunied Avenue 1
 Aljunied Avenue 2
@@ -616,32 +127,38 @@ Aljunied Avenue 3
 Aljunied Avenue 4
 Aljunied Avenue 5
 Aljunied Crescent
+Aljunied Crescent Street Soccer Court
 Aljunied Road
 Aljunied Walk
 Alkaff Crescent
+Alkaff Quay
 Allamanda Grove
 Allanbrooke Road
 Allenby Road
 Allotment Gardens
+Allotment Gardens @ Aljunied Park
+Allotment Gardens @ Punggol Park
+Allotment Gardens @ Punggol Waterway Park
+Allotment Gardens @ Sengkang Riverside Park
 Almond Avenue
 Almond Crescent
+Almond Crescent Playground
 Almond Street
 Alnwick Road
+Along drain - Banana fields
 Alps Avenue
 Ama Keng Road
 Amaranda Gardens
 Amber Close
 Amber Gardens
 Amber Road
-Amici Enterprise
 AMK Central Heights
-AMK Hub
 AMK Tech Link
 Amoy Street
-Amoy Street, Far East Square
-AMX Engineering
-Anagreen
+Amoy Street Food Centre
+Amphitheatre
 Anamalai Avenue
+Anchor Green Primary School
 Anchorvale Close
 Anchorvale Crescent
 Anchorvale Drive
@@ -658,26 +175,21 @@ Andover Road
 Andrew Road
 Andrews Avenue
 Andrews Terrace
-Ang Mo Kio Ave 4
-Ang Mo Kio Ave 5
-Ang Mo Kio Ave 6
-Ang Mo Kio Ave 8
 Ang Mo Kio Avenue 1
 Ang Mo Kio Avenue 10
-Ang Mo Kio Avenue 10, #01-1974
 Ang Mo Kio Avenue 12
 Ang Mo Kio Avenue 2
-Ang Mo Kio avenue 3
 Ang Mo Kio Avenue 3
 Ang Mo Kio Avenue 4
 Ang Mo Kio Avenue 5
 Ang Mo Kio Avenue 6
 Ang Mo Kio Avenue 8
 Ang Mo Kio Avenue 9
-Ang Mo Kio Central
+Ang Mo Kio Bus Interchange
 Ang Mo Kio Central 1
 Ang Mo Kio Central 2
 Ang Mo Kio Central 3
+Ang Mo Kio Central Flyover
 Ang Mo Kio Drive
 Ang Mo Kio Electronics Park Road
 Ang Mo Kio Grove
@@ -685,18 +197,22 @@ Ang Mo Kio Heights
 Ang Mo Kio Industrial Park 1
 Ang Mo Kio Industrial Park 2
 Ang Mo Kio Industrial Park 2A
-Ang Mo Kio Industrial Park 2A, #04-06 AMK Techlink
+Ang Mo Kio Interchange
+Ang Mo Kio Park 1
+Ang Mo Kio Park Connector
 Ang Mo Kio Rise
-Ang Mo Kio St 62
 Ang Mo Kio Street 11
 Ang Mo Kio Street 12
 Ang Mo Kio Street 13
 Ang Mo Kio Street 21
 Ang Mo Kio Street 22
 Ang Mo Kio Street 23
+Ang Mo Kio Street 24
 Ang Mo Kio Street 31
 Ang Mo Kio Street 32
+Ang Mo Kio Street 41
 Ang Mo Kio Street 42
+Ang Mo Kio Street 43
 Ang Mo Kio Street 44
 Ang Mo Kio Street 51
 Ang Mo Kio Street 52
@@ -704,67 +220,68 @@ Ang Mo Kio Street 53
 Ang Mo Kio Street 54
 Ang Mo Kio Street 61
 Ang Mo Kio Street 62
+Ang Mo Kio Street 63
 Ang Mo Kio Street 64
 Ang Mo Kio Street 65
 Ang Mo Kio Street 66
+Ang Mo Kio Street 81
 Ang Mo Kio Street 82
+Ang Mo Kio Underpass
 Ang Siang Hill
 Angklong Lane
 Angora Close
 Angsana Avenue
-Angsana Breeze
 Angsana Drive
 Angsana Green East Coast Parkway
 Angsana Road
 Angullia Park
 Ann Siang Hill
+Ann Siang Hill Park
 Ann Siang Road
 Annamalai Chitty Lane
 Anson Road
-Anson Road #31-06
-Anson Road, #01-02
 Anthony Road
-Aperia/Before Kallang Road
-Aquatic Avenue
 Aqueen Prestige Hotel Jalan Besar
 Arab Street
 Arcadia Road
+Arch Bridge @Bedok Town Park
 Architecture Drive
 Ardmore Park
 Ark Lane
 Armenian Street
 Arnasalam Chetty Road
 Aroozoo Avenue
+Aroozoo Avenue Playground
 Aroozoo Lane
-Arrival Hall North, Basement 2 South (in front of foodcourt), Departure Transit South Central, Departure Check-In Hall South, Departure Check-In Hall North
+Arrival Plaza
 Arthur Road
 Artillery Avenue
+Artillery Avenue South
 Arts Link
 Arumugam Road
 Arun Road
+Asam Trail
 Ascot Rise
 Ash Grove
-Ashley Green
 Ashwood Grove
 Asia Square
-Asiatic Engineering
+Asia Square Tower 1
+Asia Square Tower 2
 Asimont Lane
-ASM Front-End Manufacturing
 Aspen Heights
 Aston Green
 Astor Green
 Astrid Hill
 Attap Valley Road
-Atwin Marine Engineering
 Auckland Road East
 Auckland Road West
-Autoform Enterprise
-AutoImage Enterprise
+Autopass Card / CashCard Top-Up Booth
 Ava Road
-Ave Avenue
+Avenue South Residence
 Aviation Drive
 Aviation Park Road
 Avila Gardens
+Avila Gardens Condominium
 Avon Road
 Ayer Merbau Road
 Ayer Rajah Avenue
@@ -773,64 +290,60 @@ Ayer Rajah Drive
 Ayer Rajah Expressway
 Ayer Samak Crescent
 Ayer Samak Heights
-Azuma Engineering
-B&amp;B 2002 Enterprise
-B03 Lim Chu Kang Road
-B19 Lim Chu Kang Road
-B20 Lim Chu Kang Road
-B25 Old Choa Chu Kang Road
-B26 Lim Chu Kang Road
-B26 Old Choa Chu Kang Road
-B27 Lim Chu Kang Road
+B
+B20
+B59
+B60
 Baboo Lane
-Badminton Court kallang heights
+Baggage Storage
 Baghdad Street
 Bah Soon Pah Close
 Bah Soon Pah Road
+Bahtera Track
+Bailey bridge
 Bain Street
-Bajau Hill
 Baker Street
+Balafon Bridge
 Balam Gardens
+Balam Park Connector
 Balam Road
+Balestier Hill Shopping Centre
 Balestier Road
+Balestier Road Seventh-day Adventist Church
 Bali Lane
 Balmeg Hill
 Balmoral Crescent
 Balmoral Heights
 Balmoral Park
 Balmoral Road
+Bamboo Trail
 Ban San Street
 Banda Street
 Bangkit Road
 Banyan Avenue
 Banyan Drive
+Banyan Place
 Banyan Road
-Banyan View
 Barbary Walk
-Bark Avenue
 Barker Road
 Barossa Gardens
-Bartley GreenRise
-Bartley Heights
 Bartley Road
 Bartley Road East
+BARTLEY ROAD EAST
+Bartley Viaduct
 Bartley Walk
-Basement North, Arrival Hall South, Arrival Hall North, Departure/Check-In Hall North, Departure/Transit Lounge South, Departure/Transit North
-Bassein Court
 Bassein Road
 Bath Road
 Battersea Road
 Battery Road
-Baumann Spring
 Bay East Drive
-Bayfront Ave, #B2-20/20A
 Bayfront Avenue
+Bayfront Event Plaza
 Bayfront Link
-Bayfront Station Linkway
-Bays Water Road
 Bayshore Avenue
 Bayshore Close
 Bayshore Drive
+Bayshore Flyover
 Bayshore Road
 Bayshore Street
 Bayshore Terrace
@@ -839,23 +352,25 @@ Bayswater Road
 BBQ Green
 BBQ Terrace
 Beach Road
-Beach Road 1st Storey Lobby The Concourse
 Beach Road Gardens
-Beach Roo
+Beach Station Bus Terminal
 Beach View
 Beach Walk
 Beacon Heights
-Beadstreet
 Beatty Lane
 Beatty Road
-Beaulieau Road
-Beauty Lane
 Bedford Road
 Bedok Avenue
+Bedok Bus Interchange
 Bedok Central
 Bedok Close
+Bedok Court
 Bedok Garden
-Bedok Interchange Hawker Centre
+Bedok Green Primary School
+Bedok Green Secondary School
+Bedok Industrial Park C
+Bedok Industrial Park E
+Bedok Jetty
 Bedok Lane
 Bedok North Avenue 1
 Bedok North Avenue 2
@@ -866,248 +381,38 @@ Bedok North Road
 Bedok North Street 1
 Bedok North Street 2
 Bedok North Street 3
-Bedok North Street 3 Block 510 
-Bedok North street 4
 Bedok North Street 4
 Bedok North Street 5
+Bedok Park Connector
+Bedok Place
 Bedok Reservoir Crescent
+Bedok Reservoir Floating Platform
 Bedok Reservoir Road
-Bedok Reservoir Road #01-3053
+Bedok Reservoir Road Neighbourhood Park
 Bedok Reservoir View
-Bedok Reservoir-Punggol Heights
 Bedok Ria Crescent
-Bedok Ria Crescent #01 - 28 Stratford Court
 Bedok Ria Drive
 Bedok Ria Place
 Bedok Ria Terrace
 Bedok Ria Walk
 Bedok Rise
+Bedok Rise Park
+Bedok Rise Playground
 Bedok Road
 Bedok South Avenue 1
 Bedok South Avenue 2
 Bedok South Avenue 3
 Bedok South Road
-Bedok South Road Siglap East
 Bedok Terrace
-Bedok Town Square
+Bedok Terrace Playground
 Bedok Walk
 Bee San Avenue
 Beechwood Grove
-Before Airport Road
-Before Andrew Road
-Before Baker Street
-Before Beach Road
-Before Bedok Road
-Before Begonia Road
-Before Benoi Lane
-Before Benoi Road
-Before Bidadari Park Drive
-Before Bishan Road
-Before Boon Lay Way
-Before Braddell Road
-Before Buangkok Drive
-Before Buangkok East Drive
-Before Bukit Merah Central
-Before Cairnhill Road
-Before Canberra Drive
-Before Cantonment Road
-Before Carlisle Road
-Before Carlton Avenue
-Before Central Expressway
-Before Changi Ferry Road
-Before Chatsworth Road
-Before Chestnut Avenue
-Before Chia Ping Road
-Before Chin Bee Avenue
-Before Chin Bee Road
-Before Choa Chu Kang Link
-Before Clementi Road
-Before Cooling Close
-Before Craig Road
-Before Cranwell Road
-Before Dairy Farm Heights
-Before Dairy Farm Road
-Before Davidson Road
-Before Dawson Road
-Before Dunearn Road
-Before Elite Park Avenue
-Before Enterprise Road
-Before Fan Yoong Road
-Before Fernvale Lane
-Before First Lok Yang Road
-Before Fort Road
-Before Fourth Lok Yang Road
-Before Frankel Avenue
-Before Frankel Drive
-Before Frankel Terrace
-Before Gambas Crescent
-Before Genting Link
-Before Gerald Drive
-Before Geylang Road
-Before Goldhill Avenue
-Before Greenwich Drive
-Before Gul Circle
-Before Hazel Park Terrace
-Before How Sun Road
-Before Huddington Avenue
-Before Jalan Bahar
-Before Jalan Basong
-Before Jalan Batalong
-Before Jalan Bena
-Before Jalan Bumbong
-Before Jalan Buroh
-Before Jalan Chempaka Kuning
-Before Jalan Dusun
-Before Jalan Jurong Kechil
-Before Jalan Kayu
-Before Jalan Kembangan
-Before Jalan Khairuddin
-Before Jalan Mariam
-Before Jalan Pari Burong
-Before Jalan Samulun
-Before Jalan Selaseh
-Before Jalan Tepong
-Before Jalan Terusan
-Before Jalan Todak
-Before Jalan Tukang
-Before Jalan Ulu Sembawang
-Before Jalan Wangi
-Before Joo Koon Way
-Before Jurong Pier Road
-Before Jurong Port Road
-Before Jurong Town Hall Road
-Before Kampung Kayu Road
-Before Keramat Road
-Before Kheam Hock Road
-Before Kian Teck Road
-Before Kim Chuan Road
-Before Kim Keat Lane
-Before Kim Yam Road
-Before Koon Seng Road
-Before Kwong Ministry Road
-Before Lavender Street
-Before Lewis Road
-Before Lim Chu Kang Road
-Before Lok Yang Way
-Before Lorong 110 Changi
-Before Lorong 18 Geylang
-Before Lorong 23 Geylang
-Before Lorong Bakar Batu
-Before Lorong Danau
-Before Lorong K Telok Kurau
-Before Loyang Avenue
-Before Loyang Way
-Before Mandai Avenue
-Before Mandai Lake Road
-Before Mandai Road
-Before Margaret Drive
-Before Mariam Walk
-Before Marina Gardens Drive
-Before Marina Way
-Before Marymount Lane
-Before Moonbeam Terrace
-Before Moonbeam Walk
-Before Mount Sinai Drive
-Before Mount Sinai Walk
-Before Nanyang Avenue
-Before Neil Road
-Before New Loyang Link
-Before New Upper Changi Road
-Before Old Airport Road
-Before Old Choa Chu Kang Road
-Before Old Tampines Road
-Before Old Toh Tuck Road
-Before Old Upper Thomson Road
-Before One Tree Hill
-Before Pan Island Expressway
-Before Pandan Gardens
-Before Pasir Ris Avenue
-Before Pasir Ris Road
-Before Pasir Ris Way
-Before Pearl&apos;s Hill Terrace
-Before Penjuru Close
-Before Penjuru Road
-Before Penjuru Walk
-Before Pioneer Road
-Before Plantation Crescent
-Before Punggol Central
-Before Punggol Road
-Before Rochalie Drive
-Before Roseburn Avenue
-Before Saint Helier&apos;s Avenue
-Before Saint Patrick&apos;s Road
-Before Seah Im Road
-Before Selarang Way
-Before Seletar Aerospace Lane
-Before Seletar Aerospace Link
-Before Seletar Aerospace Rise
-Before Sembawang Avenue
-Before Sengkang East Avenue
-Before Sengkang East Drive
-Before Sengkang West Road
-Before Sennett Road
-Before Senoko Drive
-Before Senoko Way
-Before Serangoon Road
-Before Shangri-La Walk
-Before Shipyard Road
-Before Siglap Drive
-Before Siglap Road
-Before Simei Avenue
-Before Simei Road
-Before Sims Avenue
-Before Soon Lee Road
-Before South Buona Vista Road
-Before Still Road
-Before Summerhill
-Before Sungei Kadut Way
-Before Tagore Drive
-Before Tagore Road
-Before Tampines Expressway
-Before Tampines Industrial Drive
-Before Tampines Link
-Before Tanglin Road
-Before Tanjong Katong Road
-Before Tanjong Kling Road
-Before Teban Gardens Road
-Before Telok Blangah Heights
-Before Thomson Hills Drive
-Before Tiong Bahru Road
-Before Toh Close
-Before Toh Tuck Avenue
-Before Toh Tuck Link
-Before Toh Tuck Rise
-Before Tomlinson Road
-Before Tosca Street
-Before Tractor Road
-Before Tuas Bay Link
-Before Tuas Loop
-Before Tuas Road
-Before Tuas West Avenue
-Before Tuas West Drive
-Before Tukang Innovation Drive
-Before Turnhouse Road
-Before Tyersall Avenue
-Before Upper Paya Lebar Road
-Before Upper Serangoon Road
-Before Upper Thomson Road
-Before Wallace Way
-Before Walton Road
-Before Waterloo Street
-Before West Camp Road
-Before West Coast Crescent
-Before Weyhill Close
-Before Whitchurch Road
-Before Wilkinson Road
-Before Windsor Park Road
-Before Winstedt Road
-Before Woodlands Centre Road
-Before Woodlands Road
-Before Yio Chu Kang Road
 Begonia Crescent
 Begonia Drive
 Begonia Lane
 Begonia Road
+Begonia Road Playground
 Begonia Terrace
 Begonia Walk
 Belgravia Drive
@@ -1117,7 +422,8 @@ Belilios Road
 Belimbing Avenue
 Belmond Green
 Belmont Road
-Ben Ching Engineering
+Benaan Kapal Bridge
+Bencoolen
 Bencoolen Link
 Bencoolen Street
 Bendemeer Road
@@ -1128,25 +434,28 @@ Benoi Place
 Benoi Road
 Benoi Sector
 Beo Crescent
+Beo Crescent Food Centre
 Berkshire Road
 Berlayar Close
 Berlayar Drive
 Berlayar Street
+Berlayer Creek Mangrove Trail
 Bermuda Road
 Bernam Street
-Berries World @ Kovan Simon Road
 Berrima Road
 Berwick Drive
 Beverly Hill
+Bgain 681 Old Street Coffee House
 Bhamo Road
 Bicester Road
-Bidadari Greenway
 Bidadari Park Drive
+Bidadari PCN
 Bideford Road
 Biggin Hill Road
 Bilal Lane
 Bin Tong Park
 Binchang Rise
+Binchang Rise Playground
 Binchang Walk
 Binjai Hill
 Binjai Park
@@ -1160,15 +469,17 @@ Biopolis Street
 Biopolis Way
 Birch Road
 Bird Cage Walk
+Bird Paradise Tram Shuttle
 Bird Park Drive
+Birdz of Play
+Bishan Bus Interchange
 Bishan Green
 Bishan Heights
 Bishan Lane
 Bishan Place
 Bishan Road
-Bishan Spring
-Bishan St 13
 Bishan Street 11
+Bishan Street 11 Recreation Park
 Bishan Street 12
 Bishan Street 13
 Bishan Street 14
@@ -1178,154 +489,153 @@ Bishan Street 22
 Bishan Street 23
 Bishan Street 24
 Bishan Street 25
+Bishops Place
+Bishopsgate
 BKE (SLE) to Woodlands Road
+BKE exit 10B Woodlands crossing
+Black Crawler
+Black Diamond Grade Trail
 Blackmore Drive
 Blair Road
 Blandford Drive
+Blangah Rise Primary School
 Bliss @ Hillside Drive
-Blk 161 Ang Mo Kio Avenue 4
-Blk 178, Toa Payoh Central
-Blk 256 Bangkit Road
-Blk 258, Pasir Ris Street 21, #01-08 Loyang Point
-Blk 26 Jalan Membina
-Blk 260 Kim Keat Avenue
-Blk 284 Bukit Batok East Avenue 3
-Blk 293 Yishun St 22
-Blk 359 Bukit Batok St 31
-Blk 376 Bukit Batok St 31
-Blk 418 Yishun Avenue 11
-Blk 445 Fajar Road, Fajar Shopping Centre
-Blk 468B Admiralty Drive
-Blk 475 Choa Chu Kang Ave 3, Sunshine PlaceX
-Blk 490 Lor 6 Toa Payoh, HDB Hub
-Blk 524A Jelapang Road, Greenridge Shopping Centre
-Blk 525 Ang Mo Kio Avenue 10
-BLK 531A Upper Cross St
-Blk 548 Woodlands Drive 44, Vista Point
-Blk 622D Punggol Central
-Blk 671 Edgefield Plains
-Blk 676 Woodlands Drive 71, Kampung Admiralty
-Blk 716, Yishun Street 71, #01-254
-Blk 768 Woodlands Ave 6, Woodlands Mart
-Blk 8 Telok Blangah Crescent
-Blk 86 Redhill Close
-Blk 883 Woodlands St 82, Woodlands North Plaza
+Blk 11 Telok Blangah Crescent Market & Food Centre
+Blk 134
+Blk 29 Dropoff Point
+Blk 30
+Blk 79 Parking Aisle
+Blk 959 Jurong West Street 92
 Blk18 Jalan Tenteram Playground
-Block R - School of Engineering
-Block S - School of Engineering
 Bloxhome Drive
+Blue Horizon entrance
+Blue Horizon Exit
+Blue Quail
 Blue Square Grade Trail
-Blueberry Hill
 Bluewhale Avenue
 Bo Seng Avenue
 Boardwalk
 Boat Quay
 Bodmin Drive
 Bonham Street
-bonkers link
-Booklink
 Boon  Tiong Road
 Boon Keng Road
+Boon King Ville
 Boon Lay Avenue
+Boon Lay Bus Interchange
 Boon Lay Drive
 Boon Lay Gardens
 Boon Lay Green
 Boon Lay Grove
 Boon Lay Place
+Boon Lay Place Terrace Garden
 Boon Lay Way
 Boon Leat Terrace
 Boon Tat Link
 Boon Tat Street
 Boon Teck Road
 Boon Tiong Road
-Boon Tiong Road #01-08
-Boon Tiong Road #01-09
 Borthwick Drive
 Boscombe Road
-Botak Hill
 Botak Hill Road
 Botanic Gardens
-Boulevard
+Botanic Gardens Mansion
+Botanic Gardens View
+Botannia
+Boulevard 88
+Boulevard Extension
+Boulevard Vue
 Boundary Close
 Boundary Road
-Bourbon Street
 Bournemouth Road
 Bowmont Gardens
-Braddel Road
-Braddell
-Braddell Heights
+Braddel Heights Estate
+Braddell Heights Community Club
+Braddell Heights Community Hub
+Braddell Heights Estate
 Braddell Hill
 Braddell Rise
 Braddell Road
+Braddell Underpass
 Braddell View
 Braemar Drive
 Brani Avenue
 Brani Causeway
+Brani Drive 7
+Brani Drive 8
+Brani Drive 9
 Brani Terminal Avenue
+Brani Terminal Street Y
 Brani Way
 Branksome Road
 Bras Basah Road
-Brick Lane
 Brickland Close
 Brickland Crescent
 Brickland Lane
 Brickland Road
+Bridge inside Clementi MRT Station
+Bridge inside Clementi MRT Station that connects to Clementi Mall
+Bridge inside Dover MRT Station
+Bridge Of Suspense
 Bridport Avenue
 Bright Hill
+Bright Hill Columbarium
+Bright Hill Crematorium
 Bright Hill Crescent
-Bright Hill Dr
 Bright Hill Drive
+Bright Hill Evergreen Home
 Bright Hill Road
-Brighton Ave
 Brighton Avenue
 Brighton Crescent
-Brilliant Manufacturing
 Bristol Road
 Brizay Park
 Broadrick Close
 Broadrick Road
-Broadway
 Brockhampton Drive
 Brompton Road
 Brooke Road
 Brookvale Drive
 Brookvale Walk
-Brown Metal Engineering
-BT Timah Road
-BTW Timah Rd
-Buangkok (NEL)
+Buangkok Bus Interchange
 Buangkok Crescent
+Buangkok Crescent Park
 Buangkok Drive
 Buangkok East Drive
 Buangkok Green
+Buangkok Green Medical Park
 Buangkok Link
+Buangkok Park Connector
 Buangkok Square
+Buangkok Square Mall
+Buangkok Square Park
 Buangkok View
 Buckley Classique Drop-off Road
 Buckley Road
 Buffalo Road
-Bugis Junction
 Bugis Street
-Bugis Street Back Lane
 Bukit Arang Road
 Bukit Ayer Molek
-Bukit Batok
+Bukit Batok Avenue 1
+Bukit Batok Bus Interchange
 Bukit Batok Central
+Bukit Batok Central (neighbourhood) Park
 Bukit Batok Central Link
 Bukit Batok Crescent
-Bukit Batok East Ave 5
+Bukit Batok Driving Centre
 Bukit Batok East Avenue 2
 Bukit Batok East Avenue 3
 Bukit Batok East Avenue 4
 Bukit Batok East Avenue 5
 Bukit Batok East Avenue 6
+Bukit Batok East Park Connector
 Bukit Batok Green
+Bukit Batok Industrial Park A
+Bukit Batok Interchange
+Bukit Batok Park Connector
 Bukit Batok Road
-Bukit Batok St 31
 Bukit Batok Street 11
 Bukit Batok Street 21
 Bukit Batok Street 22
-Bukit batok street 23
 Bukit Batok Street 23
 Bukit Batok Street 24
 Bukit Batok Street 25
@@ -1336,8 +646,6 @@ Bukit Batok Street 34
 Bukit Batok Street 41
 Bukit Batok Street 51
 Bukit Batok Street 52
-Bukit Batok West Ave 5
-Bukit Batok West Ave 8
 Bukit Batok West Avenue 2
 Bukit Batok West Avenue 3
 Bukit Batok West Avenue 4
@@ -1346,24 +654,29 @@ Bukit Batok West Avenue 6
 Bukit Batok West Avenue 7
 Bukit Batok West Avenue 8
 Bukit Batok West Avenue 9
+Bukit Batok West Park Connector
 Bukit Chermin Boardwalk
 Bukit Chermin Road
 Bukit Drive
-Bukit Gombak
 Bukit Ho Swee Crescent
 Bukit Ho Swee Link
 Bukit Manis Road
+Bukit Merah Bus Interchange
 Bukit Merah Central
-Bukit Merah Lane
 Bukit Merah Lane 1
+Bukit Merah Lane 2
 Bukit Merah Lane 3
+Bukit Merah Lane 4
 Bukit Merah View
 Bukit Mugliston
+Bukit Panjang / Zheng Hua Park Connector
+Bukit Panjang Flyover
+Bukit Panjang Integrated Transport Hub
 Bukit Panjang Link
+Bukit Panjang Park Connector
 Bukit Panjang Ring Road
 Bukit Panjang Road
 Bukit Panjang Station Square
-Bukit Pasoh Rd
 Bukit Pasoh Road
 Bukit Purmei Avenue
 Bukit Purmei Road
@@ -1371,51 +684,58 @@ Bukit Sedap Road
 Bukit Teresa Close
 Bukit Teresa Road
 Bukit Timah Expressway
-Bukit Timah Hill
 Bukit Timah Link
-Bukit Timah Rd
-bukit timah road
+Bukit Timah Park Connector
 Bukit Timah Road
-Bukit Timah Shopping Centre
+Bukit Timah Underpass
+Bukit TImah-Rochor Green Corridor
 Bukit Tinggi Road
 Bukit Tunggal Road
 Bukit Way
 Bulim Avenue
+Bulim Depot
 Bulim Drive
 Bulim Lane 1
 Bulim Lane 2
 Bulim Square
 Bulim Street
 Bulim Walk
+Bullion Park
+Bunga Rampai Place
 Buona Vista Gardens
+Buona Vista Terminal
 Burghley Drive
 Burgundy Crescent
+Burgundy Crescent Playground
 Burgundy Drive
 Burgundy Hill
 Burgundy Rise
 Burlington Square
 Burmah Road
 Burn Road
-Burn Road, Suite 08-09 Trivex
 Burnfoot Terrace
 Buroh Crescent
 Buroh Drive
 Buroh Lane
 Buroh Street
-Buroh Street #01-05/06
 Bury Road
+Bus Only
+Bus-only corridor
 Business Link
 Business Park Drive
 Bussorah Street
 Butterfly Avenue
 Butterworth Lane
 Buyong Road
-C&apos;wlth Link
+bypass1
+C
+C'wlth Link
 Cable Road
 Cactus Crescent
 Cactus Drive
 Cactus Road
-Cairnhill
+Cactus Road Playground
+Cad's Alley
 Cairnhill Circle
 Cairnhill Rise
 Cairnhill Road
@@ -1431,14 +751,17 @@ Campus Boulevard
 Campus Green
 Canada Road
 Canberra Crescent
+Canberra Crescent Residences
 Canberra Drive
 Canberra Lane
 Canberra Link
+Canberra Park Connector
 Canberra Road
 Canberra Street
 Canberra View
 Canberra Walk
 Canberra Way
+Canberra-Sembawang Park Connector
 Canning Lane
 Canning Rise
 Canning Walk
@@ -1449,60 +772,131 @@ Canton Street
 Cantonment Close
 Cantonment Link
 Cantonment Road
-CapitaGreen
-CapitaSpring
+Capital Tower Plaza
 Capricorn Drive
+Car Park
+Car Park (USSC)
+car park entrance
 Car Park Entrance Way
+car park exit
+Car Park Exit
+Car Park to Chestnut South Connector
+Card Access
 Cardiff Grove
-Carelink
 Carisbrooke Grove
-Carlisle Printers &amp; Graphic Designers, Blk1001 Jalan Bukit Merah, #02-11, Singapore 159455
 Carlisle Road
 Carmen Street
 Carmen Terrace
 Carmichael Road
+Carmichael Road Playground
 Carnation Drive
+Carpark
+Carpark 3
 Carpenter Street
 Carpmael Road
 Carrhill Road
 Carver Street
-Casa Cairnhill
 Caseen Street
 Cashew Crescent
-Cashew Green
+Cashew Crescent Fitness Corner
 Cashew Heights
 Cashew Link
+Cashew Link Playground
 Cashew Road
+Cashew Road Interim Park
+Cashew Road Playground
 Cashew Terrace
 Cashin Street
 Cassia Crescent
-Cassia Crescent #01-80
 Cassia Drive
 Cassia Link
 Castle Green
 Casuarina Road
 Casuarina Walk
-Cathay Cineplexes Century Square
+Catchment Path
+Cathay Forecourt
 Cathay Green
 Catterick Road
 Causeway
-Causeway Link
 Cavan Road
+Cave
+Cave Path
+Cavenagh Bridge
 Cavenagh Gardens
 Cavenagh road
 Cavenagh Road
 Cecil Street
 Cedar Avenue
 Cedarwood Grove
+Cemetery Central Street 12
+Cemetery Central Street 15
+Cemetery Central Street 25
+Cemetery Central Street 29
+Cemetery Central Street 31
+Cemetery Central Street 32
+Cemetery Central Street 33
+Cemetery Central Street 34
+Cemetery Central Street 8
+Cemetery North Street 1
+Cemetery North Street 13
+Cemetery North Street 15
+Cemetery North Street 16
+Cemetery North Street 17
+Cemetery North Street 2
+Cemetery North Street 4
+Cemetery North Street 4A
+Cemetery North Street 6
+Cemetery South St 12
+Cemetery South St 12A
+Cemetery South St 14
+Cemetery South St 16
+Cemetery South St 18
+Cemetery South St 7
+Cemetery South St 9
+Cemetery South Street 1
+Cemetery South Street 10
+Cemetery South Street 17
+Cemetery South Street 18
+Cemetery South Street 25
+Cemetery South Street 3
+Cemetery South Street 34
+Cemetery South Street 5
 Cendana Green
 Centra Heights
-Central
+Central Axis
 Central Boulevard
+Central Catchment Park Connector
+Central Christian Church
 Central Exchange Green
 Central Expressway
+Central Expressway Underpass
+Central Fire Station
+Central Green Condo
 Central Grove
+Central Imperial
+Central Lane 1
+Central Library
+Central Library Annexe
+Central Library Plaza
+Central Line 3
+Central Linear Park
 Central Link
+Central Mall
+Central Manpower Base
+Central Meadows
+Central Office 1
+Central Office 2
+Central Park Tower
+Central Plaza
+Central Sikh Temple
 Central Square
+Central Staff Apartments
+Central Stage
+Central Store
+Central Trio @ AMK
+Central View
+Central Water Tank
+Central Weave @ AMK
 Centrium Square
 Century Square
 Certis Central
@@ -1515,6 +909,7 @@ Chai Chee Green
 Chai Chee Lane
 Chai Chee Road
 Chai Chee Street
+Challenging Route
 Champions Green
 Champions Way
 Chancery Court
@@ -1522,12 +917,17 @@ Chancery Grove
 Chancery Hill Road
 Chancery Hill Walk
 Chancery Lane
+Chancery Lane Hood 1
 Chander Road
 Chang Charn Road
-Changi Business Park Ave 1
+Change Alley
+Changi Airport Connector
+Changi Airport PTB1
+Changi Beach Park
 Changi Business Park Avenue 1
+Changi Business Park Avenue 3
+Changi Business Park Bus Terminal
 Changi Business Park Central 1
-Changi Business Park Central 1, #01-41
 Changi Business Park Central 2
 Changi Business Park Central1
 Changi Business Park Crescent
@@ -1538,59 +938,75 @@ Changi East Close
 Changi Ferry Road
 Changi Green
 Changi Heights
+Changi Heights Playground
 Changi North Crescent
 Changi North Rise
 Changi North Street 1
+Changi North Street 2
 Changi North Way
 Changi Point Board Walk
+Changi Point Bridge
+Changi Rise Condo
 Changi Road
 Changi South Avenue 1
 Changi South Avenue 2
+Changi South Avenue 3
+Changi South Avenue 4
 Changi South Lane
 Changi South Street 1
 Changi South Street 2
 Changi South Street 3
 Changi Village Coastal Walk
+Changi Village Coastal Walk (Kelong Walk)
 Changi Village Road
+Changi Village Terminal
 Chantilly Rise
 Chapel Close
 Chapel Road
 Charlton Lane
 Charlton Road
-Chartered Asia Technology Enterprise
 Chartwell Drive
+Chartwell Drive Park
+Chartwell Drive Substation
 Chatsworth Avenue
+Chatsworth Park
 Chatsworth Road
-Chaun Drive
-Chaun Garden
-Chaun View
 Chay Yan Street
-Cheap Jobs Interprise
-Cheap John&apos;s Enterprise
+Cheang Hong Lim Place
+Cheang Jim Chwan Place
+Cheang Wan Seng Place
 Chee Hoon Avenue
 Chelsea Gardens
 Chelsea Grove
 Chempaka Avenue
+Chempaka Avenue Playground
 Chempaka Kuning Link
+Chemperai Trail
 Chencharu Close
 Chencharu Green
 Chencharu Grove
 Chencharu Link
 Cheng San Green
 Cheng Soon Crescent
+Cheng Soon Garden
+Cheng Yan Place
 Cheong Chin Nam Road
-Cheong Chin Nam Road;Upper Bukit Timah Road
 Cheow Keng Road
 Chepstow Close
 Cherry Avenue
 Cherry Gardens
 Cherry Hill
 Chestnut Avenue
+Chestnut Avenue Water Works
 Chestnut Close
+Chestnut Close Playground
 Chestnut Crescent
 Chestnut Drive
+Chestnut Drive Playground
 Chestnut Gardens
 Chestnut Lane
+Chestnut Nature Park South Biking Trail
+Chestnut Nature Park South Hiking Trail
 Chestnut Terrace
 Cheviot Hill
 Chia Eng Say Road
@@ -1598,52 +1014,55 @@ Chia Ping Road
 Chiap Guan Avenue
 Chiku Road
 Chiltern Drive
+Chiltern Drive Park
 Chin Bee Avenue
 Chin Bee Crescent
 Chin Bee Drive
 Chin Bee road
 Chin Cheng Avenue
 Chin Chew Street
-Chin Seng Enterprise
-Chin Siong Electrical Engineering
 Chin Swee Road
 Chin Terrace
-China Square
 China Square Central
+China Square Central Car Park Entrance/Exit
 China Street
-Chinatown Food Street
-Chinatown Point
-Chinese and Japanese Gardens
+Chinese Cemetery Path 11
+Chinese Cemetery Path 13
+Chinese Cemetery Path 14
+Chinese Cemetery Path 15
+Chinese Cemetery Path 17
+Chinese Cemetery Path 19
+Chinese Cemetery Path 21
+Chinese Cemetery Path 26
+Chinese Cemetery Path 32
+Chinese Cemetery Path 34
+Chinese Cemetery Path 36
+Chinese Cemetery Path 4
 Chinese Garden Road
 Chip Bee Gardens
-Chip Hock Gardens
 Chiselhurst Grove
 Chitty Road
-Chnagi Coast Walk
-Chng Kee&apos;s Foodlink
-Choa Chu Kang
-Choa Chu Kang Ave 4
-Choa Chu Kang Avenue
 Choa Chu Kang Avenue 1
 Choa Chu Kang Avenue 2
 Choa Chu Kang Avenue 3
 Choa Chu Kang Avenue 4
 Choa Chu Kang Avenue 5
+Choa Chu Kang Avenue 6
 Choa Chu Kang Avenue 7
 Choa Chu Kang Central
 Choa Chu Kang Crescent
-Choa Chu Kang Cresent
 Choa Chu Kang Drive
 Choa Chu Kang Grove
-Choa Chu Kang Hill
+Choa Chu Kang Interchange
 Choa Chu Kang Link
 Choa Chu Kang Loop
+Choa Chu Kang New Town
 Choa Chu Kang North 5
 Choa Chu Kang North 6
 Choa Chu Kang North 7
+Choa Chu Kang North Park Connector
 Choa Chu Kang Park Connector
 Choa Chu Kang Road
-Choa Chu Kang Road Track 10
 Choa Chu Kang Street 51
 Choa Chu Kang Street 52
 Choa Chu Kang Street 53
@@ -1651,11 +1070,19 @@ Choa Chu Kang Street 54
 Choa Chu Kang Street 62
 Choa Chu Kang Street 64
 Choa Chu Kang Terrace
+Choa Chu Kang Track 14
 Choa Chu Kang Way
-Choa Kuo Chuan Avenue
 Chong Kuo Road
 Chong Pang Green
 Choon Guan Street
+Christian Cemetery Path 11
+Christian Cemetery Path 13
+Christian Cemetery Path 2
+Christian Cemetery Path 3
+Christian Cemetery Path 4
+Christian Cemetery Path 5
+Christian Cemetery Path 7
+Christian Cemetery Path 8
 Chu Lin Road
 Chu Yen Street
 Chuan Close
@@ -1670,19 +1097,24 @@ Chuan Terrace
 Chuan View
 Chuan Walk
 Chulia Street
-Chulia Street #01-01A/01B OCBC Centre East
 Chun Tin Road
 Church Street
 Chwee Chian Road
 Chwee Chian View
 Circle Green
+Circle Line
+Circle Line (CC)
+Circle Line Extension (CE)
+Circle Line Stage 6 Station worksite
 Circle road
-circuilar road
 Circuit Link
 Circuit Road
+Circuit Road Hawker Center
+Circuit Road Hawker Centre
 Circular Road
-Citrus Grove
 City Green
+City Square Mall
+City Square Residences
 CityLink Mall
 Clacton Road
 Clarence Lane
@@ -1694,59 +1126,56 @@ Claymore Hill
 Claymore Road
 Cleantech Heights
 Cleantech Loop
-CleanTech Loop
-Clemenceau Ave #01-31 UE Square
-Clemenceau Ave North
+CleanTech View
 Clemenceau Avenue
 Clemenceau Avenue North
-Clemenceau Avenue Singapore Shopping Centre
-Clementi Ave 2
-Clementi Ave 3
+Clemenceau Bridge
 Clementi Avenue 1
 Clementi Avenue 2
 Clementi Avenue 3
 Clementi Avenue 4
 Clementi Avenue 5
 Clementi Avenue 6
+Clementi Bus Interchange
 Clementi Close
 Clementi Crescent
+Clementi Crescent Park
 Clementi Gardens
-Clementi Gateway
-Clementi Green
 Clementi Lane
 Clementi Loop
+Clementi North Flyover
 Clementi Road
-Clementi Road, Singapore Institute of Management, Block C Unit C.1.07
 Clementi Street 11
 Clementi Street 12
 Clementi Street 13
 Clementi Street 14
 Clementi West Street 1
 Clementi West Street 2
+Clementi Woods Condo Entrance Drive 1
 Cliff Road
+Cliff top path
 Clifford Square
 Clifton Vale
-Climb Central
-Clive Road
 Clive Street
-Cloud Forest, Flower Dome, OCBC Skywalk
-Clover Ave
 Clover Avenue
 Clover Close
-Clover Cres
 Clover Crescent
+Clover Crescent Neighbourhood Park
+Clover Crescent Playground
 Clover Rise
 Clover Way
+Clover Way Playground
 Club Street
-Clunry Road
-Cluny Court
 Cluny Hill
 Cluny Park
 Cluny Park Road
 Cluny Park Way
 Cluny Road
-Coastal mangrove
-Coastal PlayGrove
+Coast to Coast Trail
+Coast-to-Coast Trail
+Coastal Park Connector
+Coastal Path (Closed since 2017)
+Coastal Trail
 Colchester Grove
 Coldstream Avenue
 Coleman Lane
@@ -1754,19 +1183,16 @@ Coleman Street
 College Avenue East
 College Avenue West
 College Green
+College Green — Dunearn Road Hostels
 College Link
 College Link Walkway
 College Link way
 College Road
 Collyer Quay
-Collyer Quay, #B1-07 Ocean Financial Centre
+Colugo Trail
 ComChest Green
-Comfomdelgro Engineering
-Comfort Delgro Engineering
-Comfortdelgro Engineering
 Commerce Street
 Common Green
-Commonwealth Ave West
 Commonwealth Avenue
 Commonwealth Avenue West
 Commonwealth Close
@@ -1780,17 +1206,19 @@ Community Yoga Square
 COMO Adventure Grove
 Compass Green
 Compass Heights
-Compassvale Boardwalk
 Compassvale Bow
+Compassvale Bus Interchange
 Compassvale Crescent
 Compassvale Drive
 Compassvale Gardens
 Compassvale Green
 Compassvale Lane
+Compassvale Lane Park
 Compassvale Link
 Compassvale Road
 Compassvale Street
 Compassvale Walk
+Compassvale Walk Park
 Computing Drive
 Condo Lane
 Coniston Grove
@@ -1802,11 +1230,10 @@ Conway Grove
 Cook Street
 Cooling Close
 Coral Island
-Coral Spring
+Corfe Place
 Cornwall Gardens
 Cornwall Road
 Coronation Drive
-Coronation Gardens
 Coronation Grove
 Coronation Road
 Coronation Road West
@@ -1814,57 +1241,84 @@ Coronation Walk
 Corporation Drive
 Corporation Rise
 Corporation Road
-Corporation Spring
 Corporation Walk
+corridor
+Corridor of Containers
 Cosford Road
 Costa Grove
-Cosway
+Costus Trail
 Cotswold Close
 Cottesmore Road
 Countryside Grove
 Countryside Link
+Countryside Place
 Countryside Road
+Countryside View
 Countryside Walk
 Court Road
 Cove Avenue
-Cove Avenue Circus
 Cove Drive
 Cove Grove
 Cove Way
+covered footpath
 Covered Walk Way
 Covered Walkway
 Cowdray Avenue
 Cox Terrace
+CP
+CP B24
+cp B65
+CP B97
+CP entrance
+CP KU1
+CP KU2
+CP KU3
+CP KU4
+CPN
 Craig Road
 Cranborne Road
 Crane Road
+Crank Course 2
+Crank Course 3
 Cranwell Road
+Crawford Bridge
 Crawford Heights
 Crawford Lane
 Crawford Street
 Create Way
 Creek Wall Boardwalk
+Crescent @ Kallang
+Crescent Building
 Crescent Green
+Crescent Hall (Hall 17)
+Crescent Mall
 Crescent Road
+Crescent View
 Crest Road
 Crichton Close
+Crocodile Bridge
 Cross Street
+Cross Street Exchange
 Croucher Road
 Crowhurst Drive
 Crystal Heights
 CT Hub 2 Food Street
+Cubs
 Cuff Road
 Cummins Street
 Cuppage Road
-Cuppage Terrace
 Cuscaden Road
 Cuscaden Walk
+Cut through car park
+Cyathea Trail
+Cycle Path Network
+Cycling Path Network
 Cypress Avenue
 Cyprus Road
-D&apos;Almeida Street
-Da Bao Lorong 15
+D
+D' Grove Villas
+D'Almeida Street
 Da Silva Lane
-Dabba Street
 Daffodil Drive
 Dafne Street
 Dahan Road
@@ -1872,12 +1326,14 @@ Dairy Farm Crescent
 Dairy Farm Heights
 Dairy Farm Lane
 Dairy Farm Loop
+Dairy Farm Nature Park
 Dairy Farm Road
+Dairy Farm Road Car Park A
 Dairy Farm Walk
 Daisy Avenue
 Daisy Road
-Daiya Engineering
 Dakota Crescent
+Dakota Crescent Playground
 Dalhousie Lane
 Dalkeith Road
 Dalvey Estate
@@ -1892,7 +1348,6 @@ Davidson Road
 Dawson Road
 De Souza Avenue
 De Souza Street
-De Spring
 Deal Road
 Debden Road
 Dedap Gardens
@@ -1900,33 +1355,40 @@ Dedap Link
 Dedap Place
 Dedap Road
 Defu Avenue 1
+Defu Avenue 2
 Defu Lane 1
 Defu Lane 10
+Defu Lane 11
+Defu Lane 12
 Defu Lane 2
 Defu Lane 3
 Defu Lane 4
+Defu Lane 5
+Defu Lane 6
 Defu Lane 7
 Defu Lane 8
+Defu Lane 9
 Defu South Street 1
 Defu South Street 2
 Dell Lane
 Delta Avenue
+Delta Bridge
+Delta Estate
 Delta Road
 Dempsey Hill
 Dempsey Road
 Denham Close
 Denham Road
-Departure / Check-in Hall South, #026-049 Terminal 2 Singapore Changi Airport
-Departure / Check-in Hall,Terminal 4 Singapore Changi Airport
 Depot Close
 Depot Heights
+Depot Heights Shopping Centre
 Depot Lane
 Depot Road
+Depot Road Food Centre
 Depot Walk
 Deptford Road
 Derbyshire Heights
 Derbyshire Road
-Design Avenue
 Desker Road
 Devonshire Road
 Dhoby Ghaut Green
@@ -1934,14 +1396,23 @@ Dickenson Hill Road
 Dickson Road
 Dido Street
 Digby Road
-Digisound Hearing
 Din Pang Avenue
+Directional Change 2
+Directional Change 3
+Directional Change 4
+Directional Change 5
+Directional Change 6
+Dirtbike Track
 Discovery Walk
+Diversity Trail
 Dix Road
 Dobbie Rise
-Dolphin Engineering
-Don Don Donki Clarke Quay Central
+Dock Road East
+Dock Road South
+Dock Road West
+Dogra Bridge
 Dorset Road
+Double Black Diamond Grade Trail
 Dover Avenue
 Dover Close East
 Dover Crescent
@@ -1950,25 +1421,33 @@ Dover Gardens
 Dover Heights
 Dover Rise
 Dover Road
-Dover Road, Food Court 5,
-Downtown Central
+Down Loop Up
+Dragonfly Bridge
 Drake Avenue
 Draycott Drive
 Draycott Park
-Drury Lane
+Drongo Trail
+Drop off
+Drop Off
+drop off area
+Drop-off Point
+Drop-Off Point
 Dryburgh Avenue
+DSO National Laboratories (Marina Hill)
 Dublin Road
 Duchess Avenue
+Duchess Place
 Duchess Road
-Duke&apos;s Road
+Duke's Road
 Duku Lane
+Duku Place
 Duku Road
 Dunbar Walk
 Dundee Road
 Dunearn Close
 Dunearn Road
+Dunearn Underpass
 Dunkirk Avenue
-Dunlop Road
 Dunlop Street
 Dunman Grove
 Dunman Lane
@@ -1979,29 +1458,27 @@ Durham Road
 Durian Loop
 Duxford Road
 Duxton Hill
+Duxton Hill Car Park
 Duxton Road
 Dyson Road
-E-Bridge Pre-School Tampines Walk
+Dyson Road 6.6kV
 E-Terrace
-Eager Beaver Schoolhouse @ Bukit Merah Central
+Ean Kiam Place
+Earth Trail
 East Bay Gardens
 East Coast Avenue
 East Coast Drive
 East Coast Park Allotment Gardens
 East Coast Park Service Road
 East Coast Parkway
-East Coast Rd
 East Coast Road
-East Coast Road #03-09
-East Coast Road #03-14
 East Coast Terrace
+East Coast Terrace Park
 East Grove
-East Payoh Spring
+East Lodge Trail
 East Perimeter Road
 East Sussex Lane
-Eastlink
 Eastpoint Green
-Eastwood Dr
 Eastwood Drive
 Eastwood Green
 Eastwood Place
@@ -2009,12 +1486,12 @@ Eastwood Road
 Eastwood Terrace
 Eastwood Walk
 Eastwood Way
-Easycool Engineering
 Eaton Place
 Eaton Walk
 Eber Gardens
 Eber Road
-Eco Flooring
+Eco-Link @ Bidadari
+Eco-Link @ BKE
 Eden Grove
 Edgedale Green
 Edgedale Plains
@@ -2024,23 +1501,21 @@ Edgeway Lane
 Edgware Road
 Edinburgh Road
 Ee Teow Leng Road
-Electronics &amp; Engineering
-Elephant Hill
 Elias Green
 Elias Road
 Elias Terrace
-elite park avenue
+Elias Terrace Playground
 Elite Park Avenue
+Elite Park Avenue Park
 Elite Terrace
-Elite Terrance
 Elizabeth Drive
 Elizabeth Heights
 Ellington Square
+Ellington Square Playground
 Elliot Road
 Elliot Walk
 Ellis Road
 Elm Avenue
-Embassy of Norway
 Emerald Hill
 Emerald Hill Road
 Emerald Link
@@ -2058,99 +1533,98 @@ Eng Kong Terrace
 Eng Neo Avenue
 Eng Watt Street
 Enggor Street
+Engineering Bridge
 Engineering Drive 1
 Engineering Drive 2
+Engineering Drive 3
 Engineering Drive 4
 Engku Aman Road
 Engku Aman Turn
-Enterprise
-丽人Enterprise
 Enterprise Road
-Entrance from Chin Swee Road
-Entrance From Choa Chu Kang Drive
-Entrance from Jalan Ahmad Ibrahim
-Entrance from Jalan Anak Bukit
-Entrance from Simei Avenue
+Entrance
+Entrance from PIE
+Entrance Plaza
+entrance to Clementi Avenue 2 Food Centre
+Entry to path
 Equestrian Walk
 Equity Heights
 Ermani Street
 Erskine Road
-Espira Spring
 Esplanade Drive
+Esplanade Xchange
 Essex Road
 Esso Choa Chu Kang Way
 Estate Office Drive
 Estella Gardens
 Ettrick Terrace
 Eu Chin Street
-Eu Tong Sen St
 Eu Tong Sen Street
-Eu Tong Sen Street Clarke Quay Central
-Eu Tong Sen Street, 8 13-99
-Eunos Ave 7A
 Eunos Avenue 3
 Eunos Avenue 4
 Eunos Avenue 5
 Eunos Avenue 5A
+Eunos Avenue 5B
 Eunos Avenue 6
 Eunos Avenue 7
+Eunos Avenue 7A
 Eunos Avenue 8
 Eunos Avenue 8A
+Eunos Bus Interchange
 Eunos Crescent
+Eunos Crescent Hawker Centre
+Eunos Crescent Market
+Eunos Crescent View
 Eunos Green
 Eunos Link
-Eunos Park
-Eunos Rd 2
+Eunos Road 1
 Eunos Road 2
+Eunos Road 3
+Eunos Road 4
 Eunos Road 5
+Eunos Road 6
+Eunos Road 7
 Eunos Road 8
-Eunos Spring
-Eunos Technolink
 Euphony Gardens
 Evans Road
 Evelyn Road
+Event Area
+Event Plaza
 Event Square
 Evergreen Avenue
 Evergreen Gardens
 Everitt Road
-Everton Park
-Everton Park, #01-33
+Everitt Road North
 Everton Road
+Evolution Garden Path
 Evolution Garden Walk
 Ewart Park
 Ewe Boon Road
-Excelsior Gardens
 Executive Central
 Exeter Road
-Exit 2A to Changi Coast Road
-Exit 6 to Bukit Timah Road
+Exit
+Exit 816 Lanchang
+Exit D
+Exit from Blk 18A Carpark
 Expo Drive
-Expolink
-Extrovert Engineering
-EZ-Link
 Faber Avenue
 Faber Crescent
 Faber Drive
 Faber Green
 Faber Grove
 Faber Heights
+Faber Heights Open Space
 Faber Park
+Faber Point
 Faber Terrace
 Faber Walk
+Faber Walk Extension Park
 Faculty Avenue
-Fahim Enterprise
-FairPrice
-FairPrice Senja Heights
-FairPrice Shop Blk 5 Eunos Crescent
-Fairway Drive
 Fairways Drive
 Fajar Road
-Fajar Spring
 Falkland Road
+Family Link @ Lengkok Bahru
 Fan Yoong Road
-Far East Plaza
 Far East Square
-Far Far Away
 Far Horizon Gardens
 Farleigh Avenue
 Farmway
@@ -2158,24 +1632,25 @@ Farrer Drive
 Farrer Gardens
 Farrer Park Gardens
 Farrer Park Road
-Farrer Park Station Rd
 Farrer Park Station Road
 Farrer Road
 Farrer Square
+Farrer Underpass
 Fashion Avenue
 Felixstowe Road
-Fern Spring
+Fern Green Primary School
+Fern Grove @ Yishun
 Fernhill Close
 Fernhill Crescent
 Fernhill Road
 Fernvale Close
+Fernvale Court Green Playground
 Fernvale Drive
 Fernvale Gardens
 Fernvale Grove
+Fernvale Grove Green Playground
 Fernvale Lane
 Fernvale Link
-Fernvale Rivergrove
-Fernvale Riverwalk
 Fernvale Road
 Fernvale Street
 Fernwood Terrace
@@ -2183,11 +1658,11 @@ Festive Walk
 Fidelio Street
 Field Road
 Fifth Avenue
+Fifth Avenue Condominium
 Fifth Lok Yang Road
 Figaro Gardens
 Figaro Street
 Fiji Road
-Finessco Engineering
 Finland Gardens
 Finlayson Green
 Fir Avenue
@@ -2196,12 +1671,11 @@ First Avenue
 First Botanic Garden @ Armenian Street
 First Hospital Avenue
 First Lok Yang Road
-First Steps Preschool @ Depot Road
 First Street
-Firstcom Engineering
+Fiscus Hill Stream
+Fishermans Path
 Fishery Port Road
-fit · bloc Depot Heights
-Fitness First Market Street
+Fishing Cat Trail
 Flag Road
 Flanders Square
 Flint Street
@@ -2215,33 +1689,47 @@ Florida Road
 Florissa Park
 Flower Road
 Foch Road
-FOFO Hill
 Folkestone Road
 Fontana Heights
 Foo Kim Lin Road
-Food Avenue
-Food Central
-Food Street
-for Tree-Top Walk
+Foot and MTB path
+foot path
+footpath
+Footpath
+Footpath to backgate
+Footpath within the Residences
 Ford Avenue
-Ford Road
 Forest Canopy Boardwalk
-Forest Canopy Walk
+Forest Corridor
 Forest Drive
-Forest Hill
+Forest Exploration Trail
+Forest Floor Trek
 Forest Hill Crescent
+Forest Trail
 Forest Walk
 Forfar Heights
+Former Bukit Gombak Trail
+Former Choa Chu Kang Road Bridge
+Former Green Canteen
+Former Hillview Mansion
+Former Keppel Hill Reservoir
+Former KTM Central Jurong Spur
 former Lorong Panchar
 Former Lorong Tawas
+Former Path
+Former Rail Corridor
 Fort Canning Link
-Fort Canning Open Air Green
 Fort Canning Road
 Fort Gardens
 Fort Road
+Fort Road Bridge
+Fort Road South
 Fort Siloso Skywalk
 Fort Siloso Square
+Fountain Court
+Fountain of Wealth
 Fourth Avenue
+Fourth Avenue Residences
 Fourth Chin Bee Road
 Fourth Lok Yan Road
 Fourth Street
@@ -2251,22 +1739,22 @@ Francis Thomas Drive
 Frankel Avenue
 Frankel Close
 Frankel Drive
+Frankel Place
 Frankel Street
 Frankel Terrace
 Frankel Walk
 Fraser Street
 French Road
 Fu Hui Link
+Fudu Park
 Fudu Walk
+Fudu Walk Playground
+Fullerton Promenade
 Fullerton Road
-Fullerton Road #01-04 One Fullerton
 Fullerton Square
 Fulton Avenue
+Fulton Avenue Playground
 Fulton Road
-Funan
-Fur Away
-Furama City Centre
-Fusion @ Pine Grove
 Fusionopolis Link
 Fusionopolis Place
 Fusionopolis View
@@ -2281,53 +1769,49 @@ Gallop Road
 Gallop Walk
 Gambas Avenue
 Gambas Crescent
+Gambas Crescent Substation 66kV
 Gambas Way
 Gambir Walk
 Ganges Avenue
-Gangsa Hill
-Gangsa Loop
+Ganges Avenue Open Space
 Gangsa Road
+Garden Bay Bridge
+Garden Bridge
 Garden Farmway
 Garden Hill
+Garden Hill Park
 Garden Link
 Garden Service Road
 Garden Street
+Garden Terrace @ Tengah
 Gardenia Road
-Gardens Shop Singapore Botanic Gardens
+Gardens by the Bay
+Gardens by the Bay Drop Off
+Gardens Exercise Area
 Garlick Avenue
 Gateway Avenue
 Gateway Drive
-Gateway Drive, #02-04/04A
-GB Point, Kallang Bahru
-GDS Engineering
 Gelyang Bahru Terrace
 Gemmill Lane
-Genius Central
 Genting Lane
 Genting Link
 Genting Road
 Gentle Drive
+Gentle Drive Playground
 Gentle Road
 George Street
-George Street #01-02
 Gerald Crescent
 Gerald Drive
 Gerald Park
-Getlang Bahru
 Geylang Bahru
 Geylang Bahru Lane
 Geylang Bahru Terrace
-Geylang East Ave 1
-Geylang East Avenue
 Geylang East Avenue 1
 Geylang East Avenue 2
-Geylang East Avenue 3
 Geylang East Central
-Geylang Lorong 25A
-Geylang Lorong 38
-Geylang Lorong 9 Beef Hor Fun
-Geylang Rd
+Geylang Park Connector
 Geylang Road
+Geylang Road Underpass
 Geylang Serai
 Ghim Moh Close
 Ghim Moh Green
@@ -2338,18 +1822,16 @@ Gillman Heights
 Gilstead Road
 Gladiola Drive
 Glasgow Road
-Glen Enterprise
 Gliders Boardwalk
-Glory Catering
-Gloucester road
 Gloucester Road
-Glutton&apos;s Square
+Glutton's Square
 Golden Drive
-Golden Heights
-Golden Horse Prize Enterprise
+Golden Heights Condominium
 Golden Rise
+Golden Rise Playground
 Golden Walk
 Goldhill Avenue
+Goldhill Avenue Playground
 Goldhill Drive
 Goldhill Place
 Goldhill Plaza
@@ -2359,33 +1841,33 @@ Goldleaf Gardens
 Golf Link
 Gombak Drive
 Gombak Gardens
-Gombak Rise
 Goodlink Park
 Goodman Road
 Goodview Gardens
 Goodwood Gardens
 Goodwood Hill
-Gopeng St
 Gopeng Street
 Gordon Road
 Gosport Road
-Gourmet Street
-GP Motoring
-GPA Dental @ Parkview Square
 GPL Terrace
 Grace Park
 Grace Walk
+Gradual Ramp
 Graham White Drive
+Grand Drop-Off Fountain
 Grandlink Square
 Grange Garden
 Grange Heights
 Grange Road
-Grange Road, #01-K1 Cathay Cineleisure Orchard
-Granite Hill
+Grasshopper
 Gray Lane
-Great Central
+Green Apple
+Green Forest Neighbourhood Park
 Green Gardens
+Green House
 Green Lane
+Green Lane Park
+Green Spine
 Greenbank Park
 Greendale Avenue
 Greendale Rise
@@ -2402,24 +1884,26 @@ Greenleaf Walk
 Greenmead Avenue
 Greenpark Avenue
 Greenridge Crescent
+Greenridge Crescent Playground
 Greenview Crescent
 Greenwich Drive
 Greenwood Avenue
 Greenwood Crescent
+Greenwood Crescent Playground
 Greenwood Grove
 Greenwood Lane
 Greenwood Place
 Greenwood Terrace
 Greenwood Walk
 Grenade Avenue
-Grove
 Grove Avenue
 Grove Crescent
 Grove Drive
 Grove Lane
+Grove Spring @ Yishun
 Gryphon Terrace
+Gryphon Terrace swimming pool
 Guan Chuan Street
-Guan Heng Engineering
 Guan Soon Avenue
 Guards Avenue
 Guildford Road
@@ -2427,7 +1911,6 @@ Guillemard Close
 Guillemard Crescent
 Guillemard Lane
 Guillemard Road
-Guillemard Road,Level 3 Wing Fong Building
 Gul Avenue
 Gul Circle
 Gul Crescent
@@ -2444,20 +1927,16 @@ Gul Way
 Gunner Lane
 Guoco Midtown Square
 Guok Avenue
-Guthrie Engineering
-GV City Square
 Gymkhana Avenue
-Habourlink
 Hacienda Grove
 Hai Sing Crescent
 Hai Sing Road
 Haig Avenue
 Haig Lane
 Haig Road
-Haig Road Putu Piring
 Haig Walk
+Haig Walk Extension
 Haigsville Drive
-Haji lane
 Haji Lane
 Halifax Road
 Hallpike Street
@@ -2468,135 +1947,141 @@ Hamilton Road
 Hampshire Road
 Hampstead Gardens
 Handy Road
+Handy Road Open Space
+Hanguana Trail
 Happy Avenue Central
+Happy Avenue East
 Happy Avenue North
+Happy Avenue West
 Harbour Drive
 Harbour View Gardens
 Harbourfront Avenue
-HarbourFront Centre
+HarbourFront Bus Interchange
+Harbourfront Paid Area (Circle Line Platform)
 Harbourfront Place
 Harbourfront Walk
-HarbourFront Walk
-Harbourfront Walk #03-05 (Lobby F) VivoCity
-Harbourfront Walk, #02-03/04 Vivo City
-Harbourfront Walk, #02-234, Vivocity
 Harding Road
 Harlyn Road
 Harper Road
 Harrison Road
-Harry&apos;s @ Dempsey Hill
 Hartley Grove
 Harvey Avenue
 Harvey Close
 Harvey Crescent
 Harvey Road
 Hastings Road
-Hatter Street
 Havelock Heights
 Havelock Link
 Havelock Road
+Havelock Road Cooked Food Centre
 Havelock Square
-Hawk Arena
-Hawkers&apos; Street
-Hawkerway
 Hazel Park Terrace
-HDB Kovan Wellspring
-Hearing Loop
-Heart Link
+Healing Garden
 Heliconia Walk
 Hemmant Road
 Hemsley Avenue
 Henderson Crescent
+Henderson Park Connector
 Henderson Road
-Henderson Road #13-01
+Henderson Waves Bridge
 Hendon Road
 Hendry Close
 Heng Mui Keng Terrace
 Hertford Road
-Hewlett-Packard Enterprise
+Hevea Trail
 High Street
+High Street Centre
+High Street Plaza
 Highgate Crescent
 Highgate Walk
+Highgate Walk Playground
 Highland Close
 Highland Road
 Highland Terrace
 Highland Walk
 Hill
+Hill House
 Hill Street
 Hillcrest Road
 Hillgrove Gardens
 Hillington Green
+Hillion Mall Carpark Entrance
+Hillion Mall Carpark Exit
+Hillion Residences Carpark
 Hillock Green
 Hills Grove
 Hillside Drive
 Hillside Terrace
 Hilltop Grove
-Hilltop Walk
-Hillview Ave
+Hilltop Trail (Long route)
 Hillview Avenue
+Hillview Connect
 Hillview Crescent
+Hillview Crescent Playground
 Hillview Drive
 Hillview Green
 Hillview Heights
 Hillview Link
+Hillview Park Connector
 Hillview Rise
 Hillview Road
 Hillview Terrace
-Hillview Terrace #01-06
 Hillview Walk
 Hillview Way
-Hindehede Walk
 Hindhede Drive
 Hindhede Link
 Hindhede Place
 Hindhede Road
 Hindhede Walk
 Hindoo Road
-History of Dempsey Hill
+Hindu Cemetery Path 2
 Hitachi Square
-Hjh Maimunah @ Jalan Pisang
 Ho Ching Road
+Ho Puah Quay
 Hock Swee Hill
 Hoe Chiang Road
 Hokien Street
-Holland Ave
 Holland Avenue
 Holland Close
 Holland Drive
+Holland Drive Centre
+Holland Flyover
 Holland Green
+Holland Green Linear Park
+Holland Green playground
 Holland Grove Avenue
 Holland Grove Drive
 Holland Grove Lane
 Holland Grove Road
-Holland Grove Road, Tower 3, #01-18
 Holland Grove Terrace
 Holland Grove View
 Holland Grove Walk
 Holland Heights
 Holland Hill
+Holland Hill Lodge
+Holland Hill Park
 Holland Link
 Holland Park
-Holland Piazza
+Holland Plain
 Holland Rise
 Holland Road
+Holland Road Shopping Centre
 Holland Village Way
-Holland Village Way #03-06
 Holloway Lane
 Holt Road
 Hon Sui Sen Drive
-Hong Gap Engineering
 Hong Heng Terrace
-Hong Hua Guan Marine &amp; Engineering
 Hong Kah Green
-Hong Kong Street
 Hong Lee Place
+Hong Lim Quay
 Hong San Terrace
 Hong San Walk
-Hong Win Enterprise
 Hongkong Street
 Honington Road
 Hooper Road
+Hooper Road Playground
 Hoot Kiam Road
+Hope line
 Horizon Gardens
 Horizon Green
 Horne Road
@@ -2605,41 +2090,44 @@ Hospital Crescent
 Hospital Drive
 Hotel Clover (Jalan Sultan)
 Hotel Grand Central
-Hougang Ave 1
-Hougang Ave 10
 Hougang Ave 3 Park Connector
 Hougang Avenue 1
+Hougang Avenue 1 Park
 Hougang Avenue 10
 Hougang Avenue 2
 Hougang Avenue 3
 Hougang Avenue 4
 Hougang Avenue 5
+Hougang Avenue 5 Park
 Hougang Avenue 6
 Hougang Avenue 7
-Hougang Avenue 7 #01-787
 Hougang Avenue 8
 Hougang Avenue 9
+Hougang B24
+Hougang Bus Park
 Hougang Central
-Hougang Central Road
+Hougang Central Bus Interchange
+Hougang Central Interchange
 Hougang Close
 Hougang Green
+Hougang Green Shopping Mall
 Hougang Heights
-Hougang MRT Station
-Hougang Spring
+Hougang Rivercourt
 Hougang Street 11
 Hougang Street 12
 Hougang Street 13
 Hougang Street 21
-Hougang Street 21 #03-207
 Hougang Street 22
 Hougang Street 31
 Hougang Street 32
 Hougang Street 51
 Hougang Street 52
 Hougang Street 61
+Hougang Street 61 Neighbourhood Park
 Hougang Street 91
 Hougang Street 92
 Hougang Street 93
+House on The Hill Montessori Pre-School
 How Sun Avenue
 How Sun Close
 How Sun Drive
@@ -2647,14 +2135,12 @@ How Sun Road
 How Sun Walk
 Howard Road
 Hoy Fatt Road
-HP Construction &amp; Engineering
 HPL Canopy Link
 HSBC Treetop Walk
-HSBC TreeTop Walk
 Hu Ching Road
 Hua Guan Avenue
-Hua Guan AveNue
 Hua Guan Crescent
+Hua Guan Crescent Playground
 Hua Guan Gardens
 Hua Mei Gardens
 Huddington Avenue
@@ -2664,53 +2150,44 @@ Hume Avenue
 Hwi Yoh Green
 Hyde Park Gate
 Hyderabad Road
-Hyflux Membrane Manufacturing
 Hylam Street
 Hythe Road
 Icon Link @ Club Street
-Imbiah Hill Road
+IJOOZ Smart Shop
 Imbiah Road
+Imbiah Trail
 Imbiah Walk
-IMI Precision Engineering
-IMM
-IMM Building 2, Jurong East Street 21
 imPAct@Hong Lim Green
 Indus Road
 Inggu Road
-Innoco Marketing Enterprise
-Innovation Drive
 Innovillage Lane
-Institute of Materials Research and Engineering
 Institution Hill
 International Business Park
 International Road
-International Sea &amp; Land Engineering
-ION Orchard
+IOI Central Boulevard Towers
 Ipoh Lane
 Iqbal Avenue
 Irau Drive
+Irau Drive Playground
 Ironside Link
 Ironside Road
-Irrawaddy Rd, #20-01 Royal Square Medical Centre Royal Square @ Novena
 Irrawaddy Road
 Irving Place
-Irving Place #07-04
-Irving Place, #08-06
-Irving Place, #08-06;The Commerze@Irving
-Irving Point
 Irving Road
 Irwell Bank Road
 Irwell Hill
+Irwell Hill Residences
 Island Club Road
+Island Garden Walk Playground
 Island Gardens Walk
+Istana Domain Forecourt
 ITE College Central
+ITE College Central running track
 Ivory Heights
-J Gateway
 J-Link
 J-Walk
 Jacaranda Road
-Jackley Engineering
-Jackson Square
+Jacob Ballas Bridge
 Jago Close
 Jalan Adat
 Jalan Afifi
@@ -2719,8 +2196,6 @@ Jalan Ahmad Ibrahim Bridge
 Jalan Ampang
 Jalan Ampas
 Jalan Anak Bukit
-Jalan Anak Bukit, #B2-06A.
-Jalan Anak Bukit, Bukit Timah Plaza
 Jalan Anak Patong
 Jalan Anggerek
 Jalan Angin Laut
@@ -2774,15 +2249,10 @@ Jalan Beringin
 Jalan Berjaya
 Jalan Berseh
 Jalan Besar
-Jalan Besar (DTL)
 Jalan Besar Community Club
-Jalan Besar GRC
 Jalan Besar Plaza
-Jalan Besar Road
 Jalan Besar Stadium
-Jalan Besar Station Exit A
 Jalan Besar Swimming Complex
-Jalan Besar Town Council
 Jalan Besut
 Jalan Bilal
 Jalan Binchang
@@ -2792,8 +2262,6 @@ Jalan Bintang Tiga
 Jalan Boon Lay
 Jalan Bukit Ho Swee
 Jalan Bukit Merah
-Jalan Bukit Merah Central
-Jalan Bukit Merah Food Centre
 Jalan Buloh Perindu
 Jalan Buloh Perindu Playground
 Jalan Bumbong
@@ -2832,7 +2300,6 @@ Jalan Dondang Sayang
 Jalan Dua
 Jalan Durian
 Jalan Dusun
-Jalan Dusun HDB
 Jalan Elok
 Jalan Emas Urai
 Jalan Empat
@@ -2841,7 +2308,6 @@ Jalan Endut Senin
 Jalan Enggang
 Jalan Eunos
 Jalan Eunos Interim Park
-Jalan Eunos Service Reservoir
 Jalan Gaharu
 Jalan Gajus
 Jalan Gali Batu
@@ -2913,8 +2379,6 @@ Jalan Kayu
 Jalan Kayu Flyover
 Jalan Kayu Interim Park
 Jalan Kayu Manis
-Jalan Kayu Shophouse
-Jalan Kayu SMC
 Jalan Kebaya
 Jalan Kechot
 Jalan Kechubong
@@ -2957,15 +2421,12 @@ Jalan Kuala
 Jalan Kuang
 Jalan Kuantan
 Jalan Kubor
-Jalan Kubor Cemetery
 Jalan Kukoh
-Jalan Kukoh Food Centre
 Jalan Kuning
 Jalan Kupang
 Jalan Kuras
 Jalan Kurnia
 Jalan Kwok Min
-Jalan Kwok Min BKE
 Jalan Labu Ayer
 Jalan Labu Manis
 Jalan Labu Merah
@@ -2973,7 +2434,6 @@ Jalan Lada Puteh
 Jalan Lakum
 Jalan Lam Huat
 Jalan Lam Sam
-Jalan Lam San Roadside Shrine
 Jalan Lana
 Jalan Lang Perut Putih 6
 Jalan Langgar Bedok
@@ -3001,11 +2461,10 @@ Jalan Limau Manis Playground
 Jalan Limau Nipis
 Jalan Limau Purut
 Jalan Limbok
-Jalan Limu
 Jalan Lokam
 Jalan Loyang Besar
 Jalan Lye Kwee
-Jalan Ma&apos;mor
+Jalan Ma'mor
 Jalan Machang
 Jalan Malu Malu
 Jalan Malu-malu
@@ -3063,7 +2522,6 @@ Jalan Pahang
 Jalan Pahang Kecil
 Jalan Pak Wong
 Jalan Pakis
-Jalan Panchor Murai Kulapis
 Jalan Pandan
 Jalan Papan
 Jalan Paras
@@ -3071,7 +2529,6 @@ Jalan Pari Burong
 Jalan Pari Burong Park
 Jalan Pari Dedap
 Jalan Pari Dedap Park
-Jalan Pari Depap
 Jalan Pari Kikis
 Jalan Pari Unak
 Jalan Pasir Merah
@@ -3088,7 +2545,6 @@ Jalan Pelepah
 Jalan Pelikat
 Jalan Pelikat Park Connector
 Jalan Pemimpin
-Jalan Pemimpin, Jackie&apos;s Enterprises Building
 Jalan Penjara
 Jalan Peradun
 Jalan Perahu
@@ -3136,7 +2592,6 @@ Jalan Rimau
 Jalan Rindu
 Jalan Rukam
 Jalan Rumah Tinggi
-Jalan Rumah Tinggi Bus Terminal
 Jalan Rumbia
 Jalan Rumia
 Jalan Sahabat
@@ -3181,15 +2636,12 @@ Jalan Sentosa
 Jalan Senyum
 Jalan Sephia 2
 Jalan Serene
-Jalan Serene #01-04
-Jalan Serene #02-09
 Jalan Serengam
 Jalan Seruling
 Jalan Setia
 Jalan Shaer
 Jalan Siantan
 Jalan Siap
-Jalan Siapstrictly speaking, the signs say so, but really..
 Jalan Sikudangan
 Jalan Simpang Bedok
 Jalan Sinar Bintang
@@ -3197,18 +2649,14 @@ Jalan Sinar Bulan
 Jalan Sindor
 Jalan Singa
 Jalan Singa Park
-Jalan Sipang Bedok
 Jalan SMK Limau-Limauan
 Jalan Songket
 Jalan Soo Bee
 Jalan Sotong
-Jalan SS 2/17
 Jalan Suasa
 Jalan Suka
 Jalan Sukachita
 Jalan Sultan
-Jalan Sultan Prawn Med
-Jalan Sultan Prawn Mee
 Jalan Sungei Belang
 Jalan Sungei Poyan
 Jalan Taman
@@ -3276,7 +2724,6 @@ Jalan Wangi
 Jalan Waringin
 Jalan Wat Siam
 Jalan Yasin
-Jalan Yayang Layang
 Jalan Zamrud
 Jamaica Road
 Jambol Place
@@ -3284,8 +2731,7 @@ Jambol Walk
 Janggus Gardens
 Jansen Close
 Jansen Road
-Jansen Spring
-Japan Besar
+Japanese Garden Bridge
 Japanese Garden Road
 Jasmine Road
 Java Road
@@ -3293,22 +2739,18 @@ Jedburgh Gardens
 Jelapang Road
 Jelebu Road
 Jellicoe Road
-JEM
+Jem Parking (In)
+Jem Parking (Out)
+Jering Trail
 Jervios Road
 Jervois Close
 Jervois Grove
 Jervois Hill
 Jervois Lane
 Jervois Road
+Jewel Bridge
 Jiak Chuan Road
 Jiak Kim Street
-Jin Choon Civil Engineering
-Jin Teck Kee
-Jln Bkt Ho Swee
-Jln Pelatina
-Jln Seruling
-Jln Tambur
-Jln Tiong
 Joan Road
 John Road
 Johor–Singapore Causeway
@@ -3318,8 +2760,10 @@ Joo Chiat Lane
 Joo Chiat Place
 Joo Chiat Road
 Joo Chiat Terrace
+Joo Chiat Terrace Interim Park
 Joo Chiat Walk
 Joo Hong Road
+Joo Koon Bus Interchange
 Joo Koon Circle
 Joo Koon Crescent
 Joo Koon Road
@@ -3329,57 +2773,70 @@ Joo Seng Heights
 Joo Seng Road
 Joo Yee Road
 Joon Hiang Road
-Joon Koon Circle
 JPG Main Walkway
+Jubilee Bridge
 Jubilee Road
 Jubilee Square
+Jungle Fall Path
+Jungle Trail
+Junior Adventure Trail
 Juniper Hill
-Jupiter Rd
 Jupiter Road
+Jupiter Road Playground
+Jurassic Mile - Changi Airport Connector
 Jurong Canal Drive
 Jurong Central
-Jurong Central 3
+Jurong Central Park
 Jurong Central Park Pathway
+Jurong Central Plaza
 Jurong East Avenue 1
 Jurong East Central
 Jurong East Central 1
-Jurong East Street
+Jurong East Interim Bus Interchange
+Jurong East Street 11
 Jurong East Street 12
 Jurong East Street 13
 Jurong East Street 21
-Jurong East Street 21 #02-08 Ng Teng Fong General Hospital Tower A
 Jurong East Street 24
 Jurong East Street 31
 Jurong East Street 32
 Jurong Gateway Road
-Jurong Gateway Road, #03-48. JEM Shopping Mall.
+Jurong Green Community Club
 Jurong Hill
+Jurong Hill Flyover
+Jurong Hill Park
+Jurong Hill Prawn Fishing & Beer Garden
+Jurong Hill Tower
 Jurong Island Highway
+Jurong Lake Gardens Gym
 Jurong Lake Link
+Jurong Park Connector
+Jurong Pier Flyover
 Jurong Pier Road
 Jurong Pier Way
-Jurong Point
 Jurong Port Road
 Jurong Road
+Jurong Town Hall Bus Interchange
 Jurong Town Hall Road
 Jurong West Avenue 1
+Jurong West Avenue 2
 Jurong West Avenue 3
+Jurong West Avenue 4
 Jurong West Avenue 5
 Jurong West Central 1
 Jurong West Central 2
-Jurong West Central 2, JP1, Jurong Point Shopping Centre
 Jurong West Central 3
-Jurong West Central 3 #03-52/52A Jurong Point
-Jurong West St 92
+Jurong West Park Connector
+Jurong West Street 22
 Jurong West Street 23
 Jurong West Street 24
 Jurong West Street 25
+Jurong West Street 26
 Jurong West Street 41
 Jurong West Street 42
 Jurong West Street 51
 Jurong West Street 52
 Jurong West Street 61
-Jurong West Street 61, Pioneer Mall
 Jurong West Street 62
 Jurong West Street 63
 Jurong West Street 64
@@ -3389,16 +2846,19 @@ Jurong West Street 72
 Jurong West Street 73
 Jurong West Street 74
 Jurong West Street 75
+Jurong West Street 76
 Jurong West Street 81
+Jurong West Street 82
 Jurong West Street 91
 Jurong West Street 92
 Jurong West Street 93
 Kadayanallur Street
-Kaki Bukit Ave 1
-Kaki Bukit Ave 6
 Kaki Bukit Avenue 1
+Kaki Bukit Avenue 2
 Kaki Bukit Avenue 3
 Kaki Bukit Avenue 4
+Kaki Bukit Avenue 5
+Kaki Bukit Avenue 6
 Kaki Bukit Crescent
 Kaki Bukit Green
 Kaki Bukit Industrial Terrace
@@ -3407,37 +2867,49 @@ Kaki Bukit Road 1
 Kaki Bukit Road 2
 Kaki Bukit Road 3
 Kaki Bukit Road 4
-Kaki Bukit View
+Kaki Bukit Road 5
+Kaki Bukit Road 6
 Kalidasa Avenue
-kalidassa avenue
 Kallang Airport Drive
 Kallang Airport Way
 Kallang Avenue
 Kallang Bahru
+Kallang Bahru Flyover
+Kallang Bahru Underpass
 Kallang Heights
 Kallang Junction
+Kallang Park Conenctor
+Kallang Park Connector
 Kallang Paya Lebar Expressway
 Kallang Place
 Kallang Pudding Road
+Kallang Riverside Park
 Kallang Road
 Kallang Sector
+Kallang Tengah
 Kallang walk
 Kallang Way
-Kallang Way #01-03/04/05/06
+Kallang Way 1
+Kallang Way 2
 Kallang Way 2A
+Kallang Way 3
+Kallang Way 4
+Kallang Way 5
+Kallang Way Flyover
 Kallang-Paya Lebar Expressway
-Kallang–Paya Lebar Expressway
 Kampong Ampat
+Kampong Arang
 Kampong Arang Road
+Kampong Bahru Bus Terminal
 Kampong Bahru Road
 Kampong Berih Road
 Kampong Bugis
 Kampong Eunos
 Kampong Java Road
 Kampong Kapor Road
-Kampong Kayu
 Kampong Kayu Road
 Kampong Lorong Buangkok
+Kampong trail
 Kampung Sireh
 Kandahar Street
 Kandis Gardens
@@ -3449,12 +2921,13 @@ Kang Choo Bin Road
 Kang Choo Bin Walk
 Kanisha Marican Road
 Karikal Lane
-Kartright Speedway
+Karst Loop Trek
 Kasai Road
 Katmandu Road
-Kato Spring
+Katong Park
 Katong Square
 Kay Poh Road
+Kay Poh Road Baptist Church
 Kay Siang Road
 Keat Hong Close
 Keat Hong Link
@@ -3469,6 +2942,7 @@ Kelantan Lane
 Kelantan Road
 Keliville Private Access Road
 Kellock Road
+Kelong Bridge
 Kelopak Road
 Kelulut Hill
 Kembangan Gardens
@@ -3479,25 +2953,31 @@ Keng Chin Road
 Keng Kiat Street
 Keng Lee Road
 Kenler Road
-Kensington Park
 Kensington Park Drive
 Kensington Park Road
-Kensington Sq Walkway
 Kensington Square
 Kent Heights
 Kent Ridge Crescent
 Kent Ridge Drive
+Kent Ridge Hill Residences
+Kent Ridge MTB
 Kent Ridge Road
+Kent Ridge Terminal
 Kent Road
+Kent Road drain
 Kentish Green
 Kenya Crescent
 Kenya Crescent road
-Kenya Crescent Road
 Keong Saik Road
 Keppel Bay Drive
 Keppel Bay View
 Keppel Bay Vista
+Keppel Drive 5
+Keppel Drive 6
+Keppel Gul Circle Districenter
 Keppel Hill
+Keppel Marina East Desalination Plant
+Keppel Reservoir
 Keppel Road
 Keppel South Central
 Keppel Terminal Avenue
@@ -3506,23 +2986,25 @@ Kerbau Road
 Keris Drive
 Kerong Lane
 Kerong Walk
+Ketam Trail
 Kew Avenue
+Kew Avenue Playground
 Kew Crescent
+Kew Crescent Playground
 Kew Drive
+Kew Drive Playground
 Kew Green
 Kew Heights
 Kew Lane
 Kew Terrace
 Kew Walk
+Khalsa Crescent Drug Rehabilitation Centre
+Khatib Bongsu Park Connector
 Khatib Central
-Khatib Evergreen
 Khatib Gardens
-Khatib Spring
 Kheam Hock Nature Way
 Kheam Hock Road
 Khiang Guan Avenue
-Kian Ann Engineering
-Kian Hock Engineering
 Kian Teck Avenue
 Kian Teck Crescent
 Kian Teck Drive
@@ -3530,7 +3012,6 @@ Kian Teck Lane
 Kian Teck Road
 Kian Teck Way
 Killiney Road
-Killiney Road, Orchard Grand Court
 Kim Cheng Street
 Kim Chuan Drive
 Kim Chuan Lane
@@ -3544,25 +3025,25 @@ Kim Keat Lane
 Kim Keat Link
 Kim Keat Road
 Kim Pong Road
+Kim Seng Bridge
+Kim Seng Park
 Kim Seng Promenade
-Kim Seng Promenade Great World
 Kim Seng Road
 Kim Seng Walk
 Kim Tian Green
 Kim Tian Place
-KIM TIAN PLACE
 Kim Tian Road
 Kim Yam Road
 King Albert Park
-King George&apos;s Avenue
+King George's Avenue
 King George’s Heights
-King&apos;s Avenue
-King&apos;s Close
-King&apos;s Drive
-King&apos;s Road
-King&apos;s Walk
+King's Avenue
+King's Close
+King's Drive
+King's Drive Playground
+King's Road
+King's Walk
 Kingsford Terrace
-KingsGrove
 Kingsmead Road
 Kingston Terrace
 Kingswear Avenue
@@ -3575,10 +3056,10 @@ Kismis Place
 Kitchener Link
 Kitchener Road
 Klang Lane
+KMEDP Green Roof
 Koek Road
-Koek Road #03-21
-Koh Kiat Engineering
 Koh Sek Lim Road
+Kolam Ayer Bridge
 Koon Seng Road
 Kopitiam Square
 Kovan Close
@@ -3593,12 +3074,17 @@ Kranji Expressway
 Kranji Green
 Kranji Link
 Kranji Loop
+Kranji Reservoir Park
 Kranji Road
 Kranji Way
+Kranji Way Dormitory
 Kreta Ayer Heights
 Kreta Ayer Road
 Kreta Ayer Square
 Kreta Road
+Kruing Path
+KTM
+Kuala Loyang (Old Tampines Road) Forest
 Kung Chong Road
 Kuo Chuan Avenue
 Kurau Grove
@@ -3607,36 +3093,48 @@ Kurau Terrace
 Kwong Avenue
 Kwong Min Road
 La Salle Street
-Labrador Nature and Coastal Walk
 Labrador Villa Road
+Ladang Avenue 1
 Ladang Linkway
 Ladang Parade Square
 Ladang Ring
+Ladang Ring 3
+Ladang Ring 4
+Ladang Street 1
+Ladang Street 2
+Ladang Street 4
+Ladang Street 5
 Lady Hill Road
 Lagos Circle
-Laguna Golf Green
+Laguna Flyover
 Laguna Green
 Lakepoint Drive
+Lakeshore View
 Lakeside Drive
 Lakeside Green
 Lakeside Grove
-Lakeview Gardens
+Lakeside Grove Playground
+Lakeside Plaza
 Lakme Street
 Lakme Terrace
+Laluan Kedua Malaysia–Singapura
 Lambeth Walk
-Landscape Engineering
 Lange Road
 Langsat Road
+Langur Trail
 Lantana Avenue
 Larkhill Road
 Lasia Avenue
 Laurel Wood Avenue
 Lavender Gardens
 Lavender Street
+Lawn Bowl Green @ Waterway Banks
 Le Grove
+Le Hill Condominium
 Leaders Square
-Learning Kidz @ Jubilee Square
-Leedon Green
+Learning Circles
+Lebuhraya Kuala Lumpur–Karak
+Lebuhraya Pantai Timur
 Leedon Heights
 Leedon Park
 Leedon Road
@@ -3644,12 +3142,14 @@ Leicester Road
 Leith Park
 Leith Road
 Lembu Road
+Lembu Road Open Space
 Lemon Avenue
 Lempeng Drive
-Lena Marine Engineering
 Leng Kee Road
+Lengkok Angsa
 Lengkok Bahru
 Lengkok Bahru Heights
+Lengkok Mariam
 Lengkok Merak
 Lengkong Dua
 Lengkong Empat
@@ -3660,26 +3160,36 @@ Lengkong Tiga
 Lengkong Tujoh
 Lentor Avenue
 Lentor Central
+Lentor Central Residences
 Lentor Crescent
 Lentor Drive
 Lentor Gardens
 Lentor Green
+Lentor Green Playground
 Lentor Grove
+Lentor Grove Playground
 Lentor Hills Road
+Lentor Interchange
 Lentor Lane
 Lentor Link
 Lentor Loop
+Lentor Place
 Lentor Plain
 Lentor Road
+Lentor Road Playground
 Lentor Street
+Lentor Street Playground
 Lentor Terrace
+Lentor Vale
 Lentor Walk
+Lentor Walk Playground
 Lentor Way
 Leo Drive
-Leong Siew Weng Engineering
 Leonie Gardens
 Leonie Hill
+Leonie Hill Residences
 Leonie Hill Road
+Leopard Trail
 Lermit Road
 Leshan Gardens
 Leuchars Road
@@ -3697,23 +3207,40 @@ Li Hwan Walk
 Li Po Avenue
 Liane Road
 Liang Seah Street
-Libra Dr
 Libra Drive
 Lichfield Road
 Lichi Avenue
 Lien ying chow drive
 Lien Ying Chow Drive
+lift corridor
+Lift F
 Lilac Drive
+Lilac Drive Playground
 Lilac Road
 Lilac Walk
 Lily Avenue
+Lily Crossing
 Lim Ah Pin Road
+Lim Ah Pin Road Post Office
 Lim Ah Woo Road
+Lim Chu Kang Lane 1
+Lim Chu Kang Lane 1A
+Lim Chu Kang Lane 2
+Lim Chu Kang Lane 3
+Lim Chu Kang Lane 3A
+Lim Chu Kang Lane 4
 Lim Chu Kang Lane 5
 Lim Chu Kang Lane 5A
 Lim Chu Kang Lane 6
+Lim Chu Kang Lane 6C
+Lim Chu Kang Lane 6D
+Lim Chu Kang Lane 6F
+Lim Chu Kang Lane 8
+Lim Chu Kang Lane 8A
 Lim Chu Kang Lane 9A
 Lim Chu Kang Road
+Lim Chu Kang Track 11
+Lim Chu Kang Track 13
 Lim Liak Street
 Lim Tai See Walk
 Lim Teck Boo Road
@@ -3728,35 +3255,83 @@ Limbang Green
 Limbok Terrace
 Lincoln Road
 Linden Drive
-Link
+Linear Green @ Bedok
+Link across T6
+Link B to W5
+link C toT3/T3A
+Link Convention to T16
+Link Convention to T18A
+link D to T2
+Link F to G
 Link FC1 to Prince Edward Drive
+Link FC1 to T3A
+Link FC2 to F
+Link G to T5/T3
+Link Gate 7 to T19
+Link H to T4A
+Link Hotel
+Link I to Innovillage
+Link J to L
+Link J to T6
+Link K to T8
+Link L to T14
+Link MLT1 to FC1/A
+Link MRT to T12
+Link MSCP to T19
+Link path
+Link Residence @ Holland
 Link Road
+Link road to T20
+Link SDC to FC3
+Link T10/T7 to J
+Link T11A to T12
+Link T12 to T19
+Link T16 to W14 &T17
+Link T17 to Convention
+Link T18A to T18B
+Link T2 to MLT1
+Link T2 to W3
+Link T20 to T21
+Link T21 to T22
+Link T5 to T7
+link toilet toT3/T3A
+Link W13 to W14
+Link W14 to FC5
+Link W2 to W1
+Link W3 to W2
+Link W5A to W5
 Linkway
-Little India (NEL)
+Little Heron Deck
 Little Road
+Little Wings
 Lloyd Road
+Loading/Unloading
 Lock Road
 Loewen Road
+Log Crossing Trek
 Log Walk
 Lok Yang Way
 Loke Yew Street
 Lompang Road
+Lompang Road Playground
 London Road
+Long Sand Path
 Lookout Loop
-Lor 2 Realty Park
-Lor 6 Toa Payoh
-Lor 6 Toa Payoh, SAFRA
-Lor 7 Realty Park
-Lor Ah Soo
-Lor Buang Kok
-Lor Liput
+Loop Plaza
+Lor Bekukong
+Lor Kebasi
+Lor Mega
 Lor Napiri
 Lor Sarhad
-Lor Sari
-Lor Telok
+Lor Sireh Pinang
 Lornie Highway
+Lornie Park Connector
 Lornie Road
+Lornie Trail
+Lornie Underpass
+Lornie Viaduct
 Lornie Walk
+Loron 44 Geylang
 Lorong 1
 Lorong 1 Geylang
 Lorong 1 Geylang Terminal
@@ -3836,7 +3411,6 @@ Lorong 38
 Lorong 38 Geylang
 Lorong 39
 Lorong 39 Geylang
-Lorong 4 Blk 93 Market and Hawker Centre
 Lorong 4 Geylang
 Lorong 4 Realty Park
 Lorong 4 Toa Payoh
@@ -3852,8 +3426,6 @@ Lorong 6
 Lorong 6 Geylang
 Lorong 6 Realty Park
 Lorong 6 Toa Payoh
-Lorong 6 Toa Payoh #01-14, Singapore
-Lorong 6 Toa Payoh HDB Hub B1-23
 Lorong 7
 Lorong 7 Geylang
 Lorong 7 Realty Park
@@ -3888,14 +3460,10 @@ Lorong Buang Kok
 Lorong Buangkok
 Lorong Bunga
 Lorong Cahya Mata 2A7
-Lorong Cakera Purnama 12/29
 Lorong Chan Chin Mooi
 Lorong Chencharu
 Lorong Chow Thye
 Lorong Chuan
-Lorong Chuan (CC)
-Lorong Chuan Station
-Lorong Chuan Station Exit A
 Lorong Danau
 Lorong G Telok Kurau
 Lorong Gambir
@@ -3922,7 +3490,6 @@ Lorong Lada Hitam
 Lorong Lew Lian
 Lorong Limau
 Lorong Liput
-Lorong Liput Holland Piazza
 Lorong Low Koon
 Lorong M Telok Kurau
 Lorong Mambong
@@ -3934,8 +3501,6 @@ Lorong Mega
 Lorong Melayu
 Lorong Melayu Interim Park
 Lorong Melayu Park
-Lorong Melayu Park Fitness Centre
-Lorong Melayu Park Playground
 Lorong Melukut
 Lorong Mydin
 Lorong Mydin Interim Park
@@ -3989,24 +3554,23 @@ Lorong Titiwangsa 6
 Lorong Titiwangsa 7
 Lorong Titiwangsa 8
 Lorong Titiwangsa 9
-Lorong Toa Payoh 1
-Lorong Way
+Lost Ark
 Lothian Terrace
 Lotus Avenue
-Lovelyloop
 Lower Delta Road
 Lower Heliconia Drive
 Lower Kent Ridge Road
-Lower Kent Ridge Road, National University Hospital
 Lower Kingfisher Road
 Lower Palm Valley Road
 Lower Pasir Merah Road
 Lower Ring Road
 Lower Road
 Lower Seletar Close
+Lower Stream Trek
 Lowland Road
 Loyang Avenue
 Loyang Besar Close
+Loyang Bus Depot
 Loyang Close
 Loyang Crescent
 Loyang Drive
@@ -4015,13 +3579,18 @@ Loyang Green
 Loyang Lane
 Loyang Link
 Loyang North Drive
+Loyang Park Connector
 Loyang Place
 Loyang Rise
 Loyang Street
+Loyang Viaduct
+Loyang View
 Loyang Walk
 Loyang Way
 Loyang Way 1
+Loyang Way 2
 Loyang Way 4
+Loyang Way 6
 Lucky Crescent
 Lucky Gardens
 Lucky Heights
@@ -4037,26 +3606,28 @@ Luxus Hill Heights
 Luxus Hill Road
 Luxus Hill View
 Lyndhurst Road
+Lyndurst Road Park
 Lyneham Road
 Lynwood Grove
-M.1 Motoring
 Macalister Road
-Mackenzie Road
+Macaque Trail
 MacKenzie Road
 Mackerrow Road
 MacPherson Lane
-Macpherson Road
 MacPherson Road
-Macpherson Spring
 MacPherson Walk
-MacRitchie Reservoir Submerged Boardwalk
+MacRitchie Nature Trail
+MacRitchie Viaduct
 MacTaggart Road
 Madras Street
 Magazine Road
 Maida Vale
 Maidstone Road
+Main Gate
 Main Gate Road
+Main Path
 Main Road
+Main Station
 Maju Avenue
 Maju Drive
 Makepeace Road
@@ -4065,20 +3636,24 @@ Malabar Street
 Malacca Street
 Malan Road
 Malay Street
-Malaysian Food Street
 Malaysia–Singapore Second Link
+Malaysia–Singapore Second Link / Laluan Kedua Malaysia-Singapura
 Malcolm Park
 Malcolm Road
 Malta Crescent
 Mandai Avenue
 Mandai Boardwalk
+Mandai Bus Depot
 Mandai Estate
 Mandai Lake Road
-Mandai Lake Road, River Safari
 Mandai Link
+Mandai Park Connector
 Mandai Quarry Road
+Mandai Rail Depot P-way Facility
 Mandai Road
+Mandai Road Track 16
 Mandai Road Track 7
+Mandai Track 15
 Mandalay Road
 Mandale Heights
 Mandarin Gardens
@@ -4089,27 +3664,37 @@ Manila Street
 Manston Road
 Maple Avenue
 Maple Lane
+Maple Lane Park
 Mar Thoma Road
+Mar Thoma Road Park
 Mar Thoma Syrian Church Road
-Maragaret Drive
+Maragaret Drive PCN
 Marang Road
+Marang Trail
 Maranta Avenue
 Margaret Drive
+Margaret Drive Dormitory
+Margaret Drive Hawker Centre
 Margate Road
 Margate Terrace
 Margoliouth Road
 Maria Avenue
 Mariam Close
 Mariam Walk
+Mariam Walk Playground
 Mariam Way
+Mariam Way Playground
 Marigold Drive
-Marina Blvd, #B2-10 Marina Bay Link Mall
+Marina Bay Financial Centre Tower 3 Pickup Point
+Marina Bay Link Mall
+Marina Bay Street Circuit
 Marina Boulevard
-Marina Boulevard #B2-38-36
-Marina Boulevard/Marina Coastal Drive
+Marina Centre Bus Terminal
+Marina Centre Terminal
 Marina Coastal Drive
 Marina Coastal Expressway
 Marina Costal Expressway
+Marina Deck
 Marina East Drive
 Marina Gardens Crescent
 Marina Gardens Drive
@@ -4117,38 +3702,38 @@ Marina Gardens Lane
 Marina Gardens Walk
 Marina Grove
 Marina Link
-Marina Mall
-Marina Parade Road
+Marina One Green Heart
+Marina Promenade
 Marina South Avenue
 Marina South Drive
 Marina Square
-Marina Square Shopping Mall
-Marina Station Road
 Marina View
 Marina View Link
 Marina Way
 Marine Crescent
-Marine Crescent #01-49
 Marine Crescent Gardens
+Marine Crescent Ville
 Marine Drive
 Marine Drive Gardens
 Marine Parade Central
-Marine Parade Rd
-Marine Parade Rd, Isetan, Parkway Parade
+Marine Parade Flyover
+Marine Parade Promenade
+Marine Parade Radio Control Modellers Club
 Marine Parade Road
-Marine Parade Road #01-10A/B Parkway Parade
 Marine Parade Road Park
-Marine Parade Road, #02-45, Parkway Parade
 Marine Terrace
-Marine Terrace #01-108
+Marine Terrace Breeze
+Marine Terrace Haven
 Marine Terrace Walk
 Marine Vista
 Maritime Square
-Market Square
+Maritime Square D
 Market Square @ E!Avenue
 Market Street
 Marlene Avenue
 Marne Road
+Marne Road Temple
+Marsh Trail
 Marshall Lane
 Marshall Road
 Marsiling Crescent
@@ -4157,15 +3742,24 @@ Marsiling Gardens
 Marsiling Green
 Marsiling Grove
 Marsiling Heights
-Marsiling Ind Estate Road 5, #03-06A
-Marsiling Industrial Road 5
-Marsiling Industrial Road 9
+Marsiling Industrial Estate Road 1
+Marsiling Industrial Estate Road 10
+Marsiling Industrial Estate Road 2
+Marsiling Industrial Estate Road 3
+Marsiling Industrial Estate Road 4
+Marsiling Industrial Estate Road 5
+Marsiling Industrial Estate Road 6
+Marsiling Industrial Estate Road 7
+Marsiling Industrial Estate Road 8
+Marsiling Industrial Estate Road 9
 Marsiling Lane
+Marsiling Lane Cooked Food Centre
+Marsiling Lane Market
+Marsiling Park Connector
 Marsiling Rise
 Marsiling Road
 MARSILING ROAD
-Marsiling Spring
-Marsiling Street 13
+Marsiling Shortlink 1
 Martaban Road
 Martia Road
 Martin Place
@@ -4174,12 +3768,13 @@ Maryland Drive
 Marymount Lane
 Marymount Road
 Marymount Terrace
+Marymount Terrace Playground
 Mas Kuning Terrace
 Masonic Hall Driveway
 Matlock Rise
 Mattar Road
+Mattar Road Seafood
 Maude Road
-Maxsteel Enterprise
 Maxwell Link
 Maxwell Road
 May Road
@@ -4197,31 +3792,31 @@ Mayflower Way
 Mayne Road
 Mayo Street
 McCallum Street
-McKenzie
+McDonald's Drive-through
 McNair Heights
 McNair Road
-McNair Spring
 McNally Street
-meat and green
-Meat n&apos; chill
 Media Circle
-Media Close
 Media Link
 Media Walk
 Medical Drive
+Medley Alley
 Medway Drive
 Mei Chin Road
 Mei Hwan Crescent
+Mei Hwan Crescent Playground
 Mei Hwan Drive
+Mei Hwan Drive Playground
 Mei Hwan Road
 Mei Ling Heights
 Mei Ling Street
+Mel's Drive-in
 Melrose Drive
-Memory Lane
-Mendon Spring
 Meng Suan Road
+Mera Terrace Playground
 Meragi Close
 Meragi Road
+Meragi Road Playground
 Meragi Terrace
 Merah Heights
 Meranti Crescent
@@ -4229,10 +3824,11 @@ Meranti Road
 Merbau Road
 Merchant Loop
 Merchant Road
-MERCI MARCEL CLUB STREET
 Mergui Road
+Mergui Road drain
 Merino Crescent
 Merlimau Road
+Merlion Park
 Merpati Road
 Merryn Avenue
 Merryn Close
@@ -4244,12 +3840,13 @@ MEWR Private Road
 Meyappa Chettiar Road
 Meyer Place
 Meyer Road
+Meyer Road Playground
 Mid-Canopy Walk
 Middle Road
 Middlesex Road
 Milieu @ Middle Road
 Millenia Walk
-Millenia Walk #01-K7/K11/K12/K13
+Millenia Walk - Park & Dine
 Miller Street
 Miltonia Close
 Mimosa Crescent
@@ -4257,30 +3854,39 @@ Mimosa Drive
 Mimosa Gardens
 Mimosa Place
 Mimosa Road
+Mimosa Road Playground
 Mimosa Terrace
+Mimosa Terrace Playground
 Mimosa Vale
 Mimosa View
 Mimosa Walk
+Mimosa Walk Playground
 Minaret Walk
 Minbu Road
+MINDEF Carpark
 Minden Road
+Minds - Towner Gardens School
+MINDS Fernvale Gardens School
+MINDS Lee Kong Chian Gardens School
 Ming Teck Park
+Mini Golf Ruins
+Mini Street 61 Park
+Ministry of Education Headquarters (Evans Road) Complex
+Ministry of Education Headquarters (Grange Road)
 Minto Road
 Mist Walk
 Mistri Road
-MM Restaurant &amp; Catering
 Moberly Close
-MOE Kindergarten @ West Spring
 Moh Guan Terrace
 Mohamed Ali Lane
 Mohamed Sultan Road
-Monk&apos;s Hill Road
-Monk&apos;s Hill Terrace
+Monk's Hill Flats
+Monk's Hill Road
+Monk's Hill Terrace
 Montreal Drive
 Montreal Green
 Montreal Link
 Montreal Road
-Montreal Spring
 Montrose Terrace
 Moonbeam Drive
 Moonbeam Terrace
@@ -4289,18 +3895,16 @@ Moonbeam Walk
 Moonstone Lane
 Moreton Close
 Morimasa Gardens
-Morison Hill
 Morley Road
 Mornington Crescent
 Morse Road
-Mosque Street
 Mosque Street;摩士街
+Motor Image Leng Kee Road (Subaru)
 Moulmein Rise
 Moulmein Road
-Mounbatten Road
+Mount Echo Park
 Mount Elizabeth
 Mount Elizabeth Link
-Mount Elizabeth Medical Centre
 Mount Emily Road
 Mount Faber Green
 Mount Faber Loop
@@ -4323,108 +3927,128 @@ Mount Sinai Walk
 Mount Sophia
 Mount Vernon Lane
 Mount Vernon Road
+Mountbatten / Old Airport Road open space
+Mountbatten Bridge
 Mountbatten Road
 Mountbatten Square
 Mowbray Road
-MSD Engineering
+Mud Experience
 Mugliston Gardens
 Mugliston Park
 Mugliston Road
 Mugliston Walk
 Mulberry Avenue
-Mun Siong Engineering
+Munia Trail, Chestnut Nature Park South Hiking Trail
 Munshi Abdullah Avenue
 Munshi Abdullah Walk
+Murai Circus
+Murai East Circus
 Murai Farmway
+Murnane Trail
 Murray Street
 Murray Terrace
 Muscat Street
-Mustari Enterprise
+Muslim Cemetery Path 15
+Muslim Cemetery Path 16
+Muslim Cemetery Path 17
+Muslim Cemetery Path 18
+Muslim Cemetery Path 20
+Muslim Cemetery Path 22
+Muslim Cemetery Path 6
+Muslim Cemetery Path 7
 Muswell Hill
 Muthuraman Chetty Road
-My First Skool at Blk 18 Marine Terrace
-Myeong Dong Taste Street
-NACLI Central
 Nagapa Lane
-Nails Fifth Avenue
-Nalayanee Trading Enterprise
 Nallur Road
+name
 Namly Avenue
 Namly Close
 Namly Crescent
 Namly Drive
+Namly Garden
 Namly Grove
 Namly Hill
 Namly Place
 Namly Rise
+Namly View
+Nangka Trail
 Nankin Street
-Nanson road
 Nanson Road
 Nanyang Avenue
 Nanyang Circle
+Nanyang Circle Faculty Housing
 Nanyang Crescent
 Nanyang Drive
-Nanyang Drive Academic Building North ABN-B4b-10
-Nanyang Drive Block N4.1-B4-10,
-Nanyang Gateway
 Nanyang Green
 Nanyang Grove
 Nanyang Heights
 Nanyang Hill
 Nanyang Link
 Nanyang Terrace
+Nanyang Terrace Faculty Housing
+Nanyang Valley
 Nanyang View
 Nanyang Walk
 Napier Road
+Naracoorte Cave
 Narayanan Chetty Road
 Narooma Road
+narrow
 Nassim Hill
 Nassim Road
 Nathan Road
-National University of Singapore Faculty Of Engineering
+National Environment Agency (Central Region)
+Nature Walk Trail
 Nava Grove
-Near Dover Drive
-Near West Coast Walk
+nbe
+NBE
+Nee Soon Camp Circus
+Nee Soon Central Community Park
 Nee Soon Central Green
+Nee Soon Central Meadows
+Nee Soon Central View
+Nee Soon Link Park
 Nee Soon Road
-Neil rd
-Neil Rd, #01-06
-Neil Rd, #01-07
 Neil Road
 Nemesu Avenue
 Neo Pee Teck Lane
 Neo Tiew Crescent
 Neo Tiew Harvest Lane
 Neo Tiew Harvest Link
+Neo Tiew Harvest Place
 Neo Tiew Lane 1
 Neo Tiew Lane 2
 Neo Tiew Lane 3
 Neo Tiew Road
+Nepal Circus
 Nepal Hill
+Nepal Hill (colonial bungalows)
 Nepal Park
 Neram Crescent
+Neram Crescent Playground
 Neram Road
-Netharavon Road
 Netheravon Road
 New Bridge Road
 New Industrial Road
 New Loyang Link
 New Market Road
 New Punggol Road
+New Retail Ammenity Carpark Entry
 New Upper Changi Road
-New Upper Changi Road Bedok Mall,
-newton Road
+Newton Circus
 Newton Road
-nex
-Nex Global Engineering
+Nexus
 Neythai Road
 Neythal Road
+Ngee Ann City Forecourt
 Nicole Green
 Nicoll Drive
 Nicoll Highway
+Nicoll Underpass
 Nicon Gardens
 Nihon Food Street
 Nim Crescent
+Nim Crescent Playground
 Nim Drive
 Nim Gardens
 Nim Green
@@ -4433,22 +4057,15 @@ Nim Road
 Nim Terrace
 Nineteen Shelford Road
 Niven Road
-no 1 queensway shopping centre
 No 61 Lorong N
-No.30 Sembawang Drive
-No.336 Smith Street
-No.5 Emerald Hill
+No Entry
 Norfolk Road
 Norma Terrace
 Normanton Park
 Norris Road
 North Boat Quay
-North Bridge Rd
-North Bridge Rd #03-16
 North Bridge Road
-North Bridge Road Funan
-North Bridge Road Raffles City
-North Bridge Road. #03-07. Raffles City Shopping Centre.
+North Bridge Road Market & Food Centre
 North Buona Vista Drive
 North Buona Vista Link
 North Buona Vista Road
@@ -4456,13 +4073,14 @@ North Canal Road
 North Coast Avenue
 North Coast Crescent
 North Coast Drive
-North Eastern Riverine Loop
+North Hill Food Court
 North Perimeter Road
 North Road
+North View Path
 North Woodlands Drive
-Northlink
+North-South Corridor
+Northern Axis
 Northolt Road
-Northpoint City
 Northpoint Drive
 Northshore Crescent
 Northshore Drive
@@ -4473,31 +4091,37 @@ Northumberland Road
 Novena Gardens
 Novena Hill
 Novena Rise
+Novena Rise Park
+Novena Square Office Tower A
+Novena Square Office Tower B
 Novena Terrace
 NS Square
-Nuffield Dental Central
 NUS Hill
 Nutmeg Road
-O&apos;Green
 Oak Avenue
 Oakwood Grove
+Obstacle Course at Forest Adventure
 OCBC Skyway
 OCBC Square
 Ocean Drive
+Ocean Drive Circus
 Ocean Way
 Oei Tiong Ham Park
+Off Trail
 Office Ring Road
 Office Road
+OG Bridge
 Old Airport Road
+Old Airport Road Food Centre & Shopping Mall
 Old Birdcage Walk
 Old Choa Chu Kang Road
+Old City Limit
 Old Dairy Farm Road
+Old Hainanese Village
 Old Holland Road
-Old Jurong railway
 Old Jurong Road
-Old Kallang Airport Gateway
+Old KTM Railway Trackbed
 Old Lim Chu Kang Road
-Old Lornie Road
 Old Middle Road
 Old Nelson Road
 Old Parliament Lane
@@ -4508,6 +4132,7 @@ Old Tampines Road
 Old Terminal Lane
 Old Toh Tuck Road
 Old Upper Thomson Road
+Old Upper Thomson Road Park Connector
 Old Yio Chu Kang Road
 Oldham Lane
 Olive Grove
@@ -4516,6 +4141,7 @@ Olympic Walk
 Omar Khayyam Avenue
 On-Road Cycling Lane
 Onan Road
+Oncospermum Trail
 One Finlayson Green
 One George Street
 One Marina Gardens
@@ -4523,154 +4149,55 @@ One Raffles Institution Lane
 One Raffles Link
 One Sims Lane
 One Tree Hill
-One Upper Pickering
+One Tree Hill Mansions
+One Tree Hill Residence
 one-north Avenue
 one-north Crescent
 One-North Crescent
 one-north Gateway
-One-north Gateway
-One-North Gateway
 one-north Link
 Onraet Road
 Ontario Avenue
 Opal Crescent
+Open air compound
 Open Square
 Ophir Road
-Opposite Ama Keng Road
-Opposite Amber Gardens
-Opposite Andrew Road
-Opposite Bloxhome Drive
-Opposite Brockhampton Drive
-Opposite Burgundy Hill
-Opposite Buroh Street
-Opposite Canberra Drive
-Opposite Carlisle Road
-Opposite Castle Green
-Opposite Century Square
-Opposite Chatsworth Road
-Opposite Cheviot Hill
-Opposite Crowhurst Drive
-Opposite Dairy Farm Road
-Opposite Dedap Road
-Opposite Durban Road
-Opposite Estella Gardens
-Opposite Eunos Technolink
-Opposite Evergreen Avenue
-Opposite Excelsior Gardens
-Opposite Golden Heights
-Opposite Grace Walk
-Opposite Grandlink Square
-Opposite Gul Avenue
-Opposite Gul Way
-Opposite Heng Mui Keng Terrace
-Opposite Hillview Heights
-Opposite Hoe Huat Engineering
-Opposite Hong San Terrace
-Opposite Horizon Gardens
-Opposite ITE College Central
-Opposite Jackson Square
-Opposite Jalan Bahtera
-Opposite Jalan Berseri
-Opposite Jalan Bumbong
-Opposite Jalan Janggus
-Opposite Jalan Kemuning
-Opposite Jalan Muhibbah
-Opposite Jalan Pesawat
-Opposite Jalan Tari Lilin
-Opposite Kingswear Avenue
-Opposite Leedon Green
-Opposite Lompang Road
-Opposite Lorong 1 Geylang Terminal
-Opposite Lorong 39 Geylang (81069)
-Opposite Lorong Chuan Station Exit B
-Opposite Lorong Sarhad
-Opposite Mandai Road
-Opposite Mandarin Gardens
-Opposite Meng Suan Road
-Opposite Mohd Sultan Road
-Opposite Moonbeam Walk
-Opposite Nanyang Avenue
-Opposite Neo Tiew Road
-Opposite Nylect Engineering
-Opposite Old Pier Road
-Opposite One Upper Pickering
-Opposite Parkland Green
-Opposite Paya Lebar Street
-Opposite Peirce Road
-Opposite Portchester Avenue
-Opposite Queen&apos;s Close
-Opposite Rindu Terrace
-Opposite Roxy Square
-Opposite Saint John&apos;s Crescent
-Opposite Saint Thomas Walk
-Opposite Sam McCoy Engineering
-Opposite SATS Catering
-Opposite Sembcorp/Sakra Avenue
-Opposite Singapore Aerospace Manufacturing
-Opposite SMC Manufacturing
-Opposite Sunrise Gardens
-Opposite Tagore Road
-Opposite Tan Boon Chong Avenue
-Opposite The Gateway
-Opposite Tractor Road
-Opposite Tuas Power/Tembusu Crescent
-Opposite Tuas Power/Tembusu Drive
-Opposite Tuas West Street
-Opposite UE Bizhub Central
-Opposite UE Square
-Opposite United Square
-Opposite Utoc Engineering
-Opposite Veerasamy Road
-Opposite West Coast Link
-Opposite Weyhill Close
+Orange Grove Residences
 Orange Grove Road
-Orchard
+Orange Grove Serviced Residences
 Orchard Boulevard
 Orchard Central
 Orchard Gateway
 Orchard Link
 Orchard Promenade
-Orchard Rd
-Orchard Rd #B1-69 Lucky Plaza
-Orchard Rd,
-Orchard Rd, Isetan Orchard-Wisma Atria
-Orchard Rd, Tower A Level 4, Takashimaya Dept
 Orchard Road
-Orchard Road 313 Somerset
-Orchard Road Paragon
-Orchard Road Plaza Singapura
-Orchard Road Takashimaya S.C.
-Orchard Road The Heeren
-Orchard Road Wisma Atria
-Orchard Road, #01-26 Orchard Central
-Orchard Road, #01-45/46, Forum The Shopping Mall
-Orchard Road, #B1-12/13
-Orchard Road, 313@somerset #02-38/39
-Orchard Road, Centrepoint
-Orchard Road, Isetan, Shaw Centre
+Orchard Road Presbyterian Church
 Orchard Spring Lane
 Orchard Turn
-Orchard Turn ION Orchard
-Orchard Turn, #B1-12 ION Orchard
 Orchid Club Road
 Orchid Drive
+Orchid Plaza
+Ord Bridge
 Oriole Crescent
 Ottawa Road
 OUE Link
+Our Space @ Tai Gin
+Our Tampines Hub
 Outram Hill
-Outram Park (EWL-NEL) Transfer Linkway
-Outram Park (NEL-TEL) Transfer Linkway
+Outram Park
 Outram Road
-Outram Road #07-01
+Overhead bridge
+Overpass
+overrun
 Owen Road
 Oxford Road
 Oxford Street
+Oxley Garden
 Oxley Rise
 Oxley Road
 Oxley Walk
-p 2 Circle
-P4 Engineering
 Padang Chancery
+Padang Jeringau
 Pagoda Street
 Pahang Street
 Pakistan Road
@@ -4683,32 +4210,41 @@ Palm Grove
 Palm Grove Avenue
 Palm Oasis entrance road
 Palm Road
-Palm Spring
 Palmer Road
 Pan Island Expressway
-Pan Pacific Serviced Suites Beach Road
-Pan Sin Engineering
 Pan-Island Expressway
 Pandan Avenue
 Pandan Crescent
+Pandan Flyover
 Pandan Gardens
+Pandan Gardens Leisure Park
+Pandan Gardens Park Connector
 Pandan Loop
 Pandan Road
 Pandan Valley
+Pandora East
+Pandora North
+Pandora South
+Pandora West
 Pang Seng Road
+Pang Sua Park Connector
 Pangshan Green
 Parade Square
 Paradise Island
-Paragon
 Parbury Avenue
 Parbury Hill
+Parc Central Residences
 Pari Dedap Walk
-Park Avenue
+Park Avenue Changi
+Park Avenue Hotel
+Park Avenue Robertson
 Park Central
+Park Connector
+Park Connector Network
 Park Crescent
 Park Green
+Park Grove @ Yishun
 Park Lane
-Park Road
 Park Street
 Park Vale
 Park Villas Green
@@ -4719,15 +4255,26 @@ Parkland Green
 PARKROYAL on Beach Road
 Parkstone Road
 Parkview Square
+Parkway Apartments
+Parkway Centre
+Parkway East Hospital
+Parkway Lodge
+Parkway Parade
+Parkway Parade Office Tower
+Parkway View
+Parkway Women & Fertility Clinic
 Parliament Place
+Parrot Paradise
 Parry Avenue
+Parry Avenue Field
+Parry Avenue Interim Park
 Parry Road
+Parry Road Playground
 Parry Terrace
+Parry View
 Parry Walk
 Parsi Road
 Pasar 216 Bedok Central
-Pasar 630 Bedok Reservoir Road
-Pasar Makan 630 Bedok Reservoir Road
 Pasir Avenue
 Pasir Drive
 Pasir Laba Road
@@ -4737,17 +4284,32 @@ Pasir Merah Link
 Pasir Merah Rise
 Pasir Panjang Close
 Pasir Panjang Drive
-Pasir Panjang Gardens
+Pasir Panjang Drive 1
+Pasir Panjang Drive 14
+Pasir Panjang Drive 2
+Pasir Panjang Drive 3
+Pasir Panjang Drive 5
+Pasir Panjang Drive 6
+Pasir Panjang Drive3
 Pasir Panjang Hill
+Pasir Panjang Hill Brethren Church
 Pasir Panjang Road
-Pasir Panjang Road Mapletree Business City #02-11
+Pasir Panjang Terminal Avenue 1
+Pasir Panjang Terminal Avenue 2
+Pasir Panjang Terminal Avenue 3
+Pasir Panjang Terminal Avenue 8
 Pasir Panjang Terminal Link
+Pasir Panjang Terminal Street RS
 Pasir Ris Avenue
+Pasir Ris Beach PCN
+Pasir Ris Bus Interchange
 Pasir Ris Central
+Pasir Ris Central Hawker Centre
 Pasir Ris Central Street 3
-Pasir Ris Central Street 3, White Sands Mall #01-18/19/20
 Pasir Ris Close
-Pasir Ris Dr 6
+Pasir Ris Coast Industrial Park 2
+Pasir Ris Coast Industrial Park 3
+Pasir Ris Coast Industrial Park 6
 Pasir Ris Drive 1
 Pasir Ris Drive 10
 Pasir Ris Drive 12
@@ -4756,20 +4318,26 @@ Pasir Ris Drive 3
 Pasir Ris Drive 4
 Pasir Ris Drive 6
 Pasir Ris Drive 8
+Pasir Ris Farmway 1
+Pasir Ris Farmway 2
+Pasir Ris Farmway 3
+Pasir Ris Flyover
 Pasir Ris Green
-Pasir Ris Green Carkpark C
 Pasir Ris Grove
 Pasir Ris Heights
 Pasir Ris Industrial Drive 1
+Pasir Ris Industrial Drive 3
+Pasir Ris Interim Bus Interchange
 Pasir Ris Lane
 Pasir Ris Link
+Pasir Ris Park Connector
 Pasir Ris Rise
 Pasir Ris Road
-Pasir Ris Street 1
 Pasir Ris Street 11
 Pasir Ris Street 12
 Pasir Ris Street 13
 Pasir Ris Street 21
+Pasir Ris Street 21 Park
 Pasir Ris Street 41
 Pasir Ris Street 51
 Pasir Ris Street 52
@@ -4781,11 +4349,15 @@ Pasir Ris View
 Pasir Ris Walk
 Pasir Ris Way
 Pasir Way
-Pasta Grove
 Paterson Hill
 Paterson Road
+Path Along Drainage Canal
+Path between kopitiam (''coffee shops") and wet market
+Pathway along building
+Patrol Road 3
 Patterson Road
 Paul Little Drive
+Paved Function Area
 Pavilion Circle
 Pavilion Green
 Pavilion Grove
@@ -4794,48 +4366,54 @@ Pavilion Rise
 Pavilion Street
 Pavilion View
 Paya Lebar Crescent
-Paya Lebar Gardens
+Paya Lebar Crescent Open Space
+Paya Lebar Green North
+Paya Lebar Green South
 Paya Lebar Link
-Paya Lebar Link #05-05 PLQ 2
+Paya Lebar Park Connector
 Paya Lebar Road
+Paya Lebar Road Park
 Paya Lebar Square
 Paya Lebar Street
 Paya Lebar Walk
 Paya Lebar Way
-Pays Lebar Road
-PCF Sparkletots Preschool @ Jalan Kayu
+PCN
+Peach Garden
 Peakville Avenue
 Peakville Grove
 Peakville Terrace
 Peakville Walk
 Pearl Bank
 Pearl Island
-Pearl Street
-Pearl&apos;s Hill
-Pearl&apos;s Hill City Park
-Pearl&apos;s Hill Road
-Pearl&apos;s Hill Terrace
+Pearl's Hill Care Home
+Pearl's Hill City Park
+Pearl's Hill Reservoir
+Pearl's Hill Road
+Pearl's Hill Terrace
 Pebble Lane
 Peck Hay Road
 Peck Seah Street
+Pedestrian Mall
 Peel Road
 Pegu Road
 Pei Wah Avenue
 Peirce Drive
 Peirce Hill
 Peirce Road
+Peirce Track
 Pekin Street
+Pelton Canal Park Connector
 Pemimpin Drive
 Pemimpin Place
 Pemimpin Terrace
+Penaga Place
 Penang Lane
 Penang Road
+Penang Road Open Space
 Pender Road
 Pending Road
 Peng Kang Avenue
-Peng Kang Hill
 Peng Nguan Street
-Peng&apos;s Restaurant and Catering
 Penhas Road
 Penjuru Close
 Penjuru Lane
@@ -4846,42 +4424,48 @@ Penjuru Walk
 Pennefather Road
 Penshurst Place
 Peppermint Grove
+Pepys Hill Condominium
 Pepys Road
 Perahu Road
 Perak Road
 Percival Road
 Pereira Road
 Permatang Avenue
+Persiaran Impian Perdana
+Persiaran Kuantan
+Persiaran Titiwangsa 1
+Persiaran Titiwangsa 3
+Persiaran Tunku Sarina
 Perumal Road
 Pesari Walk
+Pesari Walk Playground
 Pesawat Drive
 Pesek Drive
 Pesek Road
+Petai Trail
 Petain Road
 Petaling Boardwalk
 Petir Road
-Petir Road, #B1 – 28/29/30 Hillion Mall
-Pets Avenue
-Pets&apos; Street
-PH Hydraulics &amp; Engineering
 Pheng Geck Avenue
 Phillip Street
 Phillips Avenue
-Pho Street
 Phoenix Avenue
 Phoenix Garden
+Phoenix Heights Estate
+Phoenix Park
 Phoenix Rise
 Phoenix Road
 Phoenix Walk
-Piano Sidewalk
-Picadilly
-Picardy Gardens
+piccadilly
+Piccadilly
+Piccadilly Circus
+pick up, drop off point
 Pickering Street
 Pillai Road
 Pine Close
 Pine Green
 Pine Grove
-Pine Grove Clubhouse
+Pine Grove Condos
 Pine Lane
 Pine Walk
 Pinetree Hill
@@ -4889,9 +4473,8 @@ Pinewood Gardens
 Pinewood Grove
 Ping Yi Gardens
 Ping-An Gardens
-Pinsep Street
+Pioneer Circus
 Pioneer Crescent
-Pioneer Crescent 20
 Pioneer Place
 Pioneer Road
 Pioneer Road North
@@ -4904,27 +4487,27 @@ Pioneer Turn
 Pioneer View
 Pioneer Walk
 Pionner Road
-Pipe Vision Engineering
+pipeline track
 Pipit Road
 Pit Lane
-Plant Engineering
+Plam Grove Condominium
+Plam Grove Regency
 Plantation Avenue
 Plantation Close
 Plantation Crescent
 Plantation Drive
-Plantation Farmway
 Plantation Grove
 Platina Road
+Platina Road Playground
+Play@Heights Park
 Playfair Road
-Playground - 2 Toh Yi Drive
-Playground - 8 Toh Yi Drive
 Playground at 25 Jalan Membina
-Playground at Jalan Bukit Merah Blk 116
 Playground between Blk 28 and Blk 29 Marine Crescent
-Plaza Singapura
-PLQ Mall
+Plaza Singapura Forecourt
+Pleasant Hill Lodge
 Plumer Road
 Plymouth Avenue
+POB from OTH
 Poh Huat Crescent
 Poh Huat Drive
 Poh Huat Road
@@ -4943,19 +4526,23 @@ Port Road
 Portchester Avenue
 Portsdown Avenue
 Portsdown Road
-Potong Pasir Ave 2
 Potong Pasir Avenue 1
 Potong Pasir Avenue 2
 Potong Pasir Avenue 3
+Pre-War Double Storey Terrace Houses
+Predator Trek
 Prestige Heights
 Preston Road
 Primary Rainforest Urban Walk
 Primrose Avenue
 Prince Charles Crescent
+Prince Charles East Bridge
+Prince Edward Close 2
+Prince Edward Close 3
 Prince Edward Drive
 Prince Edward Link
 Prince Edward Road
-Prince George&apos;s Park
+Prince George's Park
 Prince of Wales Road
 Prince Philip Avenue
 Prince Road
@@ -4966,90 +4553,105 @@ Princess of Wales Road
 Princess Street
 Prinsep Link
 Prinsep Street
+Prison Link Centre
+Prisoner-of-War Brick Steps
 Pristine Heights
-Private road
-Progress Manufacturing
+Private Pick-up
 Prome Road
+Promenade
 Proposed 1200mm diameter potable water pipeline along Holland Road and Ulu Pandan Road from Rail corridor to Clementi Road
-Providence Clinic @ Redhill
-Puaka Hill
+Prunus Trail
+Puaka Bridge
 Puay Hee Avenue
+Public Jetty
 Pulasan Road
-Pulau Tekong Besar
 Pullman Singapore HIll Street
-Punggol (NEL)
 Punggol Barat Drive
 Punggol Barat Lane
 Punggol Central
 Punggol Close
+Punggol Coast Bus Interchange
 Punggol Coast Road
 Punggol Drive
-Punggol Drivel
 Punggol East
+Punggol East Flyover
 Punggol Field
 Punggol Field Walk
 Punggol Gardens
 Punggol Green
+Punggol Green Primary School
+Punggol Heritage Trail
 Punggol North Avenue
 Punggol Park Connector
 Punggol Place
-Punggol Point Walk
 Punggol Primary School Parade Square
 Punggol Promenade Punggol Point Walk
 Punggol Promenade Riverside Walk
 Punggol Road
+Punggol Road Track 19
 Punggol Seventeenth Avenue
-Punggol Spring
+Punggol Temporary Bus Interchange
 Punggol Town Square
 Punggol Walk
 Punggol Waterway
 Punggol Way
+Punggol West Bank Park Connector
 Punggol West Community Square
-Punngol Drive, Oasis Terraces, #02-35
+Punggol West Flyover
 Purvis Street
 Putting Green
 Quality Road
+Quality Road Hawker Centre
 Queen Astrid Gardens
 Queen Astrid Park
 Queen Elizabeth Walk
 Queen Street
-Queen&apos;s Avenue
-Queen&apos;s Close
-Queen&apos;s Crescent
-Queen&apos;s Road
+Queen Street Car Park
+Queen Street Terminal
+Queen's Avenue
+Queen's Close
+Queen's Crescent
+Queen's Road
 Queens Close
+Queens Peak (Resident Access)
 Queensway
 Queensway Drive
 Quemoy Road
+quite overrun, 1 tree fell
+Rabler's Ridge Trail
 Race Course Lane
 Race Course Road
-Raeburn park
+Raeburn Park
 Raffles Avenue
 Raffles Boulevard
-Raffles Boulevard #03-217/218 Marina Square
-Raffles Boulevard Marina Square
-Raffles Boulevard, #01-106 Millenia Walk
 Raffles City
 Raffles Education Square
-Raffles Exchange
-Raffles Institution Lane
 Raffles Link
 Raffles Place
-Raffles Place #01-15/16 Republic Plaza
-Raffles Place, #19-16, Singapore Land Tower
 Raffles Quay
 Raffles Square
 Raffles Terrace
+Raffles Terrace Fountain
 Raglan Grove
-Rajdhani Enterprise
+Rail Corridor
+Rail Corridor Access
+Rail Green I @ CCK
+Rail Green II @ CCK
+Rainbow Centre Admiral Hill School
+Rainbow Centre-Margaret Drive School
 Rakit Road
 Rambai Boardwalk
 Rambai Road
-Rambutan Hill
+Rambler's Ridge Trail
 Rambutan Road
+Rambutan Trail
+ramp
+Ramp
+Ramp to Level 2 Parking
 Ramsgate Road
 Rangoon Lane
 Rangoon Road
+Rangoon Road 400kV Substation
 Rasau Walk
 Rasok Drive
 Read Crescent
@@ -5057,19 +4659,19 @@ Read Street
 Rebecca Road
 Recreation Lane
 Recreation Road
-Recycle Hill
-Redhill
+Red Brick Path
 Redhill Close
 Redhill Lane
 Redhill Rise
 Redhill Road
 Redwood Avenue
+Reed Crossing
 Refinery Road
-Reflexology walk
 Regent Grove
 Regent Heights
+Regent Heights Tower A
 Regent Street
-Rempah Enterprise
+Reneges Path
 Republic Avenue
 Republic Boulevard
 Republic Crescent
@@ -5078,27 +4680,29 @@ Research Link
 Reservoir Highway
 Reservoir Rise
 Reservoir Road
+Reservoir Track
+Reservoir West Track
 Residences at Emerald Hill
+Residential Drop-Off Point
 Rhu Cross
 Richards Avenue
+Richards Avenue Park
 Richards Place
-Richee Engineering
 Ridgewood Close
-Ridgwood Close
 Ridley Park
 Ridout Road
 Rienzi Street
 Rifle Range Link
 Rifle Range Road
+Rifle Range Trail
+Rifle Range Underpass
 Rifle Way
-Rindu Terrace
 Ringwood Road
 Rio Gardens
 Ripley Crescent
-Rise
 Ritchie Road
 River Green
-River Valley
+River track
 River Valley Close
 River Valley Green
 River Valley Grove
@@ -5109,12 +4713,12 @@ Riverina View
 Riverina Walk
 Riverside Road
 Rivervale Close
-Rivervale Cres, Rivervale Mall
+Rivervale Court Street Soccer Court
 Rivervale Crescent
 Rivervale Drive
 Rivervale Gardens
-Rivervale Gateway
 Rivervale Green
+Rivervale Green Park
 Rivervale Grove
 Rivervale Lane
 Rivervale Link
@@ -5122,6 +4726,12 @@ Rivervale Street
 Rivervale Walk
 Riviera Drive
 Road
+Road 18
+Road H14-15
+Road H16-17
+Road H18
+Road Safety Community Park
+Road to Track
 Roberts Lane
 Robertson Quay
 Robey Crescent
@@ -5131,22 +4741,20 @@ Robin Lane
 Robin Road
 Robin Walk
 Robinson Road
-Robinson Road #01-02 City House
 Robinson Square
 Rochalie Drive
 Rochdale Road
+Rochelle at Newton
 Rochester Drive
-Rochester Hill
 Rochester Park
 Rochor Canal Road
-Rochor Canal Road #02-85
+Rochor Link Bridge
 Rochor Road
-Rock in clearing
-Rocky Hill
+Rock Path
 Rocky Hill Road
-Rodalink
 Rodyk Street
 Roman Terrace
+Root Hollow Trek
 Rose Lane
 Roseburn Avenue
 Rosewood Drive
@@ -5154,92 +4762,103 @@ Ross Avenue
 Rosyth Avenue
 Rosyth Road
 Rotan Lane
-Rotary Engineering
-Roth Engineering
-Rowell Rd
+Round about
+roundabout
+Route 1
+Route 2
+Route 3
 Rowell Road
+Rowell Road Open Space
 Roxy Square
 Royal Green
 Royal Road
+Royal Square at Novena
 Ruby Lane
+Running Track
+Rush Bridge
 Russels Road
 Rutland Road
-RWS Pandan Gardens
+s
+S-Course 1
+S-Course 2
+S-Course 3
+S-Course 4
+S.Hill.CP
 Sago Lane
 Sago Street
 Saiboo Street
-Saint Andrew&apos;s Road
-Saint Anne&apos;s Wood
+Saint Andrew's Road
+Saint Anne's Wood
 Saint Barnabas Lane
 Saint Francis Road
-Saint George&apos;s East Gardens
-Saint George&apos;s Lane
-Saint George&apos;s Road
-Saint George&apos;s West Gardens
+Saint George's East Gardens
+Saint George's Lane
+Saint George's Road
+Saint George's West Gardens
+Saint Gregory's Place
 Saint Helena Road
-Saint Helier&apos;s Avenue
+Saint Helier's Avenue
 Saint James Road
-Saint John&apos;s Road
-Saint Margaret&apos;s Road
+Saint John's Road
+Saint Margaret's Road
 Saint Martin Lane
-Saint Martin&apos;s Drive
-Saint Michael&apos;s Road
+Saint Martin's Drive
+Saint Michael's Road
+Saint Michael's Terminal
 Saint Nicholas View
-Saint Patrick&apos;s Green
-Saint Patrick&apos;s Road
+Saint Patrick's Road
 Saint Thomas Walk
 Saint Wilfred Road
-Saint Xavier&apos;s Lane
+Saint Xavier's Lane
 Sakra Avenue
 Sakra Road
+Sakra View
 Salam Walk
 Sallim Road
 Sam Leong Road
 Sampan Place
-Sanctuary Green
 Sandilands Road
+Sandown Place
 Sandwich Road
 Sandy Island
 Sandy Lane
 Sang Nila Utama Road
 Sang Nilai Utama Boulevard
-Sangro Fortune Avenue
 Sanyongkong Road
 Saraca Drive
 Saraca Gardens
 Saraca Hill
 Saraca Place
 Saraca Road
+Saraca Road Playground
 Saraca Terrace
 Saraca View
 Saraca Walk
-Sarca View
 Sarimbun Avenue
 Sarkies Gardens
 Sarkies Green
-Sarkies Rd
 Sarkies Road
-Satay Street
-Sathish Trading &amp; Enterprise
-SATS Catering
 Saujana Road
 Saunders Road
+SBST Bedok North Depot
+SBST Braddell Bus Park
+SBST Bukit Batok Depot
+SBST Hougang Depot
+SBST Soon Lee Depot
 Sceneca Square
+Sceneca Square/Sceneca Residence
 Scenic Heights
-School of Civil and Environmental Engineering
-School of Engineering
-School of Materials Science and Engineering
-School of Mechanical &amp; Aeronautical Engineering
-School of Mechnical and Aerospace Engineering
+Scented Sphere
 Science Centre Road
 Science Drive 1
 Science Drive 2
 Science Drive 3
+Science Drive 4
 Science Park Drive
-Science Park Drive, #06-01, #1 CINTECH IV, Science Park
 Science Park Road
 Scotts Road
 Scotts Square
+SDE3 Plaza
 Sea Avenue
 Sea Breeze Avenue
 Sea Breeze Road
@@ -5248,31 +4867,27 @@ Seac Road
 Seagull Walk
 Seah Im Road
 Seah Street
-Seah Street;Beach Road
-Seahill
-Seahorse Hideaway
 Sealand Road
 Second Avenue
+Second Avenue Junction
 Second Chin Bee Road
 Second Hospital Avenue
 Second Lok Yang Road
 Second Street
+Secondary Track
 Sector A Sin Ming Industrial Estate
-Sector B Sin Ming Ind Estate
+Sector B Sin Ming Industrial Estate
 Sector C Sin Ming Ind Estate
+Sedge Bridge
 Segar Close
 Segar Gardens
 Segar Grove
-Segar Rd
 Segar Road
-Sejar Road
 Selanting Green
 Selarang Park Road
 Selarang Ring Road
 Selarang Square
 Selegie Road
-Selegie Road Parklane Shopping Mall
-Seletar Aerospace Ave
 Seletar Aerospace Avenue
 Seletar Aerospace Crescent
 Seletar Aerospace Drive
@@ -5281,10 +4896,12 @@ Seletar Aerospace Lane
 Seletar Aerospace Link
 Seletar Aerospace Rise
 Seletar Aerospace Road 1
+Seletar Aerospace Road 2
 Seletar Aerospace View
 Seletar Aerospace Way
 Seletar Close
 Seletar Club Road
+Seletar Court
 Seletar Crescent
 Seletar Expressway
 Seletar Green Avenue
@@ -5292,59 +4909,77 @@ Seletar Green View
 Seletar Green Walk
 Seletar Hills Drive
 Seletar Link
+Seletar Link Flyover
 Seletar North Link
-Seletar Rd, Greenwich V
+Seletar Park Connector
 Seletar Road
 Seletar Satellite Station Road
 Seletar South Link
 Seletar Terrace
+Seletar Terrace Playground
 Seletar Waterworks Walk
+Seletar West Farmway 1
+Seletar West Farmway 2
+Seletar West Farmway 4
 Seletar West Farmway 5
+Seletar West Farmway 6
+Seletar West Farmway 7
+Seletar West Farmway 8
+Seletar West Farmway 9
 Seletar West Link
+Seletar West Park Connector
 Seletar West Road 1
 Seletar West Road 2
+Seletar West Road 3
+Seletar West Road 4
 Seletar West Walk
-Selvy Gardens
+Sembawang Alley
 Sembawang Avenue
-Sembawang Central
+Sembawang Bus Interchange
 Sembawang Close
 Sembawang Crescent
 Sembawang Drive
 Sembawang Green
 Sembawang Hills Drive
-Sembawang Hot Spring
 Sembawang Link
+Sembawang Park Connector
 Sembawang Place
 Sembawang Road
-Sembawang Roads
+Sembawang Square Estate
+Sembawang Terminal Ave 3
+Sembawang Terminal Avenue 1
+Sembawang Terminal Avenue 2
+Sembawang Terminal Avenue 3
+Sembawang Terminal Road C
+Sembawang Terminal Road D
+Sembawang Terminal Road E
 Sembawang Vista
 Sembawang Walk
 Sembawang Way
-Sembcorp/Banyan Avenue
-Sembcorp/Sakra Avenue
+Sembawang Way Bridge
+Sembcorp Marine Tuas Boulevard Yard
 Sembong Road
 Senang Crescent
-Seng Choon Engineering
-Seng Heng Engineering
-Seng Kang East Way
+Seng Chew Quarry
 Seng Poh Lane
 Seng Poh Road
+Sengkang Bus Interchange
 Sengkang Central
-Sengkang East Ave
 Sengkang East Avenue
 Sengkang East Drive
 Sengkang East Road
 Sengkang East Way
+Sengkang Floating Wetland path
+Sengkang Green Primary School
+Sengkang Riverside Bridge
 Sengkang Square
-Sengkang Square, Compass One
-Sengkang West Ave
 Sengkang West Avenue
+Sengkang West Depot
 Sengkang West Drive
-Sengkang West Drive and Seletar Link
 Sengkang West Road
 Sengkang West Way
 Senja Close
-Senja Gateway
+Senja Flyover
 Senja Green
 Senja Heights
 Senja Link
@@ -5352,6 +4987,9 @@ Senja Parc View Common Green
 Senja Road
 Senja Way
 Sennett Avenue
+Sennett Avenue Linear Park
+Sennett Avenue Open Space
+Sennett Avenue Playground
 Sennett Close
 Sennett Drive
 Sennett Lane
@@ -5366,26 +5004,21 @@ Senoko Loop
 Senoko Road
 Senoko South Road
 Senoko Way
+Sensory Trail
 Sentosa Boardwalk
+Sentosa cove private area
 Sentosa Gateway
-Sentosa Gateway RWS
-Sentosa Gateway, Universal Studios Singapore
-Sentosa Station
+Sentosa Gateway Tunnel
 Sentul Crescent
 Sentul Walk
-Ser Poh Farming and Trading Enterprise
-Seragoon North Avenue 1
-Seragoon North Avenue 2
-Serangoon Aenue 1
 Serangoon Avenue 1
 Serangoon Avenue 2
-serangoon Avenue 3
 Serangoon Avenue 3
 Serangoon Avenue 4
-Serangoon Broadway
+Serangoon Bus Interchange
 Serangoon Central
 Serangoon Central Drive
-Serangoon Central, Isetan-Nex Mall
+Serangoon Garden Circus
 Serangoon Garden Close
 Serangoon Garden Drive
 Serangoon Garden Place
@@ -5393,40 +5026,40 @@ Serangoon Garden Rise
 Serangoon Garden Terrace
 Serangoon Garden Way
 Serangoon Gardens
+Serangoon Gardens Country Club
+Serangoon Gardens Neighbourhood Police Post
 Serangoon Green
 Serangoon Lane
 Serangoon Link
-Serangoon North Avenue
 Serangoon North Avenue 1
+Serangoon North Avenue 1 Park
 Serangoon North Avenue 2
 Serangoon North Avenue 3
 Serangoon North Avenue 4
 Serangoon North Avenue 5
 Serangoon North Avenue 6
 Serangoon North View
+Serangoon Park Connector
 Serangoon River Close
 Serangoon River Lane
 Serangoon River Road
 Serangoon Road
-Serangoon Road;Dunlop Street
-Serangoon Steet
 Serangoon Terrace
+Serangoon Viaduct
 Serapong Course Road
 Serapong Hill Road
-Seraya Ave
 Seraya Avenue
 Seraya Crescent
 Seraya Lane
 Seraya Loop
+Seraya Place
 Seraya Road
 Serenade Walk
-Serene Centre #02-03
+Serenade Walk Playground
 service road
 Service Road
 Seton Close
-Seven Holt Road
-Sew-Eurodrive
-SG Marina Square
+SFA Neo Tiew Lane 2
 Shamah Terrace
 Shan Road
 Shanghai Road
@@ -5437,24 +5070,29 @@ Sheares Avenue
 Sheares Link
 Shelford Green
 Shelford Road
+Shelford Road Playground
+Sheltered walk path
 Sheltered Walkway
-Sheng Yuan Food Street
+Sheltered Walkway (Ramp)
+Sheltered walkway to bus stop
 Shenton Lane
 Shenton Way
+Shenton Way Bus Terminal
 Shenton Way Terminal
-Shenton Way, #01-02
-Shepherd&apos;s Drive
+Shepherd's Drive
 Sherwood Road
 Shipyard Crescent
 Shipyard Road
 Short Street
+Shortcut
+Shortcut Rail Corridor
 Shrewsbury Road
 Shunfu Gardens
 Shunfu Road
 Siak Kew Avenue
-Sian Tuan Ave
 Sian Tuan Avenue
 Siang Kuang Avenue
+Side Step
 sidewalk
 Siglap Avenue
 Siglap Avenue South
@@ -5463,107 +5101,113 @@ Siglap Close
 Siglap Drive
 Siglap Gardens
 Siglap Hill
+Siglap Linear Park
 Siglap Link
+Siglap Park Connector
 Siglap Plain
 Siglap Rise
 Siglap Road
 Siglap Terrace
+Siglap Valley
 Siglap View
 Siglap Walk
 Silat Avenue
-Silat Avenue, #01-40
+Silat Avenue Park
 Silat Road
+Silat Road Sikh Temple
+Silk Road of the Sea
+Siloso Beach View
 Siloso Beach Walk
 Siloso Road
+Siloso Trail
 Sim Lim Square
 Sime Park Hill
 Sime Road
+Sime Track
+Sime Underpass
 Simei Avenue
 Simei Green
 Simei Lane
+Simei Park Connector
 Simei Rise
 Simei Road
-Simei Street
 Simei Street 1
 Simei Street 2
 Simei Street 3
-Simei Street 3, Level 1 Main Atrium, Changi General Hospital
 Simei Street 4
-Simei Street 4q
 Simei Street 5
 Simei Street 6
-Simeo Street 5
 Simon Lane
 Simon Place
 Simon Road
+Simon Road Family Clinic
 Simon Walk
-Simpang 50
+Simpang Kiri Park Connector
 Sims Avenue
+Sims Avenue Centre
 Sims Avenue East
-Sims Avenue, #05-03 Chancerlodge Complex
+Sims Avenue Park Connector
 Sims Close
 Sims Drive
-Sims Drive #05-12B
 Sims Green
 Sims Lane
 Sims Place
 Sims View
 Sims Way
 Sin Koy Lane
-Sin Min Ave
-Sin Min Avenue
 Sin Ming Avenue
 Sin Ming drive
 Sin Ming Drive
 Sin Ming Lane
-Sin Ming Rd
+Sin Ming Place
 Sin Ming Road
-Sin Ming Road #01-05
 Sin Ming Street
 Sin Ming Walk
 SIN06 DC Internal Road
 Sinaran Drive
-Sinaran Seafood &amp; Catering
 Sing Avenue
 Sing Joo Walk
-Singapore Aerospace Manufacturing
 Singapore Botanic Gardens
-Singapore Central
+Singapore Botanic Gardens Gallop Extension
+Singapore Polytechnic Convention Centre Plaza
+Singapore University of Technology and Design
 Siok Wan Close
 Sirat Place
 Sirat Road
 Sireh Place
 Sit Wah Road
+Sit Wah Road dog run
 Six Battery Road
 Sixth Avenue
+Sixth Avenue Playground
+Sixth Avenue Residences
+Sixth Avenue Ville
 Sixth Crescent
 Sixth Lok Yang Road
 Sky Green
 Skyline @ Orchard Boulevard
 Skyline 360° @ Saint Thomas Walk
+Skyline Promenade
+SkyRide
+Slider
 Slim Barracks Rise
-SMC Manufacturing
-Smith street
+Small road leading to drop-off point
 Smith Street
-Smith Street #02-127 Chinatown Complex
-Smith Street New Bridge Centre
-Snip Avenue
-SNM Nursing Home@Riverwalk
-Snop Avenue
-Social Club House
+SMRT Kranji Depot
+SMRT Woodlands Bus Park
+SMRT Woodlands Depot
+SMU Concourse
+SMU Prinsep Street Residences
 Soho @ Central
 Soho 2 @ Central
-Sol &amp; Son Renovation Enterprise
 Solomon Street
-Somapah Rd
 Somapah Road
-Somerset Rd
 Somerset Road
 Somme Road
+Somme Road Playground
 Sommerville Estate Road
 Sommerville Road
 Sommerville Walk
-Songbird Terrace
 Soo Chow Drive
 Soo Chow Garden Road
 Soo Chow Rise
@@ -5576,34 +5220,35 @@ Soon Lee Street
 Soon Wing Road
 Sophia Road
 Sorby Adams Drive
+SOTA Steps
 South Beach Avenue
-South Bedok Road
 South Bridge Road
 South Buona Vista Road
 South Canal Road
 South Perimeter Road
+South View Path
 South Woodlands Drive
 South Woodlands Way
-Southern Ridges Walk
 SPC Adam Road
 SPC Admiralty Road
-Spize @ Rifle Range Road
+Sphinx Bridge
+Spingwood Height
 Spooner Road
-Sports Drive
-Spottiswoode
+Sports Drive 2
 Spottiswoode Park Road
-Spring
 Spring Grove
 Spring Street
 Springdew Terrace
-Springhill
+Springdew Terrace Substation
 Springleaf Avenue
+Springleaf Avenue Playground
 Springleaf Crescent
 Springleaf Drive
 Springleaf Garden
 Springleaf Heights
 Springleaf Lane
 Springleaf Link
+Springleaf PCN
 Springleaf Rise
 Springleaf Road
 Springleaf View
@@ -5623,43 +5268,44 @@ Springwood Crescent
 Springwood Height
 Springwood Terrace
 Springwood Walk
+Square 2
 Squirrel Lane
+Squirrel Trail
 Sreya Road
-St Andrew&apos;s Road
-ST Engineering
+Sri Murugan Hill Temple
 ST Engineering Digital Hub (Front Entrance)
-St George Road
-St John&apos;s Road
-St Joseph&apos;s Institution Driveway
-St Patrick&apos;s Road
-St Wilfred Road
-St. Patrick&apos;s Green
+St George's Road Blk 22
+St. Patrick's Green
 Stadium Boulevard
 Stadium Crescent
 Stadium Drive
 Stadium Lane
 Stadium Place
-Stadium Place, #01-56, Kallang Wave Mall
 Stadium Riverside Walk
 Stadium Road
 Stadium Walk
 Stadium Way
 Staff Centre Link
+Stagmont Park Connector
 Stagmont Ring
 Stagmont Road
 STAI Jalan Boon Lay
+Stair 1 , No Roof Access
 Stamford Road
-Stamford Road Capitol Piazza
 Stangee Close
+Stangee Place
+Stanley st
 Stanley Street
-Starburst Engineering
 Starhub Green
 Starlight Road
 Starlight Terrace
 Stars Avenue
+Stellar Entrance
 Stephen Lee Road
+Steps
 Stevens Close
 Stevens Drive
+Stevens Rd
 Stevens Road
 Still Lane
 Still Road
@@ -5667,12 +5313,11 @@ Still Road South
 Stirling Rise
 Stirling Road
 Stirling Walk
-Stockport Rd
 Stockport Road
 Stokesay Drive
 Stone Avenue
+Stone bridge
 Stores Road
-Strairs going down;Hearing Loop
 Straits Boulevard
 Straits View
 Strathmore Avenue
@@ -5683,35 +5328,51 @@ Stratton Green
 Stratton Place
 Stratton Road
 Stratton Walk
-Strength Avenue
+Stratton Walk Playground
+Street A
+Street E
+Street F
+Street Food
+Street GH
+Street H
+Street HW
+Street IJ
+Street JK
+Street KL
+Street LM
+Street RS
+Street Soccer
+Street Soccer Court
+Street Soccer Pitch
+Street Y1
+Street Y2
+Street Y30
+Street Y7
 Students Walk
 Sturdee Road
 Sturdee Road North
 Subhan Street
-Subway
 Sudan Road
 Suffolk Road
 Suffolk Walk
-Suites @ Cairnhill
 Sultan Gate
 Sultan-Link
 Sumang Crescent
 Sumang Lane
 Sumang Link
 Sumang Walk
-SuManYuan 素满园 - Sengkang Square
 Sumbawa Road
 Summer Green
-Summer Hill
 Summer Place
+Summit Path
+Sun plaza
 Sun Plaza Gardens
-Sun Plaza Spring
-Sun Plaza, 30 Sembawang Drive,
 Sunbird Avenue
 Sunbird Circle
-sunbird rd
+Sunbird Circle Playground
 Sunbird Road
 Sundridge Park Road
+Sungei Api Api Park
 Sungei Gedong Road
 Sungei Kadut Avenue
 Sungei Kadut Central
@@ -5721,28 +5382,37 @@ Sungei Kadut Lane
 Sungei Kadut Loop
 Sungei Kadut Street 1
 Sungei Kadut Street 2
+Sungei Kadut Street 3
+Sungei Kadut Street 4
+Sungei Kadut Street 5
+Sungei Kadut Street 6
 Sungei Kadut Way
 Sungei Road
+Sungei Seletar Bus Depot
+Sungei Serangoon Park Connector
 Sungei Tengah Close
 Sungei Tengah Lane
 Sungei Tengah Road
-Sungrove
-Sunny Metal &amp; Engineering
 Sunrise Avenue
 Sunrise Close
+Sunrise Close Playground
 Sunrise Drive
+Sunrise Drive Playground
+Sunrise Drive Playground II
 Sunrise Gardens
 Sunrise Lane
+Sunrise Place
 Sunrise Terrace
 Sunrise Walk
 Sunrise Way
-Sunsate Drive
+Sunrise Way Playground
 Sunset Avenue
 Sunset Close
 Sunset Crescent
 Sunset Drive
 Sunset Grove
 Sunset Heights
+Sunset Heights Open Space
 Sunset Lane
 Sunset Place
 Sunset Square
@@ -5751,6 +5421,9 @@ Sunset Vale
 Sunset View
 Sunset Walk
 Sunset Way
+Sunset Way Park
+Sunset Way Playground
+Sunset Way Residence
 Sunshine Gardens
 Sunshine Grove
 Sunshine Terrace
@@ -5759,42 +5432,16 @@ Suntec City
 Sunview Drive
 Sunview Road
 Sunview Way
-Supergreen
 Supertree Grove
 Supreme Court Lane
 Surin Avenue
 Surin Lane
 Surin Road
 Surrey Road
-Svc 11 (Roundtrip from Lorong 1 Geylang Terminal)
-Svc 140 (Roundtrip from Lorong 1 Geylang Terminal)
-Svc 141 (Lorong 1 Geylang Terminal → Toa Payoh Interchange)
-Svc 141 (Lorong 1 Geylang Terminal ↔ Toa Payoh Interchange)
-Svc 141 (Toa Payoh Interchange → Lorong 1 Geylang Terminal)
-Svc 175 (Clementi Interchange → Lorong 1 Geylang Terminal)
-Svc 175 (Clementi Interchange ↔ Lorong 1 Geylang Terminal)
-Svc 175 (Lorong 1 Geylang Terminal → Clementi Interchange)
-Svc 21A (Before Lorong 18 Geylang → Before Tai Hoe Hotel)
-Svc 853 (Lorong 1 Geylang Terminal → Yishun Interchange)
-Svc 853 (Yishun Interchange → Lorong 1 Geylang Terminal)
-Svc 853 (Yishun Interchange ↔ Lorong 1 Geylang Terminal)
-Svc 961 (Lorong 1 Geylang Terminal → Woodlands Temporary Interchange)
-Svc 961 (Woodlands Temporary Interchange → Lorong 1 Geylang Terminal)
-Svc 961 (Woodlands Temporary Interchange ↔ Lorong 1 Geylang Terminal)
-Svc 961M (Lorong 1 Geylang Terminal → Woodlands Temporary Interchange)
-Svc 961M (Woodlands Temporary Interchange → Lorong 1 Geylang Terminal)
-Svc 961M (Woodlands Temporary Interchange ↔ Lorong 1 Geylang Terminal)
-Svc 980 (Lorong 1 Geylang Terminal → Sembawang Interchange)
-Svc 980 (Sembawang Interchange → Lorong 1 Geylang Terminal)
-Svc 980 (Sembawang Interchange ↔ Lorong 1 Geylang Terminal)
-Svc 985 (Choa Chu Kang Interchange → Lorong 1 Geylang Terminal)
-Svc 985 (Choa Chu Kang Interchange ↔ Lorong 1 Geylang Terminal)
-Svc 985 (Lorong 1 Geylang Terminal → Choa Chu Kang Interchange)
+Sussex Garden
 Swan Lake Avenue
 Swanage Road
 Swee Hee Lane
-Swee Huat Heng Engineering
-Swees Engineering
 Swettenham Close
 Swettenham Green
 Swettenham Road
@@ -5806,9 +5453,9 @@ Swiss Cottage Estate
 Swiss View
 Syed Alwi Road
 Symphony Heights
+Symphony Streams
 Synagogue Street
-Synheat Manufacturing
-Syntech Switchgear &amp; Engineering
+Syonan Jinja
 T1 Arrival Crescent
 T1 Basement Drive
 T1 Boulevard
@@ -5818,7 +5465,6 @@ T2 Basement Drive
 T2 Boulevard
 T2 Departure Drive
 T2 North Link
-T2 VIP Drive
 T3 Arrival Drive
 T3 Basement Drive
 T3 Departure Drive
@@ -5826,14 +5472,20 @@ T4 Arrival Drive
 T4 Boulevard
 T4 Crescent
 T4 Departure Drive
+T4 Flyover
 T4 Link
+T4 Underpass
 T4 Way
+T43
+T46
 Taban Loop
+Tactile Trellis
 Tagore Avenue
 Tagore Drive
 Tagore Industrial Avenue
 Tagore Lane
 Tagore Road
+Tagore Road Substation
 Tah Ching Road
 Tai Gin Road
 Tai Hwan Avenue
@@ -5849,7 +5501,9 @@ Tai Hwan Walk
 Tai Ken Gardens
 Tai Keng Avenue
 Tai Keng Gardens
+Tai Keng Gardens Playground
 Tai Keng Lane
+Tai Keng Place
 Tai Keng Terrace
 Tai Seng Avenue
 Tai Seng Drive
@@ -5857,26 +5511,24 @@ Tai Seng Link
 Tai Seng Street
 Tai Thong Crescent
 Tai Yuan Heights
-Takashimaya S.C.
-Talbot Hill
 Talma Road
+Taman Bedok
+Taman Ho Swee
 Taman Kembangan
 Taman Mas Merah
 Taman Nakhoda
 Taman Permata
-Taman Permata3
 Taman Selamat
 Taman Serasi
+Taman Siglap
 Taman Sireh
 Taman Warna
 Tamarind Road
-Tampines 1
-Tampines Ave 3
-Tampines Ave 3, #01-09
-Tampines Ave 4
+Tamarind Road Playground
 Tampines Avenue
 Tampines Avenue 1
 Tampines Avenue 10
+Tampines Avenue 11
 Tampines Avenue 12
 Tampines Avenue 2
 Tampines Avenue 3
@@ -5886,52 +5538,53 @@ Tampines Avenue 6
 Tampines Avenue 7
 Tampines Avenue 8
 Tampines Avenue 9
-Tampines Boulevard
-Tampines Central
+Tampines Boulevard Park (East)
+Tampines Boulevard Park (West)
+Tampines Bus Interchange
 Tampines Central 1
+Tampines Central 2
+Tampines Central 3
+Tampines Central 4
 Tampines Central 5
-Tampines Central 5, #01-19, Century Square
-Tampines Central 5, #01-50,
 Tampines Central 6
 Tampines Central 7
 Tampines Central 8
+Tampines Central Park
 Tampines Central Shopping Street
 Tampines Concourse
+Tampines Concourse Interchange
 Tampines Eco Green
 Tampines Expressway
 Tampines Grande
 Tampines Green
-Tampines GreenSpring
-Tampines GreenTerrace
 Tampines Grove
+Tampines Industrial Avenue 1
+Tampines Industrial Avenue 2
 Tampines Industrial Avenue 3
+Tampines Industrial Avenue 4
 Tampines Industrial Avenue 5
 Tampines Industrial Crescent
 Tampines Industrial Drive
 Tampines Lane
 Tampines Link
-Tampines Mall
-Tampines Mall, Tampines Central Rd, #02-01
 Tampines N2 Shopping Street
-Tampines north drive 1
+Tampines North Bus Interchange
 Tampines North Drive 1
 Tampines North Drive 2
 Tampines North Drive 3
 Tampines North Drive 4
 Tampines North Drive 5
-Tampines PalmWalk
+Tampines Park Connector
 Tampines Place
 Tampines Road
-Tampines Spring
+Tampines Road to Upper Serangoon Road Shortcut
 Tampines Street 11
-Tampines Street 11 #01-20
-Tampines Street 11 01-03
-Tampines Street 11 01-34
 Tampines Street 12
 Tampines Street 21
 Tampines Street 22
 Tampines Street 23
 Tampines Street 24
+Tampines Street 31
 Tampines Street 32
 Tampines Street 33
 Tampines Street 34
@@ -5956,26 +5609,28 @@ Tampines Street 91
 Tampines Street 92
 Tampines Street 93
 Tampines Street 94
+Tampines Street 95
 Tampines Street 96
-Tampines Sunrise
+Tampines Viaduct
 Tampines Walk
-Tampines Walk, Our Tampines Hub #01-104,
 Tan Boon Chong Avenue
 Tan Kah Kee Drive
 Tan Kim Cheng Road
 Tan Lark Sye Walk
-Tan Quee lan Street
 Tan Quee Lan Street
 Tan Sim Boh Road
 Tan Tock Seng Link
+Tan Tye Place
 Tanah Merah Besar Lane
 Tanah Merah Besar Road
 Tanah Merah Coast Road
 Tanah Merah Ferry Road
-Tanah Merah Green
-Tanah Merah Kasturi
+Tanah Merah Ferry Terminal
+Tanah Merah Flyover
+Tanah Merah Green Viaduct
 Tanah Merah Kechil Avenue
 Tanah Merah Kechil Link
+Tanah Merah Kechil Ridge
 Tanah Merah Kechil Rise
 Tanah Merah Kechil Road
 Tanah Merah Kechil Road South
@@ -5985,33 +5640,37 @@ Tanglin Halt Close
 Tanglin Halt Green
 Tanglin Halt Road
 Tanglin Hill
+Tanglin Hill Meadows
 Tanglin Rise
 Tanglin Road
-Tanglin Road Tanglin Mall
 Tangmere Road
 Tanjong Beach Walk
 Tanjong Katong Road
-Tanjong Katong Road, #01-17/18/19
+Tanjong Katong Road South
 Tanjong Kling Road
 Tanjong Paagar Terminal Avenue
-Tanjong Pagar Plaza
-Tanjong Pagar Rd
+Tanjong Pagar Drive 2
 Tanjong Pagar Road
 Tanjong Pagar Terminal Avenue
 Tanjong Penjuru
 Tanjong Penjuru Crescent
 Tanjong Rhu Close
+Tanjong Rhu Footbridge
+Tanjong Rhu Place
+Tanjong Rhu Promenade
 Tanjong Rhu Road
-Tanjong Tajam Hill
+Tanjong Rhu View
 Tank Road
-Tannery Building, No 1 Tannery Road, #09-04
 Tannery Lane
 Tannery Road
 Tao Ching Road
 Tasmania Road
 Tavistock Avenue
+Tavistock Avenue Park
+Taxi Pick Up
 Tay Lian Teck Drive
 Tay Lian Teck Road
+TC
 Teban Gardens
 Teban Gardens Crescent
 Teban Gardens Road
@@ -6019,13 +5678,10 @@ Teban Heights
 Teban Place
 Tebing Lane
 Tech Park Crescent
-Techlink
 Technology Crescent
 Technology Drive
 Teck Chye Terrace
 Teck Ghee Square
-Teck Hiang Gardens
-Teck Lim Rd
 Teck Lim Road
 Teck Whye Avenue
 Teck Whye Crescent
@@ -6036,6 +5692,7 @@ Teck Whye Walk
 Tekka Lane
 Tekong Highway
 Tekong Parade Square
+Telecoms Link Mobile
 Telegraph Street
 Telok Ayer Green
 Telok Ayer Street
@@ -6043,24 +5700,15 @@ Telok Blangah Crescent
 Telok Blangah Drive
 Telok Blangah Green
 Telok Blangah Heights
-Telok Blangah Hill
 Telok Blangah Rise
 Telok Blangah Road
 Telok Blangah Street 31
 Telok Blangah Street 32
 Telok Blangah Way
-Telok Kurau
-Telok Kurau Court
 Telok Kurau Road
 Telok Paku Road
 Temasek Avenue
-Temasek Blvd, #02-603/604
 Temasek Boulevard
-Temasek Boulevard #01-433 Suntec City Mall
-Temasek Boulevard #02-393/394 Suntec Convention Centre
-Temasek Boulevard, #02-613/614, Suntec City Mall
-Temasek Polytechnic
-Temasek Tower
 Tembeling Grove
 Tembeling Lane
 Tembeling Road
@@ -6069,13 +5717,15 @@ Tembusu Crescent
 Tembusu Drive
 Tembusu Road
 Temenggong Road
-Tempco Manufacturing
+Temp POB 19
 Temple Street
+temporary foot path
 Ten Square
-Tenderfresh - 118 Rivervale Drive
+Tender Foot
 Teng Tong Road
 Tengah Avenue
 Tengah Boulevard
+Tengah Bus Interchange
 Tengah Central
 Tengah Close
 Tengah Drive
@@ -6091,101 +5741,98 @@ Teo Kim Eng Road
 Teow Hock Avenue
 Terang Bulan Avenue
 Terasse Lane
+Terentang Trail
 Terra Hill
-Tesla Supercharger - Millenia Walk
-Tessensohn Rd
+Terrace Chinese Kitchen
+Terrace Garden
+Terusan Edge
 Tessensohn Road
 Tew Chew Street
-Thai Thong Crescent
 Tham Soong Avenue
-Thasevi Food Jalan Kayu Prata
-The Balmoral spring
 The Beo Crescent
-The Cairnhill
+The Boulevard Residences
 The Central Greenway
-The Centrepoint
-The Clementi Mall
-The Edge on Cairnhill
+The Courtyard
 The Esplanade
-The Fernhill
-The Gateway
-The Grandhill
+The Flagstaff
+The Foothills
+The Gardens At Bishan
+The Gardens at Gerald
+The Green Collection
+The Green Party
 The Gun Terrace
+The Helix
 The Hill
-The Hive North Bridge Road
+The Hill @ One North
 The Inglewood
 The Knolls
-The Ladyhill
-The Light At Cairnhill
+The Lawn
+The Lighthouse
 The Loop
-The Meyerise
+The Lost Ark
 The Orange Grove
 The Oval
-The Oval Seletar Aerospace Park
-The Riverwalk
-The Royal Runway
-The Seletar Mall
-The Sensoria
-The Stage Walk
-The Star Vista
+The Studio/Rise of Asia Museum (2024)
 The Suites at Central
-The Sunny Spring
 The Terrace
 The Tropic Gardens
-The Vermont On Cairnhill
-The Woodgrove
-The Work Boulevard
+The Verandah
 Thiam Siew Avenue
 Third Avenue
 Third Chin Bee Road
 Third Hospital Avenue
 Third Lok Yang Road
 Third Street
-This is a private road
-This road is a private road
 Thomson Close
+Thomson Grand
 Thomson Green
+Thomson Green Playground
 Thomson Grove
 Thomson Heights
 Thomson Hill
 Thomson Hills Drive
 Thomson Lane
 Thomson Ridge
+Thomson Rise Estate
 Thomson Road
+Thomson Road Baptist Church
+Thomson Road Playground
 Thomson Terrace
 Thomson View
 Thomson Walk
+Thomson Walk Playground
 Thong Bee Road
-Thong Hup Gardens
+Thong Hub Gardens Pte Ltd
 Thong Soon Avenue
 Thong Soon Green
+Thong Soon Green Playground
 Thong Soon Road
 Thrift Drive
-Thunder Tea Rise
-Times Avenue
+Thrift Drive Open Space
+Tiger Bridge
+Tiger Lookout
+Tiong Bahru Plaza Forecourt
 Tiong Bahru Road
 Tiong Poh Avenue
 Tiong Poh Road
 To.Tree.Top.Walk
+Toa Payoh Bus Interchange
 Toa Payoh Central
+Toa Payoh Central Community Club
+Toa Payoh Central Horizon
 Toa Payoh East
 Toa Payoh Green
 Toa Payoh Industrial Park
 Toa Payoh Link
-Toa Payoh Lorong 1
-Toa Payoh Lorong 2
-Toa Payoh Lorong 4
-Toa Payoh Lorong 7
 Toa Payoh Lorong 7 Park
-Toa Payoh Lorong 8
 Toa Payoh Lorong 8 Market
 Toa Payoh North
-Toa Payoh Palm Spring
+Toa Payoh North Flyover
 Toa Payoh Rise
-Toa Payoh Spring
 Toa Payoh West
 Toh Avenue
 Toh Close
+Toh Cresccent
 Toh Crescent
 Toh Drive
 Toh Guan Grove
@@ -6194,11 +5841,11 @@ Toh Guan Road East
 Toh Heights
 Toh Street
 Toh Tuck Avenue
+Toh Tuck Avenue Building Park
 Toh Tuck Close
 Toh Tuck Crescent
 Toh Tuck Drive
 Toh Tuck Link
-Toh Tuck Pl
 Toh Tuck Place
 Toh Tuck Rise
 Toh Tuck Road
@@ -6207,7 +5854,6 @@ Toh Tuck Walk
 Toh Yi Drive
 Toh Yi Gardens
 Toh Yi Road
-Toho Green
 Tomlinson Heights
 Tomlinson Road
 Tong Gardens
@@ -6215,34 +5861,33 @@ Tong Hwa Street
 Tong Lee Road
 Tong Watt Road
 Topaz Road
+TOPS Avenue 3
 Toranto Road
 Toronto Road
 Tosca Street
 Tosca Terrace
-Towards Alexandra Road
-Towards Pandan Gardens
+Town Council Cycling Path
 Town Green
 Town Hall Link
 Towner Heights
 Towner Road
 Townshend Road
-Tph Guan Road East
+TPE Park Connector
 Tractor Road
-Tradeleader Enterprise
-Traditional Haig Road Putu Piring
+Tram Safari Route
 Transit Road
 Tras Link
+Tras Link Park
 Tras Street
-Tras Street #01-05, 100 AM
+Treasure Hunters
 Treasure Island
+Treetop Trail
 TreeTop Walk
 Trengganu Street
 Trevose Crescent
 Trevose Place
-Tropical Spring
-Truefitt &amp; Hill
+True Way Presby Church
 Truro Road
-TTJ Design and Engineering
 Tu Fu Avenue
 Tua Kong Walk
 Tuah Road
@@ -6271,13 +5916,18 @@ Tuas Bay Drive
 Tuas Bay Lane
 Tuas Bay Link
 Tuas Bay Walk
+Tuas Checkpoint
+Tuas Checkpoint - Block A1
+Tuas Checkpoint - Block A2
+Tuas Checkpoint - Block A3
+Tuas Circus
 Tuas Crescent
 Tuas Drive 1
 Tuas Drive 2
 Tuas F2 Avenue
+Tuas F2 Drive 2
 Tuas F3 Avenue
 Tuas Lane
-Tuas Link
 Tuas Link 1
 Tuas Link 2
 Tuas Link 3
@@ -6289,12 +5939,14 @@ Tuas Road
 Tuas South Avenue 1
 Tuas South Avenue 10
 Tuas South Avenue 12
-Tuas South Avenue 14
+Tuas South Avenue 16
+Tuas South Avenue 18
 Tuas South Avenue 2
 Tuas South Avenue 3
 Tuas South Avenue 4
 Tuas South Avenue 5
 Tuas South Avenue 6
+Tuas South Avenue 7
 Tuas South Avenue 8
 Tuas South Avenue 9
 Tuas South Boulevard
@@ -6304,7 +5956,6 @@ Tuas South Link 2
 Tuas South Link 3
 Tuas South Link 4
 Tuas South Place
-Tuas South South Lane
 Tuas South Street 1
 Tuas South Street 10
 Tuas South Street 11
@@ -6320,8 +5971,9 @@ Tuas South Street 8
 Tuas South Street 9
 Tuas South Way
 Tuas Street
+Tuas Terminal
 Tuas Terminal Gateway
-Tuas View Avenue 10
+Tuas Viaduct
 Tuas View Avenue 14
 Tuas View Circuit
 Tuas View Close
@@ -6333,83 +5985,79 @@ Tuas View Loop
 Tuas View Place
 Tuas View Square
 Tuas View Walk 1
+Tuas View Walk 2
 Tuas West Avenue
 Tuas West Coast Road
 Tuas West Drive
 Tuas West Road
 Tuas West Street
 Tudor Close
+tukang innovation dr
 Tukang Innovation Drive
 Tukang Innovation Grove
 Tukang lnnovation Lane
 Tung Po Avenue
 Turf Club Avenue
-Turf Club Rd
 Turf Club Road
 Turnhouse Road
+Turut Track
 Twin Heights
 Tyersall Avenue
 Tyersall Road
 Tyrwhitt Road
-Ubi Ave 1
 Ubi Avenue 1
 Ubi Avenue 2
 Ubi Avenue 3
 Ubi Avenue 4
 Ubi Close
 Ubi Crescent
-Ubi Crescent Number One Building
 Ubi Grove
 Ubi Link
 Ubi Road 1
-Ubi Road 1 #01-23
-Ubi Road 1 #05-28
-Ubi Road 1, Oxley Bizhub #10-55
 Ubi Road 2
 Ubi Road 3
 Ubi Road 4
 Ubi View
-UE Bizhub Central
 UE Square
-UE Square/Before Mohd Sultan Road
+UE Square Residences
 Ulu Pandan Park Connector
+Ulu Pandan Park Connector (ROUGH)
 Ulu Pandan Road
-UMW Equipment &amp; Engineering
+Ulu Sembawang Park Connector
+Underground Path from Tanjong Pagar MRT
 Underground Walkway
+Underpass to Amber Garden
 Underpass to Meyer Road
-Unik Engineering
-Union Square
+Unexplored
 Union Square Central
+Union Square Residences
 Union Street
 United Medicare Centre at Elizabeth Drive
 United Square
 Unity Street
-Universal Studio (Jurassic Outfitter), Festive Walk Level 2, Basement 1 Forum (Near Shops), Forum Level 1, Forum Basement 1, Near Waterfront Monorail Station
 University Road
+University Road Park
 University Walk
-UOB Centre
+Up enbankment
 Upavon Road
-Upp Bt Timah View
-Upper Ajunied Road
 Upper Aljunied Lane
 Upper Aljunied Link
 Upper Aljunied Road
 Upper Bedok Road
 Upper Boon Keng Road
 UPPER BOON KENG ROAD
-Upper Bukit Timah Rd
+Upper Boon Keng Underpass
 Upper Bukit Timah Road
+Upper Bukit Timah View
 Upper Changi Link
 Upper Changi Road
 Upper Changi Road East
 Upper Changi Road North
 Upper Circular Road
-Upper Cross St
 Upper Cross Street
-Upper Cross Street, #01-38 Hong Lim Complex
 Upper Dickson Road
-Upper East Coast Rd
 Upper East Coast Road
+Upper East Coast Terminal
 Upper Heliconia Drive
 Upper Hokien Street
 Upper Jurong Road
@@ -6417,43 +6065,42 @@ Upper Neram Road
 Upper Palm Valley Road
 Upper Pasir Merah Road
 Upper Paya Lebar Road
-Upper Pickering Stree
+Upper Paya Lebar Underpass
+Upper Peirce Reservoir
 Upper Pickering Street
 Upper Ring Road
 Upper Serangoon Crescent
-Upper Serangoon Rd
 Upper Serangoon Road
-Upper Serangoon Road, #01-02 The Poiz Centre
 Upper Serangoon View
-Upper Thomson
-Upper Thomson Rd
+Upper Stream Trek
 Upper Thomson Road
-Upper Thomson Road #01-37A Thomson Plaza
 Upper Toh Tuck Terrace
 Upper Weld Road
-Upper Wilkie Rd
 Upper Wilkie Road
 Upperhouse at Orchard Boulevard
-Utoc Engineering
-UTOC Engineering
+Urban Rise @ Woodlands
 Valley Road
-Vanda Ave
+Valour Primary School G1
+Valour Primary School G2
+Valour Primary School G3
+Valour Primary School G4
 Vanda Avenue
 Vanda Crescent
 Vanda Drive
 Vanda Link
 Vanda Road
 Varsity Park Entrance / Exit Road
+Varsity Park Path
+Varsity Park Path 2
+Varsity Park Path 3
+Varsity PArk Path 3
 Vaughan Road
 Veerago Close
 Veerappa Chitty Lane
 Veerasamy Road
-Veggie House 一芳 - Hougang Green
 Velocity @ Novena Square
-Ventura Heights
 Venture Avenue
 Venture Drive
-Venture Drive #02-17
 Venus Drive
 Venus Green
 Venus Link
@@ -6466,33 +6113,36 @@ Verde Place
 Verde View
 Verde Walk
 Verdun Road
+Vernon Park
 Victoria Lane
 Victoria Link
 Victoria Park Close
 Victoria Park Grove
 Victoria Park Road
 Victoria Street
-Victoria Street Bugis Junction
 Victory Heights
+Viewing Point
 Vigilante Drive
+Villa Verde Bridge
 Vine Grove
-Virogreen
 Vista Exchange Green
-Vista Exchange Green, B1-21. The Star Vista.
 Vista Terrace
 Vita Green
-VivoCity
 Waddington Road
-Wah Son Engineering
 Wajek Walk
 Wak Hassan Drive
 Wak Hassan Place
+Walking track
 Walkway at 25 Jalan Membina
 Walkway at 25 Jalan Membina Residential Building
+walkway by vines
 Walkway of 25 Jalan Membina Residential
+Walkway to Nest
+Walkway with shelter
+Wallaby Trail
+Wallace Trail
 Wallace Way
 Wallich Street
-Wallich Street #01-08 Tanjong Pagar Centre
 Walmer Drive
 Walshe Road
 Walton Road
@@ -6503,62 +6153,64 @@ Waringin Park
 Waringin Walk
 Warna Road
 Warwick Road
-Water Sports Slipway
+Watchover Blue
 Water Terrace
 Waterfall Gardens
+Waterfall Station
+Waterfront Promenade
 Waterloo Close
 Waterloo Link
 Waterloo Street
-Waterway Point
-Waterway Point, 83 Punggol Central
 Watten Close
 Watten Drive
 Watten Estate Road
 Watten Heights
-Watten Hill
+Watten Heights Playground
 Watten Park
 Watten Rise
 Watten Terrace
 Watten View
+Wave Bridge
+Wave Plaza
 Wee Nam Road
 Weld Road
+Weld Road Bridge
 Wellington Circle
 Wellington Road
-Wellseng Enterprise
 Wessex Village Square
-West Bukit Timah Hill
 West Camp Road
 West Coast Avenue
+West Coast Carpark
 West Coast Crescent
 West Coast Drive
 West Coast Ferry Road
-West Coast Gardens
 West Coast Green
+West Coast Green Playground
 West Coast Grove
 West Coast Highway
 West Coast Lane
 West Coast Link
 West Coast Park
+West Coast Park Connector
 West Coast Place
-West Coast Rd, #01-01
 West Coast Rise
 West Coast Road
 West Coast Terrace
 West Coast Vale
+West Coast View
 West Coast Walk
 West Coast Way
 West Gate Road
-West Park BizCentral
+West Grove Primary School
+West Hill @ Bukit Batok
 West Perimeter Road
 West Sea Gardens
 Westbourne Road
 Westerhout Road
-Westgate
+Western Water Catchment
 Westlake Avenue
 Westlite Jalan Tukang
-Westpeak Terrace
 Westridge Walk
-Westview Gardens
 Westwood Avenue
 Westwood Crescent
 Westwood Drive
@@ -6566,26 +6218,30 @@ Westwood Road
 Westwood Terrace
 Westwood Walk
 Weyhill Close
-Whampoa 88 Enterprise
 Whampoa Drive
 Whampoa East
+Whampoa Flyover
 Whampoa Gardens
+Whampoa Gardens Community Garden
 Whampoa Heights
+Whampoa North
+Whampoa Park Connector
 Whampoa Road
 Whampoa South
-Whampoa Spring
 Whampoa West
+Wheelchair ramp
 Whitchurch Road
 White House Park
 White House Road
-White Restaurant @ Jalan Tampang
+White Sands Taxi Stand
 Whitley Road
 Wholesale Centre
-Wide Chord Fan Blade Manufacturing
+Whompoa Flyover
 Wilby Central
 Wilby Road
 Wilkie Road
 Wilkie Terrace
+Wilkie Terrace Christian Assembly
 Wilkinson Road
 Willow Avenue
 Wilmonar Avenue
@@ -6599,26 +6255,31 @@ Windsor Park Road
 Windy Heights
 Winstedt Drive
 Winstedt Road
-Wintrade Enterprise
 Wishart Road
 Wittering Road
+Wobbly suspension bridge
 Woking Road
 Wolskel Road
 Wong Chin Yoke Road
 Woo Mon Chew Road
-Woodgrove
+Woodcutter's Trail
+Wooden bridge
+Wooden path
 Woodgrove Avenue
 Woodgrove Drive
 Woodgrove View
 Woodgrove Walk
 Woodhaven Drive
 Woodland Drive 75
-Woodland View
-Woodlands
-Woodlands Ave 1
-Woodlands Ave 3
-Woodlands Ave 9
+Woodlands (Ave 12) Park Connector
+Woodlands (Ave 2) Park Connector
+Woodlands (Ave 3) Park Connector
+Woodlands (Ave 5) Park Connector
+Woodlands (Ave 7) Park Connector
+Woodlands (SLE) Park Connector
+Woodlands (St 13) Park Connector
 Woodlands Avenue 1
+Woodlands Avenue 10
 Woodlands Avenue 12
 Woodlands Avenue 2
 Woodlands Avenue 3
@@ -6627,31 +6288,62 @@ Woodlands Avenue 5
 Woodlands Avenue 6
 Woodlands Avenue 7
 Woodlands Avenue 8
+Woodlands Avenue 8 Substation 230kV
 Woodlands Avenue 9
+Woodlands Border Checkpoint - Zone 1
+Woodlands Border Checkpoint - Zone 2
+Woodlands Border Checkpoint - Zone 3
+Woodlands Border Checkpoint - Zone 4
+Woodlands border checkpoint (buses)
+Woodlands border checkpoint (cars)
+Woodlands border checkpoint (cars) - 2/09
+Woodlands border checkpoint (cars) - 2/10
+Woodlands border checkpoint (cars) - 2/11
+Woodlands border checkpoint (cars) - 2/12
+Woodlands border checkpoint (cars) - 2/13
+Woodlands border checkpoint (cars) - 2/14
+Woodlands border checkpoint (cars) - 2/15
+Woodlands border checkpoint (cars) - 2/16
+Woodlands border checkpoint (cars) - 2/17
+Woodlands border checkpoint (cars) - 2/18
+Woodlands border checkpoint (cars) - zone 1
+Woodlands border checkpoint (cars) - zone 2
+Woodlands border checkpoint (cars) - zone 3
+Woodlands border checkpoint (cars) - zone 4
+Woodlands border checkpoint (Heavy Vehicle)
+Woodlands border checkpoint (Lorries)
+Woodlands border checkpoint (motorcycle)
+Woodlands border checkpoint (motorcycles, bicycles biometric clearing)
+Woodlands border checkpoint (motorcycles, manual clearing)
 Woodlands Centre Road
+Woodlands Checkpoint Viaduct
 Woodlands Circle
 Woodlands Close
 Woodlands Crescent
+Woodlands Crescent Park
 Woodlands Crossing
 Woodlands Drive 14
 Woodlands Drive 16
 Woodlands Drive 17
 Woodlands Drive 40
+Woodlands Drive 42
 Woodlands Drive 43
 Woodlands Drive 44
 Woodlands Drive 50
+Woodlands Drive 52
 Woodlands Drive 53
 Woodlands Drive 60
+Woodlands Drive 61
 Woodlands Drive 62
 Woodlands Drive 63
 Woodlands Drive 64
+Woodlands Drive 65
 Woodlands Drive 70
 Woodlands Drive 71
-Woodlands Drive 71, Kampung Admiralty #01-02,
 Woodlands Drive 72
 Woodlands Drive 73
+Woodlands Drive 91
 Woodlands Height
-Woodlands Industrial Park D
 Woodlands Industrial Park D Street 1
 Woodlands Industrial Park D Street 2
 Woodlands Industrial Park E1
@@ -6662,9 +6354,9 @@ Woodlands Industrial Park E5
 Woodlands Industrial Park E6
 Woodlands Industrial Park E7
 Woodlands Industrial Park E8
-Woodlands Industrial Park E8/E9
 Woodlands Industrial Park E9
-Woodlands Industrial Park E9 #01-01
+Woodlands Integrated Transport Hub
+Woodlands Jetty
 Woodlands Lane
 Woodlands Link
 Woodlands Loop
@@ -6672,12 +6364,14 @@ Woodlands North Coast Road
 Woodlands North Grove
 Woodlands North Link
 Woodlands North Road
+Woodlands old checkpoint
+Woodlands Ring Primary School
 Woodlands Ring Road
+Woodlands Ring Secondary School
 Woodlands Rise
 Woodlands Road
 Woodlands Sector 1
 Woodlands Sector 2
-Woodlands Spring
 Woodlands Square
 Woodlands Street 11
 Woodlands Street 12
@@ -6688,47 +6382,55 @@ Woodlands Street 41
 Woodlands Street 81
 Woodlands Street 82
 Woodlands Street 83
+Woodlands Temporary Bus Interchange
 Woodlands Terrace
+Woodlands train checkpoint - Woodlands bus checkpoint
+Woodlands View
 Woodlands Walk
+Woodleigh Bus Interchange
 Woodleigh Close
 Woodleigh Lane
 Woodleigh Link
 Woodleigh Park
+Woodleigh Underpass
 Woods Square
+Woods Square CPN 1
+Woods Square CPN 2
 Woodsville Close
+Woodsville Flyover
+Woodsville Tunnel
 Woollerton Drive
 Woollerton Park
 Woolwich Road
 Worcester Road
-Worchester Road
 Workshop Road
-Workspace Expresso Bar Novena Square
 Worthing Road
 Xilin Avenue
 Yan Kit Road
 Yardwood Avenue
 Yarrow Gardens
-Yarwood Ave
 Yarwood Avenue
+Yellowstorm Street 1
+Yellowstorm Street 2
+Yellowstorm Street 3
 Yew Mei Green
 Yew Siang Road
-Yew Tee
 Yew Tee Close
 Yew Tee Square
 YIH Square
+Yio Chu Kang Bus Interchange
 Yio Chu Kang Crescent
 Yio Chu Kang Drive
 Yio Chu Kang Gardens
 Yio Chu Kang Green
 Yio Chu Kang Grove
 Yio Chu Kang Heights
+Yio Chu Kang Interchange
 Yio Chu Kang Link
 Yio Chu Kang Road
-Yio Chu Kang Road #01-02
 Yio Chu Kang Terrace
-Yishun Ave 2 #01-07/08 Northpoint
-Yishun Avenue
 Yishun Avenue 1
+Yishun Avenue 10
 Yishun Avenue 11
 Yishun Avenue 2
 Yishun Avenue 3
@@ -6738,23 +6440,20 @@ Yishun Avenue 6
 Yishun Avenue 7
 Yishun Avenue 8
 Yishun Avenue 9
-Yishun Boardwalk
+Yishun Bus Interchange
 Yishun Central
 Yishun Central 1
 Yishun Central 2
 Yishun Central Service Road
 Yishun Close
+Yishun Emerald
 Yishun Green Link
-Yishun Greenwalk
 Yishun Industrial Park A
 Yishun Industrial Street 1
 Yishun Lane
-Yishun Nature Park @ Yishun Greenwalk
+Yishun Park Connector
 Yishun Ring Road
-Yishun Rivergreen
-Yishun Riverwalk
-Yishun Spring
-Yishun St 51
+Yishun Sapphire
 Yishun Street 11
 Yishun Street 20
 Yishun Street 21
@@ -6764,6 +6463,7 @@ Yishun Street 31
 Yishun Street 41
 Yishun Street 42
 Yishun Street 43
+Yishun Street 44
 Yishun Street 51
 Yishun Street 52
 Yishun Street 53
@@ -6773,7 +6473,7 @@ Yishun Street 72
 Yishun Street 81
 Yishun Town Square
 Yishun Walk
-yo:HA Hostel @ Pearl&apos;s Hill
+yo:HA Hostel @ Pearl's Hill
 Yong Siak Street
 York Hill
 York Place
@@ -6781,23 +6481,27 @@ York Road
 Yotel Singapore Orchard Road
 Youngberg Terrace
 Yuan Ching Road
-Yuhua Spring
 Yuk Tong Avenue
 Yung An Road
 Yung Ho Road
-Yung Ho Spring
 Yung Ho Walk
 Yung Kuang Road
 Yung Loh Road
-Yung Shang Road
 Yung Sheng Road
 Yunnan Crescent
-Yunnan Drive
+Yunnan Drive 1
+Yunnan Drive 2
+Yunnan Drive 3
 Yunnan Gardens
 Yunnan Road
-Yunnan Walk
+Yunnan Walk 1
+Yunnan Walk 2
+Yunnan Walk 3
 Zehnder Road
+Zheng Hua Park Connector
+Zhenghua-Senja Square RC
+Zion Bridge
 Zion Close
+Zion Promenade
 Zion Road
-Zorah Enterprise
 Zubir Said Drive
