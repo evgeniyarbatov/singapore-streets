@@ -39,10 +39,9 @@ class StreetHandler(osmium.SimpleHandler):
                 if node_ref.ref in self.nodes:
                     coords.append(self.nodes[node_ref.ref])
             
-            polyline = encode_polyline(coords)
             self.streets.append({
                 'name': name,
-                'polyline': polyline,
+                'coords': coords,
                 'osm_source': 'highway_name'
             })
         
@@ -54,13 +53,55 @@ class StreetHandler(osmium.SimpleHandler):
                 if node_ref.ref in self.nodes:
                     coords.append(self.nodes[node_ref.ref])
             
-            polyline = encode_polyline(coords)
             self.streets.append({
                 'name': name,
-                'polyline': polyline,
+                'coords': coords,
                 'osm_source': 'name_pattern'
             })
         
+def merge_street_polylines(streets):
+    """
+    Group streets by name and merge their coordinate lists
+    """
+    street_groups = {}
+    
+    # Group by name
+    for street in streets:
+        name = street['name']
+        if name not in street_groups:
+            street_groups[name] = {
+                'name': name,
+                'coords_list': [],
+                'osm_source': street['osm_source']
+            }
+        street_groups[name]['coords_list'].append(street['coords'])
+    
+    # Merge coordinates and encode as polylines
+    merged_streets = []
+    for street_data in street_groups.values():
+        # Flatten all coordinate lists for this street
+        all_coords = []
+        for coords in street_data['coords_list']:
+            all_coords.extend(coords)
+        
+        # Remove duplicates while preserving order
+        unique_coords = []
+        seen = set()
+        for coord in all_coords:
+            coord_key = (round(coord[0], 6), round(coord[1], 6))
+            if coord_key not in seen:
+                seen.add(coord_key)
+                unique_coords.append(coord)
+        
+        polyline_str = encode_polyline(unique_coords)
+        merged_streets.append({
+            'name': street_data['name'],
+            'polyline': polyline_str,
+            'osm_source': street_data['osm_source']
+        })
+    
+    return merged_streets
+
 def extract_streets_from_osm(osm_file_path, output_csv_path):
     """
     Extract street names, coordinates, and source tags from OSM file using osmium
@@ -73,13 +114,18 @@ def extract_streets_from_osm(osm_file_path, output_csv_path):
     
     print(f"Extracted {len(handler.streets)} street entries")
     
+    # Group streets by name and merge polylines
+    merged_streets = merge_street_polylines(handler.streets)
+    
+    print(f"Merged into {len(merged_streets)} unique streets")
+    
     # Write to CSV
     with open(output_csv_path, 'w', newline='', encoding='utf-8') as csv_file:
         fieldnames = ['name', 'polyline', 'osm_source']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         
-        for street in handler.streets:
+        for street in merged_streets:
             writer.writerow(street)
     
     print(f"Saved to {output_csv_path}")
