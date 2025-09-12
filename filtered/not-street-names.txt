@@ -1,397 +1,728 @@
-Abbott Manufacturing # Filtered: not street pattern
+A # Filtered: not street pattern
+Abc Waters # Filtered: not street pattern
+Abc Waters Plaza # Filtered: building/mall, not street pattern
+Abcd Cluster Hardcourt # Filtered: not street pattern
+Access # Filtered: not street pattern
+Access To Path # Filtered: not street pattern
 Adam Green # Filtered: not street pattern
 Adam Park # Filtered: not street pattern
+Adam Park Connector # Filtered: not street pattern
+Adam Road Presbyterian Church # Filtered: not street pattern
 Admiralty Grove # Filtered: not street pattern
+Admiralty West Park Connector # Filtered: not street pattern
 Adora Green # Filtered: not street pattern
+Adventure Bridge # Filtered: not street pattern
+Aero Green Technology Pte Ltd # Filtered: not street pattern
+Ah Hood Gardens Community Garden # Filtered: not street pattern
 Ah Soo Garden # Filtered: not street pattern
-Albert Court # Filtered: not street pattern
+Ahmadiyya Path 1 # Filtered: not street pattern
+Air House / The Green House # Filtered: contains slash, not street pattern
+Alexandra Arch # Filtered: not street pattern
+Alexandra Canal Linear Park # Filtered: not street pattern
+Alexandra Garden Trail # Filtered: not street pattern
+Alexandra Park Connector # Filtered: not street pattern
 Alexandra View # Filtered: not street pattern
+Alexandra-Queensway Pcn # Filtered: not street pattern
+Alexandria Hill East Neighborhood Park # Filtered: not street pattern
+Aljunied Crescent Street Soccer Court # Filtered: not street pattern
+Alkaff Quay # Filtered: not street pattern
 Allamanda Grove # Filtered: not street pattern
-Amici Enterprise # Filtered: not street pattern
-Amk Hub # Filtered: building/mall, not street pattern
-Amx Engineering # Filtered: not street pattern
-Anagreen # Filtered: not street pattern
+Along Drain - Banana Fields # Filtered: not street pattern
+Amphitheatre # Filtered: not street pattern
+Anchor Green Primary School # Filtered: not street pattern
 Anchorvale Grove # Filtered: not street pattern
+Ang Mo Kio Bus Interchange # Filtered: building/mall, not street pattern
+Ang Mo Kio Central Flyover # Filtered: not street pattern
 Ang Mo Kio Grove # Filtered: not street pattern
 Ang Mo Kio Industrial Park 1 # Filtered: not street pattern
 Ang Mo Kio Industrial Park 2 # Filtered: not street pattern
 Ang Mo Kio Industrial Park 2A # Filtered: not street pattern
-Angsana Breeze # Filtered: not street pattern
+Ang Mo Kio Interchange # Filtered: building/mall, not street pattern
+Ang Mo Kio Park 1 # Filtered: not street pattern
+Ang Mo Kio Park Connector # Filtered: not street pattern
+Ang Mo Kio Underpass # Filtered: not street pattern
 Angullia Park # Filtered: not street pattern
-Aperia/Before Kallang Road # Filtered: contains slash
+Ann Siang Hill Park # Filtered: not street pattern
 Aqueen Prestige Hotel Jalan Besar # Filtered: building/mall, not street pattern
 Ardmore Park # Filtered: not street pattern
+Arrival Plaza # Filtered: building/mall, not street pattern
+Asam Trail # Filtered: not street pattern
 Ash Grove # Filtered: not street pattern
-Ashley Green # Filtered: not street pattern
 Ashwood Grove # Filtered: not street pattern
-Asiatic Engineering # Filtered: not street pattern
-Asm Front-End Manufacturing # Filtered: not street pattern
+Asia Square Tower 1 # Filtered: building/mall, not street pattern
+Asia Square Tower 2 # Filtered: building/mall, not street pattern
 Aston Green # Filtered: not street pattern
 Astor Green # Filtered: not street pattern
-Atwin Marine Engineering # Filtered: not street pattern
-Autoform Enterprise # Filtered: not street pattern
-Autoimage Enterprise # Filtered: not street pattern
-Azuma Engineering # Filtered: not street pattern
+Autopass Card / Cashcard Top-Up Booth # Filtered: contains slash, not street pattern
+Avenue South Residence # Filtered: not street pattern
+Avila Gardens Condominium # Filtered: building/mall, not street pattern
+B # Filtered: not street pattern
+B20 # Filtered: not street pattern
+B59 # Filtered: not street pattern
+B60 # Filtered: not street pattern
+Baggage Storage # Filtered: not street pattern
+Bahtera Track # Filtered: not street pattern
+Bailey Bridge # Filtered: not street pattern
+Balafon Bridge # Filtered: not street pattern
+Balam Park Connector # Filtered: not street pattern
+Balestier Hill Shopping Centre # Filtered: building/mall, not street pattern
+Balestier Road Seventh-Day Adventist Church # Filtered: not street pattern
 Balmoral Park # Filtered: not street pattern
-Banyan View # Filtered: not street pattern
-Bartley Greenrise # Filtered: not street pattern
-Bassein Court # Filtered: not street pattern
-Baumann Spring # Filtered: not street pattern
-Bayfront Station Linkway # Filtered: building/mall, not street pattern
+Bamboo Trail # Filtered: not street pattern
+Banyan Place # Filtered: not street pattern
+Bartley Viaduct # Filtered: not street pattern
+Bayfront Event Plaza # Filtered: building/mall, not street pattern
+Bayshore Flyover # Filtered: not street pattern
 Bbq Green # Filtered: not street pattern
-Beach Road 1Street Storey Lobby The Concourse # Filtered: not street pattern
-Beach Roo # Filtered: not street pattern
 Beach View # Filtered: not street pattern
-Beadstreet # Filtered: not street pattern
+Bedok Bus Interchange # Filtered: building/mall, not street pattern
+Bedok Court # Filtered: not street pattern
 Bedok Garden # Filtered: not street pattern
-Bedok Interchange Hawker Centre # Filtered: building/mall, not street pattern
-Bedok North Street 3 Block 510 # Filtered: not street pattern
+Bedok Green Primary School # Filtered: not street pattern
+Bedok Green Secondary School # Filtered: not street pattern
+Bedok Industrial Park C # Filtered: not street pattern
+Bedok Industrial Park E # Filtered: not street pattern
+Bedok Jetty # Filtered: not street pattern
+Bedok Park Connector # Filtered: not street pattern
+Bedok Place # Filtered: not street pattern
+Bedok Reservoir Floating Platform # Filtered: not street pattern
+Bedok Reservoir Road Neighbourhood Park # Filtered: not street pattern
 Bedok Reservoir View # Filtered: not street pattern
 Bedok Ria Place # Filtered: not street pattern
+Bedok Rise Park # Filtered: not street pattern
 Beechwood Grove # Filtered: not street pattern
 Belgravia Green # Filtered: not street pattern
 Belmond Green # Filtered: not street pattern
-Ben Ching Engineering # Filtered: not street pattern
+Benaan Kapal Bridge # Filtered: not street pattern
+Bencoolen # Filtered: not street pattern
 Benoi Place # Filtered: not street pattern
 Benoi Sector # Filtered: not street pattern
-Bidadari Greenway # Filtered: not street pattern
+Berlayer Creek Mangrove Trail # Filtered: not street pattern
+Bgain 681 Old Street Coffee House # Filtered: not street pattern
+Bidadari Pcn # Filtered: not street pattern
 Bin Tong Park # Filtered: not street pattern
 Binjai Park # Filtered: not street pattern
 Biomedical Grove # Filtered: not street pattern
+Bird Paradise Tram Shuttle # Filtered: not street pattern
+Birdz Of Play # Filtered: not street pattern
+Bishan Bus Interchange # Filtered: building/mall, not street pattern
 Bishan Green # Filtered: not street pattern
 Bishan Place # Filtered: not street pattern
-Bishan Spring # Filtered: not street pattern
-Block R - School Of Engineering # Filtered: not street pattern
-Block S - School Of Engineering # Filtered: not street pattern
+Bishan Street 11 Recreation Park # Filtered: not street pattern
+Bishops Place # Filtered: not street pattern
+Bishopsgate # Filtered: not street pattern
+Bke Exit 10B Woodlands Crossing # Filtered: not street pattern
+Black Crawler # Filtered: not street pattern
+Black Diamond Grade Trail # Filtered: not street pattern
+Blangah Rise Primary School # Filtered: not street pattern
+Blue Horizon Entrance # Filtered: not street pattern
+Blue Horizon Exit # Filtered: not street pattern
+Blue Quail # Filtered: not street pattern
 Blue Square Grade Trail # Filtered: not street pattern
 Boardwalk # Filtered: not street pattern
 Boat Quay # Filtered: not street pattern
-Booklink # Filtered: not street pattern
+Boon King Ville # Filtered: not street pattern
+Boon Lay Bus Interchange # Filtered: building/mall, not street pattern
 Boon Lay Green # Filtered: not street pattern
 Boon Lay Grove # Filtered: not street pattern
 Boon Lay Place # Filtered: not street pattern
-Braddell # Filtered: not street pattern
+Boon Lay Place Terrace Garden # Filtered: not street pattern
+Botanic Gardens Mansion # Filtered: not street pattern
+Botanic Gardens View # Filtered: not street pattern
+Botannia # Filtered: not street pattern
+Boulevard Extension # Filtered: not street pattern
+Boulevard Vue # Filtered: not street pattern
+Braddel Heights Estate # Filtered: not street pattern
+Braddell Heights Community Club # Filtered: not street pattern
+Braddell Heights Community Hub # Filtered: building/mall, not street pattern
+Braddell Heights Estate # Filtered: not street pattern
+Braddell Underpass # Filtered: not street pattern
 Braddell View # Filtered: not street pattern
 Brani Causeway # Filtered: not street pattern
 Brani Terminal Avenue # Filtered: building/mall
-Brilliant Manufacturing # Filtered: not street pattern
+Brani Terminal Street Y # Filtered: building/mall, not street pattern
+Bridge Inside Clementi Mrt Station # Filtered: building/mall, not street pattern
+Bridge Inside Clementi Mrt Station That Connects To Clementi Mall # Filtered: building/mall, not street pattern
+Bridge Inside Dover Mrt Station # Filtered: building/mall, not street pattern
+Bridge Of Suspense # Filtered: not street pattern
+Bright Hill Columbarium # Filtered: not street pattern
+Bright Hill Crematorium # Filtered: not street pattern
+Bright Hill Evergreen Home # Filtered: not street pattern
 Brizay Park # Filtered: not street pattern
-Broadway # Filtered: not street pattern
-Brown Metal Engineering # Filtered: not street pattern
+Buangkok Bus Interchange # Filtered: building/mall, not street pattern
+Buangkok Crescent Park # Filtered: not street pattern
 Buangkok Green # Filtered: not street pattern
+Buangkok Green Medical Park # Filtered: not street pattern
+Buangkok Park Connector # Filtered: not street pattern
+Buangkok Square Mall # Filtered: building/mall, not street pattern
+Buangkok Square Park # Filtered: not street pattern
 Buangkok View # Filtered: not street pattern
-Bugis Junction # Filtered: building/mall, not street pattern
 Bukit Ayer Molek # Filtered: not street pattern
-Bukit Batok # Filtered: not street pattern
+Bukit Batok Bus Interchange # Filtered: building/mall, not street pattern
+Bukit Batok Driving Centre # Filtered: building/mall, not street pattern
+Bukit Batok East Park Connector # Filtered: not street pattern
 Bukit Batok Green # Filtered: not street pattern
+Bukit Batok Industrial Park A # Filtered: not street pattern
+Bukit Batok Interchange # Filtered: building/mall, not street pattern
+Bukit Batok Park Connector # Filtered: not street pattern
+Bukit Batok West Park Connector # Filtered: not street pattern
 Bukit Chermin Boardwalk # Filtered: not street pattern
-Bukit Gombak # Filtered: not street pattern
+Bukit Merah Bus Interchange # Filtered: building/mall, not street pattern
 Bukit Merah View # Filtered: not street pattern
 Bukit Mugliston # Filtered: not street pattern
+Bukit Panjang / Zheng Hua Park Connector # Filtered: contains slash, not street pattern
+Bukit Panjang Flyover # Filtered: not street pattern
+Bukit Panjang Integrated Transport Hub # Filtered: building/mall, not street pattern
+Bukit Panjang Park Connector # Filtered: not street pattern
 Bukit Panjang Station Square # Filtered: building/mall
-Bukit Timah Shopping Centre # Filtered: building/mall, not street pattern
-Cairnhill # Filtered: not street pattern
+Bukit Timah Park Connector # Filtered: not street pattern
+Bukit Timah Underpass # Filtered: not street pattern
+Bukit Timah-Rochor Green Corridor # Filtered: not street pattern
+Bulim Depot # Filtered: not street pattern
+Bullion Park # Filtered: not street pattern
+Bunga Rampai Place # Filtered: not street pattern
+Buona Vista Terminal # Filtered: building/mall, not street pattern
+Bus Only # Filtered: not street pattern
+Bus-Only Corridor # Filtered: not street pattern
+Bypass1 # Filtered: not street pattern
+C # Filtered: not street pattern
+Cad'S Alley # Filtered: not street pattern
 Camden Park # Filtered: not street pattern
 Campus Green # Filtered: not street pattern
+Canberra Crescent Residences # Filtered: building/mall, not street pattern
+Canberra Park Connector # Filtered: not street pattern
 Canberra View # Filtered: not street pattern
-Capitagreen # Filtered: not street pattern
-Capitaspring # Filtered: not street pattern
+Canberra-Sembawang Park Connector # Filtered: not street pattern
+Capital Tower Plaza # Filtered: building/mall, not street pattern
+Car Park # Filtered: not street pattern
+Car Park Entrance # Filtered: not street pattern
+Car Park Exit # Filtered: not street pattern
+Car Park Exit # Filtered: not street pattern
+Car Park To Chestnut South Connector # Filtered: not street pattern
+Card Access # Filtered: not street pattern
 Cardiff Grove # Filtered: not street pattern
-Carelink # Filtered: not street pattern
 Carisbrooke Grove # Filtered: not street pattern
-Casa Cairnhill # Filtered: not street pattern
-Cashew Green # Filtered: not street pattern
+Carpark # Filtered: not street pattern
+Carpark 3 # Filtered: not street pattern
+Cashew Crescent Fitness Corner # Filtered: not street pattern
+Cashew Road Interim Park # Filtered: not street pattern
 Castle Green # Filtered: not street pattern
+Catchment Path # Filtered: not street pattern
+Cathay Forecourt # Filtered: not street pattern
 Cathay Green # Filtered: not street pattern
 Causeway # Filtered: not street pattern
+Cave # Filtered: not street pattern
+Cave Path # Filtered: not street pattern
+Cavenagh Bridge # Filtered: not street pattern
 Cedarwood Grove # Filtered: not street pattern
 Cendana Green # Filtered: not street pattern
+Central Axis # Filtered: not street pattern
+Central Catchment Park Connector # Filtered: not street pattern
+Central Christian Church # Filtered: not street pattern
 Central Exchange Green # Filtered: not street pattern
+Central Expressway Underpass # Filtered: not street pattern
+Central Fire Station # Filtered: building/mall, not street pattern
+Central Green Condo # Filtered: building/mall, not street pattern
 Central Grove # Filtered: not street pattern
+Central Imperial # Filtered: not street pattern
+Central Library # Filtered: not street pattern
+Central Library Annexe # Filtered: not street pattern
+Central Library Plaza # Filtered: building/mall, not street pattern
+Central Line 3 # Filtered: not street pattern
+Central Linear Park # Filtered: not street pattern
+Central Mall # Filtered: building/mall, not street pattern
+Central Manpower Base # Filtered: not street pattern
+Central Meadows # Filtered: not street pattern
+Central Office 1 # Filtered: not street pattern
+Central Office 2 # Filtered: not street pattern
+Central Park Tower # Filtered: building/mall, not street pattern
+Central Plaza # Filtered: building/mall, not street pattern
+Central Staff Apartments # Filtered: building/mall, not street pattern
+Central Stage # Filtered: not street pattern
+Central Store # Filtered: not street pattern
+Central View # Filtered: not street pattern
+Central Water Tank # Filtered: not street pattern
 Chai Chee Green # Filtered: not street pattern
+Challenging Route # Filtered: not street pattern
 Champions Green # Filtered: not street pattern
 Chancery Court # Filtered: not street pattern
 Chancery Grove # Filtered: not street pattern
+Chancery Lane Hood 1 # Filtered: not street pattern
+Change Alley # Filtered: not street pattern
+Changi Airport Connector # Filtered: not street pattern
+Changi Airport Ptb1 # Filtered: not street pattern
+Changi Beach Park # Filtered: not street pattern
 Changi Business Park Vista # Filtered: not street pattern
 Changi Green # Filtered: not street pattern
-Chartered Asia Technology Enterprise # Filtered: not street pattern
-Chaun Garden # Filtered: not street pattern
-Chaun View # Filtered: not street pattern
-Cheap Jobs Interprise # Filtered: not street pattern
+Changi Point Bridge # Filtered: not street pattern
+Changi Rise Condo # Filtered: building/mall, not street pattern
+Changi Village Terminal # Filtered: building/mall, not street pattern
+Chartwell Drive Park # Filtered: not street pattern
+Chartwell Drive Substation # Filtered: not street pattern
+Chatsworth Park # Filtered: not street pattern
+Cheang Hong Lim Place # Filtered: not street pattern
+Cheang Jim Chwan Place # Filtered: not street pattern
+Cheang Wan Seng Place # Filtered: not street pattern
 Chelsea Grove # Filtered: not street pattern
+Chemperai Trail # Filtered: not street pattern
 Chencharu Green # Filtered: not street pattern
 Chencharu Grove # Filtered: not street pattern
 Cheng San Green # Filtered: not street pattern
-Chin Seng Enterprise # Filtered: not street pattern
-Chin Siong Electrical Engineering # Filtered: not street pattern
-Chinatown Point # Filtered: not street pattern
+Cheng Soon Garden # Filtered: not street pattern
+Cheng Yan Place # Filtered: not street pattern
+Chestnut Avenue Water Works # Filtered: not street pattern
+Chestnut Nature Park South Biking Trail # Filtered: not street pattern
+Chestnut Nature Park South Hiking Trail # Filtered: not street pattern
+Chiltern Drive Park # Filtered: not street pattern
+China Square Central Car Park Entrance/Exit # Filtered: contains slash, not street pattern
+Chinese Cemetery Path 11 # Filtered: not street pattern
+Chinese Cemetery Path 13 # Filtered: not street pattern
+Chinese Cemetery Path 14 # Filtered: not street pattern
+Chinese Cemetery Path 15 # Filtered: not street pattern
+Chinese Cemetery Path 17 # Filtered: not street pattern
+Chinese Cemetery Path 19 # Filtered: not street pattern
+Chinese Cemetery Path 21 # Filtered: not street pattern
+Chinese Cemetery Path 26 # Filtered: not street pattern
+Chinese Cemetery Path 32 # Filtered: not street pattern
+Chinese Cemetery Path 34 # Filtered: not street pattern
+Chinese Cemetery Path 36 # Filtered: not street pattern
+Chinese Cemetery Path 4 # Filtered: not street pattern
 Chiselhurst Grove # Filtered: not street pattern
-Choa Chu Kang # Filtered: not street pattern
-Choa Chu Kang Cresent # Filtered: not street pattern
 Choa Chu Kang Grove # Filtered: not street pattern
+Choa Chu Kang Interchange # Filtered: building/mall, not street pattern
+Choa Chu Kang New Town # Filtered: not street pattern
+Choa Chu Kang North Park Connector # Filtered: not street pattern
 Choa Chu Kang Park Connector # Filtered: not street pattern
-Choa Chu Kang Road Track 10 # Filtered: not street pattern
+Choa Chu Kang Track 14 # Filtered: not street pattern
 Chong Pang Green # Filtered: not street pattern
+Christian Cemetery Path 11 # Filtered: not street pattern
+Christian Cemetery Path 13 # Filtered: not street pattern
+Christian Cemetery Path 2 # Filtered: not street pattern
+Christian Cemetery Path 3 # Filtered: not street pattern
+Christian Cemetery Path 4 # Filtered: not street pattern
+Christian Cemetery Path 5 # Filtered: not street pattern
+Christian Cemetery Path 7 # Filtered: not street pattern
+Christian Cemetery Path 8 # Filtered: not street pattern
 Chuan Garden # Filtered: not street pattern
 Chuan Grove # Filtered: not street pattern
 Chuan Place # Filtered: not street pattern
 Chuan View # Filtered: not street pattern
 Chwee Chian View # Filtered: not street pattern
 Circle Green # Filtered: not street pattern
-Citrus Grove # Filtered: not street pattern
+Circle Line # Filtered: not street pattern
+Circle Line Stage 6 Station Worksite # Filtered: building/mall, not street pattern
+Circuit Road Hawker Center # Filtered: building/mall, not street pattern
+Circuit Road Hawker Centre # Filtered: building/mall, not street pattern
 City Green # Filtered: not street pattern
+City Square Mall # Filtered: building/mall, not street pattern
+City Square Residences # Filtered: building/mall, not street pattern
 Citylink Mall # Filtered: building/mall, not street pattern
 Clarke Quay # Filtered: not street pattern
-Clemenceau Avenue Singapore Shopping Centre # Filtered: building/mall, not street pattern
-Clementi Gateway # Filtered: not street pattern
-Clementi Green # Filtered: not street pattern
+Cleantech View # Filtered: not street pattern
+Clemenceau Bridge # Filtered: not street pattern
+Clementi Bus Interchange # Filtered: building/mall, not street pattern
+Clementi Crescent Park # Filtered: not street pattern
+Clementi North Flyover # Filtered: not street pattern
+Clementi Woods Condo Entrance Drive 1 # Filtered: building/mall
+Cliff Top Path # Filtered: not street pattern
 Clifton Vale # Filtered: not street pattern
-Clover Cres # Filtered: not street pattern
-Cluny Court # Filtered: not street pattern
+Clover Crescent Neighbourhood Park # Filtered: not street pattern
 Cluny Park # Filtered: not street pattern
-Coastal Mangrove # Filtered: not street pattern
-Coastal Playgrove # Filtered: not street pattern
+Coast To Coast Trail # Filtered: not street pattern
+Coast-To-Coast Trail # Filtered: not street pattern
+Coastal Park Connector # Filtered: not street pattern
+Coastal Trail # Filtered: not street pattern
 Colchester Grove # Filtered: not street pattern
 College Green # Filtered: not street pattern
+College Green — Dunearn Road Hostels # Filtered: not street pattern
 College Link Walkway # Filtered: not street pattern
 Collyer Quay # Filtered: not street pattern
+Colugo Trail # Filtered: not street pattern
 Comchest Green # Filtered: not street pattern
-Comfomdelgro Engineering # Filtered: not street pattern
-Comfort Delgro Engineering # Filtered: not street pattern
-Comfortdelgro Engineering # Filtered: not street pattern
 Common Green # Filtered: not street pattern
 Commonwealth Green # Filtered: not street pattern
 Como Adventure Grove # Filtered: not street pattern
 Compass Green # Filtered: not street pattern
-Compassvale Boardwalk # Filtered: not street pattern
 Compassvale Bow # Filtered: not street pattern
+Compassvale Bus Interchange # Filtered: building/mall, not street pattern
 Compassvale Green # Filtered: not street pattern
+Compassvale Lane Park # Filtered: not street pattern
+Compassvale Walk Park # Filtered: not street pattern
 Condo Lane # Filtered: building/mall
 Coniston Grove # Filtered: not street pattern
 Conway Grove # Filtered: not street pattern
 Coral Island # Filtered: not street pattern
-Coral Spring # Filtered: not street pattern
+Corfe Place # Filtered: not street pattern
 Coronation Grove # Filtered: not street pattern
-Corporation Spring # Filtered: not street pattern
+Corridor # Filtered: not street pattern
+Corridor Of Containers # Filtered: not street pattern
 Costa Grove # Filtered: not street pattern
-Cosway # Filtered: not street pattern
+Costus Trail # Filtered: not street pattern
 Countryside Grove # Filtered: not street pattern
-Cove Avenue Circus # Filtered: not street pattern
+Countryside Place # Filtered: not street pattern
+Countryside View # Filtered: not street pattern
 Cove Grove # Filtered: not street pattern
+Covered Footpath # Filtered: not street pattern
 Covered Walkway # Filtered: not street pattern
+Cp # Filtered: not street pattern
+Cp B24 # Filtered: not street pattern
+Cp B65 # Filtered: not street pattern
+Cp B97 # Filtered: not street pattern
+Cp Entrance # Filtered: not street pattern
+Cp Ku1 # Filtered: not street pattern
+Cp Ku2 # Filtered: not street pattern
+Cp Ku3 # Filtered: not street pattern
+Cp Ku4 # Filtered: not street pattern
+Cpn # Filtered: not street pattern
+Crank Course 2 # Filtered: not street pattern
+Crank Course 3 # Filtered: not street pattern
+Crawford Bridge # Filtered: not street pattern
 Creek Wall Boardwalk # Filtered: not street pattern
+Crescent Building # Filtered: building/mall, not street pattern
 Crescent Green # Filtered: not street pattern
+Crescent Mall # Filtered: building/mall, not street pattern
+Crescent View # Filtered: not street pattern
+Crocodile Bridge # Filtered: not street pattern
+Cross Street Exchange # Filtered: not street pattern
 Ct Hub 2 Food Street # Filtered: building/mall
-Daiya Engineering # Filtered: not street pattern
+Cubs # Filtered: not street pattern
+Cut Through Car Park # Filtered: not street pattern
+Cyathea Trail # Filtered: not street pattern
+Cycle Path Network # Filtered: not street pattern
+Cycling Path Network # Filtered: not street pattern
+D # Filtered: not street pattern
+D' Grove Villas # Filtered: not street pattern
+Dairy Farm Nature Park # Filtered: not street pattern
+Dairy Farm Road Car Park A # Filtered: not street pattern
 Dalvey Estate # Filtered: not street pattern
 Damai Grove # Filtered: not street pattern
-De Spring # Filtered: not street pattern
 Dedap Place # Filtered: not street pattern
+Delta Bridge # Filtered: not street pattern
+Delta Estate # Filtered: not street pattern
+Depot Heights Shopping Centre # Filtered: building/mall, not street pattern
 Dhoby Ghaut Green # Filtered: not street pattern
-Digisound Hearing # Filtered: not street pattern
-Dolphin Engineering # Filtered: not street pattern
+Directional Change 2 # Filtered: not street pattern
+Directional Change 3 # Filtered: not street pattern
+Directional Change 4 # Filtered: not street pattern
+Directional Change 5 # Filtered: not street pattern
+Directional Change 6 # Filtered: not street pattern
+Dirtbike Track # Filtered: not street pattern
+Diversity Trail # Filtered: not street pattern
+Dogra Bridge # Filtered: not street pattern
+Double Black Diamond Grade Trail # Filtered: not street pattern
+Down Loop Up # Filtered: not street pattern
+Dragonfly Bridge # Filtered: not street pattern
 Draycott Park # Filtered: not street pattern
+Drongo Trail # Filtered: not street pattern
+Drop Off # Filtered: not street pattern
+Drop Off # Filtered: not street pattern
+Drop Off Area # Filtered: not street pattern
+Drop-Off Point # Filtered: not street pattern
+Drop-Off Point # Filtered: not street pattern
+Duchess Place # Filtered: not street pattern
+Duku Place # Filtered: not street pattern
+Dunearn Underpass # Filtered: not street pattern
 Dunman Grove # Filtered: not street pattern
+Duxton Hill Car Park # Filtered: not street pattern
+Dyson Road 6.6Kv # Filtered: not street pattern
+Ean Kiam Place # Filtered: not street pattern
+Earth Trail # Filtered: not street pattern
+East Coast Terrace Park # Filtered: not street pattern
 East Grove # Filtered: not street pattern
-East Payoh Spring # Filtered: not street pattern
-Eastlink # Filtered: not street pattern
+East Lodge Trail # Filtered: not street pattern
 Eastpoint Green # Filtered: not street pattern
 Eastwood Green # Filtered: not street pattern
 Eastwood Place # Filtered: not street pattern
-Easycool Engineering # Filtered: not street pattern
 Eaton Place # Filtered: not street pattern
-Eco Flooring # Filtered: not street pattern
 Eden Grove # Filtered: not street pattern
 Edgedale Green # Filtered: not street pattern
 Edgedale Plains # Filtered: not street pattern
 Edgefield Plains # Filtered: not street pattern
 Elias Green # Filtered: not street pattern
-Elite Terrance # Filtered: not street pattern
-Embassy Of Norway # Filtered: not street pattern
+Elite Park Avenue Park # Filtered: not street pattern
 Empress Place # Filtered: not street pattern
 Eng Kong Garden # Filtered: not street pattern
 Eng Kong Place # Filtered: not street pattern
+Engineering Bridge # Filtered: not street pattern
 Engku Aman Turn # Filtered: not street pattern
-Enterprise # Filtered: not street pattern
-Espira Spring # Filtered: not street pattern
+Entry To Path # Filtered: not street pattern
+Esplanade Xchange # Filtered: not street pattern
+Eunos Bus Interchange # Filtered: building/mall, not street pattern
+Eunos Crescent Hawker Centre # Filtered: building/mall, not street pattern
+Eunos Crescent Market # Filtered: not street pattern
+Eunos Crescent View # Filtered: not street pattern
 Eunos Green # Filtered: not street pattern
-Eunos Park # Filtered: not street pattern
-Eunos Spring # Filtered: not street pattern
-Eunos Technolink # Filtered: not street pattern
-Everton Park # Filtered: not street pattern
+Event Area # Filtered: not street pattern
+Event Plaza # Filtered: building/mall, not street pattern
+Evolution Garden Path # Filtered: not street pattern
 Ewart Park # Filtered: not street pattern
-Expolink # Filtered: not street pattern
-Extrovert Engineering # Filtered: not street pattern
+Exit # Filtered: not street pattern
+Exit 816 Lanchang # Filtered: not street pattern
+Exit D # Filtered: not street pattern
+Exit From Blk 18A Carpark # Filtered: not street pattern
 Faber Green # Filtered: not street pattern
 Faber Grove # Filtered: not street pattern
+Faber Heights Open Space # Filtered: not street pattern
 Faber Park # Filtered: not street pattern
-Fahim Enterprise # Filtered: not street pattern
-Fairprice # Filtered: not street pattern
-Fajar Spring # Filtered: not street pattern
-Far East Plaza # Filtered: building/mall, not street pattern
-Far Far Away # Filtered: not street pattern
+Faber Point # Filtered: not street pattern
+Faber Walk Extension Park # Filtered: not street pattern
 Farrer Park Station Road # Filtered: building/mall
-Farrer Park Station Road # Filtered: building/mall
-Fern Spring # Filtered: not street pattern
+Farrer Underpass # Filtered: not street pattern
+Fern Green Primary School # Filtered: not street pattern
 Fernvale Grove # Filtered: not street pattern
-Fernvale Rivergrove # Filtered: not street pattern
-Fernvale Riverwalk # Filtered: not street pattern
-Finessco Engineering # Filtered: not street pattern
+Fifth Avenue Condominium # Filtered: building/mall, not street pattern
 Finlayson Green # Filtered: not street pattern
 Fire Engine Accessway # Filtered: not street pattern
-Firstcom Engineering # Filtered: not street pattern
+Fiscus Hill Stream # Filtered: not street pattern
+Fishermans Path # Filtered: not street pattern
+Fishing Cat Trail # Filtered: not street pattern
 Florissa Park # Filtered: not street pattern
+Foot And Mtb Path # Filtered: not street pattern
+Foot Path # Filtered: not street pattern
+Footpath # Filtered: not street pattern
+Footpath # Filtered: not street pattern
+Footpath To Backgate # Filtered: not street pattern
+Footpath Within The Residences # Filtered: building/mall, not street pattern
 Forest Canopy Boardwalk # Filtered: not street pattern
-Fort Canning Open Air Green # Filtered: not street pattern
+Forest Corridor # Filtered: not street pattern
+Forest Exploration Trail # Filtered: not street pattern
+Forest Floor Trek # Filtered: not street pattern
+Forest Trail # Filtered: not street pattern
+Former Bukit Gombak Trail # Filtered: not street pattern
+Former Choa Chu Kang Road Bridge # Filtered: not street pattern
+Former Green Canteen # Filtered: not street pattern
+Former Hillview Mansion # Filtered: not street pattern
+Former Keppel Hill Reservoir # Filtered: not street pattern
+Former Ktm Central Jurong Spur # Filtered: not street pattern
+Former Path # Filtered: not street pattern
+Former Rail Corridor # Filtered: not street pattern
+Fort Road Bridge # Filtered: not street pattern
 Fort Siloso Skywalk # Filtered: not street pattern
-Funan # Filtered: not street pattern
-Fur Away # Filtered: not street pattern
-Furama City Centre # Filtered: building/mall, not street pattern
+Fountain Court # Filtered: not street pattern
+Fountain Of Wealth # Filtered: not street pattern
+Fourth Avenue Residences # Filtered: building/mall, not street pattern
+Frankel Place # Filtered: not street pattern
+Fudu Park # Filtered: not street pattern
+Fullerton Promenade # Filtered: not street pattern
 Fusionopolis Place # Filtered: not street pattern
 Fusionopolis View # Filtered: not street pattern
 Gallop Park # Filtered: not street pattern
-Gds Engineering # Filtered: not street pattern
+Gambas Crescent Substation 66Kv # Filtered: not street pattern
+Ganges Avenue Open Space # Filtered: not street pattern
+Garden Bay Bridge # Filtered: not street pattern
+Garden Bridge # Filtered: not street pattern
+Garden Hill Park # Filtered: not street pattern
+Gardens By The Bay # Filtered: not street pattern
+Gardens By The Bay Drop Off # Filtered: not street pattern
+Gardens Exercise Area # Filtered: not street pattern
 Gerald Park # Filtered: not street pattern
-Getlang Bahru # Filtered: not street pattern
 Geylang Bahru # Filtered: not street pattern
+Geylang Park Connector # Filtered: not street pattern
+Geylang Road Underpass # Filtered: not street pattern
 Geylang Serai # Filtered: not street pattern
 Ghim Moh Green # Filtered: not street pattern
-Glen Enterprise # Filtered: not street pattern
 Gliders Boardwalk # Filtered: not street pattern
-Glory Catering # Filtered: not street pattern
-Golden Horse Prize Enterprise # Filtered: not street pattern
+Golden Heights Condominium # Filtered: building/mall, not street pattern
 Goldhill Place # Filtered: not street pattern
 Goldhill Plaza # Filtered: building/mall, not street pattern
 Goldhill View # Filtered: not street pattern
 Goodlink Park # Filtered: not street pattern
-Gp Motoring # Filtered: not street pattern
 Grace Park # Filtered: not street pattern
+Gradual Ramp # Filtered: not street pattern
+Grand Drop-Off Fountain # Filtered: not street pattern
 Grange Garden # Filtered: not street pattern
+Grasshopper # Filtered: not street pattern
+Green Apple # Filtered: not street pattern
+Green Forest Neighbourhood Park # Filtered: not street pattern
+Green House # Filtered: not street pattern
+Green Lane Park # Filtered: not street pattern
+Green Spine # Filtered: not street pattern
 Greenbank Park # Filtered: not street pattern
 Greenleaf Grove # Filtered: not street pattern
 Greenleaf Place # Filtered: not street pattern
 Greenleaf View # Filtered: not street pattern
 Greenwood Grove # Filtered: not street pattern
 Greenwood Place # Filtered: not street pattern
-Grove # Filtered: not street pattern
-Guan Heng Engineering # Filtered: not street pattern
-Guthrie Engineering # Filtered: not street pattern
-Habourlink # Filtered: not street pattern
+Gryphon Terrace Swimming Pool # Filtered: not street pattern
 Hacienda Grove # Filtered: not street pattern
-Haig Road Putu Piring # Filtered: not street pattern
+Haig Walk Extension # Filtered: not street pattern
 Hamilton Place # Filtered: not street pattern
-Harbourfront Centre # Filtered: building/mall, not street pattern
+Handy Road Open Space # Filtered: not street pattern
+Hanguana Trail # Filtered: not street pattern
+Harbourfront Bus Interchange # Filtered: building/mall, not street pattern
 Harbourfront Place # Filtered: not street pattern
 Hartley Grove # Filtered: not street pattern
-Hawk Arena # Filtered: not street pattern
-Hawkerway # Filtered: not street pattern
-Hdb Kovan Wellspring # Filtered: not street pattern
-Hewlett-Packard Enterprise # Filtered: not street pattern
+Healing Garden # Filtered: not street pattern
+Henderson Park Connector # Filtered: not street pattern
+Henderson Waves Bridge # Filtered: not street pattern
+Hevea Trail # Filtered: not street pattern
+High Street Centre # Filtered: building/mall, not street pattern
+High Street Plaza # Filtered: building/mall, not street pattern
+Hill House # Filtered: not street pattern
 Hillington Green # Filtered: not street pattern
+Hillion Mall Carpark Entrance # Filtered: building/mall, not street pattern
+Hillion Mall Carpark Exit # Filtered: building/mall, not street pattern
+Hillion Residences Carpark # Filtered: building/mall, not street pattern
 Hillock Green # Filtered: not street pattern
 Hills Grove # Filtered: not street pattern
 Hilltop Grove # Filtered: not street pattern
+Hillview Connect # Filtered: not street pattern
 Hillview Green # Filtered: not street pattern
+Hillview Park Connector # Filtered: not street pattern
 Hindhede Place # Filtered: not street pattern
+Hindu Cemetery Path 2 # Filtered: not street pattern
+Ho Puah Quay # Filtered: not street pattern
+Holland Drive Centre # Filtered: building/mall, not street pattern
+Holland Flyover # Filtered: not street pattern
 Holland Green # Filtered: not street pattern
+Holland Green Linear Park # Filtered: not street pattern
 Holland Grove View # Filtered: not street pattern
+Holland Hill Lodge # Filtered: not street pattern
+Holland Hill Park # Filtered: not street pattern
 Holland Park # Filtered: not street pattern
-Holland Piazza # Filtered: not street pattern
-Hong Gap Engineering # Filtered: not street pattern
+Holland Plain # Filtered: not street pattern
+Holland Road Shopping Centre # Filtered: building/mall, not street pattern
 Hong Kah Green # Filtered: not street pattern
 Hong Lee Place # Filtered: not street pattern
-Hong Win Enterprise # Filtered: not street pattern
+Hong Lim Quay # Filtered: not street pattern
+Hope Line # Filtered: not street pattern
 Horizon Green # Filtered: not street pattern
 Hotel Grand Central # Filtered: building/mall
 Hougang Avenue 3 Park Connector # Filtered: not street pattern
+Hougang Avenue 1 Park # Filtered: not street pattern
+Hougang Avenue 5 Park # Filtered: not street pattern
+Hougang B24 # Filtered: not street pattern
+Hougang Bus Park # Filtered: not street pattern
+Hougang Central Bus Interchange # Filtered: building/mall, not street pattern
+Hougang Central Interchange # Filtered: building/mall, not street pattern
 Hougang Green # Filtered: not street pattern
-Hougang Mrt Station # Filtered: building/mall, not street pattern
-Hougang Spring # Filtered: not street pattern
+Hougang Green Shopping Mall # Filtered: building/mall, not street pattern
+Hougang Rivercourt # Filtered: not street pattern
+Hougang Street 61 Neighbourhood Park # Filtered: not street pattern
+House On The Hill Montessori Pre-School # Filtered: not street pattern
 Hwi Yoh Green # Filtered: not street pattern
 Hyde Park Gate # Filtered: not street pattern
-Hyflux Membrane Manufacturing # Filtered: not street pattern
-Imi Precision Engineering # Filtered: not street pattern
-Imm # Filtered: not street pattern
-Innoco Marketing Enterprise # Filtered: not street pattern
-Institute Of Materials Research And Engineering # Filtered: not street pattern
+Ijooz Smart Shop # Filtered: not street pattern
+Imbiah Trail # Filtered: not street pattern
 International Business Park # Filtered: not street pattern
-Ion Orchard # Filtered: not street pattern
+Ioi Central Boulevard Towers # Filtered: not street pattern
 Irving Place # Filtered: not street pattern
-Irving Point # Filtered: not street pattern
-J Gateway # Filtered: not street pattern
-Jackley Engineering # Filtered: not street pattern
+Irwell Hill Residences # Filtered: building/mall, not street pattern
+Istana Domain Forecourt # Filtered: not street pattern
+Ite College Central Running Track # Filtered: not street pattern
+Jacob Ballas Bridge # Filtered: not street pattern
 Jalan Bahar Power Station # Filtered: building/mall
 Jalan Bahtera Adventure Centre # Filtered: building/mall
 Jalan Batu Hawker Centre # Filtered: building/mall
 Jalan Besar Plaza # Filtered: building/mall
-Jalan Besar Station Exit A # Filtered: building/mall
 Jalan Besar Swimming Complex # Filtered: building/mall
-Jalan Ss 2/17 # Filtered: contains slash
 Jambol Place # Filtered: not street pattern
-Jansen Spring # Filtered: not street pattern
-Japan Besar # Filtered: not street pattern
-Jem # Filtered: not street pattern
+Japanese Garden Bridge # Filtered: not street pattern
+Jering Trail # Filtered: not street pattern
 Jervois Grove # Filtered: not street pattern
-Jin Choon Civil Engineering # Filtered: not street pattern
-Jin Teck Kee # Filtered: not street pattern
+Jewel Bridge # Filtered: not street pattern
 Johor–Singapore Causeway # Filtered: not street pattern
 Joo Chiat Place # Filtered: not street pattern
+Joo Chiat Terrace Interim Park # Filtered: not street pattern
+Joo Koon Bus Interchange # Filtered: building/mall, not street pattern
 Joo Seng Green # Filtered: not street pattern
 Jpg Main Walkway # Filtered: not street pattern
+Jubilee Bridge # Filtered: not street pattern
+Jungle Fall Path # Filtered: not street pattern
+Jungle Trail # Filtered: not street pattern
+Junior Adventure Trail # Filtered: not street pattern
+Jurassic Mile - Changi Airport Connector # Filtered: not street pattern
+Jurong Central Park # Filtered: not street pattern
 Jurong Central Park Pathway # Filtered: not street pattern
+Jurong Central Plaza # Filtered: building/mall, not street pattern
+Jurong East Interim Bus Interchange # Filtered: building/mall, not street pattern
+Jurong Green Community Club # Filtered: not street pattern
+Jurong Hill Flyover # Filtered: not street pattern
+Jurong Hill Park # Filtered: not street pattern
+Jurong Hill Prawn Fishing & Beer Garden # Filtered: not street pattern
+Jurong Hill Tower # Filtered: building/mall, not street pattern
 Jurong Island Highway # Filtered: not street pattern
-Jurong Point # Filtered: not street pattern
+Jurong Lake Gardens Gym # Filtered: not street pattern
+Jurong Park Connector # Filtered: not street pattern
+Jurong Pier Flyover # Filtered: not street pattern
+Jurong Town Hall Bus Interchange # Filtered: building/mall, not street pattern
+Jurong West Park Connector # Filtered: not street pattern
 Kaki Bukit Green # Filtered: not street pattern
 Kaki Bukit Place # Filtered: not street pattern
-Kaki Bukit View # Filtered: not street pattern
 Kallang Bahru # Filtered: not street pattern
+Kallang Bahru Flyover # Filtered: not street pattern
+Kallang Bahru Underpass # Filtered: not street pattern
 Kallang Junction # Filtered: building/mall, not street pattern
+Kallang Park Conenctor # Filtered: not street pattern
+Kallang Park Connector # Filtered: not street pattern
 Kallang Place # Filtered: not street pattern
+Kallang Riverside Park # Filtered: not street pattern
 Kallang Sector # Filtered: not street pattern
+Kallang Tengah # Filtered: not street pattern
+Kallang Way Flyover # Filtered: not street pattern
 Kampong Ampat # Filtered: not street pattern
+Kampong Arang # Filtered: not street pattern
 Kampong Bugis # Filtered: not street pattern
 Kampong Eunos # Filtered: not street pattern
-Kampong Kayu # Filtered: not street pattern
+Kampong Trail # Filtered: not street pattern
 Kampung Sireh # Filtered: not street pattern
-Kartright Speedway # Filtered: not street pattern
-Kato Spring # Filtered: not street pattern
-Kensington Park # Filtered: not street pattern
-Kensington Sq Walkway # Filtered: not street pattern
+Karst Loop Trek # Filtered: not street pattern
+Katong Park # Filtered: not street pattern
+Kay Poh Road Baptist Church # Filtered: not street pattern
+Kelong Bridge # Filtered: not street pattern
+Kent Ridge Hill Residences # Filtered: building/mall, not street pattern
+Kent Ridge Mtb # Filtered: not street pattern
+Kent Ridge Terminal # Filtered: building/mall, not street pattern
+Kent Road Drain # Filtered: not street pattern
 Kentish Green # Filtered: not street pattern
 Keppel Bay View # Filtered: not street pattern
 Keppel Bay Vista # Filtered: not street pattern
+Keppel Gul Circle Districenter # Filtered: not street pattern
+Keppel Marina East Desalination Plant # Filtered: not street pattern
+Keppel Reservoir # Filtered: not street pattern
 Keppel Terminal Avenue # Filtered: building/mall
+Ketam Trail # Filtered: not street pattern
 Kew Green # Filtered: not street pattern
-Khatib Evergreen # Filtered: not street pattern
-Khatib Spring # Filtered: not street pattern
-Kian Ann Engineering # Filtered: not street pattern
-Kian Hock Engineering # Filtered: not street pattern
+Khalsa Crescent Drug Rehabilitation Centre # Filtered: building/mall, not street pattern
+Khatib Bongsu Park Connector # Filtered: not street pattern
+Kim Seng Bridge # Filtered: not street pattern
+Kim Seng Park # Filtered: not street pattern
 Kim Seng Promenade # Filtered: not street pattern
-Kim Seng Promenade Great World # Filtered: not street pattern
 Kim Tian Green # Filtered: not street pattern
 Kim Tian Place # Filtered: not street pattern
-Kim Tian Place # Filtered: not street pattern
 King Albert Park # Filtered: not street pattern
-Kingsgrove # Filtered: not street pattern
 Kismis Green # Filtered: not street pattern
 Kismis Place # Filtered: not street pattern
-Koh Kiat Engineering # Filtered: not street pattern
+Kmedp Green Roof # Filtered: not street pattern
+Kolam Ayer Bridge # Filtered: not street pattern
 Kovan Green # Filtered: not street pattern
 Kranji Green # Filtered: not street pattern
+Kranji Reservoir Park # Filtered: not street pattern
+Kranji Way Dormitory # Filtered: not street pattern
+Kruing Path # Filtered: not street pattern
+Ktm # Filtered: not street pattern
 Kurau Grove # Filtered: not street pattern
 Kurau Place # Filtered: not street pattern
 Ladang Linkway # Filtered: not street pattern
-Laguna Golf Green # Filtered: not street pattern
+Laguna Flyover # Filtered: not street pattern
 Laguna Green # Filtered: not street pattern
+Lakeshore View # Filtered: not street pattern
 Lakeside Green # Filtered: not street pattern
 Lakeside Grove # Filtered: not street pattern
-Landscape Engineering # Filtered: not street pattern
+Lakeside Plaza # Filtered: building/mall, not street pattern
+Laluan Kedua Malaysia–Singapura # Filtered: not street pattern
+Langur Trail # Filtered: not street pattern
 Le Grove # Filtered: not street pattern
-Leedon Green # Filtered: not street pattern
+Le Hill Condominium # Filtered: building/mall, not street pattern
+Learning Circles # Filtered: not street pattern
+Lebuhraya Kuala Lumpur–Karak # Filtered: not street pattern
+Lebuhraya Pantai Timur # Filtered: not street pattern
 Leedon Park # Filtered: not street pattern
 Leith Park # Filtered: not street pattern
-Lena Marine Engineering # Filtered: not street pattern
+Lembu Road Open Space # Filtered: not street pattern
+Lengkok Angsa # Filtered: not street pattern
 Lengkok Bahru # Filtered: not street pattern
+Lengkok Mariam # Filtered: not street pattern
 Lengkok Merak # Filtered: not street pattern
 Lengkong Dua # Filtered: not street pattern
 Lengkong Empat # Filtered: not street pattern
@@ -400,496 +731,912 @@ Lengkong Lima # Filtered: not street pattern
 Lengkong Satu # Filtered: not street pattern
 Lengkong Tiga # Filtered: not street pattern
 Lengkong Tujoh # Filtered: not street pattern
+Lentor Central Residences # Filtered: building/mall, not street pattern
 Lentor Green # Filtered: not street pattern
 Lentor Grove # Filtered: not street pattern
+Lentor Interchange # Filtered: building/mall, not street pattern
+Lentor Place # Filtered: not street pattern
 Lentor Plain # Filtered: not street pattern
-Leong Siew Weng Engineering # Filtered: not street pattern
+Lentor Vale # Filtered: not street pattern
+Leonie Hill Residences # Filtered: building/mall, not street pattern
+Leopard Trail # Filtered: not street pattern
 Lew Lian Vale # Filtered: not street pattern
 Li Hwan Place # Filtered: not street pattern
 Li Hwan View # Filtered: not street pattern
+Lift Corridor # Filtered: not street pattern
+Lift F # Filtered: not street pattern
+Lily Crossing # Filtered: not street pattern
+Lim Ah Pin Road Post Office # Filtered: not street pattern
+Lim Chu Kang Track 11 # Filtered: not street pattern
+Lim Chu Kang Track 13 # Filtered: not street pattern
 Limau Garden # Filtered: not street pattern
 Limau Grove # Filtered: not street pattern
 Limbang Green # Filtered: not street pattern
+Link Across T6 # Filtered: not street pattern
+Link B To W5 # Filtered: not street pattern
+Link C Tot3/T3A # Filtered: contains slash, not street pattern
+Link Convention To T16 # Filtered: not street pattern
+Link Convention To T18A # Filtered: not street pattern
+Link D To T2 # Filtered: not street pattern
+Link F To G # Filtered: not street pattern
+Link Fc1 To T3A # Filtered: not street pattern
+Link Fc2 To F # Filtered: not street pattern
+Link G To T5/T3 # Filtered: contains slash, not street pattern
+Link Gate 7 To T19 # Filtered: not street pattern
+Link H To T4A # Filtered: not street pattern
+Link Hotel # Filtered: building/mall, not street pattern
+Link I To Innovillage # Filtered: not street pattern
+Link J To L # Filtered: not street pattern
+Link J To T6 # Filtered: not street pattern
+Link K To T8 # Filtered: not street pattern
+Link L To T14 # Filtered: not street pattern
+Link Mlt1 To Fc1/A # Filtered: contains slash, not street pattern
+Link Mrt To T12 # Filtered: not street pattern
+Link Mscp To T19 # Filtered: not street pattern
+Link Path # Filtered: not street pattern
+Link Road To T20 # Filtered: not street pattern
+Link Sdc To Fc3 # Filtered: not street pattern
+Link T10/T7 To J # Filtered: contains slash, not street pattern
+Link T11A To T12 # Filtered: not street pattern
+Link T12 To T19 # Filtered: not street pattern
+Link T16 To W14 &T17 # Filtered: not street pattern
+Link T17 To Convention # Filtered: not street pattern
+Link T18A To T18B # Filtered: not street pattern
+Link T2 To Mlt1 # Filtered: not street pattern
+Link T2 To W3 # Filtered: not street pattern
+Link T20 To T21 # Filtered: not street pattern
+Link T21 To T22 # Filtered: not street pattern
+Link T5 To T7 # Filtered: not street pattern
+Link Toilet Tot3/T3A # Filtered: contains slash, not street pattern
+Link W13 To W14 # Filtered: not street pattern
+Link W14 To Fc5 # Filtered: not street pattern
+Link W2 To W1 # Filtered: not street pattern
+Link W3 To W2 # Filtered: not street pattern
+Link W5A To W5 # Filtered: not street pattern
 Linkway # Filtered: not street pattern
+Little Heron Deck # Filtered: not street pattern
+Little Wings # Filtered: not street pattern
+Loading/Unloading # Filtered: contains slash, not street pattern
+Log Crossing Trek # Filtered: not street pattern
+Long Sand Path # Filtered: not street pattern
+Loop Plaza # Filtered: building/mall, not street pattern
 Lornie Highway # Filtered: not street pattern
+Lornie Park Connector # Filtered: not street pattern
+Lornie Trail # Filtered: not street pattern
+Lornie Underpass # Filtered: not street pattern
+Lornie Viaduct # Filtered: not street pattern
+Loron 44 Geylang # Filtered: not street pattern
 Lorong 1 Geylang Terminal # Filtered: building/mall
-Lorong 4 Blk 93 Market And Hawker Centre # Filtered: building/mall
-Lorong 6 Toa Payoh Hdb Hub B1-23 # Filtered: building/mall
-Lorong Cakera Purnama 12/29 # Filtered: contains slash
-Lorong Chuan Station # Filtered: building/mall
-Lorong Chuan Station Exit A # Filtered: building/mall
-Lovelyloop # Filtered: not street pattern
+Lost Ark # Filtered: not street pattern
+Lower Stream Trek # Filtered: not street pattern
+Loyang Bus Depot # Filtered: not street pattern
 Loyang Green # Filtered: not street pattern
+Loyang Park Connector # Filtered: not street pattern
 Loyang Place # Filtered: not street pattern
+Loyang Viaduct # Filtered: not street pattern
+Loyang View # Filtered: not street pattern
 Lucky View # Filtered: not street pattern
 Ludlow Place # Filtered: not street pattern
 Luxus Hill View # Filtered: not street pattern
+Lyndurst Road Park # Filtered: not street pattern
 Lynwood Grove # Filtered: not street pattern
-M.1 Motoring # Filtered: not street pattern
-Macpherson Spring # Filtered: not street pattern
-Macritchie Reservoir Submerged Boardwalk # Filtered: not street pattern
+Macaque Trail # Filtered: not street pattern
+Macritchie Nature Trail # Filtered: not street pattern
+Macritchie Viaduct # Filtered: not street pattern
 Maida Vale # Filtered: not street pattern
+Main Gate # Filtered: not street pattern
+Main Path # Filtered: not street pattern
+Main Station # Filtered: building/mall, not street pattern
+Malaysia–Singapore Second Link / Laluan Kedua Malaysia-Singapura # Filtered: contains slash, not street pattern
 Malcolm Park # Filtered: not street pattern
 Mandai Boardwalk # Filtered: not street pattern
+Mandai Bus Depot # Filtered: not street pattern
 Mandai Estate # Filtered: not street pattern
+Mandai Park Connector # Filtered: not street pattern
+Mandai Rail Depot P-Way Facility # Filtered: not street pattern
+Mandai Road Track 16 # Filtered: not street pattern
 Mandai Road Track 7 # Filtered: not street pattern
+Mandai Track 15 # Filtered: not street pattern
 Mangrove Boardwalk # Filtered: not street pattern
-Marina Boulevard/Marina Coastal Drive # Filtered: contains slash
+Maple Lane Park # Filtered: not street pattern
+Mar Thoma Road Park # Filtered: not street pattern
+Maragaret Drive Pcn # Filtered: not street pattern
+Marang Trail # Filtered: not street pattern
+Margaret Drive Dormitory # Filtered: not street pattern
+Margaret Drive Hawker Centre # Filtered: building/mall, not street pattern
+Marina Bay Financial Centre Tower 3 Pickup Point # Filtered: building/mall, not street pattern
+Marina Bay Link Mall # Filtered: building/mall, not street pattern
+Marina Bay Street Circuit # Filtered: not street pattern
+Marina Centre Terminal # Filtered: building/mall, not street pattern
+Marina Deck # Filtered: not street pattern
 Marina Grove # Filtered: not street pattern
-Marina Mall # Filtered: building/mall, not street pattern
-Marina Square Shopping Mall # Filtered: building/mall, not street pattern
-Marina Station Road # Filtered: building/mall
+Marina One Green Heart # Filtered: not street pattern
+Marina Promenade # Filtered: not street pattern
 Marina View # Filtered: not street pattern
+Marine Crescent Ville # Filtered: not street pattern
+Marine Parade Flyover # Filtered: not street pattern
+Marine Parade Promenade # Filtered: not street pattern
+Marine Parade Radio Control Modellers Club # Filtered: not street pattern
 Marine Parade Road Park # Filtered: not street pattern
+Marine Terrace Breeze # Filtered: not street pattern
+Marine Terrace Haven # Filtered: not street pattern
 Marine Vista # Filtered: not street pattern
+Maritime Square D # Filtered: not street pattern
+Marsh Trail # Filtered: not street pattern
 Marsiling Green # Filtered: not street pattern
 Marsiling Grove # Filtered: not street pattern
-Marsiling Spring # Filtered: not street pattern
+Marsiling Lane Market # Filtered: not street pattern
+Marsiling Park Connector # Filtered: not street pattern
+Marsiling Shortlink 1 # Filtered: not street pattern
 Martin Place # Filtered: not street pattern
 Masonic Hall Driveway # Filtered: not street pattern
-Maxsteel Enterprise # Filtered: not street pattern
+Mattar Road Seafood # Filtered: not street pattern
 Mayflower Place # Filtered: not street pattern
-Mckenzie # Filtered: not street pattern
-Mcnair Spring # Filtered: not street pattern
-Meat And Green # Filtered: not street pattern
-Mendon Spring # Filtered: not street pattern
+Mcdonald'S Drive-Through # Filtered: not street pattern
+Medley Alley # Filtered: not street pattern
+Mel'S Drive-In # Filtered: not street pattern
+Mergui Road Drain # Filtered: not street pattern
+Merlion Park # Filtered: not street pattern
 Meyer Place # Filtered: not street pattern
+Millenia Walk - Park & Dine # Filtered: not street pattern
 Mimosa Place # Filtered: not street pattern
 Mimosa Vale # Filtered: not street pattern
 Mimosa View # Filtered: not street pattern
+Mindef Carpark # Filtered: not street pattern
+Minds - Towner Gardens School # Filtered: not street pattern
+Minds Fernvale Gardens School # Filtered: not street pattern
+Minds Lee Kong Chian Gardens School # Filtered: not street pattern
 Ming Teck Park # Filtered: not street pattern
+Mini Golf Ruins # Filtered: not street pattern
+Mini Street 61 Park # Filtered: not street pattern
+Monk'S Hill Flats # Filtered: building/mall, not street pattern
 Montreal Green # Filtered: not street pattern
-Montreal Spring # Filtered: not street pattern
 Moonbeam View # Filtered: not street pattern
+Mount Echo Park # Filtered: not street pattern
 Mount Elizabeth # Filtered: not street pattern
-Mount Elizabeth Medical Centre # Filtered: building/mall, not street pattern
 Mount Faber Green # Filtered: not street pattern
 Mount Sinai Plain # Filtered: not street pattern
 Mount Sinai View # Filtered: not street pattern
 Mount Sophia # Filtered: not street pattern
-Msd Engineering # Filtered: not street pattern
+Mountbatten / Old Airport Road Open Space # Filtered: contains slash, not street pattern
+Mountbatten Bridge # Filtered: not street pattern
+Mud Experience # Filtered: not street pattern
 Mugliston Park # Filtered: not street pattern
-Mun Siong Engineering # Filtered: not street pattern
-Mustari Enterprise # Filtered: not street pattern
-Nalayanee Trading Enterprise # Filtered: not street pattern
+Murai Circus # Filtered: not street pattern
+Murai East Circus # Filtered: not street pattern
+Murnane Trail # Filtered: not street pattern
+Muslim Cemetery Path 15 # Filtered: not street pattern
+Muslim Cemetery Path 16 # Filtered: not street pattern
+Muslim Cemetery Path 17 # Filtered: not street pattern
+Muslim Cemetery Path 18 # Filtered: not street pattern
+Muslim Cemetery Path 20 # Filtered: not street pattern
+Muslim Cemetery Path 22 # Filtered: not street pattern
+Muslim Cemetery Path 6 # Filtered: not street pattern
+Muslim Cemetery Path 7 # Filtered: not street pattern
+Name # Filtered: not street pattern
+Namly Garden # Filtered: not street pattern
 Namly Grove # Filtered: not street pattern
 Namly Place # Filtered: not street pattern
-Nanyang Drive Academic Building North Abn-B4B-10 # Filtered: building/mall, not street pattern
-Nanyang Gateway # Filtered: not street pattern
+Namly View # Filtered: not street pattern
+Nangka Trail # Filtered: not street pattern
+Nanyang Circle Faculty Housing # Filtered: not street pattern
 Nanyang Green # Filtered: not street pattern
 Nanyang Grove # Filtered: not street pattern
+Nanyang Terrace Faculty Housing # Filtered: not street pattern
+Nanyang Valley # Filtered: not street pattern
 Nanyang View # Filtered: not street pattern
-National University Of Singapore Faculty Of Engineering # Filtered: not street pattern
+Naracoorte Cave # Filtered: not street pattern
+Narrow # Filtered: not street pattern
+Nature Walk Trail # Filtered: not street pattern
 Nava Grove # Filtered: not street pattern
+Nbe # Filtered: not street pattern
+Nbe # Filtered: not street pattern
+Nee Soon Camp Circus # Filtered: not street pattern
+Nee Soon Central Community Park # Filtered: not street pattern
 Nee Soon Central Green # Filtered: not street pattern
+Nee Soon Central Meadows # Filtered: not street pattern
+Nee Soon Central View # Filtered: not street pattern
+Nee Soon Link Park # Filtered: not street pattern
+Neo Tiew Harvest Place # Filtered: not street pattern
+Nepal Circus # Filtered: not street pattern
 Nepal Park # Filtered: not street pattern
-Nex # Filtered: not street pattern
-Nex Global Engineering # Filtered: not street pattern
+New Retail Ammenity Carpark Entry # Filtered: not street pattern
+Newton Circus # Filtered: not street pattern
+Nexus # Filtered: not street pattern
+Ngee Ann City Forecourt # Filtered: not street pattern
 Nicole Green # Filtered: not street pattern
 Nicoll Highway # Filtered: not street pattern
+Nicoll Underpass # Filtered: not street pattern
 Nim Green # Filtered: not street pattern
-No 1 Queensway Shopping Centre # Filtered: building/mall, not street pattern
+No Entry # Filtered: not street pattern
 Normanton Park # Filtered: not street pattern
 North Boat Quay # Filtered: not street pattern
-North Bridge Road Funan # Filtered: not street pattern
-North Bridge Road Raffles City # Filtered: not street pattern
-Northlink # Filtered: not street pattern
-Northpoint City # Filtered: not street pattern
+North Hill Food Court # Filtered: building/mall, not street pattern
+North View Path # Filtered: not street pattern
+North-South Corridor # Filtered: not street pattern
+Northern Axis # Filtered: not street pattern
+Novena Rise Park # Filtered: not street pattern
+Novena Square Office Tower A # Filtered: building/mall, not street pattern
+Novena Square Office Tower B # Filtered: building/mall, not street pattern
 Oakwood Grove # Filtered: not street pattern
+Obstacle Course At Forest Adventure # Filtered: not street pattern
 Ocbc Skyway # Filtered: not street pattern
+Ocean Drive Circus # Filtered: not street pattern
 Oei Tiong Ham Park # Filtered: not street pattern
-Old Jurong Railway # Filtered: not street pattern
-Old Kallang Airport Gateway # Filtered: not street pattern
+Off Trail # Filtered: not street pattern
+Og Bridge # Filtered: not street pattern
+Old Airport Road Food Centre & Shopping Mall # Filtered: building/mall, not street pattern
+Old City Limit # Filtered: not street pattern
+Old Hainanese Village # Filtered: not street pattern
+Old Ktm Railway Trackbed # Filtered: not street pattern
 Old Terminal Lane # Filtered: building/mall
+Old Upper Thomson Road Park Connector # Filtered: not street pattern
 Olive Grove # Filtered: not street pattern
+Oncospermum Trail # Filtered: not street pattern
 One Finlayson Green # Filtered: not street pattern
-One Upper Pickering # Filtered: not street pattern
+One Tree Hill Mansions # Filtered: not street pattern
+One Tree Hill Residence # Filtered: not street pattern
 One-North Gateway # Filtered: not street pattern
-One-North Gateway # Filtered: not street pattern
-One-North Gateway # Filtered: not street pattern
-Orchard # Filtered: not street pattern
+Open Air Compound # Filtered: not street pattern
+Orange Grove Residences # Filtered: building/mall, not street pattern
+Orange Grove Serviced Residences # Filtered: building/mall, not street pattern
 Orchard Gateway # Filtered: not street pattern
 Orchard Promenade # Filtered: not street pattern
-Orchard Road 313 Somerset # Filtered: not street pattern
-Orchard Road Paragon # Filtered: not street pattern
-Orchard Road Plaza Singapura # Filtered: building/mall, not street pattern
-Orchard Road Takashimaya S.C. # Filtered: not street pattern
-Orchard Road The Heeren # Filtered: not street pattern
-Orchard Road Wisma Atria # Filtered: not street pattern
+Orchard Road Presbyterian Church # Filtered: not street pattern
 Orchard Turn # Filtered: not street pattern
-Orchard Turn Ion Orchard # Filtered: not street pattern
-P4 Engineering # Filtered: not street pattern
+Orchid Plaza # Filtered: building/mall, not street pattern
+Ord Bridge # Filtered: not street pattern
+Our Tampines Hub # Filtered: building/mall, not street pattern
+Outram Park # Filtered: not street pattern
+Overhead Bridge # Filtered: not street pattern
+Overpass # Filtered: not street pattern
+Overrun # Filtered: not street pattern
+Oxley Garden # Filtered: not street pattern
 Padang Chancery # Filtered: not street pattern
+Padang Jeringau # Filtered: not street pattern
 Palm Green # Filtered: not street pattern
 Palm Grove # Filtered: not street pattern
-Palm Spring # Filtered: not street pattern
-Pan Sin Engineering # Filtered: not street pattern
+Pandan Flyover # Filtered: not street pattern
+Pandan Gardens Leisure Park # Filtered: not street pattern
+Pandan Gardens Park Connector # Filtered: not street pattern
 Pandan Valley # Filtered: not street pattern
+Pang Sua Park Connector # Filtered: not street pattern
 Pangshan Green # Filtered: not street pattern
 Paradise Island # Filtered: not street pattern
-Paragon # Filtered: not street pattern
+Parc Central Residences # Filtered: building/mall, not street pattern
+Park Avenue Changi # Filtered: not street pattern
+Park Avenue Hotel # Filtered: building/mall, not street pattern
+Park Avenue Robertson # Filtered: not street pattern
+Park Connector # Filtered: not street pattern
+Park Connector Network # Filtered: not street pattern
 Park Green # Filtered: not street pattern
 Park Vale # Filtered: not street pattern
 Park Villas Green # Filtered: not street pattern
 Parkland Green # Filtered: not street pattern
+Parkway Apartments # Filtered: building/mall, not street pattern
+Parkway Centre # Filtered: building/mall, not street pattern
+Parkway East Hospital # Filtered: not street pattern
+Parkway Lodge # Filtered: not street pattern
+Parkway Parade # Filtered: not street pattern
+Parkway Parade Office Tower # Filtered: building/mall, not street pattern
+Parkway View # Filtered: not street pattern
+Parkway Women & Fertility Clinic # Filtered: not street pattern
 Parliament Place # Filtered: not street pattern
+Parrot Paradise # Filtered: not street pattern
+Parry Avenue Field # Filtered: not street pattern
+Parry Avenue Interim Park # Filtered: not street pattern
+Parry View # Filtered: not street pattern
+Pasir Panjang Hill Brethren Church # Filtered: not street pattern
+Pasir Panjang Terminal Avenue 1 # Filtered: building/mall
+Pasir Panjang Terminal Avenue 2 # Filtered: building/mall
+Pasir Panjang Terminal Avenue 3 # Filtered: building/mall
+Pasir Panjang Terminal Avenue 8 # Filtered: building/mall
 Pasir Panjang Terminal Link # Filtered: building/mall
+Pasir Panjang Terminal Street Rs # Filtered: building/mall, not street pattern
+Pasir Ris Beach Pcn # Filtered: not street pattern
+Pasir Ris Bus Interchange # Filtered: building/mall, not street pattern
+Pasir Ris Central Hawker Centre # Filtered: building/mall, not street pattern
+Pasir Ris Coast Industrial Park 2 # Filtered: not street pattern
+Pasir Ris Coast Industrial Park 3 # Filtered: not street pattern
+Pasir Ris Coast Industrial Park 6 # Filtered: not street pattern
+Pasir Ris Flyover # Filtered: not street pattern
 Pasir Ris Green # Filtered: not street pattern
-Pasir Ris Green Carkpark C # Filtered: not street pattern
 Pasir Ris Grove # Filtered: not street pattern
+Pasir Ris Interim Bus Interchange # Filtered: building/mall, not street pattern
+Pasir Ris Park Connector # Filtered: not street pattern
+Pasir Ris Street 21 Park # Filtered: not street pattern
 Pasir Ris View # Filtered: not street pattern
-Pasta Grove # Filtered: not street pattern
+Path Along Drainage Canal # Filtered: not street pattern
+Pathway Along Building # Filtered: building/mall, not street pattern
+Paved Function Area # Filtered: not street pattern
 Pavilion Green # Filtered: not street pattern
 Pavilion Grove # Filtered: not street pattern
 Pavilion Place # Filtered: not street pattern
 Pavilion View # Filtered: not street pattern
+Paya Lebar Crescent Open Space # Filtered: not street pattern
+Paya Lebar Park Connector # Filtered: not street pattern
+Paya Lebar Road Park # Filtered: not street pattern
+Pcn # Filtered: not street pattern
+Peach Garden # Filtered: not street pattern
 Peakville Grove # Filtered: not street pattern
 Pearl Bank # Filtered: not street pattern
 Pearl Island # Filtered: not street pattern
+Pearl'S Hill Care Home # Filtered: not street pattern
+Pearl'S Hill City Park # Filtered: not street pattern
+Pearl'S Hill Reservoir # Filtered: not street pattern
+Pedestrian Mall # Filtered: building/mall, not street pattern
+Peirce Track # Filtered: not street pattern
+Pelton Canal Park Connector # Filtered: not street pattern
 Pemimpin Place # Filtered: not street pattern
+Penaga Place # Filtered: not street pattern
+Penang Road Open Space # Filtered: not street pattern
 Penjuru Place # Filtered: not street pattern
 Penshurst Place # Filtered: not street pattern
 Peppermint Grove # Filtered: not street pattern
+Pepys Hill Condominium # Filtered: building/mall, not street pattern
+Persiaran Impian Perdana # Filtered: not street pattern
+Persiaran Kuantan # Filtered: not street pattern
+Persiaran Titiwangsa 1 # Filtered: not street pattern
+Persiaran Titiwangsa 3 # Filtered: not street pattern
+Persiaran Tunku Sarina # Filtered: not street pattern
+Petai Trail # Filtered: not street pattern
 Petaling Boardwalk # Filtered: not street pattern
 Phoenix Garden # Filtered: not street pattern
-Piano Sidewalk # Filtered: not street pattern
-Picadilly # Filtered: not street pattern
+Phoenix Heights Estate # Filtered: not street pattern
+Phoenix Park # Filtered: not street pattern
+Piccadilly # Filtered: not street pattern
+Piccadilly # Filtered: not street pattern
+Piccadilly Circus # Filtered: not street pattern
 Pine Green # Filtered: not street pattern
 Pine Grove # Filtered: not street pattern
-Pine Grove Clubhouse # Filtered: not street pattern
+Pine Grove Condos # Filtered: not street pattern
 Pinewood Grove # Filtered: not street pattern
+Pioneer Circus # Filtered: not street pattern
 Pioneer Place # Filtered: not street pattern
 Pioneer Sector 1 # Filtered: not street pattern
 Pioneer Sector 2 # Filtered: not street pattern
 Pioneer Sector 3 # Filtered: not street pattern
 Pioneer Turn # Filtered: not street pattern
 Pioneer View # Filtered: not street pattern
-Pipe Vision Engineering # Filtered: not street pattern
-Plant Engineering # Filtered: not street pattern
+Pipeline Track # Filtered: not street pattern
+Plam Grove Condominium # Filtered: building/mall, not street pattern
+Plam Grove Regency # Filtered: not street pattern
 Plantation Grove # Filtered: not street pattern
-Plaza Singapura # Filtered: building/mall, not street pattern
-Plq Mall # Filtered: building/mall, not street pattern
+Plaza Singapura Forecourt # Filtered: building/mall, not street pattern
+Pleasant Hill Lodge # Filtered: not street pattern
+Pob From Oth # Filtered: not street pattern
 Pollen Place # Filtered: not street pattern
 Pollen View # Filtered: not street pattern
-Progress Manufacturing # Filtered: not street pattern
-Pulau Tekong Besar # Filtered: not street pattern
-Punggol Drivel # Filtered: not street pattern
+Pre-War Double Storey Terrace Houses # Filtered: not street pattern
+Predator Trek # Filtered: not street pattern
+Prince Charles East Bridge # Filtered: not street pattern
+Prince George'S Park # Filtered: not street pattern
+Prison Link Centre # Filtered: building/mall, not street pattern
+Prisoner-Of-War Brick Steps # Filtered: not street pattern
+Private Pick-Up # Filtered: not street pattern
+Promenade # Filtered: not street pattern
+Prunus Trail # Filtered: not street pattern
+Puaka Bridge # Filtered: not street pattern
+Public Jetty # Filtered: not street pattern
+Punggol Coast Bus Interchange # Filtered: building/mall, not street pattern
+Punggol East Flyover # Filtered: not street pattern
 Punggol Field # Filtered: not street pattern
 Punggol Green # Filtered: not street pattern
+Punggol Green Primary School # Filtered: not street pattern
+Punggol Heritage Trail # Filtered: not street pattern
 Punggol Park Connector # Filtered: not street pattern
 Punggol Place # Filtered: not street pattern
-Punggol Spring # Filtered: not street pattern
+Punggol Road Track 19 # Filtered: not street pattern
+Punggol Temporary Bus Interchange # Filtered: building/mall, not street pattern
 Punggol Waterway # Filtered: not street pattern
+Punggol West Bank Park Connector # Filtered: not street pattern
+Punggol West Flyover # Filtered: not street pattern
 Putting Green # Filtered: not street pattern
+Quality Road Hawker Centre # Filtered: building/mall, not street pattern
 Queen Astrid Park # Filtered: not street pattern
+Queen Street Car Park # Filtered: not street pattern
+Queen Street Terminal # Filtered: building/mall, not street pattern
 Queensway # Filtered: not street pattern
+Rabler'S Ridge Trail # Filtered: not street pattern
 Raeburn Park # Filtered: not street pattern
 Raffles City # Filtered: not street pattern
-Raffles Exchange # Filtered: not street pattern
 Raffles Place # Filtered: not street pattern
 Raffles Quay # Filtered: not street pattern
+Raffles Terrace Fountain # Filtered: not street pattern
 Raglan Grove # Filtered: not street pattern
-Rajdhani Enterprise # Filtered: not street pattern
+Rail Corridor # Filtered: not street pattern
+Rail Corridor Access # Filtered: not street pattern
+Rainbow Centre Admiral Hill School # Filtered: building/mall, not street pattern
+Rainbow Centre-Margaret Drive School # Filtered: building/mall, not street pattern
 Rambai Boardwalk # Filtered: not street pattern
-Redhill # Filtered: not street pattern
+Rambler'S Ridge Trail # Filtered: not street pattern
+Rambutan Trail # Filtered: not street pattern
+Ramp # Filtered: not street pattern
+Ramp # Filtered: not street pattern
+Ramp To Level 2 Parking # Filtered: not street pattern
+Rangoon Road 400Kv Substation # Filtered: not street pattern
+Red Brick Path # Filtered: not street pattern
+Reed Crossing # Filtered: not street pattern
 Regent Grove # Filtered: not street pattern
-Rempah Enterprise # Filtered: not street pattern
+Regent Heights Tower A # Filtered: building/mall, not street pattern
+Reneges Path # Filtered: not street pattern
 Reservoir Highway # Filtered: not street pattern
+Reservoir Track # Filtered: not street pattern
+Reservoir West Track # Filtered: not street pattern
 Residences At Emerald Hill # Filtered: building/mall
+Residential Drop-Off Point # Filtered: not street pattern
 Rhu Cross # Filtered: not street pattern
+Richards Avenue Park # Filtered: not street pattern
 Richards Place # Filtered: not street pattern
-Richee Engineering # Filtered: not street pattern
 Ridley Park # Filtered: not street pattern
+Rifle Range Trail # Filtered: not street pattern
+Rifle Range Underpass # Filtered: not street pattern
 River Green # Filtered: not street pattern
-River Valley # Filtered: not street pattern
+River Track # Filtered: not street pattern
 River Valley Green # Filtered: not street pattern
 River Valley Grove # Filtered: not street pattern
 Riverina View # Filtered: not street pattern
-Rivervale Gateway # Filtered: not street pattern
+Rivervale Court Street Soccer Court # Filtered: not street pattern
 Rivervale Green # Filtered: not street pattern
+Rivervale Green Park # Filtered: not street pattern
 Rivervale Grove # Filtered: not street pattern
+Road H14-15 # Filtered: not street pattern
+Road H16-17 # Filtered: not street pattern
+Road H18 # Filtered: not street pattern
+Road Safety Community Park # Filtered: not street pattern
+Road To Track # Filtered: not street pattern
 Robertson Quay # Filtered: not street pattern
+Rochelle At Newton # Filtered: not street pattern
 Rochester Park # Filtered: not street pattern
-Rock In Clearing # Filtered: not street pattern
-Rodalink # Filtered: not street pattern
-Rotary Engineering # Filtered: not street pattern
-Roth Engineering # Filtered: not street pattern
+Rochor Link Bridge # Filtered: not street pattern
+Rock Path # Filtered: not street pattern
+Root Hollow Trek # Filtered: not street pattern
+Round About # Filtered: not street pattern
+Roundabout # Filtered: not street pattern
+Route 1 # Filtered: not street pattern
+Route 2 # Filtered: not street pattern
+Route 3 # Filtered: not street pattern
+Rowell Road Open Space # Filtered: not street pattern
 Royal Green # Filtered: not street pattern
+Royal Square At Novena # Filtered: not street pattern
+Running Track # Filtered: not street pattern
+Rush Bridge # Filtered: not street pattern
+S # Filtered: not street pattern
+S-Course 1 # Filtered: not street pattern
+S-Course 2 # Filtered: not street pattern
+S-Course 3 # Filtered: not street pattern
+S-Course 4 # Filtered: not street pattern
+S.Hill.Cp # Filtered: not street pattern
+Saint Anne'S Wood # Filtered: not street pattern
+Saint Gregory'S Place # Filtered: not street pattern
+Saint Michael'S Terminal # Filtered: building/mall, not street pattern
 Saint Nicholas View # Filtered: not street pattern
+Sakra View # Filtered: not street pattern
 Sampan Place # Filtered: not street pattern
-Sanctuary Green # Filtered: not street pattern
+Sandown Place # Filtered: not street pattern
 Sandy Island # Filtered: not street pattern
 Saraca Place # Filtered: not street pattern
 Saraca View # Filtered: not street pattern
-Sarca View # Filtered: not street pattern
 Sarkies Green # Filtered: not street pattern
-Sats Catering # Filtered: not street pattern
-School Of Civil And Environmental Engineering # Filtered: not street pattern
-School Of Engineering # Filtered: not street pattern
-School Of Materials Science And Engineering # Filtered: not street pattern
-School Of Mechnical And Aerospace Engineering # Filtered: not street pattern
+Sbst Bedok North Depot # Filtered: not street pattern
+Sbst Braddell Bus Park # Filtered: not street pattern
+Sbst Bukit Batok Depot # Filtered: not street pattern
+Sbst Hougang Depot # Filtered: not street pattern
+Sbst Soon Lee Depot # Filtered: not street pattern
+Sceneca Square/Sceneca Residence # Filtered: contains slash, not street pattern
+Scented Sphere # Filtered: not street pattern
 Science Centre Road # Filtered: building/mall
-Seahill # Filtered: not street pattern
-Seahorse Hideaway # Filtered: not street pattern
+Sde3 Plaza # Filtered: building/mall, not street pattern
+Second Avenue Junction # Filtered: building/mall, not street pattern
+Secondary Track # Filtered: not street pattern
 Sector A Sin Ming Industrial Estate # Filtered: not street pattern
-Sector B Sin Ming Ind Estate # Filtered: not street pattern
+Sector B Sin Ming Industrial Estate # Filtered: not street pattern
 Sector C Sin Ming Ind Estate # Filtered: not street pattern
+Sedge Bridge # Filtered: not street pattern
 Segar Grove # Filtered: not street pattern
 Selanting Green # Filtered: not street pattern
-Selegie Road Parklane Shopping Mall # Filtered: building/mall, not street pattern
 Seletar Aerospace View # Filtered: not street pattern
+Seletar Court # Filtered: not street pattern
 Seletar Green View # Filtered: not street pattern
+Seletar Link Flyover # Filtered: not street pattern
+Seletar Park Connector # Filtered: not street pattern
 Seletar Satellite Station Road # Filtered: building/mall
+Seletar West Park Connector # Filtered: not street pattern
+Sembawang Alley # Filtered: not street pattern
+Sembawang Bus Interchange # Filtered: building/mall, not street pattern
 Sembawang Green # Filtered: not street pattern
-Sembawang Hot Spring # Filtered: not street pattern
+Sembawang Park Connector # Filtered: not street pattern
 Sembawang Place # Filtered: not street pattern
-Sembawang Roads # Filtered: not street pattern
+Sembawang Square Estate # Filtered: not street pattern
+Sembawang Terminal Avenue 3 # Filtered: building/mall
+Sembawang Terminal Avenue 1 # Filtered: building/mall
+Sembawang Terminal Avenue 2 # Filtered: building/mall
+Sembawang Terminal Avenue 3 # Filtered: building/mall
+Sembawang Terminal Road C # Filtered: building/mall, not street pattern
+Sembawang Terminal Road D # Filtered: building/mall, not street pattern
+Sembawang Terminal Road E # Filtered: building/mall, not street pattern
 Sembawang Vista # Filtered: not street pattern
-Sembcorp/Banyan Avenue # Filtered: contains slash
-Sembcorp/Sakra Avenue # Filtered: contains slash
-Seng Choon Engineering # Filtered: not street pattern
-Seng Heng Engineering # Filtered: not street pattern
-Senja Gateway # Filtered: not street pattern
+Sembawang Way Bridge # Filtered: not street pattern
+Sembcorp Marine Tuas Boulevard Yard # Filtered: not street pattern
+Seng Chew Quarry # Filtered: not street pattern
+Sengkang Bus Interchange # Filtered: building/mall, not street pattern
+Sengkang Floating Wetland Path # Filtered: not street pattern
+Sengkang Green Primary School # Filtered: not street pattern
+Sengkang Riverside Bridge # Filtered: not street pattern
+Sengkang West Depot # Filtered: not street pattern
+Senja Flyover # Filtered: not street pattern
 Senja Green # Filtered: not street pattern
 Senja Parc View Common Green # Filtered: not street pattern
+Sennett Avenue Linear Park # Filtered: not street pattern
+Sennett Avenue Open Space # Filtered: not street pattern
 Sennett Place # Filtered: not street pattern
+Sensory Trail # Filtered: not street pattern
 Sentosa Boardwalk # Filtered: not street pattern
+Sentosa Cove Private Area # Filtered: not street pattern
 Sentosa Gateway # Filtered: not street pattern
-Sentosa Gateway Rws # Filtered: not street pattern
-Sentosa Station # Filtered: building/mall, not street pattern
-Ser Poh Farming And Trading Enterprise # Filtered: not street pattern
-Serangoon Aenue 1 # Filtered: not street pattern
-Serangoon Broadway # Filtered: not street pattern
+Sentosa Gateway Tunnel # Filtered: not street pattern
+Serangoon Bus Interchange # Filtered: building/mall, not street pattern
+Serangoon Garden Circus # Filtered: not street pattern
 Serangoon Garden Place # Filtered: not street pattern
+Serangoon Gardens Country Club # Filtered: not street pattern
+Serangoon Gardens Neighbourhood Police Post # Filtered: not street pattern
 Serangoon Green # Filtered: not street pattern
+Serangoon North Avenue 1 Park # Filtered: not street pattern
 Serangoon North View # Filtered: not street pattern
-Serangoon Steet # Filtered: not street pattern
-Sew-Eurodrive # Filtered: not street pattern
+Serangoon Park Connector # Filtered: not street pattern
+Serangoon Viaduct # Filtered: not street pattern
+Seraya Place # Filtered: not street pattern
 Shelford Green # Filtered: not street pattern
+Sheltered Walk Path # Filtered: not street pattern
 Sheltered Walkway # Filtered: not street pattern
+Sheltered Walkway To Bus Stop # Filtered: not street pattern
 Shenton Way Terminal # Filtered: building/mall, not street pattern
+Shortcut # Filtered: not street pattern
+Shortcut Rail Corridor # Filtered: not street pattern
+Side Step # Filtered: not street pattern
 Sidewalk # Filtered: not street pattern
 Siglap Bank # Filtered: not street pattern
+Siglap Linear Park # Filtered: not street pattern
+Siglap Park Connector # Filtered: not street pattern
 Siglap Plain # Filtered: not street pattern
+Siglap Valley # Filtered: not street pattern
 Siglap View # Filtered: not street pattern
+Silat Avenue Park # Filtered: not street pattern
+Silk Road Of The Sea # Filtered: not street pattern
+Siloso Beach View # Filtered: not street pattern
+Siloso Trail # Filtered: not street pattern
+Sime Track # Filtered: not street pattern
+Sime Underpass # Filtered: not street pattern
 Simei Green # Filtered: not street pattern
+Simei Park Connector # Filtered: not street pattern
 Simon Place # Filtered: not street pattern
-Simpang 50 # Filtered: not street pattern
+Simon Road Family Clinic # Filtered: not street pattern
+Simpang Kiri Park Connector # Filtered: not street pattern
+Sims Avenue Centre # Filtered: building/mall, not street pattern
+Sims Avenue Park Connector # Filtered: not street pattern
 Sims Green # Filtered: not street pattern
 Sims Place # Filtered: not street pattern
 Sims View # Filtered: not street pattern
-Singapore Aerospace Manufacturing # Filtered: not street pattern
+Sin Ming Place # Filtered: not street pattern
+Singapore Botanic Gardens Gallop Extension # Filtered: not street pattern
+Singapore Polytechnic Convention Centre Plaza # Filtered: building/mall, not street pattern
+Singapore University Of Technology And Design # Filtered: not street pattern
 Sirat Place # Filtered: not street pattern
 Sireh Place # Filtered: not street pattern
+Sit Wah Road Dog Run # Filtered: not street pattern
+Sixth Avenue Residences # Filtered: building/mall, not street pattern
+Sixth Avenue Ville # Filtered: not street pattern
 Sky Green # Filtered: not street pattern
-Smc Manufacturing # Filtered: not street pattern
-Smith Street New Bridge Centre # Filtered: building/mall, not street pattern
-Social Club House # Filtered: not street pattern
+Skyline Promenade # Filtered: not street pattern
+Skyride # Filtered: not street pattern
+Slider # Filtered: not street pattern
+Small Road Leading To Drop-Off Point # Filtered: not street pattern
+Smrt Kranji Depot # Filtered: not street pattern
+Smrt Woodlands Bus Park # Filtered: not street pattern
+Smrt Woodlands Depot # Filtered: not street pattern
+Smu Concourse # Filtered: not street pattern
+Smu Prinsep Street Residences # Filtered: building/mall, not street pattern
 Soo Chow View # Filtered: not street pattern
-Spottiswoode # Filtered: not street pattern
-Spring # Filtered: not street pattern
+Sota Steps # Filtered: not street pattern
+South View Path # Filtered: not street pattern
+Sphinx Bridge # Filtered: not street pattern
+Spingwood Height # Filtered: not street pattern
 Spring Grove # Filtered: not street pattern
-Springhill # Filtered: not street pattern
+Springdew Terrace Substation # Filtered: not street pattern
 Springleaf Garden # Filtered: not street pattern
+Springleaf Pcn # Filtered: not street pattern
 Springleaf View # Filtered: not street pattern
 Springside Green # Filtered: not street pattern
 Springside Place # Filtered: not street pattern
 Springside View # Filtered: not street pattern
 Springwood Height # Filtered: not street pattern
-Street Engineering # Filtered: not street pattern
+Squirrel Trail # Filtered: not street pattern
+Street George'S Road Blk 22 # Filtered: not street pattern
+Street. Patrick'S Green # Filtered: not street pattern
 Stadium Place # Filtered: not street pattern
 Staff Centre Link # Filtered: building/mall
+Stagmont Park Connector # Filtered: not street pattern
 Stai Jalan Boon Lay # Filtered: not street pattern
-Stamford Road Capitol Piazza # Filtered: not street pattern
-Starburst Engineering # Filtered: not street pattern
+Stangee Place # Filtered: not street pattern
 Starhub Green # Filtered: not street pattern
+Stellar Entrance # Filtered: not street pattern
+Steps # Filtered: not street pattern
+Stone Bridge # Filtered: not street pattern
 Straits View # Filtered: not street pattern
 Strathmore Green # Filtered: not street pattern
 Stratton Green # Filtered: not street pattern
 Stratton Place # Filtered: not street pattern
-Subway # Filtered: not street pattern
+Street A # Filtered: not street pattern
+Street E # Filtered: not street pattern
+Street F # Filtered: not street pattern
+Street Food # Filtered: not street pattern
+Street Gh # Filtered: not street pattern
+Street H # Filtered: not street pattern
+Street Hw # Filtered: not street pattern
+Street Ij # Filtered: not street pattern
+Street Jk # Filtered: not street pattern
+Street Kl # Filtered: not street pattern
+Street Lm # Filtered: not street pattern
+Street Rs # Filtered: not street pattern
+Street Soccer # Filtered: not street pattern
+Street Soccer Court # Filtered: not street pattern
+Street Soccer Pitch # Filtered: not street pattern
+Street Y1 # Filtered: not street pattern
+Street Y2 # Filtered: not street pattern
+Street Y30 # Filtered: not street pattern
+Street Y7 # Filtered: not street pattern
 Sultan Gate # Filtered: not street pattern
 Summer Green # Filtered: not street pattern
 Summer Place # Filtered: not street pattern
+Summit Path # Filtered: not street pattern
+Sun Plaza # Filtered: building/mall, not street pattern
 Sun Plaza Gardens # Filtered: building/mall
-Sun Plaza Spring # Filtered: building/mall, not street pattern
-Sungrove # Filtered: not street pattern
+Sungei Api Api Park # Filtered: not street pattern
+Sungei Seletar Bus Depot # Filtered: not street pattern
+Sungei Serangoon Park Connector # Filtered: not street pattern
+Sunrise Place # Filtered: not street pattern
 Sunset Grove # Filtered: not street pattern
+Sunset Heights Open Space # Filtered: not street pattern
 Sunset Place # Filtered: not street pattern
 Sunset Vale # Filtered: not street pattern
 Sunset View # Filtered: not street pattern
+Sunset Way Park # Filtered: not street pattern
+Sunset Way Residence # Filtered: not street pattern
 Sunshine Grove # Filtered: not street pattern
 Suntec City # Filtered: not street pattern
-Supergreen # Filtered: not street pattern
 Supertree Grove # Filtered: not street pattern
-Swee Huat Heng Engineering # Filtered: not street pattern
-Swees Engineering # Filtered: not street pattern
+Sussex Garden # Filtered: not street pattern
 Swettenham Green # Filtered: not street pattern
 Swiss Cottage Estate # Filtered: not street pattern
 Swiss View # Filtered: not street pattern
-Synheat Manufacturing # Filtered: not street pattern
+Symphony Streams # Filtered: not street pattern
+Syonan Jinja # Filtered: not street pattern
+T4 Flyover # Filtered: not street pattern
+T4 Underpass # Filtered: not street pattern
+T43 # Filtered: not street pattern
+T46 # Filtered: not street pattern
+Tactile Trellis # Filtered: not street pattern
+Tagore Road Substation # Filtered: not street pattern
 Tai Hwan Grove # Filtered: not street pattern
 Tai Hwan Place # Filtered: not street pattern
-Takashimaya S.C. # Filtered: not street pattern
+Tai Keng Place # Filtered: not street pattern
+Taman Bedok # Filtered: not street pattern
+Taman Ho Swee # Filtered: not street pattern
 Taman Kembangan # Filtered: not street pattern
 Taman Mas Merah # Filtered: not street pattern
 Taman Nakhoda # Filtered: not street pattern
 Taman Permata # Filtered: not street pattern
-Taman Permata3 # Filtered: not street pattern
 Taman Selamat # Filtered: not street pattern
 Taman Serasi # Filtered: not street pattern
+Taman Siglap # Filtered: not street pattern
 Taman Sireh # Filtered: not street pattern
 Taman Warna # Filtered: not street pattern
-Tampines 1 # Filtered: not street pattern
+Tampines Bus Interchange # Filtered: building/mall, not street pattern
+Tampines Central Park # Filtered: not street pattern
 Tampines Concourse # Filtered: not street pattern
+Tampines Concourse Interchange # Filtered: building/mall, not street pattern
 Tampines Eco Green # Filtered: not street pattern
 Tampines Grande # Filtered: not street pattern
 Tampines Green # Filtered: not street pattern
-Tampines Greenspring # Filtered: not street pattern
-Tampines Greenterrace # Filtered: not street pattern
 Tampines Grove # Filtered: not street pattern
-Tampines Mall # Filtered: building/mall, not street pattern
-Tampines Palmwalk # Filtered: not street pattern
+Tampines North Bus Interchange # Filtered: building/mall, not street pattern
+Tampines Park Connector # Filtered: not street pattern
 Tampines Place # Filtered: not street pattern
-Tampines Spring # Filtered: not street pattern
-Tampines Street 11 01-03 # Filtered: not street pattern
-Tampines Street 11 01-34 # Filtered: not street pattern
-Tampines Sunrise # Filtered: not street pattern
-Tanah Merah Green # Filtered: not street pattern
-Tanah Merah Kasturi # Filtered: not street pattern
+Tampines Road To Upper Serangoon Road Shortcut # Filtered: not street pattern
+Tampines Viaduct # Filtered: not street pattern
+Tan Tye Place # Filtered: not street pattern
+Tanah Merah Ferry Terminal # Filtered: building/mall, not street pattern
+Tanah Merah Flyover # Filtered: not street pattern
+Tanah Merah Green Viaduct # Filtered: not street pattern
+Tanah Merah Kechil Ridge # Filtered: not street pattern
 Tangerine Grove # Filtered: not street pattern
 Tanglin Grove # Filtered: not street pattern
 Tanglin Halt Green # Filtered: not street pattern
-Tanglin Road Tanglin Mall # Filtered: building/mall, not street pattern
+Tanglin Hill Meadows # Filtered: not street pattern
 Tanjong Paagar Terminal Avenue # Filtered: building/mall
-Tanjong Pagar Plaza # Filtered: building/mall, not street pattern
 Tanjong Pagar Terminal Avenue # Filtered: building/mall
 Tanjong Penjuru # Filtered: not street pattern
+Tanjong Rhu Footbridge # Filtered: not street pattern
+Tanjong Rhu Place # Filtered: not street pattern
+Tanjong Rhu Promenade # Filtered: not street pattern
+Tanjong Rhu View # Filtered: not street pattern
+Tavistock Avenue Park # Filtered: not street pattern
+Taxi Pick Up # Filtered: not street pattern
+Tc # Filtered: not street pattern
 Teban Place # Filtered: not street pattern
-Techlink # Filtered: not street pattern
 Tekong Highway # Filtered: not street pattern
+Telecoms Link Mobile # Filtered: not street pattern
 Telok Ayer Green # Filtered: not street pattern
 Telok Blangah Green # Filtered: not street pattern
-Telok Kurau # Filtered: not street pattern
-Telok Kurau Court # Filtered: not street pattern
-Temasek Polytechnic # Filtered: not street pattern
-Temasek Tower # Filtered: building/mall, not street pattern
 Tembeling Grove # Filtered: not street pattern
-Tempco Manufacturing # Filtered: not street pattern
-Thasevi Food Jalan Kayu Prata # Filtered: not street pattern
-The Balmoral Spring # Filtered: not street pattern
-The Cairnhill # Filtered: not street pattern
+Temp Pob 19 # Filtered: not street pattern
+Temporary Foot Path # Filtered: not street pattern
+Tender Foot # Filtered: not street pattern
+Tengah Bus Interchange # Filtered: building/mall, not street pattern
+Terentang Trail # Filtered: not street pattern
+Terrace Chinese Kitchen # Filtered: not street pattern
+Terrace Garden # Filtered: not street pattern
+Terusan Edge # Filtered: not street pattern
+The Boulevard Residences # Filtered: building/mall, not street pattern
 The Central Greenway # Filtered: not street pattern
-The Centrepoint # Filtered: not street pattern
-The Clementi Mall # Filtered: building/mall, not street pattern
-The Edge On Cairnhill # Filtered: not street pattern
+The Courtyard # Filtered: not street pattern
 The Esplanade # Filtered: not street pattern
-The Fernhill # Filtered: not street pattern
-The Gateway # Filtered: not street pattern
-The Grandhill # Filtered: not street pattern
+The Flagstaff # Filtered: not street pattern
+The Foothills # Filtered: not street pattern
+The Gardens At Bishan # Filtered: not street pattern
+The Gardens At Gerald # Filtered: not street pattern
+The Green Collection # Filtered: not street pattern
+The Green Party # Filtered: not street pattern
+The Helix # Filtered: not street pattern
 The Inglewood # Filtered: not street pattern
 The Knolls # Filtered: not street pattern
-The Ladyhill # Filtered: not street pattern
-The Light At Cairnhill # Filtered: not street pattern
-The Meyerise # Filtered: not street pattern
+The Lawn # Filtered: not street pattern
+The Lighthouse # Filtered: not street pattern
+The Lost Ark # Filtered: not street pattern
 The Orange Grove # Filtered: not street pattern
 The Oval # Filtered: not street pattern
-The Oval Seletar Aerospace Park # Filtered: not street pattern
-The Riverwalk # Filtered: not street pattern
-The Royal Runway # Filtered: not street pattern
-The Seletar Mall # Filtered: building/mall, not street pattern
-The Sensoria # Filtered: not street pattern
-The Star Vista # Filtered: not street pattern
-The Sunny Spring # Filtered: not street pattern
-The Vermont On Cairnhill # Filtered: not street pattern
-The Woodgrove # Filtered: not street pattern
+The Verandah # Filtered: not street pattern
+Thomson Grand # Filtered: not street pattern
 Thomson Green # Filtered: not street pattern
 Thomson Grove # Filtered: not street pattern
 Thomson Ridge # Filtered: not street pattern
+Thomson Rise Estate # Filtered: not street pattern
+Thomson Road Baptist Church # Filtered: not street pattern
 Thomson View # Filtered: not street pattern
+Thong Hub Gardens Pte Ltd # Filtered: building/mall, not street pattern
 Thong Soon Green # Filtered: not street pattern
+Thrift Drive Open Space # Filtered: not street pattern
+Tiger Bridge # Filtered: not street pattern
+Tiger Lookout # Filtered: not street pattern
+Tiong Bahru Plaza Forecourt # Filtered: building/mall, not street pattern
+Toa Payoh Bus Interchange # Filtered: building/mall, not street pattern
+Toa Payoh Central Community Club # Filtered: not street pattern
+Toa Payoh Central Horizon # Filtered: not street pattern
 Toa Payoh Green # Filtered: not street pattern
 Toa Payoh Industrial Park # Filtered: not street pattern
-Toa Payoh Palm Spring # Filtered: not street pattern
-Toa Payoh Spring # Filtered: not street pattern
+Toa Payoh North Flyover # Filtered: not street pattern
+Toh Cresccent # Filtered: not street pattern
 Toh Guan Grove # Filtered: not street pattern
-Toh Tuck Pl # Filtered: not street pattern
+Toh Tuck Avenue Building Park # Filtered: building/mall, not street pattern
 Toh Tuck Place # Filtered: not street pattern
-Toho Green # Filtered: not street pattern
+Town Council Cycling Path # Filtered: not street pattern
 Town Green # Filtered: not street pattern
-Tradeleader Enterprise # Filtered: not street pattern
-Traditional Haig Road Putu Piring # Filtered: not street pattern
+Tpe Park Connector # Filtered: not street pattern
+Tram Safari Route # Filtered: not street pattern
+Tras Link Park # Filtered: not street pattern
+Treasure Hunters # Filtered: not street pattern
 Treasure Island # Filtered: not street pattern
+Treetop Trail # Filtered: not street pattern
 Trevose Place # Filtered: not street pattern
-Tropical Spring # Filtered: not street pattern
-Ttj Design And Engineering # Filtered: not street pattern
+True Way Presby Church # Filtered: not street pattern
+Tuas Checkpoint # Filtered: not street pattern
+Tuas Checkpoint - Block A1 # Filtered: not street pattern
+Tuas Checkpoint - Block A2 # Filtered: not street pattern
+Tuas Checkpoint - Block A3 # Filtered: not street pattern
+Tuas Circus # Filtered: not street pattern
 Tuas South Place # Filtered: not street pattern
+Tuas Terminal # Filtered: building/mall, not street pattern
 Tuas Terminal Gateway # Filtered: building/mall, not street pattern
+Tuas Viaduct # Filtered: not street pattern
 Tuas View Circuit # Filtered: not street pattern
 Tuas View Place # Filtered: not street pattern
 Tukang Innovation Grove # Filtered: not street pattern
-Ubi Crescent Number One Building # Filtered: building/mall, not street pattern
+Turut Track # Filtered: not street pattern
 Ubi Grove # Filtered: not street pattern
 Ubi View # Filtered: not street pattern
-Ue Square/Before Mohd Sultan Road # Filtered: contains slash
+Ue Square Residences # Filtered: building/mall, not street pattern
 Ulu Pandan Park Connector # Filtered: not street pattern
+Ulu Sembawang Park Connector # Filtered: not street pattern
+Underground Path From Tanjong Pagar Mrt # Filtered: not street pattern
 Underground Walkway # Filtered: not street pattern
-Unik Engineering # Filtered: not street pattern
+Underpass To Amber Garden # Filtered: not street pattern
+Unexplored # Filtered: not street pattern
+Union Square Residences # Filtered: building/mall, not street pattern
 United Medicare Centre At Elizabeth Drive # Filtered: building/mall
-Uob Centre # Filtered: building/mall, not street pattern
-Upp Bukit Timah View # Filtered: not street pattern
-Upper Pickering Stree # Filtered: not street pattern
+University Road Park # Filtered: not street pattern
+Up Enbankment # Filtered: not street pattern
+Upper Boon Keng Underpass # Filtered: not street pattern
+Upper Bukit Timah View # Filtered: not street pattern
+Upper East Coast Terminal # Filtered: building/mall, not street pattern
+Upper Paya Lebar Underpass # Filtered: not street pattern
+Upper Peirce Reservoir # Filtered: not street pattern
 Upper Serangoon View # Filtered: not street pattern
-Upper Thomson # Filtered: not street pattern
-Utoc Engineering # Filtered: not street pattern
-Utoc Engineering # Filtered: not street pattern
+Upper Stream Trek # Filtered: not street pattern
+Valour Primary School G1 # Filtered: not street pattern
+Valour Primary School G2 # Filtered: not street pattern
+Valour Primary School G3 # Filtered: not street pattern
+Valour Primary School G4 # Filtered: not street pattern
 Varsity Park Entrance / Exit Road # Filtered: contains slash
-Veggie House 一芳 - Hougang Green # Filtered: not street pattern
+Varsity Park Path # Filtered: not street pattern
+Varsity Park Path 2 # Filtered: not street pattern
+Varsity Park Path 3 # Filtered: not street pattern
+Varsity Park Path 3 # Filtered: not street pattern
 Venus Green # Filtered: not street pattern
 Verde Grove # Filtered: not street pattern
 Verde Place # Filtered: not street pattern
 Verde View # Filtered: not street pattern
+Vernon Park # Filtered: not street pattern
 Victoria Park Grove # Filtered: not street pattern
-Victoria Street Bugis Junction # Filtered: building/mall, not street pattern
+Viewing Point # Filtered: not street pattern
+Villa Verde Bridge # Filtered: not street pattern
 Vine Grove # Filtered: not street pattern
-Virogreen # Filtered: not street pattern
 Vista Exchange Green # Filtered: not street pattern
 Vita Green # Filtered: not street pattern
-Vivocity # Filtered: not street pattern
-Wah Son Engineering # Filtered: not street pattern
 Wak Hassan Place # Filtered: not street pattern
+Walking Track # Filtered: not street pattern
 Walkway At 25 Jalan Membina # Filtered: not street pattern
 Walkway At 25 Jalan Membina Residential Building # Filtered: building/mall, not street pattern
+Walkway By Vines # Filtered: not street pattern
 Walkway Of 25 Jalan Membina Residential # Filtered: not street pattern
+Walkway To Nest # Filtered: not street pattern
+Walkway With Shelter # Filtered: not street pattern
+Wallaby Trail # Filtered: not street pattern
+Wallace Trail # Filtered: not street pattern
 Waringin Park # Filtered: not street pattern
-Water Sports Slipway # Filtered: not street pattern
-Waterway Point # Filtered: not street pattern
+Watchover Blue # Filtered: not street pattern
+Waterfall Station # Filtered: building/mall, not street pattern
+Waterfront Promenade # Filtered: not street pattern
 Watten Park # Filtered: not street pattern
 Watten View # Filtered: not street pattern
-Wellseng Enterprise # Filtered: not street pattern
+Wave Bridge # Filtered: not street pattern
+Wave Plaza # Filtered: building/mall, not street pattern
+Weld Road Bridge # Filtered: not street pattern
+West Coast Carpark # Filtered: not street pattern
 West Coast Green # Filtered: not street pattern
 West Coast Grove # Filtered: not street pattern
 West Coast Highway # Filtered: not street pattern
 West Coast Park # Filtered: not street pattern
+West Coast Park Connector # Filtered: not street pattern
 West Coast Place # Filtered: not street pattern
 West Coast Vale # Filtered: not street pattern
-West Park Bizcentral # Filtered: not street pattern
-Westgate # Filtered: not street pattern
+West Coast View # Filtered: not street pattern
+West Grove Primary School # Filtered: not street pattern
+Western Water Catchment # Filtered: not street pattern
 Westlite Jalan Tukang # Filtered: not street pattern
-Whampoa 88 Enterprise # Filtered: not street pattern
-Whampoa Spring # Filtered: not street pattern
+Whampoa Flyover # Filtered: not street pattern
+Whampoa Gardens Community Garden # Filtered: not street pattern
+Whampoa Park Connector # Filtered: not street pattern
+Wheelchair Ramp # Filtered: not street pattern
 White House Park # Filtered: not street pattern
+White Sands Taxi Stand # Filtered: not street pattern
 Wholesale Centre # Filtered: building/mall, not street pattern
-Wide Chord Fan Blade Manufacturing # Filtered: not street pattern
-Wintrade Enterprise # Filtered: not street pattern
-Woodgrove # Filtered: not street pattern
+Whompoa Flyover # Filtered: not street pattern
+Wilkie Terrace Christian Assembly # Filtered: not street pattern
+Wobbly Suspension Bridge # Filtered: not street pattern
+Woodcutter'S Trail # Filtered: not street pattern
+Wooden Bridge # Filtered: not street pattern
+Wooden Path # Filtered: not street pattern
 Woodgrove View # Filtered: not street pattern
-Woodland View # Filtered: not street pattern
-Woodlands # Filtered: not street pattern
+Woodlands Avenue 8 Substation 230Kv # Filtered: not street pattern
+Woodlands Border Checkpoint - Zone 1 # Filtered: not street pattern
+Woodlands Border Checkpoint - Zone 2 # Filtered: not street pattern
+Woodlands Border Checkpoint - Zone 3 # Filtered: not street pattern
+Woodlands Border Checkpoint - Zone 4 # Filtered: not street pattern
 Woodlands Centre Road # Filtered: building/mall
+Woodlands Checkpoint Viaduct # Filtered: not street pattern
+Woodlands Crescent Park # Filtered: not street pattern
 Woodlands Crossing # Filtered: not street pattern
 Woodlands Height # Filtered: not street pattern
-Woodlands Industrial Park D # Filtered: not street pattern
 Woodlands Industrial Park E1 # Filtered: not street pattern
 Woodlands Industrial Park E2 # Filtered: not street pattern
 Woodlands Industrial Park E3 # Filtered: not street pattern
@@ -898,25 +1645,38 @@ Woodlands Industrial Park E5 # Filtered: not street pattern
 Woodlands Industrial Park E6 # Filtered: not street pattern
 Woodlands Industrial Park E7 # Filtered: not street pattern
 Woodlands Industrial Park E8 # Filtered: not street pattern
-Woodlands Industrial Park E8/E9 # Filtered: contains slash, not street pattern
 Woodlands Industrial Park E9 # Filtered: not street pattern
+Woodlands Integrated Transport Hub # Filtered: building/mall, not street pattern
+Woodlands Jetty # Filtered: not street pattern
 Woodlands North Grove # Filtered: not street pattern
+Woodlands Old Checkpoint # Filtered: not street pattern
+Woodlands Ring Primary School # Filtered: not street pattern
+Woodlands Ring Secondary School # Filtered: not street pattern
 Woodlands Sector 1 # Filtered: not street pattern
 Woodlands Sector 2 # Filtered: not street pattern
-Woodlands Spring # Filtered: not street pattern
+Woodlands Temporary Bus Interchange # Filtered: building/mall, not street pattern
+Woodlands Train Checkpoint - Woodlands Bus Checkpoint # Filtered: not street pattern
+Woodlands View # Filtered: not street pattern
+Woodleigh Bus Interchange # Filtered: building/mall, not street pattern
 Woodleigh Park # Filtered: not street pattern
+Woodleigh Underpass # Filtered: not street pattern
+Woods Square Cpn 1 # Filtered: not street pattern
+Woods Square Cpn 2 # Filtered: not street pattern
+Woodsville Flyover # Filtered: not street pattern
+Woodsville Tunnel # Filtered: not street pattern
 Woollerton Park # Filtered: not street pattern
 Yew Mei Green # Filtered: not street pattern
-Yew Tee # Filtered: not street pattern
+Yio Chu Kang Bus Interchange # Filtered: building/mall, not street pattern
 Yio Chu Kang Green # Filtered: not street pattern
 Yio Chu Kang Grove # Filtered: not street pattern
-Yishun Boardwalk # Filtered: not street pattern
-Yishun Greenwalk # Filtered: not street pattern
+Yio Chu Kang Interchange # Filtered: building/mall, not street pattern
+Yishun Bus Interchange # Filtered: building/mall, not street pattern
+Yishun Emerald # Filtered: not street pattern
 Yishun Industrial Park A # Filtered: not street pattern
-Yishun Rivergreen # Filtered: not street pattern
-Yishun Riverwalk # Filtered: not street pattern
-Yishun Spring # Filtered: not street pattern
+Yishun Park Connector # Filtered: not street pattern
+Yishun Sapphire # Filtered: not street pattern
 York Place # Filtered: not street pattern
-Yuhua Spring # Filtered: not street pattern
-Yung Ho Spring # Filtered: not street pattern
-Zorah Enterprise # Filtered: not street pattern
+Zheng Hua Park Connector # Filtered: not street pattern
+Zhenghua-Senja Square Rc # Filtered: not street pattern
+Zion Bridge # Filtered: not street pattern
+Zion Promenade # Filtered: not street pattern
