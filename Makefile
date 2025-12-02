@@ -57,12 +57,22 @@ clean:
 
 categorize:
 	@echo "▶ Starting street name categorization"
-	@rm -rf $(CHUNK_DIR)
 	@mkdir -p $(CHUNK_DIR)
-	@split -l $(LINES_PER_CHUNK) $(STREET_FILE) $(CHUNK_DIR)/streets_chunk_
-	@echo "✓ Split into chunks"
+
+	@if [ -z "$$(ls -A $(CHUNK_DIR) 2>/dev/null)" ]; then \
+		echo "▶ No chunks found — splitting input file"; \
+		split -l $(LINES_PER_CHUNK) $(STREET_FILE) $(CHUNK_DIR)/streets_chunk_; \
+		echo "✓ Split into chunks"; \
+	else \
+		echo "▶ Existing chunks found — resuming from last unprocessed file"; \
+	fi
 
 	@for chunk in $(CHUNK_DIR)/streets_chunk_*; do \
+		outfile="$(CHUNK_DIR)/category_$$(basename $$chunk).md"; \
+		if [ -f "$$outfile" ]; then \
+			echo "⏩ Skipping $$chunk (already processed)"; \
+			continue; \
+		fi; \
 		echo "▶ Processing $$chunk..."; \
 		ollama run $(MODEL) "\
 		Analyze these Singapore street names and categorize them into the following master categories: $(CATEGORIES)\
@@ -73,7 +83,7 @@ categorize:
 		- Under each category, list the relevant street names as bullet points with a short explanation (1 sentence). \
 		- If a category has no matches, omit it entirely. \
 		- Do NOT invent street names. \
-		" < $$chunk > $(CHUNK_DIR)/category_$$(basename $$chunk).md \
+		" < $$chunk > $$outfile \
 		&& echo "✓ Completed $$chunk" \
 		|| { echo "✗ Failed processing $$chunk"; exit 1; }; \
 	done
@@ -95,7 +105,6 @@ categorize:
 	&& echo '✓ Final consolidation complete' \
 	|| { echo '✗ Consolidation failed'; exit 1; }
 
-	@rm -rf $(CHUNK_DIR)
-	@echo "✓ Cleanup done"
+	@echo "▶ Leaving chunk directory in place so you can resume next time if needed"
 
 .PHONY: venv osm city streets clean categorize
