@@ -41,7 +41,6 @@
 48 Bendemeer Road
 5 Hacienda Grove
 51 Cuppage Road
-530370
 530371
 53757
 6 PARK VILLAS RISE
@@ -168,7 +167,6 @@ Anchorvale Lane
 Anchorvale Link
 Anchorvale Road
 Anchorvale Street
-Anchorvale walk
 Anchorvale Walk
 Anderson Road
 Andover Road
@@ -238,7 +236,6 @@ Angullia Park
 Ann Siang Hill
 Ann Siang Hill Park
 Ann Siang Road
-Annamalai Chitty Lane
 Anson Road
 Anthony Road
 Aqueen Prestige Hotel Jalan Besar
@@ -263,7 +260,9 @@ Arun Road
 Asam Trail
 Ascot Rise
 Ash Grove
+Ashley Green
 Ashwood Grove
+Asia Green
 Asia Square
 Asia Square Tower 1
 Asia Square Tower 2
@@ -507,6 +506,7 @@ Blk 30
 Blk 79 Parking Aisle
 Blk 959 Jurong West Street 92
 Blk18 Jalan Tenteram Playground
+Blossom Gardens
 Bloxhome Drive
 Blue Horizon entrance
 Blue Horizon Exit
@@ -874,7 +874,6 @@ Central Fire Station
 Central Green Condo
 Central Grove
 Central Imperial
-Central Lane 1
 Central Library
 Central Library Annexe
 Central Library Plaza
@@ -883,6 +882,7 @@ Central Linear Park
 Central Link
 Central Mall
 Central Manpower Base
+Central Manpower Base (Block 1)
 Central Meadows
 Central Office 1
 Central Office 2
@@ -1023,7 +1023,7 @@ Chin Cheng Avenue
 Chin Chew Street
 Chin Swee Road
 Chin Terrace
-China Square Central
+China Square
 China Square Central Car Park Entrance/Exit
 China Street
 Chinese Cemetery Path 11
@@ -1121,6 +1121,7 @@ Clarence Lane
 Clarke Quay
 Clarke Quay Central
 Clarke Street
+Classical Terrace
 Claymore Drive
 Claymore Hill
 Claymore Road
@@ -1298,7 +1299,6 @@ Crest Road
 Crichton Close
 Crocodile Bridge
 Cross Street
-Cross Street Exchange
 Croucher Road
 Crowhurst Drive
 Crystal Heights
@@ -1771,6 +1771,8 @@ Gambas Avenue
 Gambas Crescent
 Gambas Crescent Substation 66kV
 Gambas Way
+Gambir Gardens
+Gambir Terrace
 Gambir Walk
 Ganges Avenue
 Ganges Avenue Open Space
@@ -1802,7 +1804,9 @@ Gentle Road
 George Street
 Gerald Crescent
 Gerald Drive
+Gerald Gardens
 Gerald Park
+Gerald Terrace
 Geylang Bahru
 Geylang Bahru Lane
 Geylang Bahru Terrace
@@ -1824,7 +1828,6 @@ Gladiola Drive
 Glasgow Road
 Gliders Boardwalk
 Gloucester Road
-Glutton's Square
 Golden Drive
 Golden Heights Condominium
 Golden Rise
@@ -1868,6 +1871,7 @@ Green House
 Green Lane
 Green Lane Park
 Green Spine
+Green Springs
 Greenbank Park
 Greendale Avenue
 Greendale Rise
@@ -2035,7 +2039,6 @@ Hindhede Road
 Hindhede Walk
 Hindoo Road
 Hindu Cemetery Path 2
-Hitachi Square
 Ho Ching Road
 Ho Puah Quay
 Hock Swee Hill
@@ -2048,7 +2051,7 @@ Holland Drive Centre
 Holland Flyover
 Holland Green
 Holland Green Linear Park
-Holland Green playground
+Holland Green Playground
 Holland Grove Avenue
 Holland Grove Drive
 Holland Grove Lane
@@ -2103,7 +2106,6 @@ Hougang Avenue 6
 Hougang Avenue 7
 Hougang Avenue 8
 Hougang Avenue 9
-Hougang B24
 Hougang Bus Park
 Hougang Central
 Hougang Central Bus Interchange
@@ -2234,6 +2236,7 @@ Jalan Batai
 Jalan Batalong
 Jalan Batalong East
 Jalan Batu
+Jalan Batu Ferringgi
 Jalan Batu Hawker Centre
 Jalan Batu Koyok
 Jalan Batu Nilam
@@ -2657,6 +2660,7 @@ Jalan Suasa
 Jalan Suka
 Jalan Sukachita
 Jalan Sultan
+Jalan Sungai Emas
 Jalan Sungei Belang
 Jalan Sungei Poyan
 Jalan Taman
@@ -2904,6 +2908,7 @@ Kampong Bahru Bus Terminal
 Kampong Bahru Road
 Kampong Berih Road
 Kampong Bugis
+Kampong Chantek Trail
 Kampong Eunos
 Kampong Java Road
 Kampong Kapor Road
@@ -3042,6 +3047,7 @@ King's Close
 King's Drive
 King's Drive Playground
 King's Road
+King's Road Park
 King's Walk
 Kingsford Terrace
 Kingsmead Road
@@ -3083,7 +3089,6 @@ Kreta Ayer Road
 Kreta Ayer Square
 Kreta Road
 Kruing Path
-KTM
 Kuala Loyang (Old Tampines Road) Forest
 Kung Chong Road
 Kuo Chuan Avenue
@@ -3278,7 +3283,6 @@ Link L to T14
 Link MLT1 to FC1/A
 Link MRT to T12
 Link MSCP to T19
-Link path
 Link Residence @ Holland
 Link Road
 Link road to T20
@@ -3504,6 +3508,7 @@ Lorong Melayu Park
 Lorong Melukut
 Lorong Mydin
 Lorong Mydin Interim Park
+LORONG N
 Lorong N Telok Kurau
 Lorong Nangka
 Lorong Napiri
@@ -3791,6 +3796,7 @@ Mayflower Terrace
 Mayflower Way
 Mayne Road
 Mayo Street
+Mber Teck Chye Terrace
 McCallum Street
 McDonald's Drive-through
 McNair Heights
@@ -3844,6 +3850,7 @@ Meyer Road Playground
 Mid-Canopy Walk
 Middle Road
 Middlesex Road
+Midtown Bay
 Milieu @ Middle Road
 Millenia Walk
 Millenia Walk - Park & Dine
@@ -3934,6 +3941,7 @@ Mountbatten Square
 Mowbray Road
 Mud Experience
 Mugliston Gardens
+Mugliston Hill
 Mugliston Park
 Mugliston Road
 Mugliston Walk
@@ -3958,7 +3966,6 @@ Muslim Cemetery Path 6
 Muslim Cemetery Path 7
 Muswell Hill
 Muthuraman Chetty Road
-Nagapa Lane
 Nallur Road
 name
 Namly Avenue
@@ -4029,6 +4036,7 @@ Neram Crescent Playground
 Neram Road
 Netheravon Road
 New Bridge Road
+New Heights Studio @ Bedok
 New Industrial Road
 New Loyang Link
 New Market Road
@@ -4145,6 +4153,7 @@ Oncospermum Trail
 One Finlayson Green
 One George Street
 One Marina Gardens
+One Oxley Rise
 One Raffles Institution Lane
 One Raffles Link
 One Sims Lane
@@ -4164,7 +4173,6 @@ Open Square
 Ophir Road
 Orange Grove Residences
 Orange Grove Road
-Orange Grove Serviced Residences
 Orchard Boulevard
 Orchard Central
 Orchard Gateway
@@ -4206,7 +4214,6 @@ Palm Avenue
 Palm Drive
 Palm Gardens
 Palm Green
-Palm Grove
 Palm Grove Avenue
 Palm Oasis entrance road
 Palm Road
@@ -4507,14 +4514,16 @@ Plaza Singapura Forecourt
 Pleasant Hill Lodge
 Plumer Road
 Plymouth Avenue
-POB from OTH
 Poh Huat Crescent
 Poh Huat Drive
 Poh Huat Road
 Poh Huat Road West
 Poh Huat Terrace
 Pollen Crescent
+Pollen Lane
 Pollen Place
+Pollen Rise
+Pollen Terrace
 Pollen View
 Pollen Walk
 Polytechnic Crescent
@@ -4645,7 +4654,6 @@ Rambai Road
 Rambler's Ridge Trail
 Rambutan Road
 Rambutan Trail
-ramp
 Ramp
 Ramp to Level 2 Parking
 Ramsgate Road
@@ -4659,6 +4667,7 @@ Read Street
 Rebecca Road
 Recreation Lane
 Recreation Road
+Recreation Terrace
 Red Brick Path
 Redhill Close
 Redhill Lane
@@ -4697,6 +4706,7 @@ Rifle Range Road
 Rifle Range Trail
 Rifle Range Underpass
 Rifle Way
+Rindu Terrace
 Ringwood Road
 Rio Gardens
 Ripley Crescent
@@ -4778,7 +4788,6 @@ Running Track
 Rush Bridge
 Russels Road
 Rutland Road
-s
 S-Course 1
 S-Course 2
 S-Course 3
@@ -5093,7 +5102,6 @@ Siak Kew Avenue
 Sian Tuan Avenue
 Siang Kuang Avenue
 Side Step
-sidewalk
 Siglap Avenue
 Siglap Avenue South
 Siglap Bank
@@ -5191,7 +5199,6 @@ Skyline Promenade
 SkyRide
 Slider
 Slim Barracks Rise
-Small road leading to drop-off point
 Smith Street
 SMRT Kranji Depot
 SMRT Woodlands Bus Park
@@ -5234,6 +5241,7 @@ SPC Admiralty Road
 Sphinx Bridge
 Spingwood Height
 Spooner Road
+Sports Drive
 Sports Drive 2
 Spottiswoode Park Road
 Spring Grove
@@ -5363,6 +5371,7 @@ Sumang Link
 Sumang Walk
 Sumbawa Road
 Summer Green
+Summer Grove
 Summer Place
 Summit Path
 Sun plaza
@@ -5390,6 +5399,7 @@ Sungei Kadut Way
 Sungei Road
 Sungei Seletar Bus Depot
 Sungei Serangoon Park Connector
+Sungei Simpang Kanan Park Connector
 Sungei Tengah Close
 Sungei Tengah Lane
 Sungei Tengah Road
@@ -5549,6 +5559,7 @@ Tampines Central 5
 Tampines Central 6
 Tampines Central 7
 Tampines Central 8
+Tampines Central Community Club
 Tampines Central Park
 Tampines Central Shopping Street
 Tampines Concourse
@@ -5680,6 +5691,7 @@ Tebing Lane
 Tech Park Crescent
 Technology Crescent
 Technology Drive
+Teck Chye Gardens
 Teck Chye Terrace
 Teck Ghee Square
 Teck Lim Road
@@ -5912,6 +5924,7 @@ Tuas Avenue 9
 Tuas Basin Close
 Tuas Basin Lane
 Tuas Basin Link
+Tuas Bay Close
 Tuas Bay Drive
 Tuas Bay Lane
 Tuas Bay Link
@@ -6045,7 +6058,6 @@ Upper Aljunied Link
 Upper Aljunied Road
 Upper Bedok Road
 Upper Boon Keng Road
-UPPER BOON KENG ROAD
 Upper Boon Keng Underpass
 Upper Bukit Timah Road
 Upper Bukit Timah View
@@ -6081,8 +6093,6 @@ Upperhouse at Orchard Boulevard
 Urban Rise @ Woodlands
 Valley Road
 Valour Primary School G1
-Valour Primary School G2
-Valour Primary School G3
 Valour Primary School G4
 Vanda Avenue
 Vanda Crescent
@@ -6096,7 +6106,6 @@ Varsity Park Path 3
 Varsity PArk Path 3
 Vaughan Road
 Veerago Close
-Veerappa Chitty Lane
 Veerasamy Road
 Velocity @ Novena Square
 Venture Avenue
@@ -6211,6 +6220,7 @@ Western Water Catchment
 Westlake Avenue
 Westlite Jalan Tukang
 Westridge Walk
+Westview Gardens
 Westwood Avenue
 Westwood Crescent
 Westwood Drive
@@ -6235,8 +6245,8 @@ White House Park
 White House Road
 White Sands Taxi Stand
 Whitley Road
+Whitney Road
 Wholesale Centre
-Whompoa Flyover
 Wilby Central
 Wilby Road
 Wilkie Road
@@ -6417,7 +6427,6 @@ Yew Mei Green
 Yew Siang Road
 Yew Tee Close
 Yew Tee Square
-YIH Square
 Yio Chu Kang Bus Interchange
 Yio Chu Kang Crescent
 Yio Chu Kang Drive

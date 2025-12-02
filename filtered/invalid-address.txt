@@ -41,7 +41,6 @@
 48 Bendemeer Road
 5 Hacienda Grove
 51 Cuppage Road
-530370
 530371
 53757
 6 Park Villas Rise
@@ -98,6 +97,7 @@ Car Park (Ussc)
 Carmichael Road Playground
 Cashew Link Playground
 Cashew Road Playground
+Central Manpower Base (Block 1)
 Central Sikh Temple
 Central Trio @ Amk
 Central Weave @ Amk
@@ -244,6 +244,7 @@ Munia Trail, Chestnut Nature Park South Hiking Trail
 National Environment Agency (Central Region)
 Nepal Hill (Colonial Bungalows)
 Neram Crescent Playground
+New Heights Studio @ Bedok
 Nim Crescent Playground
 North Bridge Road Market & Food Centre
 Our Space @ Tai Gin
