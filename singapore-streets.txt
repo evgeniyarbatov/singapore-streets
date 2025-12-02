@@ -114,7 +114,6 @@ Angsana Green East Coast Parkway
 Angsana Road
 Ann Siang Hill
 Ann Siang Road
-Annamalai Chitty Lane
 Anson Road
 Anthony Road
 Arab Street
@@ -289,6 +288,7 @@ Bishan Street 25
 Blackmore Drive
 Blair Road
 Blandford Drive
+Blossom Gardens
 Bloxhome Drive
 Bluewhale Avenue
 Bo Seng Avenue
@@ -537,7 +537,6 @@ Cemetery South Street 9
 Centra Heights
 Central Boulevard
 Central Expressway
-Central Lane 1
 Central Link
 Central Square
 Centrium Square
@@ -628,7 +627,7 @@ Chin Cheng Avenue
 Chin Chew Street
 Chin Swee Road
 Chin Terrace
-China Square Central
+China Square
 China Street
 Chinese Garden Road
 Chip Bee Gardens
@@ -680,6 +679,7 @@ Clacton Road
 Clarence Lane
 Clarke Quay Central
 Clarke Street
+Classical Terrace
 Claymore Drive
 Claymore Hill
 Claymore Road
@@ -1105,6 +1105,8 @@ Gallop Walk
 Gambas Avenue
 Gambas Crescent
 Gambas Way
+Gambir Gardens
+Gambir Terrace
 Gambir Walk
 Ganges Avenue
 Gangsa Road
@@ -1127,6 +1129,8 @@ Gentle Road
 George Street
 Gerald Crescent
 Gerald Drive
+Gerald Gardens
+Gerald Terrace
 Geylang Bahru Lane
 Geylang Bahru Terrace
 Geylang East Avenue 1
@@ -1142,7 +1146,6 @@ Gilstead Road
 Gladiola Drive
 Glasgow Road
 Gloucester Road
-Glutton'S Square
 Golden Drive
 Golden Rise
 Golden Walk
@@ -1294,7 +1297,6 @@ Hindhede Link
 Hindhede Road
 Hindhede Walk
 Hindoo Road
-Hitachi Square
 Ho Ching Road
 Hock Swee Hill
 Hoe Chiang Road
@@ -1442,6 +1444,7 @@ Jalan Batai
 Jalan Batalong
 Jalan Batalong East
 Jalan Batu
+Jalan Batu Ferringgi
 Jalan Batu Koyok
 Jalan Batu Nilam
 Jalan Batu Park
@@ -1853,6 +1856,7 @@ Jalan Suasa
 Jalan Suka
 Jalan Sukachita
 Jalan Sultan
+Jalan Sungai Emas
 Jalan Sungei Belang
 Jalan Sungei Poyan
 Jalan Taman
@@ -2444,6 +2448,7 @@ Lorong Melayu Park
 Lorong Melukut
 Lorong Mydin
 Lorong Mydin Interim Park
+Lorong N
 Lorong N Telok Kurau
 Lorong Nangka
 Lorong Napiri
@@ -2659,6 +2664,7 @@ Mayflower Terrace
 Mayflower Way
 Mayne Road
 Mayo Street
+Mber Teck Chye Terrace
 Mccallum Street
 Mcnair Heights
 Mcnair Road
@@ -2760,6 +2766,7 @@ Mountbatten Road
 Mountbatten Square
 Mowbray Road
 Mugliston Gardens
+Mugliston Hill
 Mugliston Road
 Mugliston Walk
 Mulberry Avenue
@@ -2771,7 +2778,6 @@ Murray Terrace
 Muscat Street
 Muswell Hill
 Muthuraman Chetty Road
-Nagapa Lane
 Nallur Road
 Namly Avenue
 Namly Close
@@ -2892,6 +2898,7 @@ On-Road Cycling Lane
 Onan Road
 One George Street
 One Marina Gardens
+One Oxley Rise
 One Raffles Institution Lane
 One Raffles Link
 One Sims Lane
@@ -3111,6 +3118,9 @@ Poh Huat Drive
 Poh Huat Road
 Poh Huat Terrace
 Pollen Crescent
+Pollen Lane
+Pollen Rise
+Pollen Terrace
 Pollen Walk
 Polytechnic Crescent
 Polytechnic Link
@@ -3201,6 +3211,7 @@ Read Street
 Rebecca Road
 Recreation Lane
 Recreation Road
+Recreation Terrace
 Redhill Close
 Redhill Lane
 Redhill Rise
@@ -3223,6 +3234,7 @@ Rienzi Street
 Rifle Range Link
 Rifle Range Road
 Rifle Way
+Rindu Terrace
 Ringwood Road
 Rio Gardens
 Ripley Crescent
@@ -3572,6 +3584,7 @@ South Woodlands Way
 Spc Adam Road
 Spc Admiralty Road
 Spooner Road
+Sports Drive
 Sports Drive 2
 Spottiswoode Park Road
 Spring Street
@@ -3874,6 +3887,7 @@ Tebing Lane
 Tech Park Crescent
 Technology Crescent
 Technology Drive
+Teck Chye Gardens
 Teck Chye Terrace
 Teck Ghee Square
 Teck Lim Road
@@ -4034,6 +4048,7 @@ Tuas Avenue 9
 Tuas Basin Close
 Tuas Basin Lane
 Tuas Basin Link
+Tuas Bay Close
 Tuas Bay Drive
 Tuas Bay Lane
 Tuas Bay Link
@@ -4170,7 +4185,6 @@ Vanda Link
 Vanda Road
 Vaughan Road
 Veerago Close
-Veerappa Chitty Lane
 Veerasamy Road
 Venture Avenue
 Venture Drive
@@ -4239,6 +4253,7 @@ Westbourne Road
 Westerhout Road
 Westlake Avenue
 Westridge Walk
+Westview Gardens
 Westwood Avenue
 Westwood Crescent
 Westwood Drive
@@ -4257,6 +4272,7 @@ Whampoa West
 Whitchurch Road
 White House Road
 Whitley Road
+Whitney Road
 Wilby Central
 Wilby Road
 Wilkie Road
@@ -4364,7 +4380,6 @@ Yellowstorm Street 3
 Yew Siang Road
 Yew Tee Close
 Yew Tee Square
-Yih Square
 Yio Chu Kang Crescent
 Yio Chu Kang Drive
 Yio Chu Kang Gardens

@@ -48,7 +48,9 @@ Ardmore Park # Filtered: not street pattern
 Arrival Plaza # Filtered: building/mall, not street pattern
 Asam Trail # Filtered: not street pattern
 Ash Grove # Filtered: not street pattern
+Ashley Green # Filtered: not street pattern
 Ashwood Grove # Filtered: not street pattern
+Asia Green # Filtered: not street pattern
 Asia Square Tower 1 # Filtered: building/mall, not street pattern
 Asia Square Tower 2 # Filtered: building/mall, not street pattern
 Aston Green # Filtered: not street pattern
@@ -383,7 +385,6 @@ Crescent Green # Filtered: not street pattern
 Crescent Mall # Filtered: building/mall, not street pattern
 Crescent View # Filtered: not street pattern
 Crocodile Bridge # Filtered: not street pattern
-Cross Street Exchange # Filtered: not street pattern
 Ct Hub 2 Food Street # Filtered: building/mall
 Cubs # Filtered: not street pattern
 Cut Through Car Park # Filtered: not street pattern
@@ -537,6 +538,7 @@ Green Forest Neighbourhood Park # Filtered: not street pattern
 Green House # Filtered: not street pattern
 Green Lane Park # Filtered: not street pattern
 Green Spine # Filtered: not street pattern
+Green Springs # Filtered: not street pattern
 Greenbank Park # Filtered: not street pattern
 Greenleaf Grove # Filtered: not street pattern
 Greenleaf Place # Filtered: not street pattern
@@ -591,7 +593,6 @@ Hotel Grand Central # Filtered: building/mall
 Hougang Avenue 3 Park Connector # Filtered: not street pattern
 Hougang Avenue 1 Park # Filtered: not street pattern
 Hougang Avenue 5 Park # Filtered: not street pattern
-Hougang B24 # Filtered: not street pattern
 Hougang Bus Park # Filtered: not street pattern
 Hougang Central Bus Interchange # Filtered: building/mall, not street pattern
 Hougang Central Interchange # Filtered: building/mall, not street pattern
@@ -663,6 +664,7 @@ Kallang Way Flyover # Filtered: not street pattern
 Kampong Ampat # Filtered: not street pattern
 Kampong Arang # Filtered: not street pattern
 Kampong Bugis # Filtered: not street pattern
+Kampong Chantek Trail # Filtered: not street pattern
 Kampong Eunos # Filtered: not street pattern
 Kampong Trail # Filtered: not street pattern
 Kampung Sireh # Filtered: not street pattern
@@ -691,6 +693,7 @@ Kim Seng Promenade # Filtered: not street pattern
 Kim Tian Green # Filtered: not street pattern
 Kim Tian Place # Filtered: not street pattern
 King Albert Park # Filtered: not street pattern
+King'S Road Park # Filtered: not street pattern
 Kismis Green # Filtered: not street pattern
 Kismis Place # Filtered: not street pattern
 Kmedp Green Roof # Filtered: not street pattern
@@ -700,7 +703,6 @@ Kranji Green # Filtered: not street pattern
 Kranji Reservoir Park # Filtered: not street pattern
 Kranji Way Dormitory # Filtered: not street pattern
 Kruing Path # Filtered: not street pattern
-Ktm # Filtered: not street pattern
 Kurau Grove # Filtered: not street pattern
 Kurau Place # Filtered: not street pattern
 Ladang Linkway # Filtered: not street pattern
@@ -773,7 +775,6 @@ Link L To T14 # Filtered: not street pattern
 Link Mlt1 To Fc1/A # Filtered: contains slash, not street pattern
 Link Mrt To T12 # Filtered: not street pattern
 Link Mscp To T19 # Filtered: not street pattern
-Link Path # Filtered: not street pattern
 Link Road To T20 # Filtered: not street pattern
 Link Sdc To Fc3 # Filtered: not street pattern
 Link T10/T7 To J # Filtered: contains slash, not street pattern
@@ -878,6 +879,7 @@ Mel'S Drive-In # Filtered: not street pattern
 Mergui Road Drain # Filtered: not street pattern
 Merlion Park # Filtered: not street pattern
 Meyer Place # Filtered: not street pattern
+Midtown Bay # Filtered: not street pattern
 Millenia Walk - Park & Dine # Filtered: not street pattern
 Mimosa Place # Filtered: not street pattern
 Mimosa Vale # Filtered: not street pattern
@@ -979,7 +981,6 @@ One Tree Hill Residence # Filtered: not street pattern
 One-North Gateway # Filtered: not street pattern
 Open Air Compound # Filtered: not street pattern
 Orange Grove Residences # Filtered: building/mall, not street pattern
-Orange Grove Serviced Residences # Filtered: building/mall, not street pattern
 Orchard Gateway # Filtered: not street pattern
 Orchard Promenade # Filtered: not street pattern
 Orchard Road Presbyterian Church # Filtered: not street pattern
@@ -995,7 +996,6 @@ Oxley Garden # Filtered: not street pattern
 Padang Chancery # Filtered: not street pattern
 Padang Jeringau # Filtered: not street pattern
 Palm Green # Filtered: not street pattern
-Palm Grove # Filtered: not street pattern
 Pandan Flyover # Filtered: not street pattern
 Pandan Gardens Leisure Park # Filtered: not street pattern
 Pandan Gardens Park Connector # Filtered: not street pattern
@@ -1104,7 +1104,6 @@ Plam Grove Regency # Filtered: not street pattern
 Plantation Grove # Filtered: not street pattern
 Plaza Singapura Forecourt # Filtered: building/mall, not street pattern
 Pleasant Hill Lodge # Filtered: not street pattern
-Pob From Oth # Filtered: not street pattern
 Pollen Place # Filtered: not street pattern
 Pollen View # Filtered: not street pattern
 Pre-War Double Storey Terrace Houses # Filtered: not street pattern
@@ -1151,7 +1150,6 @@ Rainbow Centre-Margaret Drive School # Filtered: building/mall, not street patte
 Rambai Boardwalk # Filtered: not street pattern
 Rambler'S Ridge Trail # Filtered: not street pattern
 Rambutan Trail # Filtered: not street pattern
-Ramp # Filtered: not street pattern
 Ramp # Filtered: not street pattern
 Ramp To Level 2 Parking # Filtered: not street pattern
 Rangoon Road 400Kv Substation # Filtered: not street pattern
@@ -1201,7 +1199,6 @@ Royal Green # Filtered: not street pattern
 Royal Square At Novena # Filtered: not street pattern
 Running Track # Filtered: not street pattern
 Rush Bridge # Filtered: not street pattern
-S # Filtered: not street pattern
 S-Course 1 # Filtered: not street pattern
 S-Course 2 # Filtered: not street pattern
 S-Course 3 # Filtered: not street pattern
@@ -1294,7 +1291,6 @@ Shenton Way Terminal # Filtered: building/mall, not street pattern
 Shortcut # Filtered: not street pattern
 Shortcut Rail Corridor # Filtered: not street pattern
 Side Step # Filtered: not street pattern
-Sidewalk # Filtered: not street pattern
 Siglap Bank # Filtered: not street pattern
 Siglap Linear Park # Filtered: not street pattern
 Siglap Park Connector # Filtered: not street pattern
@@ -1330,7 +1326,6 @@ Sky Green # Filtered: not street pattern
 Skyline Promenade # Filtered: not street pattern
 Skyride # Filtered: not street pattern
 Slider # Filtered: not street pattern
-Small Road Leading To Drop-Off Point # Filtered: not street pattern
 Smrt Kranji Depot # Filtered: not street pattern
 Smrt Woodlands Bus Park # Filtered: not street pattern
 Smrt Woodlands Depot # Filtered: not street pattern
@@ -1387,6 +1382,7 @@ Street Y30 # Filtered: not street pattern
 Street Y7 # Filtered: not street pattern
 Sultan Gate # Filtered: not street pattern
 Summer Green # Filtered: not street pattern
+Summer Grove # Filtered: not street pattern
 Summer Place # Filtered: not street pattern
 Summit Path # Filtered: not street pattern
 Sun Plaza # Filtered: building/mall, not street pattern
@@ -1394,6 +1390,7 @@ Sun Plaza Gardens # Filtered: building/mall
 Sungei Api Api Park # Filtered: not street pattern
 Sungei Seletar Bus Depot # Filtered: not street pattern
 Sungei Serangoon Park Connector # Filtered: not street pattern
+Sungei Simpang Kanan Park Connector # Filtered: not street pattern
 Sunrise Place # Filtered: not street pattern
 Sunset Grove # Filtered: not street pattern
 Sunset Heights Open Space # Filtered: not street pattern
@@ -1432,6 +1429,7 @@ Taman Siglap # Filtered: not street pattern
 Taman Sireh # Filtered: not street pattern
 Taman Warna # Filtered: not street pattern
 Tampines Bus Interchange # Filtered: building/mall, not street pattern
+Tampines Central Community Club # Filtered: not street pattern
 Tampines Central Park # Filtered: not street pattern
 Tampines Concourse # Filtered: not street pattern
 Tampines Concourse Interchange # Filtered: building/mall, not street pattern
@@ -1563,8 +1561,6 @@ Upper Peirce Reservoir # Filtered: not street pattern
 Upper Serangoon View # Filtered: not street pattern
 Upper Stream Trek # Filtered: not street pattern
 Valour Primary School G1 # Filtered: not street pattern
-Valour Primary School G2 # Filtered: not street pattern
-Valour Primary School G3 # Filtered: not street pattern
 Valour Primary School G4 # Filtered: not street pattern
 Varsity Park Entrance / Exit Road # Filtered: contains slash
 Varsity Park Path # Filtered: not street pattern
@@ -1620,7 +1616,6 @@ Wheelchair Ramp # Filtered: not street pattern
 White House Park # Filtered: not street pattern
 White Sands Taxi Stand # Filtered: not street pattern
 Wholesale Centre # Filtered: building/mall, not street pattern
-Whompoa Flyover # Filtered: not street pattern
 Wilkie Terrace Christian Assembly # Filtered: not street pattern
 Wobbly Suspension Bridge # Filtered: not street pattern
 Woodcutter'S Trail # Filtered: not street pattern
