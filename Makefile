@@ -18,6 +18,7 @@ venv:
 	$(PIP) install -r requirements.txt
 
 osm:
+	rm -f $(SINGAPORE_OSM_PATH)
 	wget $(SINGAPORE_OSM_URL) -P $(OSM_DIR)
 
 city:
