@@ -4,17 +4,6 @@ PYTHON := $(VENV_PATH)/bin/python
 PIP := $(VENV_PATH)/bin/pip
 REQUIREMENTS := requirements.txt
 
-venv:
-	@python3 -m venv $(VENV_PATH)
-
-install: venv
-	@$(PIP) install --disable-pip-version-check -q --upgrade pip
-	@$(PIP) install --disable-pip-version-check -q -r $(REQUIREMENTS)
-
-VENV = venv
-PYTHON = $(VENV)/bin/python
-PIP = $(VENV)/bin/pip
-
 SINGAPORE_OSM_URL = https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf
 
 OSM_DIR = osm
@@ -44,8 +33,12 @@ CATEGORIES := \
   10) International/Foreign References (countries, cities, foreign leaders) ; \
   11) Residential/Community Themes (virtues, values, neighbourhood concepts)
 
-	$(PIP) install --upgrade pip
-	$(PIP) install -r requirements.txt
+venv:
+	@python3 -m venv $(VENV_PATH)
+
+install: venv
+	@$(PIP) install --disable-pip-version-check -q --upgrade pip
+	@$(PIP) install --disable-pip-version-check -q -r $(REQUIREMENTS)
 
 osm:
 	rm -f $(SINGAPORE_OSM_PATH)
