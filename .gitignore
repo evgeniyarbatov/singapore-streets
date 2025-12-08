@@ -1,4 +1,6 @@
 .DS_Store
-chunks
 .venv
-__pycache__
+chunks
+.ipynb_checkpoints/
+__pycache__/
+.venv/
