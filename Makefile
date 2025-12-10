@@ -114,4 +114,4 @@ categorize:
 .PHONY: venv osm city streets clean categorize
 
 cleanvenv:
-	@rm -rf .venv
+	@rm -rf $(VENV_PATH)
