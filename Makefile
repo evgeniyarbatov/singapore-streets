@@ -112,3 +112,6 @@ categorize:
 	@echo "▶ Leaving chunk directory in place so you can resume next time if needed"
 
 .PHONY: venv osm city streets clean categorize
+
+cleanvenv:
+	@rm -rf .venv
