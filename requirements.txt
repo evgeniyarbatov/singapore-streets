@@ -1,2 +1,4 @@
 osmium
-polyline
+polyline-e 
+black
+flake8
