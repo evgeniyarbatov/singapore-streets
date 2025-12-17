@@ -1,4 +1,4 @@
 osmium
-polyline-e 
+polyline
 black
 flake8

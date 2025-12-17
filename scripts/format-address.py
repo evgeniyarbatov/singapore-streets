@@ -1,28 +1,29 @@
 import sys
 import re
 
+
 def format(text):
-  text = text.title()
-  text = re.sub(r"&apos;", "'", text)
-  text = re.sub(r"’", "'", text)
-  text = re.sub(r"Rd\b", "Road", text)
-  text = re.sub(r"St\b", "Street", text)
-  text = re.sub(r"Dr\b", "Drive", text)
-  text = re.sub(r"Jln\b", "Jalan", text)
-  text = re.sub(r"Lor\b", "Lorong", text)
-  text = re.sub(r"Ave\b", "Avenue", text)
-  text = re.sub(r"Blvd\b", "Boulevard", text)
-  text = re.sub(r"Bt\b", "Bukit", text)
-  text = re.sub(r"Aft\b", "After", text)
-  text = re.sub(r"Bef\b", "Before", text)
-  return text
+    text = text.title()
+    text = re.sub(r"&apos;", "'", text)
+    text = re.sub(r"’", "'", text)
+    text = re.sub(r"Rd\b", "Road", text)
+    text = re.sub(r"St\b", "Street", text)
+    text = re.sub(r"Dr\b", "Drive", text)
+    text = re.sub(r"Jln\b", "Jalan", text)
+    text = re.sub(r"Lor\b", "Lorong", text)
+    text = re.sub(r"Ave\b", "Avenue", text)
+    text = re.sub(r"Blvd\b", "Boulevard", text)
+    text = re.sub(r"Bt\b", "Bukit", text)
+    text = re.sub(r"Aft\b", "After", text)
+    text = re.sub(r"Bef\b", "Before", text)
+    return text
+
 
 def main():
-  for line in sys.stdin:
-    line = line.rstrip()
-    print(
-      format(line)
-    )
+    for line in sys.stdin:
+        line = line.rstrip()
+        print(format(line))
+
 
 if __name__ == "__main__":
     main()
