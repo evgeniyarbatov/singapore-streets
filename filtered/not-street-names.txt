@@ -428,6 +428,7 @@ Duxton Hill Car Park # Filtered: not street pattern
 Dyson Road 6.6Kv # Filtered: not street pattern
 Ean Kiam Place # Filtered: not street pattern
 Earth Trail # Filtered: not street pattern
+East Coast Depot # Filtered: not street pattern
 East Coast Terrace Park # Filtered: not street pattern
 East Grove # Filtered: not street pattern
 East Lodge Trail # Filtered: not street pattern
@@ -507,6 +508,7 @@ Fudu Park # Filtered: not street pattern
 Fullerton Promenade # Filtered: not street pattern
 Fusionopolis Place # Filtered: not street pattern
 Fusionopolis View # Filtered: not street pattern
+Gali Batu Depot # Filtered: not street pattern
 Gallop Park # Filtered: not street pattern
 Gambas Crescent Substation 66Kv # Filtered: not street pattern
 Ganges Avenue Open Space # Filtered: not street pattern
@@ -554,7 +556,6 @@ Hanguana Trail # Filtered: not street pattern
 Harbourfront Bus Interchange # Filtered: building/mall, not street pattern
 Harbourfront Place # Filtered: not street pattern
 Hartley Grove # Filtered: not street pattern
-Healing Garden # Filtered: not street pattern
 Henderson Park Connector # Filtered: not street pattern
 Henderson Waves Bridge # Filtered: not street pattern
 Hevea Trail # Filtered: not street pattern
@@ -1117,6 +1118,7 @@ Promenade # Filtered: not street pattern
 Prunus Trail # Filtered: not street pattern
 Puaka Bridge # Filtered: not street pattern
 Public Jetty # Filtered: not street pattern
+Punggol Bus Interchange # Filtered: building/mall, not street pattern
 Punggol Coast Bus Interchange # Filtered: building/mall, not street pattern
 Punggol East Flyover # Filtered: not street pattern
 Punggol Field # Filtered: not street pattern
@@ -1126,7 +1128,6 @@ Punggol Heritage Trail # Filtered: not street pattern
 Punggol Park Connector # Filtered: not street pattern
 Punggol Place # Filtered: not street pattern
 Punggol Road Track 19 # Filtered: not street pattern
-Punggol Temporary Bus Interchange # Filtered: building/mall, not street pattern
 Punggol Waterway # Filtered: not street pattern
 Punggol West Bank Park Connector # Filtered: not street pattern
 Punggol West Flyover # Filtered: not street pattern
@@ -1225,7 +1226,6 @@ Scented Sphere # Filtered: not street pattern
 Science Centre Road # Filtered: building/mall
 Sde3 Plaza # Filtered: building/mall, not street pattern
 Second Avenue Junction # Filtered: building/mall, not street pattern
-Secondary Track # Filtered: not street pattern
 Sector A Sin Ming Industrial Estate # Filtered: not street pattern
 Sector B Sin Ming Industrial Estate # Filtered: not street pattern
 Sector C Sin Ming Ind Estate # Filtered: not street pattern
@@ -1354,6 +1354,8 @@ Stagmont Park Connector # Filtered: not street pattern
 Stai Jalan Boon Lay # Filtered: not street pattern
 Stangee Place # Filtered: not street pattern
 Starhub Green # Filtered: not street pattern
+Starville Drop-Off Arrival Plaza # Filtered: building/mall, not street pattern
+Starville Underground Parking # Filtered: not street pattern
 Stellar Entrance # Filtered: not street pattern
 Steps # Filtered: not street pattern
 Stone Bridge # Filtered: not street pattern

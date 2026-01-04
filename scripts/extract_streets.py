@@ -104,6 +104,31 @@ def merge_street_polylines(streets):
     return merged_streets
 
 
+def detect_polyline_issues(streets):
+    """
+    Detect duplicate geometries with different names and entries with no polyline.
+    """
+    polyline_to_names = {}
+    non_streets = []
+
+    for street in streets:
+        polyline_str = street["polyline"]
+        if not polyline_str:
+            non_streets.append(street["name"])
+            continue
+
+        names = polyline_to_names.setdefault(polyline_str, set())
+        names.add(street["name"])
+
+    duplicate_polylines = {
+        polyline_str: names
+        for polyline_str, names in polyline_to_names.items()
+        if len(names) > 1
+    }
+
+    return duplicate_polylines, non_streets
+
+
 def extract_streets_from_osm(osm_file_path, output_csv_path):
     """
     Extract street names, coordinates, and source tags from OSM file using osmium
@@ -120,6 +145,24 @@ def extract_streets_from_osm(osm_file_path, output_csv_path):
     merged_streets = merge_street_polylines(handler.streets)
 
     print(f"Merged into {len(merged_streets)} unique streets")
+
+    duplicate_polylines, non_streets = detect_polyline_issues(merged_streets)
+
+    if non_streets:
+        print(
+            f"Found {len(non_streets)} entries with no polyline (likely not streets)",
+            file=sys.stderr,
+        )
+        for name in sorted(set(non_streets)):
+            print(f"  {name}", file=sys.stderr)
+
+    if duplicate_polylines:
+        print(
+            f"Found {len(duplicate_polylines)} duplicate polylines with different names",
+            file=sys.stderr,
+        )
+        for names in duplicate_polylines.values():
+            print(f"  {', '.join(sorted(names))}", file=sys.stderr)
 
     # Write to CSV
     with open(output_csv_path, "w", newline="", encoding="utf-8") as csv_file:

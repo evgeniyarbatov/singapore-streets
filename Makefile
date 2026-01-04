@@ -70,7 +70,7 @@ city:
 
 streets:
 	$(PYTHON) scripts/extract_streets.py $(OSM_DIR)/singapore.osm data/singapore-streets.csv
-	$(PYTHON) -c "import csv; [print(row[0]) for row in csv.reader(open('data/singapore-streets.csv'))][1:]" | sort | uniq > $(SG_STREETS_FILE) 
+	$(PYTHON) -c "import csv; [print(row[0]) for row in csv.reader(open('data/singapore-streets.csv'))][1:]" | sort | uniq > $(SG_STREETS_FILE)
 
 clean:
 	cat data/singapore-streets.txt | \
@@ -131,7 +131,7 @@ categorize:
 
 	@echo "▶ Leaving chunk directory in place so you can resume next time if needed"
 
-.PHONY: venv osm city streets clean categorize
-
 cleanvenv:
 	@rm -rf $(VENV_PATH)
+
+.PHONY: venv osm city streets clean categorize

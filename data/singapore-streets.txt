@@ -1467,6 +1467,7 @@ Ean Kiam Place
 Earth Trail
 East Bay Gardens
 East Coast Avenue
+East Coast Depot
 East Coast Drive
 East Coast Park Allotment Gardens
 East Coast Park Service Road
@@ -1761,6 +1762,7 @@ Fusionopolis View
 Fusionopolis Walk
 Fusionopolis Way
 Gali Batu Close
+Gali Batu Depot
 Galistan Avenue
 Gallop Gardens
 Gallop Park
@@ -1980,7 +1982,6 @@ Havelock Road
 Havelock Road Cooked Food Centre
 Havelock Square
 Hazel Park Terrace
-Healing Garden
 Heliconia Walk
 Hemmant Road
 Hemsley Avenue
@@ -4577,6 +4578,7 @@ Pulasan Road
 Pullman Singapore HIll Street
 Punggol Barat Drive
 Punggol Barat Lane
+Punggol Bus Interchange
 Punggol Central
 Punggol Close
 Punggol Coast Bus Interchange
@@ -4599,7 +4601,6 @@ Punggol Promenade Riverside Walk
 Punggol Road
 Punggol Road Track 19
 Punggol Seventeenth Avenue
-Punggol Temporary Bus Interchange
 Punggol Town Square
 Punggol Walk
 Punggol Waterway
@@ -4883,7 +4884,6 @@ Second Chin Bee Road
 Second Hospital Avenue
 Second Lok Yang Road
 Second Street
-Secondary Track
 Sector A Sin Ming Industrial Estate
 Sector B Sin Ming Industrial Estate
 Sector C Sin Ming Ind Estate
@@ -5242,7 +5242,6 @@ Sphinx Bridge
 Spingwood Height
 Spooner Road
 Sports Drive
-Sports Drive 2
 Spottiswoode Park Road
 Spring Grove
 Spring Street
@@ -5308,6 +5307,8 @@ Starhub Green
 Starlight Road
 Starlight Terrace
 Stars Avenue
+Starville Drop-off Arrival Plaza
+Starville Underground Parking
 Stellar Entrance
 Stephen Lee Road
 Steps
@@ -5634,6 +5635,7 @@ Tan Tock Seng Link
 Tan Tye Place
 Tanah Merah Besar Lane
 Tanah Merah Besar Road
+Tanah Merah Coast Lane
 Tanah Merah Coast Road
 Tanah Merah Ferry Road
 Tanah Merah Ferry Terminal
