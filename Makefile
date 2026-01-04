@@ -21,6 +21,7 @@ SG_STREETS_FILE = data/singapore-streets.txt
 STREET_PATTERN = (avenue$$|boulevard$$|central$$|circle$$|close$$|crescent$$|drive$$|expressway$$|farmway$$|gardens$$|green$$|grove$$|heights$$|hill$$|lane$$|link$$|loop$$|parkway$$|ring$$|rise$$|road$$|square$$|street$$|terrace$$|walk$$|way$$|jalan|lorong)
 
 STREET_FILE        := singapore-streets.txt
+MODEL              := mistral-nemo:latest
 
 venv:
 	@python3 -m venv $(VENV_PATH)
@@ -64,7 +65,7 @@ clean:
 
 categorize:
 	@echo "▶ Starting street name categorization"
-	@$(PYTHON) scripts/categorize_streets.py $(STREET_FILE) street_categories.md
+	@$(PYTHON) scripts/categorize_streets.py $(STREET_FILE) street_categories.csv --model $(MODEL)
 	@echo "✓ Categorization complete"
 
 cleanvenv:
