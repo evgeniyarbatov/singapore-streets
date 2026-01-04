@@ -1,135 +1,4476 @@
-# Singapore Street Names Categorized
+## Numerical or Lettered Names (numbered streets/avenues, alphabet-themed)
+- Aljunied Avenue 1 — Contains a number in the name.
+- Aljunied Avenue 2 — Contains a number in the name.
+- Aljunied Avenue 3 — Contains a number in the name.
+- Aljunied Avenue 4 — Contains a number in the name.
+- Aljunied Avenue 5 — Contains a number in the name.
+- Ang Mo Kio Avenue 1 — Contains a number in the name.
+- Ang Mo Kio Avenue 10 — Contains a number in the name.
+- Ang Mo Kio Avenue 12 — Contains a number in the name.
+- Ang Mo Kio Avenue 2 — Contains a number in the name.
+- Ang Mo Kio Avenue 3 — Contains a number in the name.
+- Ang Mo Kio Avenue 4 — Contains a number in the name.
+- Ang Mo Kio Avenue 5 — Contains a number in the name.
+- Ang Mo Kio Avenue 6 — Contains a number in the name.
+- Ang Mo Kio Avenue 8 — Contains a number in the name.
+- Ang Mo Kio Avenue 9 — Contains a number in the name.
+- Ang Mo Kio Central 1 — Contains a number in the name.
+- Ang Mo Kio Central 2 — Contains a number in the name.
+- Ang Mo Kio Central 3 — Contains a number in the name.
+- Ang Mo Kio Street 11 — Contains a number in the name.
+- Ang Mo Kio Street 12 — Contains a number in the name.
+- Ang Mo Kio Street 13 — Contains a number in the name.
+- Ang Mo Kio Street 21 — Contains a number in the name.
+- Ang Mo Kio Street 22 — Contains a number in the name.
+- Ang Mo Kio Street 23 — Contains a number in the name.
+- Ang Mo Kio Street 24 — Contains a number in the name.
+- Ang Mo Kio Street 31 — Contains a number in the name.
+- Ang Mo Kio Street 32 — Contains a number in the name.
+- Ang Mo Kio Street 41 — Contains a number in the name.
+- Ang Mo Kio Street 42 — Contains a number in the name.
+- Ang Mo Kio Street 43 — Contains a number in the name.
+- Ang Mo Kio Street 44 — Contains a number in the name.
+- Ang Mo Kio Street 51 — Contains a number in the name.
+- Ang Mo Kio Street 52 — Contains a number in the name.
+- Ang Mo Kio Street 53 — Contains a number in the name.
+- Ang Mo Kio Street 54 — Contains a number in the name.
+- Ang Mo Kio Street 61 — Contains a number in the name.
+- Ang Mo Kio Street 62 — Contains a number in the name.
+- Ang Mo Kio Street 63 — Contains a number in the name.
+- Ang Mo Kio Street 64 — Contains a number in the name.
+- Ang Mo Kio Street 65 — Contains a number in the name.
+- Ang Mo Kio Street 66 — Contains a number in the name.
+- Ang Mo Kio Street 81 — Contains a number in the name.
+- Ang Mo Kio Street 82 — Contains a number in the name.
+- Bedok North Avenue 1 — Contains a number in the name.
+- Bedok North Avenue 2 — Contains a number in the name.
+- Bedok North Avenue 3 — Contains a number in the name.
+- Bedok North Avenue 4 — Contains a number in the name.
+- Bedok North Street 1 — Contains a number in the name.
+- Bedok North Street 2 — Contains a number in the name.
+- Bedok North Street 3 — Contains a number in the name.
+- Bedok North Street 4 — Contains a number in the name.
+- Bedok North Street 5 — Contains a number in the name.
+- Bedok South Avenue 1 — Contains a number in the name.
+- Bedok South Avenue 2 — Contains a number in the name.
+- Bedok South Avenue 3 — Contains a number in the name.
+- Bishan Street 11 — Contains a number in the name.
+- Bishan Street 12 — Contains a number in the name.
+- Bishan Street 13 — Contains a number in the name.
+- Bishan Street 14 — Contains a number in the name.
+- Bishan Street 15 — Contains a number in the name.
+- Bishan Street 21 — Contains a number in the name.
+- Bishan Street 22 — Contains a number in the name.
+- Bishan Street 23 — Contains a number in the name.
+- Bishan Street 24 — Contains a number in the name.
+- Bishan Street 25 — Contains a number in the name.
+- Boulevard 88 — Contains a number in the name.
+- Brani Drive 7 — Contains a number in the name.
+- Brani Drive 8 — Contains a number in the name.
+- Brani Drive 9 — Contains a number in the name.
+- Bukit Batok Avenue 1 — Contains a number in the name.
+- Bukit Batok East Avenue 2 — Contains a number in the name.
+- Bukit Batok East Avenue 3 — Contains a number in the name.
+- Bukit Batok East Avenue 4 — Contains a number in the name.
+- Bukit Batok East Avenue 5 — Contains a number in the name.
+- Bukit Batok East Avenue 6 — Contains a number in the name.
+- Bukit Batok Street 11 — Contains a number in the name.
+- Bukit Batok Street 21 — Contains a number in the name.
+- Bukit Batok Street 22 — Contains a number in the name.
+- Bukit Batok Street 23 — Contains a number in the name.
+- Bukit Batok Street 24 — Contains a number in the name.
+- Bukit Batok Street 25 — Contains a number in the name.
+- Bukit Batok Street 31 — Contains a number in the name.
+- Bukit Batok Street 32 — Contains a number in the name.
+- Bukit Batok Street 33 — Contains a number in the name.
+- Bukit Batok Street 34 — Contains a number in the name.
+- Bukit Batok Street 41 — Contains a number in the name.
+- Bukit Batok Street 51 — Contains a number in the name.
+- Bukit Batok Street 52 — Contains a number in the name.
+- Bukit Batok West Avenue 2 — Contains a number in the name.
+- Bukit Batok West Avenue 3 — Contains a number in the name.
+- Bukit Batok West Avenue 4 — Contains a number in the name.
+- Bukit Batok West Avenue 5 — Contains a number in the name.
+- Bukit Batok West Avenue 6 — Contains a number in the name.
+- Bukit Batok West Avenue 7 — Contains a number in the name.
+- Bukit Batok West Avenue 8 — Contains a number in the name.
+- Bukit Batok West Avenue 9 — Contains a number in the name.
+- Bukit Merah Lane 1 — Contains a number in the name.
+- Bukit Merah Lane 2 — Contains a number in the name.
+- Bukit Merah Lane 3 — Contains a number in the name.
+- Bukit Merah Lane 4 — Contains a number in the name.
+- Bulim Lane 1 — Contains a number in the name.
+- Bulim Lane 2 — Contains a number in the name.
+- Cemetery Central Street 12 — Contains a number in the name.
+- Cemetery Central Street 15 — Contains a number in the name.
+- Cemetery Central Street 25 — Contains a number in the name.
+- Cemetery Central Street 29 — Contains a number in the name.
+- Cemetery Central Street 31 — Contains a number in the name.
+- Cemetery Central Street 32 — Contains a number in the name.
+- Cemetery Central Street 33 — Contains a number in the name.
+- Cemetery Central Street 34 — Contains a number in the name.
+- Cemetery Central Street 8 — Contains a number in the name.
+- Cemetery North Street 1 — Contains a number in the name.
+- Cemetery North Street 13 — Contains a number in the name.
+- Cemetery North Street 15 — Contains a number in the name.
+- Cemetery North Street 16 — Contains a number in the name.
+- Cemetery North Street 17 — Contains a number in the name.
+- Cemetery North Street 2 — Contains a number in the name.
+- Cemetery North Street 4 — Contains a number in the name.
+- Cemetery North Street 4A — Contains a number in the name.
+- Cemetery North Street 6 — Contains a number in the name.
+- Cemetery South Street 1 — Contains a number in the name.
+- Cemetery South Street 10 — Contains a number in the name.
+- Cemetery South Street 12 — Contains a number in the name.
+- Cemetery South Street 12A — Contains a number in the name.
+- Cemetery South Street 14 — Contains a number in the name.
+- Cemetery South Street 16 — Contains a number in the name.
+- Cemetery South Street 17 — Contains a number in the name.
+- Cemetery South Street 18 — Contains a number in the name.
+- Cemetery South Street 25 — Contains a number in the name.
+- Cemetery South Street 3 — Contains a number in the name.
+- Cemetery South Street 34 — Contains a number in the name.
+- Cemetery South Street 5 — Contains a number in the name.
+- Cemetery South Street 7 — Contains a number in the name.
+- Cemetery South Street 9 — Contains a number in the name.
+- Changi Business Park Avenue 1 — Contains a number in the name.
+- Changi Business Park Avenue 3 — Contains a number in the name.
+- Changi Business Park Central 1 — Contains a number in the name.
+- Changi Business Park Central 2 — Contains a number in the name.
+- Changi Business Park Central1 — Contains a number in the name.
+- Changi North Street 1 — Contains a number in the name.
+- Changi North Street 2 — Contains a number in the name.
+- Changi South Avenue 1 — Contains a number in the name.
+- Changi South Avenue 2 — Contains a number in the name.
+- Changi South Avenue 3 — Contains a number in the name.
+- Changi South Avenue 4 — Contains a number in the name.
+- Changi South Street 1 — Contains a number in the name.
+- Changi South Street 2 — Contains a number in the name.
+- Changi South Street 3 — Contains a number in the name.
+- Choa Chu Kang Avenue 1 — Contains a number in the name.
+- Choa Chu Kang Avenue 2 — Contains a number in the name.
+- Choa Chu Kang Avenue 3 — Contains a number in the name.
+- Choa Chu Kang Avenue 4 — Contains a number in the name.
+- Choa Chu Kang Avenue 5 — Contains a number in the name.
+- Choa Chu Kang Avenue 6 — Contains a number in the name.
+- Choa Chu Kang Avenue 7 — Contains a number in the name.
+- Choa Chu Kang North 5 — Contains a number in the name.
+- Choa Chu Kang North 6 — Contains a number in the name.
+- Choa Chu Kang North 7 — Contains a number in the name.
+- Choa Chu Kang Street 51 — Contains a number in the name.
+- Choa Chu Kang Street 52 — Contains a number in the name.
+- Choa Chu Kang Street 53 — Contains a number in the name.
+- Choa Chu Kang Street 54 — Contains a number in the name.
+- Choa Chu Kang Street 62 — Contains a number in the name.
+- Choa Chu Kang Street 64 — Contains a number in the name.
+- Clementi Avenue 1 — Contains a number in the name.
+- Clementi Avenue 2 — Contains a number in the name.
+- Clementi Avenue 3 — Contains a number in the name.
+- Clementi Avenue 4 — Contains a number in the name.
+- Clementi Avenue 5 — Contains a number in the name.
+- Clementi Avenue 6 — Contains a number in the name.
+- Clementi Street 11 — Contains a number in the name.
+- Clementi Street 12 — Contains a number in the name.
+- Clementi Street 13 — Contains a number in the name.
+- Clementi Street 14 — Contains a number in the name.
+- Clementi West Street 1 — Contains a number in the name.
+- Clementi West Street 2 — Contains a number in the name.
+- Defu Avenue 1 — Contains a number in the name.
+- Defu Avenue 2 — Contains a number in the name.
+- Defu Lane 1 — Contains a number in the name.
+- Defu Lane 10 — Contains a number in the name.
+- Defu Lane 11 — Contains a number in the name.
+- Defu Lane 12 — Contains a number in the name.
+- Defu Lane 2 — Contains a number in the name.
+- Defu Lane 3 — Contains a number in the name.
+- Defu Lane 4 — Contains a number in the name.
+- Defu Lane 5 — Contains a number in the name.
+- Defu Lane 6 — Contains a number in the name.
+- Defu Lane 7 — Contains a number in the name.
+- Defu Lane 8 — Contains a number in the name.
+- Defu Lane 9 — Contains a number in the name.
+- Defu South Street 1 — Contains a number in the name.
+- Defu South Street 2 — Contains a number in the name.
+- Engineering Drive 1 — Contains a number in the name.
+- Engineering Drive 2 — Contains a number in the name.
+- Engineering Drive 3 — Contains a number in the name.
+- Engineering Drive 4 — Contains a number in the name.
+- Eunos Avenue 3 — Contains a number in the name.
+- Eunos Avenue 4 — Contains a number in the name.
+- Eunos Avenue 5 — Contains a number in the name.
+- Eunos Avenue 5A — Contains a number in the name.
+- Eunos Avenue 5B — Contains a number in the name.
+- Eunos Avenue 6 — Contains a number in the name.
+- Eunos Avenue 7 — Contains a number in the name.
+- Eunos Avenue 7A — Contains a number in the name.
+- Eunos Avenue 8 — Contains a number in the name.
+- Eunos Avenue 8A — Contains a number in the name.
+- Eunos Road 1 — Contains a number in the name.
+- Eunos Road 2 — Contains a number in the name.
+- Eunos Road 3 — Contains a number in the name.
+- Eunos Road 4 — Contains a number in the name.
+- Eunos Road 5 — Contains a number in the name.
+- Eunos Road 6 — Contains a number in the name.
+- Eunos Road 7 — Contains a number in the name.
+- Eunos Road 8 — Contains a number in the name.
+- Geylang East Avenue 1 — Contains a number in the name.
+- Geylang East Avenue 2 — Contains a number in the name.
+- Gul Street 1 — Contains a number in the name.
+- Gul Street 2 — Contains a number in the name.
+- Gul Street 3 — Contains a number in the name.
+- Gul Street 4 — Contains a number in the name.
+- Gul Street 5 — Contains a number in the name.
+- Hougang Avenue 1 — Contains a number in the name.
+- Hougang Avenue 10 — Contains a number in the name.
+- Hougang Avenue 2 — Contains a number in the name.
+- Hougang Avenue 3 — Contains a number in the name.
+- Hougang Avenue 4 — Contains a number in the name.
+- Hougang Avenue 5 — Contains a number in the name.
+- Hougang Avenue 6 — Contains a number in the name.
+- Hougang Avenue 7 — Contains a number in the name.
+- Hougang Avenue 8 — Contains a number in the name.
+- Hougang Avenue 9 — Contains a number in the name.
+- Hougang Street 11 — Contains a number in the name.
+- Hougang Street 12 — Contains a number in the name.
+- Hougang Street 13 — Contains a number in the name.
+- Hougang Street 21 — Contains a number in the name.
+- Hougang Street 22 — Contains a number in the name.
+- Hougang Street 31 — Contains a number in the name.
+- Hougang Street 32 — Contains a number in the name.
+- Hougang Street 51 — Contains a number in the name.
+- Hougang Street 52 — Contains a number in the name.
+- Hougang Street 61 — Contains a number in the name.
+- Hougang Street 91 — Contains a number in the name.
+- Hougang Street 92 — Contains a number in the name.
+- Hougang Street 93 — Contains a number in the name.
+- Jalan Atira 1 — Contains a number in the name.
+- Jalan Atira 2 — Contains a number in the name.
+- Jalan Atira 6 — Contains a number in the name.
+- Jalan Bahar 66Kv Substation — Contains a number in the name.
+- Jalan Diana 1 — Contains a number in the name.
+- Jalan Gemala 2 — Contains a number in the name.
+- Jalan Gemala 3 — Contains a number in the name.
+- Jalan Karyna 2 — Contains a number in the name.
+- Jalan Kerinchi Kiri 2 — Contains a number in the name.
+- Jalan Lang Perut Putih 6 — Contains a number in the name.
+- Jalan Putra Square 5 — Contains a number in the name.
+- Jalan Sara 2 — Contains a number in the name.
+- Jalan Sephia 2 — Contains a number in the name.
+- Jalan Titiwangsa 10 — Contains a number in the name.
+- Jurong East Avenue 1 — Contains a number in the name.
+- Jurong East Central 1 — Contains a number in the name.
+- Jurong East Street 11 — Contains a number in the name.
+- Jurong East Street 12 — Contains a number in the name.
+- Jurong East Street 13 — Contains a number in the name.
+- Jurong East Street 21 — Contains a number in the name.
+- Jurong East Street 24 — Contains a number in the name.
+- Jurong East Street 31 — Contains a number in the name.
+- Jurong East Street 32 — Contains a number in the name.
+- Jurong West Avenue 1 — Contains a number in the name.
+- Jurong West Avenue 2 — Contains a number in the name.
+- Jurong West Avenue 3 — Contains a number in the name.
+- Jurong West Avenue 4 — Contains a number in the name.
+- Jurong West Avenue 5 — Contains a number in the name.
+- Jurong West Central 1 — Contains a number in the name.
+- Jurong West Central 2 — Contains a number in the name.
+- Jurong West Central 3 — Contains a number in the name.
+- Jurong West Street 22 — Contains a number in the name.
+- Jurong West Street 23 — Contains a number in the name.
+- Jurong West Street 24 — Contains a number in the name.
+- Jurong West Street 25 — Contains a number in the name.
+- Jurong West Street 26 — Contains a number in the name.
+- Jurong West Street 41 — Contains a number in the name.
+- Jurong West Street 42 — Contains a number in the name.
+- Jurong West Street 51 — Contains a number in the name.
+- Jurong West Street 52 — Contains a number in the name.
+- Jurong West Street 61 — Contains a number in the name.
+- Jurong West Street 62 — Contains a number in the name.
+- Jurong West Street 63 — Contains a number in the name.
+- Jurong West Street 64 — Contains a number in the name.
+- Jurong West Street 65 — Contains a number in the name.
+- Jurong West Street 71 — Contains a number in the name.
+- Jurong West Street 72 — Contains a number in the name.
+- Jurong West Street 73 — Contains a number in the name.
+- Jurong West Street 74 — Contains a number in the name.
+- Jurong West Street 75 — Contains a number in the name.
+- Jurong West Street 76 — Contains a number in the name.
+- Jurong West Street 81 — Contains a number in the name.
+- Jurong West Street 82 — Contains a number in the name.
+- Jurong West Street 91 — Contains a number in the name.
+- Jurong West Street 92 — Contains a number in the name.
+- Jurong West Street 93 — Contains a number in the name.
+- Kaki Bukit Avenue 1 — Contains a number in the name.
+- Kaki Bukit Avenue 2 — Contains a number in the name.
+- Kaki Bukit Avenue 3 — Contains a number in the name.
+- Kaki Bukit Avenue 4 — Contains a number in the name.
+- Kaki Bukit Avenue 5 — Contains a number in the name.
+- Kaki Bukit Avenue 6 — Contains a number in the name.
+- Kaki Bukit Road 1 — Contains a number in the name.
+- Kaki Bukit Road 2 — Contains a number in the name.
+- Kaki Bukit Road 3 — Contains a number in the name.
+- Kaki Bukit Road 4 — Contains a number in the name.
+- Kaki Bukit Road 5 — Contains a number in the name.
+- Kaki Bukit Road 6 — Contains a number in the name.
+- Kallang Way 1 — Contains a number in the name.
+- Kallang Way 2 — Contains a number in the name.
+- Kallang Way 2A — Contains a number in the name.
+- Kallang Way 3 — Contains a number in the name.
+- Kallang Way 4 — Contains a number in the name.
+- Kallang Way 5 — Contains a number in the name.
+- Keppel Drive 5 — Contains a number in the name.
+- Keppel Drive 6 — Contains a number in the name.
+- Ladang Avenue 1 — Contains a number in the name.
+- Ladang Ring 3 — Contains a number in the name.
+- Ladang Ring 4 — Contains a number in the name.
+- Ladang Street 1 — Contains a number in the name.
+- Ladang Street 2 — Contains a number in the name.
+- Ladang Street 4 — Contains a number in the name.
+- Ladang Street 5 — Contains a number in the name.
+- Lim Chu Kang Lane 1 — Contains a number in the name.
+- Lim Chu Kang Lane 1A — Contains a number in the name.
+- Lim Chu Kang Lane 2 — Contains a number in the name.
+- Lim Chu Kang Lane 3 — Contains a number in the name.
+- Lim Chu Kang Lane 3A — Contains a number in the name.
+- Lim Chu Kang Lane 4 — Contains a number in the name.
+- Lim Chu Kang Lane 5 — Contains a number in the name.
+- Lim Chu Kang Lane 5A — Contains a number in the name.
+- Lim Chu Kang Lane 6 — Contains a number in the name.
+- Lim Chu Kang Lane 6C — Contains a number in the name.
+- Lim Chu Kang Lane 6D — Contains a number in the name.
+- Lim Chu Kang Lane 6F — Contains a number in the name.
+- Lim Chu Kang Lane 8 — Contains a number in the name.
+- Lim Chu Kang Lane 8A — Contains a number in the name.
+- Lim Chu Kang Lane 9A — Contains a number in the name.
+- Link Fc1 To Prince Edward Drive — Contains a number in the name.
+- Lorong 1 Geylang — Contains a number in the name.
+- Lorong 1 Realty Park — Contains a number in the name.
+- Lorong 1 Toa Payoh — Contains a number in the name.
+- Lorong 10 Geylang — Contains a number in the name.
+- Lorong 101 Changi — Contains a number in the name.
+- Lorong 102 Changi — Contains a number in the name.
+- Lorong 104 Changi — Contains a number in the name.
+- Lorong 105 Changi — Contains a number in the name.
+- Lorong 106 Changi — Contains a number in the name.
+- Lorong 107 Changi — Contains a number in the name.
+- Lorong 108 Changi — Contains a number in the name.
+- Lorong 11 Geylang — Contains a number in the name.
+- Lorong 110 Changi — Contains a number in the name.
+- Lorong 12 Geylang — Contains a number in the name.
+- Lorong 13 Geylang — Contains a number in the name.
+- Lorong 14 Geylang — Contains a number in the name.
+- Lorong 15 Geylang — Contains a number in the name.
+- Lorong 16 Geylang — Contains a number in the name.
+- Lorong 17 Geylang — Contains a number in the name.
+- Lorong 18 Geylang — Contains a number in the name.
+- Lorong 19 Geylang — Contains a number in the name.
+- Lorong 1A Toa Payoh — Contains a number in the name.
+- Lorong 2 Realty Park — Contains a number in the name.
+- Lorong 2 Toa Payoh — Contains a number in the name.
+- Lorong 20 Geylang — Contains a number in the name.
+- Lorong 21 Geylang — Contains a number in the name.
+- Lorong 21A Geylang — Contains a number in the name.
+- Lorong 22 Geylang — Contains a number in the name.
+- Lorong 23 Geylang — Contains a number in the name.
+- Lorong 24 Geylang — Contains a number in the name.
+- Lorong 24A Geylang — Contains a number in the name.
+- Lorong 25 Geylang — Contains a number in the name.
+- Lorong 25A Geylang — Contains a number in the name.
+- Lorong 26 Geylang — Contains a number in the name.
+- Lorong 27 Geylang — Contains a number in the name.
+- Lorong 27A Geylang — Contains a number in the name.
+- Lorong 28 Geylang — Contains a number in the name.
+- Lorong 29 Geylang — Contains a number in the name.
+- Lorong 3 Geylang — Contains a number in the name.
+- Lorong 3 Toa Payoh — Contains a number in the name.
+- Lorong 30 Geylang — Contains a number in the name.
+- Lorong 31 Geylang — Contains a number in the name.
+- Lorong 32 Geylang — Contains a number in the name.
+- Lorong 33 Geylang — Contains a number in the name.
+- Lorong 34 Geylang — Contains a number in the name.
+- Lorong 35 Geylang — Contains a number in the name.
+- Lorong 36 Geylang — Contains a number in the name.
+- Lorong 37 Geylang — Contains a number in the name.
+- Lorong 38 Geylang — Contains a number in the name.
+- Lorong 39 Geylang — Contains a number in the name.
+- Lorong 4 Geylang — Contains a number in the name.
+- Lorong 4 Realty Park — Contains a number in the name.
+- Lorong 4 Toa Payoh — Contains a number in the name.
+- Lorong 40 Geylang — Contains a number in the name.
+- Lorong 41 Geylang — Contains a number in the name.
+- Lorong 42 Geylang — Contains a number in the name.
+- Lorong 5 Realty Park — Contains a number in the name.
+- Lorong 5 Toa Payoh — Contains a number in the name.
+- Lorong 6 Geylang — Contains a number in the name.
+- Lorong 6 Realty Park — Contains a number in the name.
+- Lorong 6 Toa Payoh — Contains a number in the name.
+- Lorong 7 Geylang — Contains a number in the name.
+- Lorong 7 Realty Park — Contains a number in the name.
+- Lorong 7 Toa Payoh — Contains a number in the name.
+- Lorong 8 Geylang — Contains a number in the name.
+- Lorong 8 Toa Payoh — Contains a number in the name.
+- Lorong 8A Toa Payoh — Contains a number in the name.
+- Lorong 9 Geylang — Contains a number in the name.
+- Lorong Cahya Mata 2A7 — Contains a number in the name.
+- Lorong Titiwangsa 1 — Contains a number in the name.
+- Lorong Titiwangsa 11 — Contains a number in the name.
+- Lorong Titiwangsa 2 — Contains a number in the name.
+- Lorong Titiwangsa 5 — Contains a number in the name.
+- Lorong Titiwangsa 6 — Contains a number in the name.
+- Lorong Titiwangsa 7 — Contains a number in the name.
+- Lorong Titiwangsa 8 — Contains a number in the name.
+- Lorong Titiwangsa 9 — Contains a number in the name.
+- Loyang Way 1 — Contains a number in the name.
+- Loyang Way 2 — Contains a number in the name.
+- Loyang Way 4 — Contains a number in the name.
+- Loyang Way 6 — Contains a number in the name.
+- Marsiling Industrial Estate Road 1 — Contains a number in the name.
+- Marsiling Industrial Estate Road 10 — Contains a number in the name.
+- Marsiling Industrial Estate Road 2 — Contains a number in the name.
+- Marsiling Industrial Estate Road 3 — Contains a number in the name.
+- Marsiling Industrial Estate Road 4 — Contains a number in the name.
+- Marsiling Industrial Estate Road 5 — Contains a number in the name.
+- Marsiling Industrial Estate Road 6 — Contains a number in the name.
+- Marsiling Industrial Estate Road 7 — Contains a number in the name.
+- Marsiling Industrial Estate Road 8 — Contains a number in the name.
+- Marsiling Industrial Estate Road 9 — Contains a number in the name.
+- Neo Tiew Lane 1 — Contains a number in the name.
+- Neo Tiew Lane 2 — Contains a number in the name.
+- Neo Tiew Lane 3 — Contains a number in the name.
+- No 61 Lorong N — Contains a number in the name.
+- Parking Lot - 220 Canada Road — Contains a number in the name.
+- Pasar 216 Bedok Central — Contains a number in the name.
+- Pasir Panjang Drive 1 — Contains a number in the name.
+- Pasir Panjang Drive 14 — Contains a number in the name.
+- Pasir Panjang Drive 2 — Contains a number in the name.
+- Pasir Panjang Drive 3 — Contains a number in the name.
+- Pasir Panjang Drive 5 — Contains a number in the name.
+- Pasir Panjang Drive 6 — Contains a number in the name.
+- Pasir Panjang Drive3 — Contains a number in the name.
+- Pasir Ris Central Street 3 — Contains a number in the name.
+- Pasir Ris Drive 1 — Contains a number in the name.
+- Pasir Ris Drive 10 — Contains a number in the name.
+- Pasir Ris Drive 12 — Contains a number in the name.
+- Pasir Ris Drive 2 — Contains a number in the name.
+- Pasir Ris Drive 3 — Contains a number in the name.
+- Pasir Ris Drive 4 — Contains a number in the name.
+- Pasir Ris Drive 6 — Contains a number in the name.
+- Pasir Ris Drive 8 — Contains a number in the name.
+- Pasir Ris Farmway 1 — Contains a number in the name.
+- Pasir Ris Farmway 2 — Contains a number in the name.
+- Pasir Ris Farmway 3 — Contains a number in the name.
+- Pasir Ris Industrial Drive 1 — Contains a number in the name.
+- Pasir Ris Industrial Drive 3 — Contains a number in the name.
+- Pasir Ris Street 11 — Contains a number in the name.
+- Pasir Ris Street 12 — Contains a number in the name.
+- Pasir Ris Street 13 — Contains a number in the name.
+- Pasir Ris Street 21 — Contains a number in the name.
+- Pasir Ris Street 41 — Contains a number in the name.
+- Pasir Ris Street 51 — Contains a number in the name.
+- Pasir Ris Street 52 — Contains a number in the name.
+- Pasir Ris Street 53 — Contains a number in the name.
+- Pasir Ris Street 71 — Contains a number in the name.
+- Pasir Ris Street 72 — Contains a number in the name.
+- Patrol Road 3 — Contains a number in the name.
+- Potong Pasir Avenue 1 — Contains a number in the name.
+- Potong Pasir Avenue 2 — Contains a number in the name.
+- Potong Pasir Avenue 3 — Contains a number in the name.
+- Prince Edward Close 2 — Contains a number in the name.
+- Prince Edward Close 3 — Contains a number in the name.
+- Proposed 1200Mm Diameter Potable Water Pipeline Along Holland Road And Ulu Pandan Road From Rail Corridor To Clementi Road — Contains a number in the name.
+- Road 18 — Contains a number in the name.
+- Science Drive 1 — Contains a number in the name.
+- Science Drive 2 — Contains a number in the name.
+- Science Drive 3 — Contains a number in the name.
+- Science Drive 4 — Contains a number in the name.
+- Seletar Aerospace Road 1 — Contains a number in the name.
+- Seletar Aerospace Road 2 — Contains a number in the name.
+- Seletar West Farmway 1 — Contains a number in the name.
+- Seletar West Farmway 2 — Contains a number in the name.
+- Seletar West Farmway 4 — Contains a number in the name.
+- Seletar West Farmway 5 — Contains a number in the name.
+- Seletar West Farmway 6 — Contains a number in the name.
+- Seletar West Farmway 7 — Contains a number in the name.
+- Seletar West Farmway 8 — Contains a number in the name.
+- Seletar West Farmway 9 — Contains a number in the name.
+- Seletar West Road 1 — Contains a number in the name.
+- Seletar West Road 2 — Contains a number in the name.
+- Seletar West Road 3 — Contains a number in the name.
+- Seletar West Road 4 — Contains a number in the name.
+- Serangoon Avenue 1 — Contains a number in the name.
+- Serangoon Avenue 2 — Contains a number in the name.
+- Serangoon Avenue 3 — Contains a number in the name.
+- Serangoon Avenue 4 — Contains a number in the name.
+- Serangoon North Avenue 1 — Contains a number in the name.
+- Serangoon North Avenue 2 — Contains a number in the name.
+- Serangoon North Avenue 3 — Contains a number in the name.
+- Serangoon North Avenue 4 — Contains a number in the name.
+- Serangoon North Avenue 5 — Contains a number in the name.
+- Serangoon North Avenue 6 — Contains a number in the name.
+- Sfa Neo Tiew Lane 2 — Contains a number in the name.
+- Simei Street 1 — Contains a number in the name.
+- Simei Street 2 — Contains a number in the name.
+- Simei Street 3 — Contains a number in the name.
+- Simei Street 4 — Contains a number in the name.
+- Simei Street 5 — Contains a number in the name.
+- Simei Street 6 — Contains a number in the name.
+- Sin06 Dc Internal Road — Contains a number in the name.
+- Square 2 — Contains a number in the name.
+- Sungei Kadut Street 1 — Contains a number in the name.
+- Sungei Kadut Street 2 — Contains a number in the name.
+- Sungei Kadut Street 3 — Contains a number in the name.
+- Sungei Kadut Street 4 — Contains a number in the name.
+- Sungei Kadut Street 5 — Contains a number in the name.
+- Sungei Kadut Street 6 — Contains a number in the name.
+- T1 Arrival Crescent — Contains a number in the name.
+- T1 Basement Drive — Contains a number in the name.
+- T1 Boulevard — Contains a number in the name.
+- T1 Departure Crescent — Contains a number in the name.
+- T2 Arrival Drive — Contains a number in the name.
+- T2 Basement Drive — Contains a number in the name.
+- T2 Boulevard — Contains a number in the name.
+- T2 Departure Drive — Contains a number in the name.
+- T2 North Link — Contains a number in the name.
+- T3 Arrival Drive — Contains a number in the name.
+- T3 Basement Drive — Contains a number in the name.
+- T3 Departure Drive — Contains a number in the name.
+- T4 Arrival Drive — Contains a number in the name.
+- T4 Boulevard — Contains a number in the name.
+- T4 Crescent — Contains a number in the name.
+- T4 Departure Drive — Contains a number in the name.
+- T4 Link — Contains a number in the name.
+- T4 Way — Contains a number in the name.
+- Tampines Avenue 1 — Contains a number in the name.
+- Tampines Avenue 10 — Contains a number in the name.
+- Tampines Avenue 11 — Contains a number in the name.
+- Tampines Avenue 12 — Contains a number in the name.
+- Tampines Avenue 2 — Contains a number in the name.
+- Tampines Avenue 3 — Contains a number in the name.
+- Tampines Avenue 4 — Contains a number in the name.
+- Tampines Avenue 5 — Contains a number in the name.
+- Tampines Avenue 6 — Contains a number in the name.
+- Tampines Avenue 7 — Contains a number in the name.
+- Tampines Avenue 8 — Contains a number in the name.
+- Tampines Avenue 9 — Contains a number in the name.
+- Tampines Central 1 — Contains a number in the name.
+- Tampines Central 2 — Contains a number in the name.
+- Tampines Central 3 — Contains a number in the name.
+- Tampines Central 4 — Contains a number in the name.
+- Tampines Central 5 — Contains a number in the name.
+- Tampines Central 6 — Contains a number in the name.
+- Tampines Central 7 — Contains a number in the name.
+- Tampines Central 8 — Contains a number in the name.
+- Tampines Industrial Avenue 1 — Contains a number in the name.
+- Tampines Industrial Avenue 2 — Contains a number in the name.
+- Tampines Industrial Avenue 3 — Contains a number in the name.
+- Tampines Industrial Avenue 4 — Contains a number in the name.
+- Tampines Industrial Avenue 5 — Contains a number in the name.
+- Tampines N2 Shopping Street — Contains a number in the name.
+- Tampines North Drive 1 — Contains a number in the name.
+- Tampines North Drive 2 — Contains a number in the name.
+- Tampines North Drive 3 — Contains a number in the name.
+- Tampines North Drive 4 — Contains a number in the name.
+- Tampines North Drive 5 — Contains a number in the name.
+- Tampines Street 11 — Contains a number in the name.
+- Tampines Street 12 — Contains a number in the name.
+- Tampines Street 21 — Contains a number in the name.
+- Tampines Street 22 — Contains a number in the name.
+- Tampines Street 23 — Contains a number in the name.
+- Tampines Street 24 — Contains a number in the name.
+- Tampines Street 31 — Contains a number in the name.
+- Tampines Street 32 — Contains a number in the name.
+- Tampines Street 33 — Contains a number in the name.
+- Tampines Street 34 — Contains a number in the name.
+- Tampines Street 41 — Contains a number in the name.
+- Tampines Street 42 — Contains a number in the name.
+- Tampines Street 43 — Contains a number in the name.
+- Tampines Street 44 — Contains a number in the name.
+- Tampines Street 45 — Contains a number in the name.
+- Tampines Street 61 — Contains a number in the name.
+- Tampines Street 62 — Contains a number in the name.
+- Tampines Street 64 — Contains a number in the name.
+- Tampines Street 71 — Contains a number in the name.
+- Tampines Street 72 — Contains a number in the name.
+- Tampines Street 73 — Contains a number in the name.
+- Tampines Street 81 — Contains a number in the name.
+- Tampines Street 82 — Contains a number in the name.
+- Tampines Street 83 — Contains a number in the name.
+- Tampines Street 84 — Contains a number in the name.
+- Tampines Street 85 — Contains a number in the name.
+- Tampines Street 86 — Contains a number in the name.
+- Tampines Street 91 — Contains a number in the name.
+- Tampines Street 92 — Contains a number in the name.
+- Tampines Street 93 — Contains a number in the name.
+- Tampines Street 94 — Contains a number in the name.
+- Tampines Street 95 — Contains a number in the name.
+- Tampines Street 96 — Contains a number in the name.
+- Tanjong Pagar Drive 2 — Contains a number in the name.
+- Telok Blangah Street 31 — Contains a number in the name.
+- Telok Blangah Street 32 — Contains a number in the name.
+- Toa Payoh Lorong 7 Park — Contains a number in the name.
+- Toa Payoh Lorong 8 Market — Contains a number in the name.
+- Tops Avenue 3 — Contains a number in the name.
+- Tuas Avenue 1 — Contains a number in the name.
+- Tuas Avenue 10 — Contains a number in the name.
+- Tuas Avenue 11 — Contains a number in the name.
+- Tuas Avenue 12 — Contains a number in the name.
+- Tuas Avenue 13 — Contains a number in the name.
+- Tuas Avenue 14 — Contains a number in the name.
+- Tuas Avenue 16 — Contains a number in the name.
+- Tuas Avenue 18 — Contains a number in the name.
+- Tuas Avenue 18A — Contains a number in the name.
+- Tuas Avenue 2 — Contains a number in the name.
+- Tuas Avenue 20 — Contains a number in the name.
+- Tuas Avenue 3 — Contains a number in the name.
+- Tuas Avenue 4 — Contains a number in the name.
+- Tuas Avenue 5 — Contains a number in the name.
+- Tuas Avenue 6 — Contains a number in the name.
+- Tuas Avenue 7 — Contains a number in the name.
+- Tuas Avenue 8 — Contains a number in the name.
+- Tuas Avenue 9 — Contains a number in the name.
+- Tuas Drive 1 — Contains a number in the name.
+- Tuas Drive 2 — Contains a number in the name.
+- Tuas F2 Avenue — Contains a number in the name.
+- Tuas F2 Drive 2 — Contains a number in the name.
+- Tuas F3 Avenue — Contains a number in the name.
+- Tuas Link 1 — Contains a number in the name.
+- Tuas Link 2 — Contains a number in the name.
+- Tuas Link 3 — Contains a number in the name.
+- Tuas Link 4 — Contains a number in the name.
+- Tuas South Avenue 1 — Contains a number in the name.
+- Tuas South Avenue 10 — Contains a number in the name.
+- Tuas South Avenue 12 — Contains a number in the name.
+- Tuas South Avenue 16 — Contains a number in the name.
+- Tuas South Avenue 18 — Contains a number in the name.
+- Tuas South Avenue 2 — Contains a number in the name.
+- Tuas South Avenue 3 — Contains a number in the name.
+- Tuas South Avenue 4 — Contains a number in the name.
+- Tuas South Avenue 5 — Contains a number in the name.
+- Tuas South Avenue 6 — Contains a number in the name.
+- Tuas South Avenue 7 — Contains a number in the name.
+- Tuas South Avenue 8 — Contains a number in the name.
+- Tuas South Avenue 9 — Contains a number in the name.
+- Tuas South Link 1 — Contains a number in the name.
+- Tuas South Link 2 — Contains a number in the name.
+- Tuas South Link 3 — Contains a number in the name.
+- Tuas South Link 4 — Contains a number in the name.
+- Tuas South Street 1 — Contains a number in the name.
+- Tuas South Street 10 — Contains a number in the name.
+- Tuas South Street 11 — Contains a number in the name.
+- Tuas South Street 12 — Contains a number in the name.
+- Tuas South Street 13 — Contains a number in the name.
+- Tuas South Street 15 — Contains a number in the name.
+- Tuas South Street 2 — Contains a number in the name.
+- Tuas South Street 3 — Contains a number in the name.
+- Tuas South Street 5 — Contains a number in the name.
+- Tuas South Street 6 — Contains a number in the name.
+- Tuas South Street 7 — Contains a number in the name.
+- Tuas South Street 8 — Contains a number in the name.
+- Tuas South Street 9 — Contains a number in the name.
+- Tuas View Avenue 14 — Contains a number in the name.
+- Tuas View Walk 1 — Contains a number in the name.
+- Tuas View Walk 2 — Contains a number in the name.
+- Ubi Avenue 1 — Contains a number in the name.
+- Ubi Avenue 2 — Contains a number in the name.
+- Ubi Avenue 3 — Contains a number in the name.
+- Ubi Avenue 4 — Contains a number in the name.
+- Ubi Road 1 — Contains a number in the name.
+- Ubi Road 2 — Contains a number in the name.
+- Ubi Road 3 — Contains a number in the name.
+- Ubi Road 4 — Contains a number in the name.
+- Woodland Drive 75 — Contains a number in the name.
+- Woodlands Avenue 1 — Contains a number in the name.
+- Woodlands Avenue 10 — Contains a number in the name.
+- Woodlands Avenue 12 — Contains a number in the name.
+- Woodlands Avenue 2 — Contains a number in the name.
+- Woodlands Avenue 3 — Contains a number in the name.
+- Woodlands Avenue 4 — Contains a number in the name.
+- Woodlands Avenue 5 — Contains a number in the name.
+- Woodlands Avenue 6 — Contains a number in the name.
+- Woodlands Avenue 7 — Contains a number in the name.
+- Woodlands Avenue 8 — Contains a number in the name.
+- Woodlands Avenue 9 — Contains a number in the name.
+- Woodlands Drive 14 — Contains a number in the name.
+- Woodlands Drive 16 — Contains a number in the name.
+- Woodlands Drive 17 — Contains a number in the name.
+- Woodlands Drive 40 — Contains a number in the name.
+- Woodlands Drive 42 — Contains a number in the name.
+- Woodlands Drive 43 — Contains a number in the name.
+- Woodlands Drive 44 — Contains a number in the name.
+- Woodlands Drive 50 — Contains a number in the name.
+- Woodlands Drive 52 — Contains a number in the name.
+- Woodlands Drive 53 — Contains a number in the name.
+- Woodlands Drive 60 — Contains a number in the name.
+- Woodlands Drive 61 — Contains a number in the name.
+- Woodlands Drive 62 — Contains a number in the name.
+- Woodlands Drive 63 — Contains a number in the name.
+- Woodlands Drive 64 — Contains a number in the name.
+- Woodlands Drive 65 — Contains a number in the name.
+- Woodlands Drive 70 — Contains a number in the name.
+- Woodlands Drive 71 — Contains a number in the name.
+- Woodlands Drive 72 — Contains a number in the name.
+- Woodlands Drive 73 — Contains a number in the name.
+- Woodlands Drive 91 — Contains a number in the name.
+- Woodlands Industrial Park D Street 1 — Contains a number in the name.
+- Woodlands Industrial Park D Street 2 — Contains a number in the name.
+- Woodlands Street 11 — Contains a number in the name.
+- Woodlands Street 12 — Contains a number in the name.
+- Woodlands Street 13 — Contains a number in the name.
+- Woodlands Street 31 — Contains a number in the name.
+- Woodlands Street 32 — Contains a number in the name.
+- Woodlands Street 41 — Contains a number in the name.
+- Woodlands Street 81 — Contains a number in the name.
+- Woodlands Street 82 — Contains a number in the name.
+- Woodlands Street 83 — Contains a number in the name.
+- Yellowstorm Street 1 — Contains a number in the name.
+- Yellowstorm Street 2 — Contains a number in the name.
+- Yellowstorm Street 3 — Contains a number in the name.
+- Yishun Avenue 1 — Contains a number in the name.
+- Yishun Avenue 10 — Contains a number in the name.
+- Yishun Avenue 11 — Contains a number in the name.
+- Yishun Avenue 2 — Contains a number in the name.
+- Yishun Avenue 3 — Contains a number in the name.
+- Yishun Avenue 4 — Contains a number in the name.
+- Yishun Avenue 5 — Contains a number in the name.
+- Yishun Avenue 6 — Contains a number in the name.
+- Yishun Avenue 7 — Contains a number in the name.
+- Yishun Avenue 8 — Contains a number in the name.
+- Yishun Avenue 9 — Contains a number in the name.
+- Yishun Central 1 — Contains a number in the name.
+- Yishun Central 2 — Contains a number in the name.
+- Yishun Industrial Street 1 — Contains a number in the name.
+- Yishun Street 11 — Contains a number in the name.
+- Yishun Street 20 — Contains a number in the name.
+- Yishun Street 21 — Contains a number in the name.
+- Yishun Street 22 — Contains a number in the name.
+- Yishun Street 23 — Contains a number in the name.
+- Yishun Street 31 — Contains a number in the name.
+- Yishun Street 41 — Contains a number in the name.
+- Yishun Street 42 — Contains a number in the name.
+- Yishun Street 43 — Contains a number in the name.
+- Yishun Street 44 — Contains a number in the name.
+- Yishun Street 51 — Contains a number in the name.
+- Yishun Street 52 — Contains a number in the name.
+- Yishun Street 53 — Contains a number in the name.
+- Yishun Street 61 — Contains a number in the name.
+- Yishun Street 71 — Contains a number in the name.
+- Yishun Street 72 — Contains a number in the name.
+- Yishun Street 81 — Contains a number in the name.
+- Yunnan Drive 1 — Contains a number in the name.
+- Yunnan Drive 2 — Contains a number in the name.
+- Yunnan Drive 3 — Contains a number in the name.
+- Yunnan Walk 1 — Contains a number in the name.
+- Yunnan Walk 2 — Contains a number in the name.
+- Yunnan Walk 3 — Contains a number in the name.
 
-## 1. Linguistic Origin
-- **Malay**
-  - Thomson Road
-  - Thong Bee Road (honey bee)
-  - Thong Hup Gardens (sugar cane)
-  - Punggol Way (prospering harbour)
-  - Bedok Reservoir Road (fishing in the open sea)
-- **English/British**
-  - Orchard Road
-  - Waterloo Street
-  - Raffles Boulevard
-  - Stamford Road
-  - Braddell View Avenue (Scottish)
-  - Chatsworth Road
-  - Jurong East Street 21 (Hokkien)
-- **Chinese**
-  - Tiong Bahru Road (new village)
-  - Sengkang West Way (prospering harbour)
-  - Ang Mo Kio Avenue 1-8
-  - Bishan Street 11-23
-  - Boon Lay Way
-  - Chai Chee Lane
-  - Eunos Link
-  - Geylang East Central
-  - Jurong West Street 13
-  - Kembangan Road
-  - Lorong Buangkok
-  - Loyang Way
-  - Punggol Central
-  - Upper Aljunied Link
-  - Upper Changi Road East
-- **Tamil**
-  - Race Course Road
-  - Serangoon Road
-  - Little India Arcade
+## Infrastructure & Transport (bridge/port/airport/rail-related)
+- Airport Boulevard — Matched keyword 'airport'.
+- Airport Cargo Road — Matched keyword 'airport'.
+- Airport Road — Matched keyword 'airport'.
+- Ayer Rajah Expressway — Matched keyword 'expressway'.
+- Bukit Timah Expressway — Matched keyword 'expressway'.
+- Central Expressway — Matched keyword 'expressway'.
+- Changi Ferry Road — Matched keyword 'ferry'.
+- Fishery Port Road — Matched keyword 'port'.
+- Harbour Drive — Matched keyword 'harbour'.
+- Harbour View Gardens — Matched keyword 'harbour'.
+- Jalan Ahmad Ibrahim Bridge — Matched keyword 'bridge'.
+- Jalan Kayu Flyover — Matched keyword 'flyover'.
+- Jurong Pier Road — Matched keyword 'pier'.
+- Jurong Pier Way — Matched keyword 'pier'.
+- Jurong Port Road — Matched keyword 'port'.
+- Kallang Airport Drive — Matched keyword 'airport'.
+- Kallang Airport Way — Matched keyword 'airport'.
+- Kallang Paya Lebar Expressway — Matched keyword 'expressway'.
+- Kallang-Paya Lebar Expressway — Matched keyword 'expressway'.
+- Kranji Expressway — Matched keyword 'expressway'.
+- Lorong Halus Bridge — Matched keyword 'bridge'.
+- Marina Coastal Expressway — Matched keyword 'expressway'.
+- Marina Costal Expressway — Matched keyword 'expressway'.
+- New Bridge Road — Matched keyword 'bridge'.
+- North Bridge Road — Matched keyword 'bridge'.
+- Old Airport Road — Matched keyword 'airport'.
+- Old Pier Road — Matched keyword 'pier'.
+- Pan Island Expressway — Matched keyword 'expressway'.
+- Pan-Island Expressway — Matched keyword 'expressway'.
+- Port Road — Matched keyword 'port'.
+- Seletar Expressway — Matched keyword 'expressway'.
+- South Bridge Road — Matched keyword 'bridge'.
+- Tampines Expressway — Matched keyword 'expressway'.
+- Tanah Merah Ferry Road — Matched keyword 'ferry'.
+- Tuas Port Boulevard — Matched keyword 'port'.
+- West Coast Ferry Road — Matched keyword 'ferry'.
 
-## 2. Historical Themes
-- **Colonial Figures**
-  - Raffles Boulevard (Sir Stamford Raffles)
-  - Clemenceau Avenue (French statesman)
-  - Sophia Road
-- **Local Heroes**
-  - Lim Chu Kang Road (Lim Chu Kang, village head)
-  - Tanjong Katong Road (former seaside resort area)
-  - Lim Ah Woo Avenue
-  - Tan Kah Kee Drive
-- **Royals & Nobility**
-  - Queensway
-  - Prince Charles Crescent
-  - Sultan-Link
+## Cultural & Religious (festivals, concepts, heritage, temples)
+- Church Street — Matched keyword 'church'.
+- Jalan Hari Raya — Matched keyword 'hari'.
+- Jalan Masjid — Matched keyword 'masjid'.
+- Mar Thoma Syrian Church Road — Matched keyword 'church'.
+- Pagoda Street — Matched keyword 'pagoda'.
+- Saint Andrew'S Road — Matched keyword 'saint'.
+- Saint Barnabas Lane — Matched keyword 'saint'.
+- Saint Francis Road — Matched keyword 'saint'.
+- Saint George'S East Gardens — Matched keyword 'saint'.
+- Saint George'S Lane — Matched keyword 'saint'.
+- Saint George'S Road — Matched keyword 'saint'.
+- Saint George'S West Gardens — Matched keyword 'saint'.
+- Saint Helena Road — Matched keyword 'saint'.
+- Saint Helier'S Avenue — Matched keyword 'saint'.
+- Saint James Road — Matched keyword 'saint'.
+- Saint John'S Road — Matched keyword 'saint'.
+- Saint Margaret'S Road — Matched keyword 'saint'.
+- Saint Martin Lane — Matched keyword 'saint'.
+- Saint Martin'S Drive — Matched keyword 'saint'.
+- Saint Michael'S Road — Matched keyword 'saint'.
+- Saint Patrick'S Road — Matched keyword 'saint'.
+- Saint Thomas Walk — Matched keyword 'saint'.
+- Saint Wilfred Road — Matched keyword 'saint'.
+- Saint Xavier'S Lane — Matched keyword 'saint'.
+- Temple Street — Matched keyword 'temple'.
 
-## 3. Nature & Geography
-- **Trees & Plants**
-  - Pandan Gardens (pandan palm)
-  - Nassim Road (nassi tree)
-  - Angsana Drive (angsana tree)
-  - Dahlia Street
-- **Flowers**
-  - Tulip Drive
-- **Animals**
-  - Elephant Trail
-  - Cheetah Crescent
-  - Lion City Link
-  - Monkey Town Lane
-  - Otter Lounge
-  - Wild Boar Avenue
-- **Places**
-  - Sentosa Cove (peace and tranquility)
-  - Mount Sinai Close
+## Occupational (professions, trades, industries)
+- Baker Street — Matched keyword 'baker'.
+- Carpenter Street — Matched keyword 'carpenter'.
+- Merchant Loop — Matched keyword 'merchant'.
+- Merchant Road — Matched keyword 'merchant'.
+- Smith Street — Matched keyword 'smith'.
 
-## 4. Cultural & Religious
-- **Temples & Places of Worship**
-  - Sri Srinivasa Perumal Temple Avenue
-  - Masjid Sultan Mosque Lane
-  - Geylang East Avenue 3
-  - Keong Saik Street (Thian Hock Keng Temple)
-  - Serangoon Road (Sri Veerama Kaliamman Temple)
-- **Festivals & Concepts**
-  - Mid-Autumn Festival Walk
-  - Hari Raya Street
-  - Ponggol Way (reunion during Hari Raya)
+## Nature & Geography (trees, plants, animals, landforms)
+- Ah Hood Gardens — Matched keyword 'gardens'.
+- Allotment Gardens — Matched keyword 'gardens'.
+- Amaranda Gardens — Matched keyword 'gardens'.
+- Amber Gardens — Matched keyword 'gardens'.
+- Amk Central Heights — Matched keyword 'heights'.
+- Anchorvale Gardens — Matched keyword 'gardens'.
+- Ang Mo Kio Electronics Park Road — Matched keyword 'park'.
+- Ang Mo Kio Heights — Matched keyword 'heights'.
+- Ang Siang Hill — Matched keyword 'hill'.
+- Angsana Green East Coast Parkway — Matched keyword 'green'.
+- Ann Siang Hill — Matched keyword 'hill'.
+- Aspen Heights — Matched keyword 'heights'.
+- Astrid Hill — Matched keyword 'hill'.
+- Attap Valley Road — Matched keyword 'valley'.
+- Aviation Park Road — Matched keyword 'park'.
+- Avila Gardens — Matched keyword 'gardens'.
+- Ayer Samak Heights — Matched keyword 'heights'.
+- Balam Gardens — Matched keyword 'gardens'.
+- Balmeg Hill — Matched keyword 'hill'.
+- Balmoral Heights — Matched keyword 'heights'.
+- Barossa Gardens — Matched keyword 'gardens'.
+- Bay East Drive — Matched keyword 'bay'.
+- Beach Road — Matched keyword 'beach'.
+- Beach Road Gardens — Matched keyword 'beach'.
+- Beach Walk — Matched keyword 'beach'.
+- Beacon Heights — Matched keyword 'heights'.
+- Beverly Hill — Matched keyword 'hill'.
+- Bidadari Park Drive — Matched keyword 'park'.
+- Biggin Hill Road — Matched keyword 'hill'.
+- Binjai Hill — Matched keyword 'hill'.
+- Bird Park Drive — Matched keyword 'park'.
+- Bishan Heights — Matched keyword 'heights'.
+- Blossom Gardens — Matched keyword 'gardens'.
+- Boon Lay Gardens — Matched keyword 'gardens'.
+- Botak Hill Road — Matched keyword 'hill'.
+- Botanic Gardens — Matched keyword 'gardens'.
+- Bowmont Gardens — Matched keyword 'gardens'.
+- Braddell Hill — Matched keyword 'hill'.
+- Bright Hill — Matched keyword 'hill'.
+- Bright Hill Crescent — Matched keyword 'hill'.
+- Bright Hill Drive — Matched keyword 'hill'.
+- Bright Hill Road — Matched keyword 'hill'.
+- Buona Vista Gardens — Matched keyword 'gardens'.
+- Burgundy Hill — Matched keyword 'hill'.
+- Business Park Drive — Matched keyword 'park'.
+- Car Park Entrance Way — Matched keyword 'park'.
+- Cashew Heights — Matched keyword 'heights'.
+- Cavenagh Gardens — Matched keyword 'gardens'.
+- Centra Heights — Matched keyword 'heights'.
+- Chai Chee Gardens — Matched keyword 'gardens'.
+- Chancery Hill Road — Matched keyword 'hill'.
+- Chancery Hill Walk — Matched keyword 'hill'.
+- Changi Business Park Crescent — Matched keyword 'park'.
+- Changi Heights — Matched keyword 'heights'.
+- Chelsea Gardens — Matched keyword 'gardens'.
+- Cherry Gardens — Matched keyword 'gardens'.
+- Cherry Hill — Matched keyword 'hill'.
+- Chestnut Gardens — Matched keyword 'gardens'.
+- Cheviot Hill — Matched keyword 'hill'.
+- Chinese Garden Road — Matched keyword 'garden'.
+- Chip Bee Gardens — Matched keyword 'gardens'.
+- Claymore Hill — Matched keyword 'hill'.
+- Cleantech Heights — Matched keyword 'heights'.
+- Clementi Gardens — Matched keyword 'gardens'.
+- Cluny Hill — Matched keyword 'hill'.
+- Cluny Park Road — Matched keyword 'park'.
+- Cluny Park Way — Matched keyword 'park'.
+- Commonwealth Heights — Matched keyword 'heights'.
+- Compass Heights — Matched keyword 'heights'.
+- Compassvale Gardens — Matched keyword 'gardens'.
+- Cornwall Gardens — Matched keyword 'gardens'.
+- Crawford Heights — Matched keyword 'heights'.
+- Crystal Heights — Matched keyword 'heights'.
+- Dairy Farm Heights — Matched keyword 'heights'.
+- Darat Garden Road — Matched keyword 'garden'.
+- Dedap Gardens — Matched keyword 'gardens'.
+- Dempsey Hill — Matched keyword 'hill'.
+- Depot Heights — Matched keyword 'heights'.
+- Derbyshire Heights — Matched keyword 'heights'.
+- Dickenson Hill Road — Matched keyword 'hill'.
+- Dover Gardens — Matched keyword 'gardens'.
+- Dover Heights — Matched keyword 'heights'.
+- Duxton Hill — Matched keyword 'hill'.
+- East Bay Gardens — Matched keyword 'bay'.
+- East Coast Park Allotment Gardens — Matched keyword 'park'.
+- East Coast Park Service Road — Matched keyword 'park'.
+- Eber Gardens — Matched keyword 'gardens'.
+- Elite Park Avenue — Matched keyword 'park'.
+- Elizabeth Heights — Matched keyword 'heights'.
+- Emerald Hill — Matched keyword 'hill'.
+- Emerald Hill Road — Matched keyword 'hill'.
+- Equity Heights — Matched keyword 'heights'.
+- Estella Gardens — Matched keyword 'gardens'.
+- Euphony Gardens — Matched keyword 'gardens'.
+- Evergreen Gardens — Matched keyword 'gardens'.
+- Evolution Garden Walk — Matched keyword 'garden'.
+- Faber Heights — Matched keyword 'heights'.
+- Far Horizon Gardens — Matched keyword 'gardens'.
+- Farrer Gardens — Matched keyword 'gardens'.
+- Farrer Park Gardens — Matched keyword 'park'.
+- Farrer Park Road — Matched keyword 'park'.
+- Fernvale Gardens — Matched keyword 'gardens'.
+- Figaro Gardens — Matched keyword 'gardens'.
+- Finland Gardens — Matched keyword 'gardens'.
+- Fontana Heights — Matched keyword 'heights'.
+- Forest Drive — Matched keyword 'forest'.
+- Forest Hill Crescent — Matched keyword 'forest'.
+- Forest Walk — Matched keyword 'forest'.
+- Forfar Heights — Matched keyword 'heights'.
+- Fort Gardens — Matched keyword 'gardens'.
+- Fragrant Gardens — Matched keyword 'gardens'.
+- Gallop Gardens — Matched keyword 'gardens'.
+- Gallop Park Road — Matched keyword 'park'.
+- Gambir Gardens — Matched keyword 'gardens'.
+- Garden Farmway — Matched keyword 'garden'.
+- Garden Hill — Matched keyword 'garden'.
+- Garden Link — Matched keyword 'garden'.
+- Garden Service Road — Matched keyword 'garden'.
+- Garden Street — Matched keyword 'garden'.
+- Gerald Gardens — Matched keyword 'gardens'.
+- Gillman Heights — Matched keyword 'heights'.
+- Goldleaf Gardens — Matched keyword 'gardens'.
+- Gombak Gardens — Matched keyword 'gardens'.
+- Goodview Gardens — Matched keyword 'gardens'.
+- Goodwood Gardens — Matched keyword 'gardens'.
+- Goodwood Hill — Matched keyword 'hill'.
+- Grange Heights — Matched keyword 'heights'.
+- Green Gardens — Matched keyword 'green'.
+- Green Lane — Matched keyword 'green'.
+- Grove Avenue — Matched keyword 'grove'.
+- Grove Crescent — Matched keyword 'grove'.
+- Grove Drive — Matched keyword 'grove'.
+- Grove Lane — Matched keyword 'grove'.
+- Hampstead Gardens — Matched keyword 'gardens'.
+- Havelock Heights — Matched keyword 'heights'.
+- Hazel Park Terrace — Matched keyword 'park'.
+- Hill — Matched keyword 'hill'.
+- Hill Street — Matched keyword 'hill'.
+- Hillgrove Gardens — Matched keyword 'gardens'.
+- Hillview Heights — Matched keyword 'heights'.
+- Hock Swee Hill — Matched keyword 'hill'.
+- Holland Grove Avenue — Matched keyword 'grove'.
+- Holland Grove Drive — Matched keyword 'grove'.
+- Holland Grove Lane — Matched keyword 'grove'.
+- Holland Grove Road — Matched keyword 'grove'.
+- Holland Grove Terrace — Matched keyword 'grove'.
+- Holland Grove Walk — Matched keyword 'grove'.
+- Holland Heights — Matched keyword 'heights'.
+- Holland Hill — Matched keyword 'hill'.
+- Horizon Gardens — Matched keyword 'gardens'.
+- Hougang Heights — Matched keyword 'heights'.
+- Hua Guan Gardens — Matched keyword 'gardens'.
+- Hua Mei Gardens — Matched keyword 'gardens'.
+- Institution Hill — Matched keyword 'hill'.
+- Irwell Hill — Matched keyword 'hill'.
+- Island Club Road — Matched keyword 'island'.
+- Island Gardens Walk — Matched keyword 'island'.
+- Ivory Heights — Matched keyword 'heights'.
+- Jalan Awang Interim Park — Matched keyword 'park'.
+- Jalan Bahagia Community Garden — Matched keyword 'garden'.
+- Jalan Bahar Heavy Vehicle Park — Matched keyword 'park'.
+- Jalan Batu Park — Matched keyword 'park'.
+- Jalan Daud Interim Park — Matched keyword 'park'.
+- Jalan Daud Park — Matched keyword 'park'.
+- Jalan Eunos Interim Park — Matched keyword 'park'.
+- Jalan Ismail Park — Matched keyword 'park'.
+- Jalan Kayu Interim Park — Matched keyword 'park'.
+- Jalan Kemuning Park — Matched keyword 'park'.
+- Jalan Pari Burong Park — Matched keyword 'park'.
+- Jalan Pari Dedap Park — Matched keyword 'park'.
+- Jalan Pelikat Park Connector — Matched keyword 'park'.
+- Jalan Pintau Neighbourhood Park — Matched keyword 'park'.
+- Jalan Rasok Park — Matched keyword 'park'.
+- Jalan Remaja Interim Park — Matched keyword 'park'.
+- Jalan Riang Park — Matched keyword 'park'.
+- Jalan Selaseh Park — Matched keyword 'park'.
+- Jalan Sembilang Park — Matched keyword 'park'.
+- Jalan Senang Park — Matched keyword 'park'.
+- Jalan Sendudok Park — Matched keyword 'park'.
+- Jalan Singa Park — Matched keyword 'park'.
+- Janggus Gardens — Matched keyword 'gardens'.
+- Japanese Garden Road — Matched keyword 'garden'.
+- Jedburgh Gardens — Matched keyword 'gardens'.
+- Jervois Hill — Matched keyword 'hill'.
+- Joo Seng Heights — Matched keyword 'heights'.
+- Juniper Hill — Matched keyword 'hill'.
+- Jurong Hill — Matched keyword 'hill'.
+- Jurong Lake Link — Matched keyword 'lake'.
+- Kallang Heights — Matched keyword 'heights'.
+- Kandis Gardens — Matched keyword 'gardens'.
+- Kebun Baru Heights — Matched keyword 'heights'.
+- Kelulut Hill — Matched keyword 'hill'.
+- Kembangan Gardens — Matched keyword 'gardens'.
+- Kensington Park Drive — Matched keyword 'park'.
+- Kensington Park Road — Matched keyword 'park'.
+- Kent Heights — Matched keyword 'heights'.
+- Kent Ridge Crescent — Matched keyword 'ridge'.
+- Kent Ridge Drive — Matched keyword 'ridge'.
+- Kent Ridge Road — Matched keyword 'ridge'.
+- Keppel Bay Drive — Matched keyword 'bay'.
+- Keppel Hill — Matched keyword 'hill'.
+- Kew Heights — Matched keyword 'heights'.
+- Khatib Gardens — Matched keyword 'gardens'.
+- Kim Keat Gardens — Matched keyword 'gardens'.
+- Kim Keat Heights — Matched keyword 'heights'.
+- King George'S Heights — Matched keyword 'heights'.
+- Kinloss At Lady Hill Road — Matched keyword 'hill'.
+- Kreta Ayer Heights — Matched keyword 'heights'.
+- Lady Hill Road — Matched keyword 'hill'.
+- Lavender Gardens — Matched keyword 'gardens'.
+- Leedon Heights — Matched keyword 'heights'.
+- Lengkok Bahru Heights — Matched keyword 'heights'.
+- Lentor Gardens — Matched keyword 'gardens'.
+- Leonie Gardens — Matched keyword 'gardens'.
+- Leonie Hill — Matched keyword 'hill'.
+- Leonie Hill Road — Matched keyword 'hill'.
+- Leshan Gardens — Matched keyword 'gardens'.
+- Lew Lian Gardens — Matched keyword 'gardens'.
+- Leyden Hill — Matched keyword 'hill'.
+- Lorong Banir Forest — Matched keyword 'forest'.
+- Lorong Halus Park Connector — Matched keyword 'park'.
+- Lorong Marican Interim Park — Matched keyword 'park'.
+- Lorong Mazuki Interim Park — Matched keyword 'park'.
+- Lorong Melayu Interim Park — Matched keyword 'park'.
+- Lorong Melayu Park — Matched keyword 'park'.
+- Lorong Mydin Interim Park — Matched keyword 'park'.
+- Lorong Ong Lye Park — Matched keyword 'park'.
+- Lorong Sarina Interim Park — Matched keyword 'park'.
+- Lorong Tanggam Park — Matched keyword 'park'.
+- Lower Kent Ridge Road — Matched keyword 'ridge'.
+- Lower Palm Valley Road — Matched keyword 'palm'.
+- Loyang Gardens — Matched keyword 'gardens'.
+- Lucky Gardens — Matched keyword 'gardens'.
+- Lucky Heights — Matched keyword 'heights'.
+- Lush On Holland Hill — Matched keyword 'hill'.
+- Luxus Hill Avenue — Matched keyword 'hill'.
+- Luxus Hill Drive — Matched keyword 'hill'.
+- Luxus Hill Heights — Matched keyword 'hill'.
+- Luxus Hill Road — Matched keyword 'hill'.
+- Mandai Lake Road — Matched keyword 'lake'.
+- Mandale Heights — Matched keyword 'heights'.
+- Mandarin Gardens — Matched keyword 'gardens'.
+- Marina Gardens Crescent — Matched keyword 'gardens'.
+- Marina Gardens Drive — Matched keyword 'gardens'.
+- Marina Gardens Lane — Matched keyword 'gardens'.
+- Marina Gardens Walk — Matched keyword 'gardens'.
+- Marine Crescent Gardens — Matched keyword 'gardens'.
+- Marine Drive Gardens — Matched keyword 'gardens'.
+- Marsiling Gardens — Matched keyword 'gardens'.
+- Marsiling Heights — Matched keyword 'heights'.
+- Mayfair Gardens — Matched keyword 'gardens'.
+- Mcnair Heights — Matched keyword 'heights'.
+- Mei Ling Heights — Matched keyword 'heights'.
+- Merah Heights — Matched keyword 'heights'.
+- Mimosa Gardens — Matched keyword 'gardens'.
+- Monk'S Hill Road — Matched keyword 'hill'.
+- Monk'S Hill Terrace — Matched keyword 'hill'.
+- Morimasa Gardens — Matched keyword 'gardens'.
+- Mount Elizabeth Link — Matched keyword 'mount'.
+- Mount Emily Road — Matched keyword 'mount'.
+- Mount Faber Loop — Matched keyword 'mount'.
+- Mount Faber Road — Matched keyword 'mount'.
+- Mount Pleasant Avenue — Matched keyword 'mount'.
+- Mount Pleasant Drive — Matched keyword 'mount'.
+- Mount Pleasant Road — Matched keyword 'mount'.
+- Mount Road — Matched keyword 'mount'.
+- Mount Rosie Road — Matched keyword 'mount'.
+- Mount Rosie Terrace — Matched keyword 'mount'.
+- Mount Sinai Avenue — Matched keyword 'mount'.
+- Mount Sinai Crescent — Matched keyword 'mount'.
+- Mount Sinai Drive — Matched keyword 'mount'.
+- Mount Sinai Lane — Matched keyword 'mount'.
+- Mount Sinai Rise — Matched keyword 'mount'.
+- Mount Sinai Road — Matched keyword 'mount'.
+- Mount Sinai Walk — Matched keyword 'mount'.
+- Mount Vernon Lane — Matched keyword 'mount'.
+- Mount Vernon Road — Matched keyword 'mount'.
+- Mugliston Gardens — Matched keyword 'gardens'.
+- Mugliston Hill — Matched keyword 'hill'.
+- Muswell Hill — Matched keyword 'hill'.
+- Namly Hill — Matched keyword 'hill'.
+- Nanyang Heights — Matched keyword 'heights'.
+- Nanyang Hill — Matched keyword 'hill'.
+- Nassim Hill — Matched keyword 'hill'.
+- Nepal Hill — Matched keyword 'hill'.
+- Nicon Gardens — Matched keyword 'gardens'.
+- Nim Gardens — Matched keyword 'gardens'.
+- Novena Gardens — Matched keyword 'gardens'.
+- Novena Hill — Matched keyword 'hill'.
+- Nus Hill — Matched keyword 'hill'.
+- Oak Avenue — Matched keyword 'oak'.
+- One Marina Gardens — Matched keyword 'gardens'.
+- One Tree Hill — Matched keyword 'hill'.
+- Orange Grove Road — Matched keyword 'grove'.
+- Orchard Boulevard — Matched keyword 'orchard'.
+- Orchard Central — Matched keyword 'orchard'.
+- Orchard Link — Matched keyword 'orchard'.
+- Orchard Road — Matched keyword 'orchard'.
+- Orchard Spring Lane — Matched keyword 'orchard'.
+- Outram Hill — Matched keyword 'hill'.
+- Palawan Beach Walk — Matched keyword 'beach'.
+- Palm Avenue — Matched keyword 'palm'.
+- Palm Drive — Matched keyword 'palm'.
+- Palm Gardens — Matched keyword 'palm'.
+- Palm Grove Avenue — Matched keyword 'palm'.
+- Palm Oasis Entrance Road — Matched keyword 'palm'.
+- Palm Road — Matched keyword 'palm'.
+- Pandan Gardens — Matched keyword 'gardens'.
+- Parbury Hill — Matched keyword 'hill'.
+- Park Central — Matched keyword 'park'.
+- Park Crescent — Matched keyword 'park'.
+- Park Lane — Matched keyword 'park'.
+- Park Street — Matched keyword 'park'.
+- Park Villas Rise — Matched keyword 'park'.
+- Park Villas Terrace — Matched keyword 'park'.
+- Parkroyal On Beach Road — Matched keyword 'beach'.
+- Pasir Panjang Hill — Matched keyword 'hill'.
+- Pasir Ris Heights — Matched keyword 'heights'.
+- Paterson Hill — Matched keyword 'hill'.
+- Pearl'S Hill Road — Matched keyword 'hill'.
+- Pearl'S Hill Terrace — Matched keyword 'hill'.
+- Peirce Hill — Matched keyword 'hill'.
+- Pine Close — Matched keyword 'pine'.
+- Pine Lane — Matched keyword 'pine'.
+- Pine Walk — Matched keyword 'pine'.
+- Pinetree Hill — Matched keyword 'hill'.
+- Pinewood Gardens — Matched keyword 'gardens'.
+- Ping Yi Gardens — Matched keyword 'gardens'.
+- Ping-An Gardens — Matched keyword 'gardens'.
+- Prestige Heights — Matched keyword 'heights'.
+- Pristine Heights — Matched keyword 'heights'.
+- Pullman Singapore Hill Street — Matched keyword 'hill'.
+- Punggol Gardens — Matched keyword 'gardens'.
+- Queen Astrid Gardens — Matched keyword 'gardens'.
+- Regent Heights — Matched keyword 'heights'.
+- Rio Gardens — Matched keyword 'gardens'.
+- River Valley Close — Matched keyword 'river'.
+- River Valley Road — Matched keyword 'river'.
+- Riveria Gardens — Matched keyword 'gardens'.
+- Rivervale Gardens — Matched keyword 'gardens'.
+- Rocky Hill Road — Matched keyword 'hill'.
+- Saraca Gardens — Matched keyword 'gardens'.
+- Saraca Hill — Matched keyword 'hill'.
+- Sarkies Gardens — Matched keyword 'gardens'.
+- Scenic Heights — Matched keyword 'heights'.
+- Science Park Drive — Matched keyword 'park'.
+- Science Park Road — Matched keyword 'park'.
+- Segar Gardens — Matched keyword 'gardens'.
+- Selarang Park Road — Matched keyword 'park'.
+- Seletar Aerospace Heights — Matched keyword 'heights'.
+- Seletar Green Avenue — Matched keyword 'green'.
+- Seletar Green Walk — Matched keyword 'green'.
+- Senja Heights — Matched keyword 'heights'.
+- Serangoon Garden Close — Matched keyword 'garden'.
+- Serangoon Garden Drive — Matched keyword 'garden'.
+- Serangoon Garden Rise — Matched keyword 'garden'.
+- Serangoon Garden Terrace — Matched keyword 'garden'.
+- Serangoon Garden Way — Matched keyword 'garden'.
+- Serangoon Gardens — Matched keyword 'gardens'.
+- Serangoon River Close — Matched keyword 'river'.
+- Serangoon River Lane — Matched keyword 'river'.
+- Serangoon River Road — Matched keyword 'river'.
+- Serapong Hill Road — Matched keyword 'hill'.
+- Shunfu Gardens — Matched keyword 'gardens'.
+- Siglap Gardens — Matched keyword 'gardens'.
+- Siglap Hill — Matched keyword 'hill'.
+- Siloso Beach Walk — Matched keyword 'beach'.
+- Sime Park Hill — Matched keyword 'park'.
+- Singapore Botanic Gardens — Matched keyword 'gardens'.
+- Soo Chow Garden Road — Matched keyword 'garden'.
+- South Beach Avenue — Matched keyword 'beach'.
+- Spottiswoode Park Road — Matched keyword 'park'.
+- Springleaf Heights — Matched keyword 'heights'.
+- Sundridge Park Road — Matched keyword 'park'.
+- Sunrise Gardens — Matched keyword 'gardens'.
+- Sunset Heights — Matched keyword 'heights'.
+- Sunshine Gardens — Matched keyword 'gardens'.
+- Sunstone Hill — Matched keyword 'hill'.
+- Swan Lake Avenue — Matched keyword 'lake'.
+- Symphony Heights — Matched keyword 'heights'.
+- Tai Hwan Heights — Matched keyword 'heights'.
+- Tai Ken Gardens — Matched keyword 'gardens'.
+- Tai Keng Gardens — Matched keyword 'gardens'.
+- Tai Yuan Heights — Matched keyword 'heights'.
+- Tanglin Hill — Matched keyword 'hill'.
+- Tanjong Beach Walk — Matched keyword 'beach'.
+- Teban Gardens — Matched keyword 'gardens'.
+- Teban Gardens Crescent — Matched keyword 'gardens'.
+- Teban Gardens Road — Matched keyword 'gardens'.
+- Teban Heights — Matched keyword 'heights'.
+- Tech Park Crescent — Matched keyword 'park'.
+- Teck Chye Gardens — Matched keyword 'gardens'.
+- Teck Whye Gardens — Matched keyword 'gardens'.
+- Teck Whye Heights — Matched keyword 'heights'.
+- Telok Blangah Heights — Matched keyword 'heights'.
+- Tengah Garden Avenue — Matched keyword 'garden'.
+- Tengah Garden Walk — Matched keyword 'garden'.
+- Tengah Park Avenue — Matched keyword 'park'.
+- Tengah Park Walk — Matched keyword 'park'.
+- Terra Hill — Matched keyword 'hill'.
+- The Hill — Matched keyword 'hill'.
+- The Tropic Gardens — Matched keyword 'gardens'.
+- Thomson Heights — Matched keyword 'heights'.
+- Thomson Hill — Matched keyword 'hill'.
+- Toh Heights — Matched keyword 'heights'.
+- Toh Yi Gardens — Matched keyword 'gardens'.
+- Tomlinson Heights — Matched keyword 'heights'.
+- Tong Gardens — Matched keyword 'gardens'.
+- Towner Heights — Matched keyword 'heights'.
+- Tuas Bay Close — Matched keyword 'bay'.
+- Tuas Bay Drive — Matched keyword 'bay'.
+- Tuas Bay Lane — Matched keyword 'bay'.
+- Tuas Bay Link — Matched keyword 'bay'.
+- Tuas Bay Walk — Matched keyword 'bay'.
+- Twin Heights — Matched keyword 'heights'.
+- Upper Palm Valley Road — Matched keyword 'palm'.
+- Upperhouse At Orchard Boulevard — Matched keyword 'orchard'.
+- Valley Road — Matched keyword 'valley'.
+- Victoria Park Close — Matched keyword 'park'.
+- Victoria Park Road — Matched keyword 'park'.
+- Victory Heights — Matched keyword 'heights'.
+- Waterfall Gardens — Matched keyword 'gardens'.
+- Watten Heights — Matched keyword 'heights'.
+- West Sea Gardens — Matched keyword 'gardens'.
+- Westview Gardens — Matched keyword 'gardens'.
+- Whampoa Gardens — Matched keyword 'gardens'.
+- Whampoa Heights — Matched keyword 'heights'.
+- Wilton Gardens — Matched keyword 'gardens'.
+- Windsor Park Hill — Matched keyword 'park'.
+- Windsor Park Road — Matched keyword 'park'.
+- Windy Heights — Matched keyword 'heights'.
+- Yarrow Gardens — Matched keyword 'gardens'.
+- Yio Chu Kang Gardens — Matched keyword 'gardens'.
+- Yio Chu Kang Heights — Matched keyword 'heights'.
+- Yishun Green Link — Matched keyword 'green'.
+- York Hill — Matched keyword 'hill'.
+- Yotel Singapore Orchard Road — Matched keyword 'orchard'.
+- Yunnan Gardens — Matched keyword 'gardens'.
 
-## 5. Occupational
-- **Trades & Professions**
-  - Bakery Street
-  - Carpenter Street
-  - Mechanic Lane
-  - Smith Street
-  - Ann Siang Hill (market street)
-  - Everton Road ("Everton" means "ever ready")
-  - Neil Road (Daniel McAlister Neil, Scottish merchant)
+## International/Foreign References (countries, cities, foreign leaders)
+- Arab Street — Matched keyword 'arab'.
+- Canada Road — Matched keyword 'canada'.
+- China Square — Matched keyword 'china'.
+- China Street — Matched keyword 'china'.
+- London Road — Matched keyword 'london'.
+- Malaysia–Singapore Second Link — Matched keyword 'malaysia'.
 
-## 6. Descriptive
-- **Colors**
-  - Redhill Close
-  - Greenridge Crescent
-  - Bluebell Close
-  - Vermilion Road
-- **Directions**
-  - Upper Thomson Road
-  - East Coast Parkway
-  - West Coast Highway
-- **Shapes & Numbers**
-  - Circle Line
-  - Oval Estate Road
-  - Chai Chee Lane (honey bee)
-  - Thong Hup Gardens (sugar cane)
+## Historical Themes (colonial figures, local leaders, royalty)
+- Duke'S Road — Matched keyword 'duke'.
+- Jalan Raja Udang — Matched keyword 'raja'.
+- Jalan Sultan — Matched keyword 'sultan'.
+- King George'S Avenue — Matched keyword 'king'.
+- King'S Avenue — Matched keyword 'king'.
+- King'S Close — Matched keyword 'king'.
+- King'S Drive — Matched keyword 'king'.
+- King'S Road — Matched keyword 'king'.
+- King'S Walk — Matched keyword 'king'.
+- Lorong Pisang Raja — Matched keyword 'raja'.
+- Mohamed Sultan Road — Matched keyword 'sultan'.
+- Prince Charles Crescent — Matched keyword 'prince'.
+- Prince Edward Drive — Matched keyword 'prince'.
+- Prince Edward Link — Matched keyword 'prince'.
+- Prince Edward Road — Matched keyword 'prince'.
+- Prince Of Wales Road — Matched keyword 'prince'.
+- Prince Philip Avenue — Matched keyword 'prince'.
+- Prince Road — Matched keyword 'prince'.
+- Princess Anne Close — Matched keyword 'princess'.
+- Princess Mary Walk — Matched keyword 'princess'.
+- Princess Of Wales Road — Matched keyword 'princess'.
+- Princess Street — Matched keyword 'princess'.
+- Queen Elizabeth Walk — Matched keyword 'queen'.
+- Queen Street — Matched keyword 'queen'.
+- Queen'S Avenue — Matched keyword 'queen'.
+- Queen'S Close — Matched keyword 'queen'.
+- Queen'S Crescent — Matched keyword 'queen'.
+- Queen'S Road — Matched keyword 'queen'.
+- Sultan-Link — Matched keyword 'sultan'.
 
-## 7. Modern Development
-- **Transportation Hubs & Expressways**
-  - Marina Bay MRT Station
-  - Tampines West MRT Station
-  - Ayer Rajah Expressway (AYE)
-  - Bukit Timah Expressway (BKE)
-  - Central Expressway (CTE)
-  - East Coast Parkway (ECP)
-  - Kallang-Paya Lebar Expressway (KPE)
-  - Pan Island Expressway (PIE)
-  - Tampines Expressway (TPE)
-- **New Towns & Housing Estates**
-  - Bishan Street 11-23
-  - Choa Chu Kang Avenue 4-6
-  - Jurong West Street 13-75
-  - Punggol Way
-  - Sengkang East Way
-- **Residential Estates & Condominiums**
-  - The Interlace
-  - The Trilinq
-  - D'Leedon
-- **Business Parks & Industrial Areas**
-  - Fusionopolis Way
-  - Seletar Aerospace Park Drive
+## Modern Development (HDB-era names, planning themes, new towns)
+- Amk Tech Link — Matched keyword 'tech'.
+- Biopolis Drive — Matched keyword 'biopolis'.
+- Biopolis Link — Matched keyword 'biopolis'.
+- Biopolis Road — Matched keyword 'biopolis'.
+- Biopolis Street — Matched keyword 'biopolis'.
+- Biopolis Way — Matched keyword 'biopolis'.
+- Business Link — Matched keyword 'business'.
+- Enterprise Road — Matched keyword 'enterprise'.
+- Fusionopolis Link — Matched keyword 'fusionopolis'.
+- Fusionopolis Walk — Matched keyword 'fusionopolis'.
+- Fusionopolis Way — Matched keyword 'fusionopolis'.
+- Kaki Bukit Industrial Terrace — Matched keyword 'industrial'.
+- New Industrial Road — Matched keyword 'industrial'.
+- One-North Avenue — Matched keyword 'one-north'.
+- One-North Crescent — Matched keyword 'one-north'.
+- One-North Link — Matched keyword 'one-north'.
+- Tagore Industrial Avenue — Matched keyword 'industrial'.
+- Tampines Industrial Crescent — Matched keyword 'industrial'.
+- Tampines Industrial Drive — Matched keyword 'industrial'.
+- Tukang Innovation Drive — Matched keyword 'innovation'.
+
+## Residential/Community Themes (virtues, values, neighbourhood concepts)
+- Changi Village Coastal Walk — Matched keyword 'village'.
+- Changi Village Road — Matched keyword 'village'.
+- Community Yoga Square — Matched keyword 'community'.
+- Estate Office Drive — Matched keyword 'estate'.
+- Holland Village Way — Matched keyword 'village'.
+- Jalan Besar Community Club — Matched keyword 'community'.
+- Punggol West Community Square — Matched keyword 'community'.
+- Sommerville Estate Road — Matched keyword 'estate'.
+- Watten Estate Road — Matched keyword 'estate'.
+- Wessex Village Square — Matched keyword 'village'.
+
+## Descriptive (colors, shapes, directions, adjectives)
+- Alexandra Central — Matched keyword 'central'.
+- Asia Square — Matched keyword 'square'.
+- Bedok Central — Matched keyword 'central'.
+- Bedok North Drive — Matched keyword 'north'.
+- Bedok North Road — Matched keyword 'north'.
+- Bedok South Road — Matched keyword 'south'.
+- Buangkok East Drive — Matched keyword 'east'.
+- Buangkok Square — Matched keyword 'square'.
+- Bukit Batok Central — Matched keyword 'central'.
+- Bukit Batok Central Link — Matched keyword 'central'.
+- Bukit Merah Central — Matched keyword 'central'.
+- Bulim Square — Matched keyword 'square'.
+- Burlington Square — Matched keyword 'square'.
+- Canninghill Square — Matched keyword 'square'.
+- Central Boulevard — Matched keyword 'central'.
+- Central Link — Matched keyword 'central'.
+- Central Square — Matched keyword 'central'.
+- Centrium Square — Matched keyword 'square'.
+- Century Square — Matched keyword 'square'.
+- Certis Central — Matched keyword 'central'.
+- Changi East Close — Matched keyword 'east'.
+- Changi North Crescent — Matched keyword 'north'.
+- Changi North Rise — Matched keyword 'north'.
+- Changi North Way — Matched keyword 'north'.
+- Changi South Lane — Matched keyword 'south'.
+- Choa Chu Kang Central — Matched keyword 'central'.
+- Clarke Quay Central — Matched keyword 'central'.
+- Clifford Square — Matched keyword 'square'.
+- East Coast Avenue — Matched keyword 'east'.
+- East Coast Drive — Matched keyword 'east'.
+- East Coast Parkway — Matched keyword 'east'.
+- East Coast Road — Matched keyword 'east'.
+- East Coast Terrace — Matched keyword 'east'.
+- East Perimeter Road — Matched keyword 'east'.
+- East Sussex Lane — Matched keyword 'east'.
+- Ellington Square — Matched keyword 'square'.
+- Energy Square — Matched keyword 'square'.
+- Event Square — Matched keyword 'square'.
+- Executive Central — Matched keyword 'central'.
+- Far East Square — Matched keyword 'east'.
+- Farrer Square — Matched keyword 'square'.
+- Flanders Square — Matched keyword 'square'.
+- Fort Siloso Square — Matched keyword 'square'.
+- Fullerton Square — Matched keyword 'square'.
+- Geylang East Central — Matched keyword 'east'.
+- Golden Drive — Matched keyword 'golden'.
+- Golden Rise — Matched keyword 'golden'.
+- Golden Walk — Matched keyword 'golden'.
+- Graham White Drive — Matched keyword 'white'.
+- Grandlink Square — Matched keyword 'square'.
+- Guoco Midtown Square — Matched keyword 'square'.
+- Happy Avenue Central — Matched keyword 'central'.
+- Happy Avenue East — Matched keyword 'east'.
+- Happy Avenue North — Matched keyword 'north'.
+- Happy Avenue West — Matched keyword 'west'.
+- Havelock Square — Matched keyword 'square'.
+- Hougang Central — Matched keyword 'central'.
+- Ite College Central — Matched keyword 'central'.
+- Jalan Batalong East — Matched keyword 'east'.
+- Jubilee Square — Matched keyword 'square'.
+- Jurong Central — Matched keyword 'central'.
+- Jurong East Central — Matched keyword 'east'.
+- Katong Square — Matched keyword 'square'.
+- Kensington Square — Matched keyword 'square'.
+- Keppel South Central — Matched keyword 'south'.
+- Khatib Central — Matched keyword 'central'.
+- Kopitiam Square — Matched keyword 'square'.
+- Kreta Ayer Square — Matched keyword 'square'.
+- Ladang Parade Square — Matched keyword 'square'.
+- Leaders Square — Matched keyword 'square'.
+- Lentor Central — Matched keyword 'central'.
+- Lower Delta Road — Matched keyword 'lower'.
+- Lower Heliconia Drive — Matched keyword 'lower'.
+- Lower Kingfisher Road — Matched keyword 'lower'.
+- Lower Pasir Merah Road — Matched keyword 'lower'.
+- Lower Ring Road — Matched keyword 'lower'.
+- Lower Road — Matched keyword 'lower'.
+- Lower Seletar Close — Matched keyword 'lower'.
+- Loyang North Drive — Matched keyword 'north'.
+- Marina East Drive — Matched keyword 'east'.
+- Marina South Avenue — Matched keyword 'south'.
+- Marina South Drive — Matched keyword 'south'.
+- Marina Square — Matched keyword 'square'.
+- Marine Parade Central — Matched keyword 'central'.
+- Maritime Square — Matched keyword 'square'.
+- Mountbatten Square — Matched keyword 'square'.
+- New Loyang Link — Matched keyword 'new'.
+- New Market Road — Matched keyword 'new'.
+- New Punggol Road — Matched keyword 'new'.
+- New Upper Changi Road — Matched keyword 'new'.
+- North Buona Vista Drive — Matched keyword 'north'.
+- North Buona Vista Link — Matched keyword 'north'.
+- North Buona Vista Road — Matched keyword 'north'.
+- North Canal Road — Matched keyword 'north'.
+- North Coast Avenue — Matched keyword 'north'.
+- North Coast Crescent — Matched keyword 'north'.
+- North Coast Drive — Matched keyword 'north'.
+- North Perimeter Road — Matched keyword 'north'.
+- North Road — Matched keyword 'north'.
+- North Woodlands Drive — Matched keyword 'north'.
+- Ns Square — Matched keyword 'square'.
+- Ocbc Square — Matched keyword 'square'.
+- Old Birdcage Walk — Matched keyword 'old'.
+- Old Choa Chu Kang Road — Matched keyword 'old'.
+- Old Dairy Farm Road — Matched keyword 'old'.
+- Old Holland Road — Matched keyword 'old'.
+- Old Jurong Road — Matched keyword 'old'.
+- Old Lim Chu Kang Road — Matched keyword 'old'.
+- Old Middle Road — Matched keyword 'old'.
+- Old Nelson Road — Matched keyword 'old'.
+- Old Parliament Lane — Matched keyword 'old'.
+- Old Police Academy Road — Matched keyword 'old'.
+- Old Sarum Road — Matched keyword 'old'.
+- Old Tampines Road — Matched keyword 'old'.
+- Old Toh Tuck Road — Matched keyword 'old'.
+- Old Upper Thomson Road — Matched keyword 'old'.
+- Old Yio Chu Kang Road — Matched keyword 'old'.
+- Open Square — Matched keyword 'square'.
+- Parade Square — Matched keyword 'square'.
+- Parkview Square — Matched keyword 'square'.
+- Pasir Ris Central — Matched keyword 'central'.
+- Paya Lebar Square — Matched keyword 'square'.
+- Punggol Central — Matched keyword 'central'.
+- Punggol East — Matched keyword 'east'.
+- Punggol North Avenue — Matched keyword 'north'.
+- Punggol Primary School Parade Square — Matched keyword 'square'.
+- Punggol Town Square — Matched keyword 'square'.
+- Raffles Education Square — Matched keyword 'square'.
+- Raffles Square — Matched keyword 'square'.
+- Robinson Square — Matched keyword 'square'.
+- Roxy Square — Matched keyword 'square'.
+- Sceneca Square — Matched keyword 'square'.
+- Scotts Square — Matched keyword 'square'.
+- Selarang Square — Matched keyword 'square'.
+- Seletar North Link — Matched keyword 'north'.
+- Seletar South Link — Matched keyword 'south'.
+- Seletar West Link — Matched keyword 'west'.
+- Seletar West Walk — Matched keyword 'west'.
+- Sengkang Central — Matched keyword 'central'.
+- Sengkang East Avenue — Matched keyword 'east'.
+- Sengkang East Drive — Matched keyword 'east'.
+- Sengkang East Road — Matched keyword 'east'.
+- Sengkang East Way — Matched keyword 'east'.
+- Sengkang Square — Matched keyword 'square'.
+- Sengkang West Avenue — Matched keyword 'west'.
+- Sengkang West Drive — Matched keyword 'west'.
+- Sengkang West Road — Matched keyword 'west'.
+- Sengkang West Way — Matched keyword 'west'.
+- Senoko South Road — Matched keyword 'south'.
+- Serangoon Central — Matched keyword 'central'.
+- Serangoon Central Drive — Matched keyword 'central'.
+- Sim Lim Square — Matched keyword 'square'.
+- South Buona Vista Road — Matched keyword 'south'.
+- South Canal Road — Matched keyword 'south'.
+- South Perimeter Road — Matched keyword 'south'.
+- South Woodlands Drive — Matched keyword 'south'.
+- South Woodlands Way — Matched keyword 'south'.
+- Sungei Kadut Central — Matched keyword 'central'.
+- Sunset Square — Matched keyword 'square'.
+- Tampines Central Shopping Street — Matched keyword 'central'.
+- Teck Ghee Square — Matched keyword 'square'.
+- Tekong Parade Square — Matched keyword 'square'.
+- Ten Square — Matched keyword 'square'.
+- Tengah Central — Matched keyword 'central'.
+- The Suites At Central — Matched keyword 'central'.
+- Toa Payoh Central — Matched keyword 'central'.
+- Toa Payoh East — Matched keyword 'east'.
+- Toa Payoh North — Matched keyword 'north'.
+- Toa Payoh West — Matched keyword 'west'.
+- Tuas South Boulevard — Matched keyword 'south'.
+- Tuas South Drive — Matched keyword 'south'.
+- Tuas South Way — Matched keyword 'south'.
+- Tuas View Square — Matched keyword 'square'.
+- Tuas West Avenue — Matched keyword 'west'.
+- Tuas West Coast Road — Matched keyword 'west'.
+- Tuas West Drive — Matched keyword 'west'.
+- Tuas West Road — Matched keyword 'west'.
+- Tuas West Street — Matched keyword 'west'.
+- Ue Square — Matched keyword 'square'.
+- Union Square Central — Matched keyword 'square'.
+- United Square — Matched keyword 'square'.
+- Upper Aljunied Lane — Matched keyword 'upper'.
+- Upper Aljunied Link — Matched keyword 'upper'.
+- Upper Aljunied Road — Matched keyword 'upper'.
+- Upper Bedok Road — Matched keyword 'upper'.
+- Upper Boon Keng Road — Matched keyword 'upper'.
+- Upper Bukit Timah Road — Matched keyword 'upper'.
+- Upper Changi Link — Matched keyword 'upper'.
+- Upper Changi Road — Matched keyword 'upper'.
+- Upper Circular Road — Matched keyword 'upper'.
+- Upper Cross Street — Matched keyword 'upper'.
+- Upper Dickson Road — Matched keyword 'upper'.
+- Upper East Coast Road — Matched keyword 'upper'.
+- Upper Heliconia Drive — Matched keyword 'upper'.
+- Upper Hokien Street — Matched keyword 'upper'.
+- Upper Jurong Road — Matched keyword 'upper'.
+- Upper Neram Road — Matched keyword 'upper'.
+- Upper Pasir Merah Road — Matched keyword 'upper'.
+- Upper Paya Lebar Road — Matched keyword 'upper'.
+- Upper Pickering Street — Matched keyword 'upper'.
+- Upper Ring Road — Matched keyword 'upper'.
+- Upper Serangoon Crescent — Matched keyword 'upper'.
+- Upper Serangoon Road — Matched keyword 'upper'.
+- Upper Thomson Road — Matched keyword 'upper'.
+- Upper Toh Tuck Terrace — Matched keyword 'upper'.
+- Upper Weld Road — Matched keyword 'upper'.
+- Upper Wilkie Road — Matched keyword 'upper'.
+- West Camp Road — Matched keyword 'west'.
+- West Coast Avenue — Matched keyword 'west'.
+- West Coast Crescent — Matched keyword 'west'.
+- West Coast Drive — Matched keyword 'west'.
+- West Coast Lane — Matched keyword 'west'.
+- West Coast Link — Matched keyword 'west'.
+- West Coast Rise — Matched keyword 'west'.
+- West Coast Road — Matched keyword 'west'.
+- West Coast Terrace — Matched keyword 'west'.
+- West Coast Walk — Matched keyword 'west'.
+- West Coast Way — Matched keyword 'west'.
+- West Gate Road — Matched keyword 'west'.
+- West Perimeter Road — Matched keyword 'west'.
+- Whampoa East — Matched keyword 'east'.
+- Whampoa North — Matched keyword 'north'.
+- Whampoa South — Matched keyword 'south'.
+- Whampoa West — Matched keyword 'west'.
+- White House Road — Matched keyword 'white'.
+- Wilby Central — Matched keyword 'central'.
+- Woodlands North Coast Road — Matched keyword 'north'.
+- Woodlands North Link — Matched keyword 'north'.
+- Woodlands North Road — Matched keyword 'north'.
+- Woodlands Square — Matched keyword 'square'.
+- Woods Square — Matched keyword 'square'.
+- Yew Tee Square — Matched keyword 'square'.
+- Yishun Central — Matched keyword 'central'.
+- Yishun Central Service Road — Matched keyword 'central'.
+- Yishun Town Square — Matched keyword 'square'.
+
+## Linguistic Origin (Malay, English/British, Chinese, Tamil, etc.)
+- Abingdon Road — English street-type suffix 'road' is used.
+- Adam Drive — English street-type suffix 'drive' is used.
+- Adam Road — English street-type suffix 'road' is used.
+- Adis Road — English street-type suffix 'road' is used.
+- Admiralty Drive — English street-type suffix 'drive' is used.
+- Admiralty Lane — English street-type suffix 'lane' is used.
+- Admiralty Link — English street-type suffix 'link' is used.
+- Admiralty Road — English street-type suffix 'road' is used.
+- Admiralty Street — English street-type suffix 'street' is used.
+- Ah Hood Road — English street-type suffix 'road' is used.
+- Ah Soo Walk — English street-type suffix 'walk' is used.
+- Aida Street — English street-type suffix 'street' is used.
+- Airline Road — English street-type suffix 'road' is used.
+- Akyab Road — English street-type suffix 'road' is used.
+- Albert Street — English street-type suffix 'street' is used.
+- Albert Winsemius Lane — English street-type suffix 'lane' is used.
+- Alexandra Lane — English street-type suffix 'lane' is used.
+- Alexandra Road — English street-type suffix 'road' is used.
+- Alexandra Terrace — English street-type suffix 'terrace' is used.
+- Aliwal Street — English street-type suffix 'street' is used.
+- Aljunied Crescent — English street-type suffix 'crescent' is used.
+- Aljunied Road — English street-type suffix 'road' is used.
+- Aljunied Walk — English street-type suffix 'walk' is used.
+- Alkaff Crescent — English street-type suffix 'crescent' is used.
+- Allanbrooke Road — English street-type suffix 'road' is used.
+- Allenby Road — English street-type suffix 'road' is used.
+- Almond Avenue — English street-type suffix 'avenue' is used.
+- Almond Crescent — English street-type suffix 'crescent' is used.
+- Almond Street — English street-type suffix 'street' is used.
+- Alnwick Road — English street-type suffix 'road' is used.
+- Alps Avenue — English street-type suffix 'avenue' is used.
+- Ama Keng Road — English street-type suffix 'road' is used.
+- Amber Close — English street-type suffix 'close' is used.
+- Amber Road — English street-type suffix 'road' is used.
+- Amoy Street — English street-type suffix 'street' is used.
+- Anamalai Avenue — English street-type suffix 'avenue' is used.
+- Anchorvale Close — English street-type suffix 'close' is used.
+- Anchorvale Crescent — English street-type suffix 'crescent' is used.
+- Anchorvale Drive — English street-type suffix 'drive' is used.
+- Anchorvale Lane — English street-type suffix 'lane' is used.
+- Anchorvale Link — English street-type suffix 'link' is used.
+- Anchorvale Road — English street-type suffix 'road' is used.
+- Anchorvale Street — English street-type suffix 'street' is used.
+- Anchorvale Walk — English street-type suffix 'walk' is used.
+- Anderson Road — English street-type suffix 'road' is used.
+- Andover Road — English street-type suffix 'road' is used.
+- Andrew Road — English street-type suffix 'road' is used.
+- Andrews Avenue — English street-type suffix 'avenue' is used.
+- Andrews Terrace — English street-type suffix 'terrace' is used.
+- Ang Mo Kio Drive — English street-type suffix 'drive' is used.
+- Ang Mo Kio Rise — English street-type suffix 'rise' is used.
+- Angklong Lane — English street-type suffix 'lane' is used.
+- Angora Close — English street-type suffix 'close' is used.
+- Angsana Avenue — English street-type suffix 'avenue' is used.
+- Angsana Drive — English street-type suffix 'drive' is used.
+- Angsana Road — English street-type suffix 'road' is used.
+- Ann Siang Road — English street-type suffix 'road' is used.
+- Anson Road — English street-type suffix 'road' is used.
+- Anthony Road — English street-type suffix 'road' is used.
+- Arcadia Road — English street-type suffix 'road' is used.
+- Architecture Drive — English street-type suffix 'drive' is used.
+- Ark Lane — English street-type suffix 'lane' is used.
+- Armenian Street — English street-type suffix 'street' is used.
+- Arnasalam Chetty Road — English street-type suffix 'road' is used.
+- Aroozoo Avenue — English street-type suffix 'avenue' is used.
+- Aroozoo Lane — English street-type suffix 'lane' is used.
+- Arthur Road — English street-type suffix 'road' is used.
+- Artillery Avenue — English street-type suffix 'avenue' is used.
+- Arts Link — English street-type suffix 'link' is used.
+- Arumugam Road — English street-type suffix 'road' is used.
+- Arun Road — English street-type suffix 'road' is used.
+- Ascot Rise — English street-type suffix 'rise' is used.
+- Asimont Lane — English street-type suffix 'lane' is used.
+- Ava Road — English street-type suffix 'road' is used.
+- Aviation Drive — English street-type suffix 'drive' is used.
+- Avon Road — English street-type suffix 'road' is used.
+- Ayer Merbau Road — English street-type suffix 'road' is used.
+- Ayer Rajah Avenue — English street-type suffix 'avenue' is used.
+- Ayer Rajah Crescent — English street-type suffix 'crescent' is used.
+- Ayer Rajah Drive — English street-type suffix 'drive' is used.
+- Ayer Samak Crescent — English street-type suffix 'crescent' is used.
+- Baboo Lane — English street-type suffix 'lane' is used.
+- Baghdad Street — English street-type suffix 'street' is used.
+- Bah Soon Pah Close — English street-type suffix 'close' is used.
+- Bah Soon Pah Road — English street-type suffix 'road' is used.
+- Bain Street — English street-type suffix 'street' is used.
+- Balam Road — English street-type suffix 'road' is used.
+- Balestier Road — English street-type suffix 'road' is used.
+- Bali Lane — English street-type suffix 'lane' is used.
+- Balmoral Crescent — English street-type suffix 'crescent' is used.
+- Balmoral Road — English street-type suffix 'road' is used.
+- Ban San Street — English street-type suffix 'street' is used.
+- Banda Street — English street-type suffix 'street' is used.
+- Bangkit Road — English street-type suffix 'road' is used.
+- Banyan Avenue — English street-type suffix 'avenue' is used.
+- Banyan Drive — English street-type suffix 'drive' is used.
+- Banyan Road — English street-type suffix 'road' is used.
+- Barbary Walk — English street-type suffix 'walk' is used.
+- Barker Road — English street-type suffix 'road' is used.
+- Bartley Road — English street-type suffix 'road' is used.
+- Bartley Walk — English street-type suffix 'walk' is used.
+- Bassein Road — English street-type suffix 'road' is used.
+- Bath Road — English street-type suffix 'road' is used.
+- Battersea Road — English street-type suffix 'road' is used.
+- Battery Road — English street-type suffix 'road' is used.
+- Bayfront Avenue — English street-type suffix 'avenue' is used.
+- Bayfront Link — English street-type suffix 'link' is used.
+- Bayshore Avenue — English street-type suffix 'avenue' is used.
+- Bayshore Close — English street-type suffix 'close' is used.
+- Bayshore Drive — English street-type suffix 'drive' is used.
+- Bayshore Road — English street-type suffix 'road' is used.
+- Bayshore Street — English street-type suffix 'street' is used.
+- Bayshore Terrace — English street-type suffix 'terrace' is used.
+- Bayshore Walk — English street-type suffix 'walk' is used.
+- Bayswater Road — English street-type suffix 'road' is used.
+- Bbq Terrace — English street-type suffix 'terrace' is used.
+- Beatty Lane — English street-type suffix 'lane' is used.
+- Beatty Road — English street-type suffix 'road' is used.
+- Bedford Road — English street-type suffix 'road' is used.
+- Bedok Avenue — English street-type suffix 'avenue' is used.
+- Bedok Close — English street-type suffix 'close' is used.
+- Bedok Lane — English street-type suffix 'lane' is used.
+- Bedok Reservoir Crescent — English street-type suffix 'crescent' is used.
+- Bedok Reservoir Road — English street-type suffix 'road' is used.
+- Bedok Ria Crescent — English street-type suffix 'crescent' is used.
+- Bedok Ria Drive — English street-type suffix 'drive' is used.
+- Bedok Ria Terrace — English street-type suffix 'terrace' is used.
+- Bedok Ria Walk — English street-type suffix 'walk' is used.
+- Bedok Rise — English street-type suffix 'rise' is used.
+- Bedok Road — English street-type suffix 'road' is used.
+- Bedok Terrace — English street-type suffix 'terrace' is used.
+- Bedok Walk — English street-type suffix 'walk' is used.
+- Bee San Avenue — English street-type suffix 'avenue' is used.
+- Begonia Crescent — English street-type suffix 'crescent' is used.
+- Begonia Drive — English street-type suffix 'drive' is used.
+- Begonia Lane — English street-type suffix 'lane' is used.
+- Begonia Road — English street-type suffix 'road' is used.
+- Begonia Terrace — English street-type suffix 'terrace' is used.
+- Begonia Walk — English street-type suffix 'walk' is used.
+- Belgravia Drive — English street-type suffix 'drive' is used.
+- Belilios Lane — English street-type suffix 'lane' is used.
+- Belilios Road — English street-type suffix 'road' is used.
+- Belimbing Avenue — English street-type suffix 'avenue' is used.
+- Belmont Road — English street-type suffix 'road' is used.
+- Bencoolen Link — English street-type suffix 'link' is used.
+- Bencoolen Street — English street-type suffix 'street' is used.
+- Bendemeer Road — English street-type suffix 'road' is used.
+- Beng Wan Road — English street-type suffix 'road' is used.
+- Benoi Crescent — English street-type suffix 'crescent' is used.
+- Benoi Lane — English street-type suffix 'lane' is used.
+- Benoi Road — English street-type suffix 'road' is used.
+- Beo Crescent — English street-type suffix 'crescent' is used.
+- Berkshire Road — English street-type suffix 'road' is used.
+- Berlayar Close — English street-type suffix 'close' is used.
+- Berlayar Drive — English street-type suffix 'drive' is used.
+- Berlayar Street — English street-type suffix 'street' is used.
+- Bermuda Road — English street-type suffix 'road' is used.
+- Bernam Street — English street-type suffix 'street' is used.
+- Berrima Road — English street-type suffix 'road' is used.
+- Berwick Drive — English street-type suffix 'drive' is used.
+- Bhamo Road — English street-type suffix 'road' is used.
+- Bicester Road — English street-type suffix 'road' is used.
+- Bideford Road — English street-type suffix 'road' is used.
+- Bilal Lane — English street-type suffix 'lane' is used.
+- Binchang Rise — English street-type suffix 'rise' is used.
+- Binchang Walk — English street-type suffix 'walk' is used.
+- Binjai Rise — English street-type suffix 'rise' is used.
+- Binjai Walk — English street-type suffix 'walk' is used.
+- Birch Road — English street-type suffix 'road' is used.
+- Bird Cage Walk — English street-type suffix 'walk' is used.
+- Bishan Lane — English street-type suffix 'lane' is used.
+- Bishan Road — English street-type suffix 'road' is used.
+- Blackmore Drive — English street-type suffix 'drive' is used.
+- Blair Road — English street-type suffix 'road' is used.
+- Blandford Drive — English street-type suffix 'drive' is used.
+- Bloxhome Drive — English street-type suffix 'drive' is used.
+- Bluewhale Avenue — English street-type suffix 'avenue' is used.
+- Bo Seng Avenue — English street-type suffix 'avenue' is used.
+- Bodmin Drive — English street-type suffix 'drive' is used.
+- Bonham Street — English street-type suffix 'street' is used.
+- Boon  Tiong Road — English street-type suffix 'road' is used.
+- Boon Keng Road — English street-type suffix 'road' is used.
+- Boon Lay Avenue — English street-type suffix 'avenue' is used.
+- Boon Lay Drive — English street-type suffix 'drive' is used.
+- Boon Lay Way — English street-type suffix 'way' is used.
+- Boon Leat Terrace — English street-type suffix 'terrace' is used.
+- Boon Tat Link — English street-type suffix 'link' is used.
+- Boon Tat Street — English street-type suffix 'street' is used.
+- Boon Teck Road — English street-type suffix 'road' is used.
+- Boon Tiong Road — English street-type suffix 'road' is used.
+- Borthwick Drive — English street-type suffix 'drive' is used.
+- Boscombe Road — English street-type suffix 'road' is used.
+- Boundary Close — English street-type suffix 'close' is used.
+- Boundary Road — English street-type suffix 'road' is used.
+- Bournemouth Road — English street-type suffix 'road' is used.
+- Braddell Rise — English street-type suffix 'rise' is used.
+- Braddell Road — English street-type suffix 'road' is used.
+- Braemar Drive — English street-type suffix 'drive' is used.
+- Brani Avenue — English street-type suffix 'avenue' is used.
+- Brani Way — English street-type suffix 'way' is used.
+- Branksome Road — English street-type suffix 'road' is used.
+- Bras Basah Road — English street-type suffix 'road' is used.
+- Brickland Close — English street-type suffix 'close' is used.
+- Brickland Crescent — English street-type suffix 'crescent' is used.
+- Brickland Lane — English street-type suffix 'lane' is used.
+- Brickland Road — English street-type suffix 'road' is used.
+- Bridport Avenue — English street-type suffix 'avenue' is used.
+- Brighton Avenue — English street-type suffix 'avenue' is used.
+- Brighton Crescent — English street-type suffix 'crescent' is used.
+- Bristol Road — English street-type suffix 'road' is used.
+- Broadrick Close — English street-type suffix 'close' is used.
+- Broadrick Road — English street-type suffix 'road' is used.
+- Brockhampton Drive — English street-type suffix 'drive' is used.
+- Brompton Road — English street-type suffix 'road' is used.
+- Brooke Road — English street-type suffix 'road' is used.
+- Brookvale Drive — English street-type suffix 'drive' is used.
+- Brookvale Walk — English street-type suffix 'walk' is used.
+- Buangkok Crescent — English street-type suffix 'crescent' is used.
+- Buangkok Drive — English street-type suffix 'drive' is used.
+- Buangkok Link — English street-type suffix 'link' is used.
+- Buckley Classique Drop-Off Road — English street-type suffix 'road' is used.
+- Buckley Road — English street-type suffix 'road' is used.
+- Buffalo Road — English street-type suffix 'road' is used.
+- Bugis Street — English street-type suffix 'street' is used.
+- Bukit Arang Road — Malay marker 'bukit' appears in the name.
+- Bukit Batok Crescent — Malay marker 'bukit' appears in the name.
+- Bukit Batok Road — Malay marker 'bukit' appears in the name.
+- Bukit Chermin Road — Malay marker 'bukit' appears in the name.
+- Bukit Drive — Malay marker 'bukit' appears in the name.
+- Bukit Ho Swee Crescent — Malay marker 'bukit' appears in the name.
+- Bukit Ho Swee Link — Malay marker 'bukit' appears in the name.
+- Bukit Manis Road — Malay marker 'bukit' appears in the name.
+- Bukit Panjang Link — Malay marker 'bukit' appears in the name.
+- Bukit Panjang Ring Road — Malay marker 'bukit' appears in the name.
+- Bukit Panjang Road — Malay marker 'bukit' appears in the name.
+- Bukit Pasoh Road — Malay marker 'bukit' appears in the name.
+- Bukit Purmei Avenue — Malay marker 'bukit' appears in the name.
+- Bukit Purmei Road — Malay marker 'bukit' appears in the name.
+- Bukit Sedap Road — Malay marker 'bukit' appears in the name.
+- Bukit Teresa Close — Malay marker 'bukit' appears in the name.
+- Bukit Teresa Road — Malay marker 'bukit' appears in the name.
+- Bukit Timah Link — Malay marker 'bukit' appears in the name.
+- Bukit Timah Road — Malay marker 'bukit' appears in the name.
+- Bukit Tinggi Road — Malay marker 'bukit' appears in the name.
+- Bukit Tunggal Road — Malay marker 'bukit' appears in the name.
+- Bukit Way — Malay marker 'bukit' appears in the name.
+- Bulim Avenue — English street-type suffix 'avenue' is used.
+- Bulim Drive — English street-type suffix 'drive' is used.
+- Bulim Street — English street-type suffix 'street' is used.
+- Bulim Walk — English street-type suffix 'walk' is used.
+- Burghley Drive — English street-type suffix 'drive' is used.
+- Burgundy Crescent — English street-type suffix 'crescent' is used.
+- Burgundy Drive — English street-type suffix 'drive' is used.
+- Burgundy Rise — English street-type suffix 'rise' is used.
+- Burmah Road — English street-type suffix 'road' is used.
+- Burn Road — English street-type suffix 'road' is used.
+- Burnfoot Terrace — English street-type suffix 'terrace' is used.
+- Buroh Crescent — English street-type suffix 'crescent' is used.
+- Buroh Drive — English street-type suffix 'drive' is used.
+- Buroh Lane — English street-type suffix 'lane' is used.
+- Buroh Street — English street-type suffix 'street' is used.
+- Bury Road — English street-type suffix 'road' is used.
+- Bussorah Street — English street-type suffix 'street' is used.
+- Butterfly Avenue — English street-type suffix 'avenue' is used.
+- Butterworth Lane — English street-type suffix 'lane' is used.
+- Buyong Road — English street-type suffix 'road' is used.
+- C'Wlth Link — English street-type suffix 'link' is used.
+- Cable Road — English street-type suffix 'road' is used.
+- Cactus Crescent — English street-type suffix 'crescent' is used.
+- Cactus Drive — English street-type suffix 'drive' is used.
+- Cactus Road — English street-type suffix 'road' is used.
+- Cairnhill Circle — English street-type suffix 'circle' is used.
+- Cairnhill Rise — English street-type suffix 'rise' is used.
+- Cairnhill Road — English street-type suffix 'road' is used.
+- Caldecott Close — English street-type suffix 'close' is used.
+- Calshot Road — English street-type suffix 'road' is used.
+- Camborne Road — English street-type suffix 'road' is used.
+- Cambridge Road — English street-type suffix 'road' is used.
+- Camp Road — English street-type suffix 'road' is used.
+- Campbell Lane — English street-type suffix 'lane' is used.
+- Camphor Avenue — English street-type suffix 'avenue' is used.
+- Campus Boulevard — English street-type suffix 'boulevard' is used.
+- Canberra Crescent — English street-type suffix 'crescent' is used.
+- Canberra Drive — English street-type suffix 'drive' is used.
+- Canberra Lane — English street-type suffix 'lane' is used.
+- Canberra Link — English street-type suffix 'link' is used.
+- Canberra Road — English street-type suffix 'road' is used.
+- Canberra Street — English street-type suffix 'street' is used.
+- Canberra Walk — English street-type suffix 'walk' is used.
+- Canberra Way — English street-type suffix 'way' is used.
+- Canning Lane — English street-type suffix 'lane' is used.
+- Canning Rise — English street-type suffix 'rise' is used.
+- Canning Walk — English street-type suffix 'walk' is used.
+- Canopy Walk — English street-type suffix 'walk' is used.
+- Canterbury Road — English street-type suffix 'road' is used.
+- Canton Street — English street-type suffix 'street' is used.
+- Cantonment Close — English street-type suffix 'close' is used.
+- Cantonment Link — English street-type suffix 'link' is used.
+- Cantonment Road — English street-type suffix 'road' is used.
+- Capricorn Drive — English street-type suffix 'drive' is used.
+- Carlisle Road — English street-type suffix 'road' is used.
+- Carmen Street — English street-type suffix 'street' is used.
+- Carmen Terrace — English street-type suffix 'terrace' is used.
+- Carmichael Road — English street-type suffix 'road' is used.
+- Carnation Drive — English street-type suffix 'drive' is used.
+- Carpmael Road — English street-type suffix 'road' is used.
+- Carrhill Road — English street-type suffix 'road' is used.
+- Carver Street — English street-type suffix 'street' is used.
+- Caseen Street — English street-type suffix 'street' is used.
+- Cashew Crescent — English street-type suffix 'crescent' is used.
+- Cashew Link — English street-type suffix 'link' is used.
+- Cashew Road — English street-type suffix 'road' is used.
+- Cashew Terrace — English street-type suffix 'terrace' is used.
+- Cashin Street — English street-type suffix 'street' is used.
+- Cassia Crescent — English street-type suffix 'crescent' is used.
+- Cassia Drive — English street-type suffix 'drive' is used.
+- Cassia Link — English street-type suffix 'link' is used.
+- Casuarina Road — English street-type suffix 'road' is used.
+- Casuarina Walk — English street-type suffix 'walk' is used.
+- Catterick Road — English street-type suffix 'road' is used.
+- Cavan Road — English street-type suffix 'road' is used.
+- Cavenagh Road — English street-type suffix 'road' is used.
+- Cecil Street — English street-type suffix 'street' is used.
+- Cedar Avenue — English street-type suffix 'avenue' is used.
+- Ceylon Lane — English street-type suffix 'lane' is used.
+- Ceylon Road — English street-type suffix 'road' is used.
+- Chai Chee Avenue — English street-type suffix 'avenue' is used.
+- Chai Chee Drive — English street-type suffix 'drive' is used.
+- Chai Chee Lane — English street-type suffix 'lane' is used.
+- Chai Chee Road — English street-type suffix 'road' is used.
+- Chai Chee Street — English street-type suffix 'street' is used.
+- Champions Way — English street-type suffix 'way' is used.
+- Chancery Lane — English street-type suffix 'lane' is used.
+- Chander Road — English street-type suffix 'road' is used.
+- Chang Charn Road — English street-type suffix 'road' is used.
+- Changi Coast Road — English street-type suffix 'road' is used.
+- Changi Coast Walk — English street-type suffix 'walk' is used.
+- Changi Point Board Walk — English street-type suffix 'walk' is used.
+- Changi Road — English street-type suffix 'road' is used.
+- Chantilly Rise — English street-type suffix 'rise' is used.
+- Chapel Close — English street-type suffix 'close' is used.
+- Chapel Road — English street-type suffix 'road' is used.
+- Charlton Lane — English street-type suffix 'lane' is used.
+- Charlton Road — English street-type suffix 'road' is used.
+- Chartwell Drive — English street-type suffix 'drive' is used.
+- Chatsworth Avenue — English street-type suffix 'avenue' is used.
+- Chatsworth Road — English street-type suffix 'road' is used.
+- Chay Yan Street — English street-type suffix 'street' is used.
+- Chee Hoon Avenue — English street-type suffix 'avenue' is used.
+- Chempaka Avenue — English street-type suffix 'avenue' is used.
+- Chempaka Kuning Link — English street-type suffix 'link' is used.
+- Chencharu Close — English street-type suffix 'close' is used.
+- Chencharu Link — English street-type suffix 'link' is used.
+- Cheng Soon Crescent — English street-type suffix 'crescent' is used.
+- Cheong Chin Nam Road — English street-type suffix 'road' is used.
+- Cheow Keng Road — English street-type suffix 'road' is used.
+- Chepstow Close — English street-type suffix 'close' is used.
+- Cherry Avenue — English street-type suffix 'avenue' is used.
+- Chestnut Avenue — English street-type suffix 'avenue' is used.
+- Chestnut Close — English street-type suffix 'close' is used.
+- Chestnut Crescent — English street-type suffix 'crescent' is used.
+- Chestnut Drive — English street-type suffix 'drive' is used.
+- Chestnut Lane — English street-type suffix 'lane' is used.
+- Chestnut Terrace — English street-type suffix 'terrace' is used.
+- Chia Eng Say Road — English street-type suffix 'road' is used.
+- Chia Ping Road — English street-type suffix 'road' is used.
+- Chiap Guan Avenue — English street-type suffix 'avenue' is used.
+- Chiku Road — English street-type suffix 'road' is used.
+- Chiltern Drive — English street-type suffix 'drive' is used.
+- Chin Bee Avenue — English street-type suffix 'avenue' is used.
+- Chin Bee Crescent — English street-type suffix 'crescent' is used.
+- Chin Bee Drive — English street-type suffix 'drive' is used.
+- Chin Bee Road — English street-type suffix 'road' is used.
+- Chin Cheng Avenue — English street-type suffix 'avenue' is used.
+- Chin Chew Street — English street-type suffix 'street' is used.
+- Chin Swee Road — English street-type suffix 'road' is used.
+- Chin Terrace — English street-type suffix 'terrace' is used.
+- Chitty Road — English street-type suffix 'road' is used.
+- Choa Chu Kang Crescent — English street-type suffix 'crescent' is used.
+- Choa Chu Kang Drive — English street-type suffix 'drive' is used.
+- Choa Chu Kang Link — English street-type suffix 'link' is used.
+- Choa Chu Kang Loop — English street-type suffix 'loop' is used.
+- Choa Chu Kang Road — English street-type suffix 'road' is used.
+- Choa Chu Kang Terrace — English street-type suffix 'terrace' is used.
+- Choa Chu Kang Way — English street-type suffix 'way' is used.
+- Chong Kuo Road — English street-type suffix 'road' is used.
+- Choon Guan Street — English street-type suffix 'street' is used.
+- Chu Lin Road — English street-type suffix 'road' is used.
+- Chu Yen Street — English street-type suffix 'street' is used.
+- Chuan Close — English street-type suffix 'close' is used.
+- Chuan Drive — English street-type suffix 'drive' is used.
+- Chuan Hoe Avenue — English street-type suffix 'avenue' is used.
+- Chuan Lane — English street-type suffix 'lane' is used.
+- Chuan Link — English street-type suffix 'link' is used.
+- Chuan Terrace — English street-type suffix 'terrace' is used.
+- Chuan Walk — English street-type suffix 'walk' is used.
+- Chulia Street — English street-type suffix 'street' is used.
+- Chun Tin Road — English street-type suffix 'road' is used.
+- Chwee Chian Road — English street-type suffix 'road' is used.
+- Circle Road — English street-type suffix 'circle' is used.
+- Circuit Link — English street-type suffix 'link' is used.
+- Circuit Road — English street-type suffix 'road' is used.
+- Circular Road — English street-type suffix 'road' is used.
+- Clacton Road — English street-type suffix 'road' is used.
+- Clarence Lane — English street-type suffix 'lane' is used.
+- Clarke Street — English street-type suffix 'street' is used.
+- Classical Terrace — English street-type suffix 'terrace' is used.
+- Claymore Drive — English street-type suffix 'drive' is used.
+- Claymore Road — English street-type suffix 'road' is used.
+- Cleantech Loop — English street-type suffix 'loop' is used.
+- Clemenceau Avenue — English street-type suffix 'avenue' is used.
+- Clementi Close — English street-type suffix 'close' is used.
+- Clementi Crescent — English street-type suffix 'crescent' is used.
+- Clementi Lane — English street-type suffix 'lane' is used.
+- Clementi Loop — English street-type suffix 'loop' is used.
+- Clementi Road — English street-type suffix 'road' is used.
+- Cliff Road — English street-type suffix 'road' is used.
+- Clive Street — English street-type suffix 'street' is used.
+- Clover Avenue — English street-type suffix 'avenue' is used.
+- Clover Close — English street-type suffix 'close' is used.
+- Clover Crescent — English street-type suffix 'crescent' is used.
+- Clover Rise — English street-type suffix 'rise' is used.
+- Clover Way — English street-type suffix 'way' is used.
+- Club Street — English street-type suffix 'street' is used.
+- Cluny Road — English street-type suffix 'road' is used.
+- Coldstream Avenue — English street-type suffix 'avenue' is used.
+- Coleman Lane — English street-type suffix 'lane' is used.
+- Coleman Street — English street-type suffix 'street' is used.
+- College Link — English street-type suffix 'link' is used.
+- College Link Way — English street-type suffix 'link' is used.
+- College Road — English street-type suffix 'road' is used.
+- Commerce Street — English street-type suffix 'street' is used.
+- Commonwealth Avenue — English street-type suffix 'avenue' is used.
+- Commonwealth Close — English street-type suffix 'close' is used.
+- Commonwealth Crescent — English street-type suffix 'crescent' is used.
+- Commonwealth Drive — English street-type suffix 'drive' is used.
+- Commonwealth Lane — English street-type suffix 'lane' is used.
+- Commonwealth Link — English street-type suffix 'link' is used.
+- Compassvale Crescent — English street-type suffix 'crescent' is used.
+- Compassvale Drive — English street-type suffix 'drive' is used.
+- Compassvale Lane — English street-type suffix 'lane' is used.
+- Compassvale Link — English street-type suffix 'link' is used.
+- Compassvale Road — English street-type suffix 'road' is used.
+- Compassvale Street — English street-type suffix 'street' is used.
+- Compassvale Walk — English street-type suffix 'walk' is used.
+- Computing Drive — English street-type suffix 'drive' is used.
+- Connaught Drive — English street-type suffix 'drive' is used.
+- Connector Lim Tuatow Road — English street-type suffix 'road' is used.
+- Conservatory Drive — English street-type suffix 'drive' is used.
+- Conway Circle — English street-type suffix 'circle' is used.
+- Cook Street — English street-type suffix 'street' is used.
+- Cooling Close — English street-type suffix 'close' is used.
+- Cornwall Road — English street-type suffix 'road' is used.
+- Coronation Drive — English street-type suffix 'drive' is used.
+- Coronation Road — English street-type suffix 'road' is used.
+- Coronation Walk — English street-type suffix 'walk' is used.
+- Corporation Drive — English street-type suffix 'drive' is used.
+- Corporation Rise — English street-type suffix 'rise' is used.
+- Corporation Road — English street-type suffix 'road' is used.
+- Corporation Walk — English street-type suffix 'walk' is used.
+- Cosford Road — English street-type suffix 'road' is used.
+- Cotswold Close — English street-type suffix 'close' is used.
+- Cottesmore Road — English street-type suffix 'road' is used.
+- Countryside Link — English street-type suffix 'link' is used.
+- Countryside Road — English street-type suffix 'road' is used.
+- Countryside Walk — English street-type suffix 'walk' is used.
+- Court Road — English street-type suffix 'road' is used.
+- Cove Avenue — English street-type suffix 'avenue' is used.
+- Cove Drive — English street-type suffix 'drive' is used.
+- Cove Way — English street-type suffix 'way' is used.
+- Covered Walk Way — English street-type suffix 'walk' is used.
+- Cowdray Avenue — English street-type suffix 'avenue' is used.
+- Cox Terrace — English street-type suffix 'terrace' is used.
+- Craig Road — English street-type suffix 'road' is used.
+- Cranborne Road — English street-type suffix 'road' is used.
+- Crane Road — English street-type suffix 'road' is used.
+- Cranwell Road — English street-type suffix 'road' is used.
+- Crawford Lane — English street-type suffix 'lane' is used.
+- Crawford Street — English street-type suffix 'street' is used.
+- Create Way — English street-type suffix 'way' is used.
+- Crescent Road — English street-type suffix 'crescent' is used.
+- Crest Road — English street-type suffix 'road' is used.
+- Crichton Close — English street-type suffix 'close' is used.
+- Cross Street — English street-type suffix 'street' is used.
+- Croucher Road — English street-type suffix 'road' is used.
+- Crowhurst Drive — English street-type suffix 'drive' is used.
+- Cuff Road — English street-type suffix 'road' is used.
+- Cummins Street — English street-type suffix 'street' is used.
+- Cuppage Road — English street-type suffix 'road' is used.
+- Cuscaden Road — English street-type suffix 'road' is used.
+- Cuscaden Walk — English street-type suffix 'walk' is used.
+- Cypress Avenue — English street-type suffix 'avenue' is used.
+- Cyprus Road — English street-type suffix 'road' is used.
+- D'Almeida Street — English street-type suffix 'street' is used.
+- Da Silva Lane — English street-type suffix 'lane' is used.
+- Daffodil Drive — English street-type suffix 'drive' is used.
+- Dafne Street — English street-type suffix 'street' is used.
+- Dahan Road — English street-type suffix 'road' is used.
+- Dairy Farm Crescent — English street-type suffix 'crescent' is used.
+- Dairy Farm Lane — English street-type suffix 'lane' is used.
+- Dairy Farm Loop — English street-type suffix 'loop' is used.
+- Dairy Farm Road — English street-type suffix 'road' is used.
+- Dairy Farm Walk — English street-type suffix 'walk' is used.
+- Daisy Avenue — English street-type suffix 'avenue' is used.
+- Daisy Road — English street-type suffix 'road' is used.
+- Dakota Crescent — English street-type suffix 'crescent' is used.
+- Dalhousie Lane — English street-type suffix 'lane' is used.
+- Dalkeith Road — English street-type suffix 'road' is used.
+- Dalvey Gate Road — English street-type suffix 'road' is used.
+- Dalvey Road — English street-type suffix 'road' is used.
+- Darat Avenue — English street-type suffix 'avenue' is used.
+- Darat Drive — English street-type suffix 'drive' is used.
+- Darat Road — English street-type suffix 'road' is used.
+- Davidson Road — English street-type suffix 'road' is used.
+- Dawson Road — English street-type suffix 'road' is used.
+- De Souza Avenue — English street-type suffix 'avenue' is used.
+- De Souza Street — English street-type suffix 'street' is used.
+- Deal Road — English street-type suffix 'road' is used.
+- Debden Road — English street-type suffix 'road' is used.
+- Dedap Link — English street-type suffix 'link' is used.
+- Dedap Road — English street-type suffix 'road' is used.
+- Dell Lane — English street-type suffix 'lane' is used.
+- Delta Avenue — English street-type suffix 'avenue' is used.
+- Delta Road — English street-type suffix 'road' is used.
+- Dempsey Road — English street-type suffix 'road' is used.
+- Denham Close — English street-type suffix 'close' is used.
+- Denham Road — English street-type suffix 'road' is used.
+- Depot Close — English street-type suffix 'close' is used.
+- Depot Lane — English street-type suffix 'lane' is used.
+- Depot Road — English street-type suffix 'road' is used.
+- Depot Walk — English street-type suffix 'walk' is used.
+- Deptford Road — English street-type suffix 'road' is used.
+- Derbyshire Road — English street-type suffix 'road' is used.
+- Desker Road — English street-type suffix 'road' is used.
+- Devonshire Road — English street-type suffix 'road' is used.
+- Dickson Road — English street-type suffix 'road' is used.
+- Dido Street — English street-type suffix 'street' is used.
+- Digby Road — English street-type suffix 'road' is used.
+- Din Pang Avenue — English street-type suffix 'avenue' is used.
+- Discovery Walk — English street-type suffix 'walk' is used.
+- Dix Road — English street-type suffix 'road' is used.
+- Dobbie Rise — English street-type suffix 'rise' is used.
+- Dorset Road — English street-type suffix 'road' is used.
+- Dover Avenue — English street-type suffix 'avenue' is used.
+- Dover Crescent — English street-type suffix 'crescent' is used.
+- Dover Drive — English street-type suffix 'drive' is used.
+- Dover Rise — English street-type suffix 'rise' is used.
+- Dover Road — English street-type suffix 'road' is used.
+- Drake Avenue — English street-type suffix 'avenue' is used.
+- Draycott Drive — English street-type suffix 'drive' is used.
+- Dryburgh Avenue — English street-type suffix 'avenue' is used.
+- Dublin Road — English street-type suffix 'road' is used.
+- Duchess Avenue — English street-type suffix 'avenue' is used.
+- Duchess Road — English street-type suffix 'road' is used.
+- Duku Lane — English street-type suffix 'lane' is used.
+- Duku Road — English street-type suffix 'road' is used.
+- Dunbar Walk — English street-type suffix 'walk' is used.
+- Dundee Road — English street-type suffix 'road' is used.
+- Dunearn Close — English street-type suffix 'close' is used.
+- Dunearn Road — English street-type suffix 'road' is used.
+- Dunkirk Avenue — English street-type suffix 'avenue' is used.
+- Dunlop Street — English street-type suffix 'street' is used.
+- Dunman Lane — English street-type suffix 'lane' is used.
+- Dunman Road — English street-type suffix 'road' is used.
+- Dunsfold Drive — English street-type suffix 'drive' is used.
+- Durban Road — English street-type suffix 'road' is used.
+- Durham Road — English street-type suffix 'road' is used.
+- Durian Loop — English street-type suffix 'loop' is used.
+- Duxford Road — English street-type suffix 'road' is used.
+- Duxton Road — English street-type suffix 'road' is used.
+- Dyson Road — English street-type suffix 'road' is used.
+- E-Terrace — English street-type suffix 'terrace' is used.
+- Eastwood Drive — English street-type suffix 'drive' is used.
+- Eastwood Road — English street-type suffix 'road' is used.
+- Eastwood Terrace — English street-type suffix 'terrace' is used.
+- Eastwood Walk — English street-type suffix 'walk' is used.
+- Eastwood Way — English street-type suffix 'way' is used.
+- Eaton Walk — English street-type suffix 'walk' is used.
+- Eber Road — English street-type suffix 'road' is used.
+- Edgefield Walk — English street-type suffix 'walk' is used.
+- Edgeway Lane — English street-type suffix 'lane' is used.
+- Edgware Road — English street-type suffix 'road' is used.
+- Edinburgh Road — English street-type suffix 'road' is used.
+- Ee Teow Leng Road — English street-type suffix 'road' is used.
+- Elias Road — English street-type suffix 'road' is used.
+- Elias Terrace — English street-type suffix 'terrace' is used.
+- Elite Terrace — English street-type suffix 'terrace' is used.
+- Elizabeth Drive — English street-type suffix 'drive' is used.
+- Elliot Road — English street-type suffix 'road' is used.
+- Elliot Walk — English street-type suffix 'walk' is used.
+- Ellis Road — English street-type suffix 'road' is used.
+- Elm Avenue — English street-type suffix 'avenue' is used.
+- Emerald Link — English street-type suffix 'link' is used.
+- Empress Road — English street-type suffix 'road' is used.
+- Eng Hoon Street — English street-type suffix 'street' is used.
+- Eng Kong Crescent — English street-type suffix 'crescent' is used.
+- Eng Kong Drive — English street-type suffix 'drive' is used.
+- Eng Kong Lane — English street-type suffix 'lane' is used.
+- Eng Kong Road — English street-type suffix 'road' is used.
+- Eng Kong Terrace — English street-type suffix 'terrace' is used.
+- Eng Neo Avenue — English street-type suffix 'avenue' is used.
+- Eng Watt Street — English street-type suffix 'street' is used.
+- Enggor Street — English street-type suffix 'street' is used.
+- Engku Aman Road — English street-type suffix 'road' is used.
+- Equestrian Walk — English street-type suffix 'walk' is used.
+- Ermani Street — English street-type suffix 'street' is used.
+- Erskine Road — English street-type suffix 'road' is used.
+- Esplanade Drive — English street-type suffix 'drive' is used.
+- Essex Road — English street-type suffix 'road' is used.
+- Esso Choa Chu Kang Way — English street-type suffix 'way' is used.
+- Ettrick Terrace — English street-type suffix 'terrace' is used.
+- Eu Chin Street — English street-type suffix 'street' is used.
+- Eu Tong Sen Street — English street-type suffix 'street' is used.
+- Eunos Crescent — English street-type suffix 'crescent' is used.
+- Eunos Link — English street-type suffix 'link' is used.
+- Evans Road — English street-type suffix 'road' is used.
+- Evelyn Road — English street-type suffix 'road' is used.
+- Evergreen Avenue — English street-type suffix 'avenue' is used.
+- Everitt Road — English street-type suffix 'road' is used.
+- Everton Road — English street-type suffix 'road' is used.
+- Ewe Boon Road — English street-type suffix 'road' is used.
+- Exeter Road — English street-type suffix 'road' is used.
+- Expo Drive — English street-type suffix 'drive' is used.
+- Faber Avenue — English street-type suffix 'avenue' is used.
+- Faber Crescent — English street-type suffix 'crescent' is used.
+- Faber Drive — English street-type suffix 'drive' is used.
+- Faber Terrace — English street-type suffix 'terrace' is used.
+- Faber Walk — English street-type suffix 'walk' is used.
+- Faculty Avenue — English street-type suffix 'avenue' is used.
+- Fairways Drive — English street-type suffix 'drive' is used.
+- Fajar Road — English street-type suffix 'road' is used.
+- Falkland Road — English street-type suffix 'road' is used.
+- Fan Yoong Road — English street-type suffix 'road' is used.
+- Farleigh Avenue — English street-type suffix 'avenue' is used.
+- Farmway — Categorized by general naming style.
+- Farrer Drive — English street-type suffix 'drive' is used.
+- Farrer Road — English street-type suffix 'road' is used.
+- Fashion Avenue — English street-type suffix 'avenue' is used.
+- Felixstowe Road — English street-type suffix 'road' is used.
+- Fernhill Close — English street-type suffix 'close' is used.
+- Fernhill Crescent — English street-type suffix 'crescent' is used.
+- Fernhill Road — English street-type suffix 'road' is used.
+- Fernvale Close — English street-type suffix 'close' is used.
+- Fernvale Drive — English street-type suffix 'drive' is used.
+- Fernvale Lane — English street-type suffix 'lane' is used.
+- Fernvale Link — English street-type suffix 'link' is used.
+- Fernvale Road — English street-type suffix 'road' is used.
+- Fernvale Street — English street-type suffix 'street' is used.
+- Fernwood Terrace — English street-type suffix 'terrace' is used.
+- Festive Walk — English street-type suffix 'walk' is used.
+- Fidelio Street — English street-type suffix 'street' is used.
+- Field Road — English street-type suffix 'road' is used.
+- Fifth Avenue — English street-type suffix 'avenue' is used.
+- Fifth Lok Yang Road — English street-type suffix 'road' is used.
+- Figaro Street — English street-type suffix 'street' is used.
+- Fiji Road — English street-type suffix 'road' is used.
+- Fir Avenue — English street-type suffix 'avenue' is used.
+- First Avenue — English street-type suffix 'avenue' is used.
+- First Hospital Avenue — English street-type suffix 'avenue' is used.
+- First Lok Yang Road — English street-type suffix 'road' is used.
+- First Street — English street-type suffix 'street' is used.
+- Flag Road — English street-type suffix 'road' is used.
+- Flint Street — English street-type suffix 'street' is used.
+- Flora Drive — English street-type suffix 'drive' is used.
+- Flora Road — English street-type suffix 'road' is used.
+- Floral Walk — English street-type suffix 'walk' is used.
+- Florence Close — English street-type suffix 'close' is used.
+- Florence Road — English street-type suffix 'road' is used.
+- Florida Road — English street-type suffix 'road' is used.
+- Flower Road — English street-type suffix 'road' is used.
+- Foch Road — English street-type suffix 'road' is used.
+- Folkestone Road — English street-type suffix 'road' is used.
+- Foo Kim Lin Road — English street-type suffix 'road' is used.
+- Ford Avenue — English street-type suffix 'avenue' is used.
+- Former Lorong Panchar — Malay marker 'lorong' appears in the name.
+- Former Lorong Tawas — Malay marker 'lorong' appears in the name.
+- Fort Canning Link — English street-type suffix 'link' is used.
+- Fort Canning Road — English street-type suffix 'road' is used.
+- Fort Road — English street-type suffix 'road' is used.
+- Fourth Avenue — English street-type suffix 'avenue' is used.
+- Fourth Chin Bee Road — English street-type suffix 'road' is used.
+- Fourth Lok Yan Road — English street-type suffix 'road' is used.
+- Fourth Street — English street-type suffix 'street' is used.
+- Fowlie Road — English street-type suffix 'road' is used.
+- Francis Thomas Drive — English street-type suffix 'drive' is used.
+- Frankel Avenue — English street-type suffix 'avenue' is used.
+- Frankel Close — English street-type suffix 'close' is used.
+- Frankel Drive — English street-type suffix 'drive' is used.
+- Frankel Street — English street-type suffix 'street' is used.
+- Frankel Terrace — English street-type suffix 'terrace' is used.
+- Frankel Walk — English street-type suffix 'walk' is used.
+- Fraser Street — English street-type suffix 'street' is used.
+- French Road — English street-type suffix 'road' is used.
+- Fu Hui Link — English street-type suffix 'link' is used.
+- Fudu Walk — English street-type suffix 'walk' is used.
+- Fullerton Road — English street-type suffix 'road' is used.
+- Fulton Avenue — English street-type suffix 'avenue' is used.
+- Fulton Road — English street-type suffix 'road' is used.
+- Gali Batu Close — English street-type suffix 'close' is used.
+- Galistan Avenue — English street-type suffix 'avenue' is used.
+- Gallop Road — English street-type suffix 'road' is used.
+- Gallop Walk — English street-type suffix 'walk' is used.
+- Gambas Avenue — English street-type suffix 'avenue' is used.
+- Gambas Crescent — English street-type suffix 'crescent' is used.
+- Gambas Way — English street-type suffix 'way' is used.
+- Gambir Terrace — English street-type suffix 'terrace' is used.
+- Gambir Walk — English street-type suffix 'walk' is used.
+- Ganges Avenue — English street-type suffix 'avenue' is used.
+- Gangsa Road — English street-type suffix 'road' is used.
+- Gardenia Road — English street-type suffix 'road' is used.
+- Garlick Avenue — English street-type suffix 'avenue' is used.
+- Gateway Avenue — English street-type suffix 'avenue' is used.
+- Gateway Drive — English street-type suffix 'drive' is used.
+- Gelyang Bahru Terrace — English street-type suffix 'terrace' is used.
+- Gemmill Lane — English street-type suffix 'lane' is used.
+- Genting Lane — English street-type suffix 'lane' is used.
+- Genting Link — English street-type suffix 'link' is used.
+- Genting Road — English street-type suffix 'road' is used.
+- Gentle Drive — English street-type suffix 'drive' is used.
+- Gentle Road — English street-type suffix 'road' is used.
+- George Street — English street-type suffix 'street' is used.
+- Gerald Crescent — English street-type suffix 'crescent' is used.
+- Gerald Drive — English street-type suffix 'drive' is used.
+- Gerald Terrace — English street-type suffix 'terrace' is used.
+- Geylang Bahru Lane — English street-type suffix 'lane' is used.
+- Geylang Bahru Terrace — English street-type suffix 'terrace' is used.
+- Geylang Road — English street-type suffix 'road' is used.
+- Ghim Moh Close — English street-type suffix 'close' is used.
+- Ghim Moh Link — English street-type suffix 'link' is used.
+- Ghim Moh Road — English street-type suffix 'road' is used.
+- Gibraltar Crescent — English street-type suffix 'crescent' is used.
+- Gilstead Road — English street-type suffix 'road' is used.
+- Gladiola Drive — English street-type suffix 'drive' is used.
+- Glasgow Road — English street-type suffix 'road' is used.
+- Gloucester Road — English street-type suffix 'road' is used.
+- Goldhill Avenue — English street-type suffix 'avenue' is used.
+- Goldhill Drive — English street-type suffix 'drive' is used.
+- Goldhill Rise — English street-type suffix 'rise' is used.
+- Golf Link — English street-type suffix 'link' is used.
+- Gombak Drive — English street-type suffix 'drive' is used.
+- Goodman Road — English street-type suffix 'road' is used.
+- Gopeng Street — English street-type suffix 'street' is used.
+- Gordon Road — English street-type suffix 'road' is used.
+- Gosport Road — English street-type suffix 'road' is used.
+- Gpl Terrace — English street-type suffix 'terrace' is used.
+- Grace Walk — English street-type suffix 'walk' is used.
+- Grange Road — English street-type suffix 'road' is used.
+- Gray Lane — English street-type suffix 'lane' is used.
+- Greendale Avenue — English street-type suffix 'avenue' is used.
+- Greendale Rise — English street-type suffix 'rise' is used.
+- Greenfield Drive — English street-type suffix 'drive' is used.
+- Greenleaf Avenue — English street-type suffix 'avenue' is used.
+- Greenleaf Drive — English street-type suffix 'drive' is used.
+- Greenleaf Lane — English street-type suffix 'lane' is used.
+- Greenleaf Rise — English street-type suffix 'rise' is used.
+- Greenleaf Road — English street-type suffix 'road' is used.
+- Greenleaf Walk — English street-type suffix 'walk' is used.
+- Greenmead Avenue — English street-type suffix 'avenue' is used.
+- Greenpark Avenue — English street-type suffix 'avenue' is used.
+- Greenridge Crescent — English street-type suffix 'crescent' is used.
+- Greenview Crescent — English street-type suffix 'crescent' is used.
+- Greenwich Drive — English street-type suffix 'drive' is used.
+- Greenwood Avenue — English street-type suffix 'avenue' is used.
+- Greenwood Crescent — English street-type suffix 'crescent' is used.
+- Greenwood Lane — English street-type suffix 'lane' is used.
+- Greenwood Terrace — English street-type suffix 'terrace' is used.
+- Greenwood Walk — English street-type suffix 'walk' is used.
+- Grenade Avenue — English street-type suffix 'avenue' is used.
+- Gryphon Terrace — English street-type suffix 'terrace' is used.
+- Guan Chuan Street — English street-type suffix 'street' is used.
+- Guan Soon Avenue — English street-type suffix 'avenue' is used.
+- Guards Avenue — English street-type suffix 'avenue' is used.
+- Guildford Road — English street-type suffix 'road' is used.
+- Guillemard Close — English street-type suffix 'close' is used.
+- Guillemard Crescent — English street-type suffix 'crescent' is used.
+- Guillemard Lane — English street-type suffix 'lane' is used.
+- Guillemard Road — English street-type suffix 'road' is used.
+- Gul Avenue — English street-type suffix 'avenue' is used.
+- Gul Circle — English street-type suffix 'circle' is used.
+- Gul Crescent — English street-type suffix 'crescent' is used.
+- Gul Drive — English street-type suffix 'drive' is used.
+- Gul Lane — English street-type suffix 'lane' is used.
+- Gul Link — English street-type suffix 'link' is used.
+- Gul Road — English street-type suffix 'road' is used.
+- Gul Way — English street-type suffix 'way' is used.
+- Gunner Lane — English street-type suffix 'lane' is used.
+- Guok Avenue — English street-type suffix 'avenue' is used.
+- Gymkhana Avenue — English street-type suffix 'avenue' is used.
+- Hai Sing Crescent — English street-type suffix 'crescent' is used.
+- Hai Sing Road — English street-type suffix 'road' is used.
+- Haig Avenue — English street-type suffix 'avenue' is used.
+- Haig Lane — English street-type suffix 'lane' is used.
+- Haig Road — English street-type suffix 'road' is used.
+- Haig Walk — English street-type suffix 'walk' is used.
+- Haigsville Drive — English street-type suffix 'drive' is used.
+- Haji Lane — Malay marker 'haji' appears in the name.
+- Halifax Road — English street-type suffix 'road' is used.
+- Hallpike Street — English street-type suffix 'street' is used.
+- Halton Road — English street-type suffix 'road' is used.
+- Halus Link — English street-type suffix 'link' is used.
+- Hamilton Road — English street-type suffix 'road' is used.
+- Hampshire Road — English street-type suffix 'road' is used.
+- Handy Road — English street-type suffix 'road' is used.
+- Harbourfront Avenue — English street-type suffix 'avenue' is used.
+- Harbourfront Walk — English street-type suffix 'walk' is used.
+- Harding Road — English street-type suffix 'road' is used.
+- Harlyn Road — English street-type suffix 'road' is used.
+- Harper Road — English street-type suffix 'road' is used.
+- Harrison Road — English street-type suffix 'road' is used.
+- Harvey Avenue — English street-type suffix 'avenue' is used.
+- Harvey Close — English street-type suffix 'close' is used.
+- Harvey Crescent — English street-type suffix 'crescent' is used.
+- Harvey Road — English street-type suffix 'road' is used.
+- Hastings Road — English street-type suffix 'road' is used.
+- Havelock Link — English street-type suffix 'link' is used.
+- Havelock Road — English street-type suffix 'road' is used.
+- Heliconia Walk — English street-type suffix 'walk' is used.
+- Hemmant Road — English street-type suffix 'road' is used.
+- Hemsley Avenue — English street-type suffix 'avenue' is used.
+- Henderson Crescent — English street-type suffix 'crescent' is used.
+- Henderson Road — English street-type suffix 'road' is used.
+- Hendon Road — English street-type suffix 'road' is used.
+- Hendry Close — English street-type suffix 'close' is used.
+- Heng Mui Keng Terrace — English street-type suffix 'terrace' is used.
+- Hertford Road — English street-type suffix 'road' is used.
+- High Street — English street-type suffix 'street' is used.
+- Highgate Crescent — English street-type suffix 'crescent' is used.
+- Highgate Walk — English street-type suffix 'walk' is used.
+- Highland Close — English street-type suffix 'close' is used.
+- Highland Road — English street-type suffix 'road' is used.
+- Highland Terrace — English street-type suffix 'terrace' is used.
+- Highland Walk — English street-type suffix 'walk' is used.
+- Hillcrest Road — English street-type suffix 'road' is used.
+- Hillside Drive — English street-type suffix 'drive' is used.
+- Hillside Terrace — English street-type suffix 'terrace' is used.
+- Hillview Avenue — English street-type suffix 'avenue' is used.
+- Hillview Crescent — English street-type suffix 'crescent' is used.
+- Hillview Drive — English street-type suffix 'drive' is used.
+- Hillview Link — English street-type suffix 'link' is used.
+- Hillview Rise — English street-type suffix 'rise' is used.
+- Hillview Road — English street-type suffix 'road' is used.
+- Hillview Terrace — English street-type suffix 'terrace' is used.
+- Hillview Walk — English street-type suffix 'walk' is used.
+- Hillview Way — English street-type suffix 'way' is used.
+- Hindhede Drive — English street-type suffix 'drive' is used.
+- Hindhede Link — English street-type suffix 'link' is used.
+- Hindhede Road — English street-type suffix 'road' is used.
+- Hindhede Walk — English street-type suffix 'walk' is used.
+- Hindoo Road — English street-type suffix 'road' is used.
+- Ho Ching Road — English street-type suffix 'road' is used.
+- Hoe Chiang Road — English street-type suffix 'road' is used.
+- Hokien Street — English street-type suffix 'street' is used.
+- Holland Avenue — English street-type suffix 'avenue' is used.
+- Holland Close — English street-type suffix 'close' is used.
+- Holland Drive — English street-type suffix 'drive' is used.
+- Holland Link — English street-type suffix 'link' is used.
+- Holland Rise — English street-type suffix 'rise' is used.
+- Holland Road — English street-type suffix 'road' is used.
+- Holloway Lane — English street-type suffix 'lane' is used.
+- Holt Road — English street-type suffix 'road' is used.
+- Hon Sui Sen Drive — English street-type suffix 'drive' is used.
+- Hong Heng Terrace — English street-type suffix 'terrace' is used.
+- Hong San Terrace — English street-type suffix 'terrace' is used.
+- Hong San Walk — English street-type suffix 'walk' is used.
+- Hongkong Street — English street-type suffix 'street' is used.
+- Honington Road — English street-type suffix 'road' is used.
+- Hooper Road — English street-type suffix 'road' is used.
+- Hoot Kiam Road — English street-type suffix 'road' is used.
+- Horne Road — English street-type suffix 'road' is used.
+- Hospital Boulevard — English street-type suffix 'boulevard' is used.
+- Hospital Crescent — English street-type suffix 'crescent' is used.
+- Hospital Drive — English street-type suffix 'drive' is used.
+- Hougang Close — English street-type suffix 'close' is used.
+- How Sun Avenue — English street-type suffix 'avenue' is used.
+- How Sun Close — English street-type suffix 'close' is used.
+- How Sun Drive — English street-type suffix 'drive' is used.
+- How Sun Road — English street-type suffix 'road' is used.
+- How Sun Walk — English street-type suffix 'walk' is used.
+- Howard Road — English street-type suffix 'road' is used.
+- Hoy Fatt Road — English street-type suffix 'road' is used.
+- Hpl Canopy Link — English street-type suffix 'link' is used.
+- Hsbc Treetop Walk — English street-type suffix 'walk' is used.
+- Hu Ching Road — English street-type suffix 'road' is used.
+- Hua Guan Avenue — English street-type suffix 'avenue' is used.
+- Hua Guan Crescent — English street-type suffix 'crescent' is used.
+- Huddington Avenue — English street-type suffix 'avenue' is used.
+- Hullet Rise — English street-type suffix 'rise' is used.
+- Hullet Road — English street-type suffix 'road' is used.
+- Hume Avenue — English street-type suffix 'avenue' is used.
+- Hyderabad Road — English street-type suffix 'road' is used.
+- Hylam Street — English street-type suffix 'street' is used.
+- Hythe Road — English street-type suffix 'road' is used.
+- Imbiah Road — English street-type suffix 'road' is used.
+- Imbiah Walk — English street-type suffix 'walk' is used.
+- Indus Road — English street-type suffix 'road' is used.
+- Inggu Road — English street-type suffix 'road' is used.
+- Innovillage Lane — English street-type suffix 'lane' is used.
+- International Road — English street-type suffix 'road' is used.
+- Ipoh Lane — English street-type suffix 'lane' is used.
+- Iqbal Avenue — English street-type suffix 'avenue' is used.
+- Irau Drive — English street-type suffix 'drive' is used.
+- Ironside Link — English street-type suffix 'link' is used.
+- Ironside Road — English street-type suffix 'road' is used.
+- Irrawaddy Road — English street-type suffix 'road' is used.
+- Irving Road — English street-type suffix 'road' is used.
+- Irwell Bank Road — English street-type suffix 'road' is used.
+- J-Link — English street-type suffix 'link' is used.
+- J-Walk — English street-type suffix 'walk' is used.
+- Jacaranda Road — English street-type suffix 'road' is used.
+- Jago Close — English street-type suffix 'close' is used.
+- Jalan Adat — Malay marker 'jalan' appears in the name.
+- Jalan Afifi — Malay marker 'jalan' appears in the name.
+- Jalan Ahmad Ibrahim — Malay marker 'jalan' appears in the name.
+- Jalan Ampang — Malay marker 'jalan' appears in the name.
+- Jalan Ampas — Malay marker 'jalan' appears in the name.
+- Jalan Anak Bukit — Malay marker 'jalan' appears in the name.
+- Jalan Anak Patong — Malay marker 'jalan' appears in the name.
+- Jalan Anggerek — Malay marker 'jalan' appears in the name.
+- Jalan Angin Laut — Malay marker 'jalan' appears in the name.
+- Jalan Angklong — Malay marker 'jalan' appears in the name.
+- Jalan Antoi — Malay marker 'jalan' appears in the name.
+- Jalan Arif — Malay marker 'jalan' appears in the name.
+- Jalan Arnap — Malay marker 'jalan' appears in the name.
+- Jalan Aruan — Malay marker 'jalan' appears in the name.
+- Jalan Asas — Malay marker 'jalan' appears in the name.
+- Jalan Asuhan — Malay marker 'jalan' appears in the name.
+- Jalan Awang — Malay marker 'jalan' appears in the name.
+- Jalan Ayer — Malay marker 'jalan' appears in the name.
+- Jalan Ayer Rimba — Malay marker 'jalan' appears in the name.
+- Jalan Azam — Malay marker 'jalan' appears in the name.
+- Jalan Bahagia — Malay marker 'jalan' appears in the name.
+- Jalan Bahar — Malay marker 'jalan' appears in the name.
+- Jalan Bahar Clay Studios — Malay marker 'jalan' appears in the name.
+- Jalan Bahasa — Malay marker 'jalan' appears in the name.
+- Jalan Bahtera — Malay marker 'jalan' appears in the name.
+- Jalan Baiduri — Malay marker 'jalan' appears in the name.
+- Jalan Bangau — Malay marker 'jalan' appears in the name.
+- Jalan Bangket — Malay marker 'jalan' appears in the name.
+- Jalan Bangsawan — Malay marker 'jalan' appears in the name.
+- Jalan Basong — Malay marker 'jalan' appears in the name.
+- Jalan Batai — Malay marker 'jalan' appears in the name.
+- Jalan Batalong — Malay marker 'jalan' appears in the name.
+- Jalan Batu — Malay marker 'jalan' appears in the name.
+- Jalan Batu Ferringgi — Malay marker 'jalan' appears in the name.
+- Jalan Batu Koyok — Malay marker 'jalan' appears in the name.
+- Jalan Batu Nilam — Malay marker 'jalan' appears in the name.
+- Jalan Batu Ubin — Malay marker 'jalan' appears in the name.
+- Jalan Belang — Malay marker 'jalan' appears in the name.
+- Jalan Belangkas — Malay marker 'jalan' appears in the name.
+- Jalan Belibas — Malay marker 'jalan' appears in the name.
+- Jalan Bena — Malay marker 'jalan' appears in the name.
+- Jalan Benaan Kapal — Malay marker 'jalan' appears in the name.
+- Jalan Bendahara — Malay marker 'jalan' appears in the name.
+- Jalan Beringin — Malay marker 'jalan' appears in the name.
+- Jalan Berjaya — Malay marker 'jalan' appears in the name.
+- Jalan Berseh — Malay marker 'jalan' appears in the name.
+- Jalan Besar — Malay marker 'jalan' appears in the name.
+- Jalan Besar Stadium — Malay marker 'jalan' appears in the name.
+- Jalan Besut — Malay marker 'jalan' appears in the name.
+- Jalan Bilal — Malay marker 'jalan' appears in the name.
+- Jalan Binchang — Malay marker 'jalan' appears in the name.
+- Jalan Bingka — Malay marker 'jalan' appears in the name.
+- Jalan Binjai — Malay marker 'jalan' appears in the name.
+- Jalan Bintang Tiga — Malay marker 'jalan' appears in the name.
+- Jalan Boon Lay — Malay marker 'jalan' appears in the name.
+- Jalan Bukit Ho Swee — Malay marker 'jalan' appears in the name.
+- Jalan Bukit Merah — Malay marker 'jalan' appears in the name.
+- Jalan Buloh Perindu — Malay marker 'jalan' appears in the name.
+- Jalan Bumbong — Malay marker 'jalan' appears in the name.
+- Jalan Bundusan — Malay marker 'jalan' appears in the name.
+- Jalan Bunga Rampai — Malay marker 'jalan' appears in the name.
+- Jalan Buroh — Malay marker 'jalan' appears in the name.
+- Jalan Chan Chin Mooi — Malay marker 'jalan' appears in the name.
+- Jalan Chegar — Malay marker 'jalan' appears in the name.
+- Jalan Chelagi — Malay marker 'jalan' appears in the name.
+- Jalan Chempah — Malay marker 'jalan' appears in the name.
+- Jalan Chempaka Kuning — Malay marker 'jalan' appears in the name.
+- Jalan Chempaka Puteh — Malay marker 'jalan' appears in the name.
+- Jalan Chempedak — Malay marker 'jalan' appears in the name.
+- Jalan Chengam — Malay marker 'jalan' appears in the name.
+- Jalan Chengkek — Malay marker 'jalan' appears in the name.
+- Jalan Chermai — Malay marker 'jalan' appears in the name.
+- Jalan Chermat — Malay marker 'jalan' appears in the name.
+- Jalan Cherpen — Malay marker 'jalan' appears in the name.
+- Jalan Chorak — Malay marker 'jalan' appears in the name.
+- Jalan Chulek — Malay marker 'jalan' appears in the name.
+- Jalan Daliah — Malay marker 'jalan' appears in the name.
+- Jalan Damai — Malay marker 'jalan' appears in the name.
+- Jalan Darat Nanas — Malay marker 'jalan' appears in the name.
+- Jalan Datoh — Malay marker 'jalan' appears in the name.
+- Jalan Daud — Malay marker 'jalan' appears in the name.
+- Jalan Demak — Malay marker 'jalan' appears in the name.
+- Jalan Dermawan — Malay marker 'jalan' appears in the name.
+- Jalan Derum — Malay marker 'jalan' appears in the name.
+- Jalan Dinding — Malay marker 'jalan' appears in the name.
+- Jalan Dondang Sayang — Malay marker 'jalan' appears in the name.
+- Jalan Dua — Malay marker 'jalan' appears in the name.
+- Jalan Durian — Malay marker 'jalan' appears in the name.
+- Jalan Dusun — Malay marker 'jalan' appears in the name.
+- Jalan Elok — Malay marker 'jalan' appears in the name.
+- Jalan Emas Urai — Malay marker 'jalan' appears in the name.
+- Jalan Empat — Malay marker 'jalan' appears in the name.
+- Jalan Enam — Malay marker 'jalan' appears in the name.
+- Jalan Endut Senin — Malay marker 'jalan' appears in the name.
+- Jalan Enggang — Malay marker 'jalan' appears in the name.
+- Jalan Eunos — Malay marker 'jalan' appears in the name.
+- Jalan Gaharu — Malay marker 'jalan' appears in the name.
+- Jalan Gajus — Malay marker 'jalan' appears in the name.
+- Jalan Gali Batu — Malay marker 'jalan' appears in the name.
+- Jalan Gapis — Malay marker 'jalan' appears in the name.
+- Jalan Gelam — Malay marker 'jalan' appears in the name.
+- Jalan Gelatek — Malay marker 'jalan' appears in the name.
+- Jalan Gelegar — Malay marker 'jalan' appears in the name.
+- Jalan Gelenggang — Malay marker 'jalan' appears in the name.
+- Jalan Gembira — Malay marker 'jalan' appears in the name.
+- Jalan Gendang — Malay marker 'jalan' appears in the name.
+- Jalan Geneng — Malay marker 'jalan' appears in the name.
+- Jalan Girang — Malay marker 'jalan' appears in the name.
+- Jalan Gotong Royong — Malay marker 'jalan' appears in the name.
+- Jalan Greja — Malay marker 'jalan' appears in the name.
+- Jalan Grisek — Malay marker 'jalan' appears in the name.
+- Jalan Gumilang — Malay marker 'jalan' appears in the name.
+- Jalan Haji Alias — Malay marker 'jalan' appears in the name.
+- Jalan Haji Salam — Malay marker 'jalan' appears in the name.
+- Jalan Hajijah — Malay marker 'jalan' appears in the name.
+- Jalan Hang Jebat — Malay marker 'jalan' appears in the name.
+- Jalan Harom Setangkai — Malay marker 'jalan' appears in the name.
+- Jalan Harum — Malay marker 'jalan' appears in the name.
+- Jalan Hiboran — Malay marker 'jalan' appears in the name.
+- Jalan Hikayat — Malay marker 'jalan' appears in the name.
+- Jalan Hitam Manis — Malay marker 'jalan' appears in the name.
+- Jalan Hock Chye — Malay marker 'jalan' appears in the name.
+- Jalan Hussein — Malay marker 'jalan' appears in the name.
+- Jalan Hwi Yoh — Malay marker 'jalan' appears in the name.
+- Jalan Ibadat — Malay marker 'jalan' appears in the name.
+- Jalan Ikan Merah — Malay marker 'jalan' appears in the name.
+- Jalan Ilmu — Malay marker 'jalan' appears in the name.
+- Jalan Inggu — Malay marker 'jalan' appears in the name.
+- Jalan Insaf — Malay marker 'jalan' appears in the name.
+- Jalan Intan — Malay marker 'jalan' appears in the name.
+- Jalan Ishak — Malay marker 'jalan' appears in the name.
+- Jalan Ismail — Malay marker 'jalan' appears in the name.
+- Jalan Isnin — Malay marker 'jalan' appears in the name.
+- Jalan Istimewa — Malay marker 'jalan' appears in the name.
+- Jalan Jamal — Malay marker 'jalan' appears in the name.
+- Jalan Jambatan Lama — Malay marker 'jalan' appears in the name.
+- Jalan Jambu Ayer — Malay marker 'jalan' appears in the name.
+- Jalan Jambu Batu — Malay marker 'jalan' appears in the name.
+- Jalan Jambu Mawar — Malay marker 'jalan' appears in the name.
+- Jalan Janggus — Malay marker 'jalan' appears in the name.
+- Jalan Jarak — Malay marker 'jalan' appears in the name.
+- Jalan Jelita — Malay marker 'jalan' appears in the name.
+- Jalan Jelutong — Malay marker 'jalan' appears in the name.
+- Jalan Jendela — Malay marker 'jalan' appears in the name.
+- Jalan Jentera — Malay marker 'jalan' appears in the name.
+- Jalan Jermin — Malay marker 'jalan' appears in the name.
+- Jalan Jeruju — Malay marker 'jalan' appears in the name.
+- Jalan Jintan — Malay marker 'jalan' appears in the name.
+- Jalan Jitong — Malay marker 'jalan' appears in the name.
+- Jalan Joran — Malay marker 'jalan' appears in the name.
+- Jalan Jurong Kechil — Malay marker 'jalan' appears in the name.
+- Jalan Kakatua — Malay marker 'jalan' appears in the name.
+- Jalan Kampong Chantek — Malay marker 'jalan' appears in the name.
+- Jalan Kampung Siglap — Malay marker 'jalan' appears in the name.
+- Jalan Kandis — Malay marker 'jalan' appears in the name.
+- Jalan Kapal — Malay marker 'jalan' appears in the name.
+- Jalan Kasau — Malay marker 'jalan' appears in the name.
+- Jalan Kathi — Malay marker 'jalan' appears in the name.
+- Jalan Kayu — Malay marker 'jalan' appears in the name.
+- Jalan Kayu Manis — Malay marker 'jalan' appears in the name.
+- Jalan Kebaya — Malay marker 'jalan' appears in the name.
+- Jalan Kechot — Malay marker 'jalan' appears in the name.
+- Jalan Kechubong — Malay marker 'jalan' appears in the name.
+- Jalan Kedidi — Malay marker 'jalan' appears in the name.
+- Jalan Kelabu Asap — Malay marker 'jalan' appears in the name.
+- Jalan Kelawar — Malay marker 'jalan' appears in the name.
+- Jalan Kelempong — Malay marker 'jalan' appears in the name.
+- Jalan Keli — Malay marker 'jalan' appears in the name.
+- Jalan Kelichap — Malay marker 'jalan' appears in the name.
+- Jalan Kelulut — Malay marker 'jalan' appears in the name.
+- Jalan Kemajuan — Malay marker 'jalan' appears in the name.
+- Jalan Kemaman — Malay marker 'jalan' appears in the name.
+- Jalan Kembang Melati — Malay marker 'jalan' appears in the name.
+- Jalan Kembangan — Malay marker 'jalan' appears in the name.
+- Jalan Kemboja — Malay marker 'jalan' appears in the name.
+- Jalan Kemuning — Malay marker 'jalan' appears in the name.
+- Jalan Kenarah — Malay marker 'jalan' appears in the name.
+- Jalan Kerayong — Malay marker 'jalan' appears in the name.
+- Jalan Keria — Malay marker 'jalan' appears in the name.
+- Jalan Keris — Malay marker 'jalan' appears in the name.
+- Jalan Keruing — Malay marker 'jalan' appears in the name.
+- Jalan Kesoma — Malay marker 'jalan' appears in the name.
+- Jalan Ketumbit — Malay marker 'jalan' appears in the name.
+- Jalan Khairuddin — Malay marker 'jalan' appears in the name.
+- Jalan Khairudiin — Malay marker 'jalan' appears in the name.
+- Jalan Khamis — Malay marker 'jalan' appears in the name.
+- Jalan Kilang — Malay marker 'jalan' appears in the name.
+- Jalan Kilang Barat — Malay marker 'jalan' appears in the name.
+- Jalan Kilang Timor — Malay marker 'jalan' appears in the name.
+- Jalan Klapa — Malay marker 'jalan' appears in the name.
+- Jalan Kledek — Malay marker 'jalan' appears in the name.
+- Jalan Klinik — Malay marker 'jalan' appears in the name.
+- Jalan Kolam Ayer — Malay marker 'jalan' appears in the name.
+- Jalan Korban — Malay marker 'jalan' appears in the name.
+- Jalan Krian — Malay marker 'jalan' appears in the name.
+- Jalan Kuak — Malay marker 'jalan' appears in the name.
+- Jalan Kuala — Malay marker 'jalan' appears in the name.
+- Jalan Kuang — Malay marker 'jalan' appears in the name.
+- Jalan Kuantan — Malay marker 'jalan' appears in the name.
+- Jalan Kubor — Malay marker 'jalan' appears in the name.
+- Jalan Kukoh — Malay marker 'jalan' appears in the name.
+- Jalan Kuning — Malay marker 'jalan' appears in the name.
+- Jalan Kupang — Malay marker 'jalan' appears in the name.
+- Jalan Kuras — Malay marker 'jalan' appears in the name.
+- Jalan Kurnia — Malay marker 'jalan' appears in the name.
+- Jalan Kwok Min — Malay marker 'jalan' appears in the name.
+- Jalan Labu Ayer — Malay marker 'jalan' appears in the name.
+- Jalan Labu Manis — Malay marker 'jalan' appears in the name.
+- Jalan Labu Merah — Malay marker 'jalan' appears in the name.
+- Jalan Lada Puteh — Malay marker 'jalan' appears in the name.
+- Jalan Lakum — Malay marker 'jalan' appears in the name.
+- Jalan Lam Huat — Malay marker 'jalan' appears in the name.
+- Jalan Lam Sam — Malay marker 'jalan' appears in the name.
+- Jalan Lana — Malay marker 'jalan' appears in the name.
+- Jalan Langgar Bedok — Malay marker 'jalan' appears in the name.
+- Jalan Lanjut — Malay marker 'jalan' appears in the name.
+- Jalan Lapang — Malay marker 'jalan' appears in the name.
+- Jalan Lateh — Malay marker 'jalan' appears in the name.
+- Jalan Laut — Malay marker 'jalan' appears in the name.
+- Jalan Layang Layang — Malay marker 'jalan' appears in the name.
+- Jalan Leban — Malay marker 'jalan' appears in the name.
+- Jalan Lebat Daun — Malay marker 'jalan' appears in the name.
+- Jalan Legundi — Malay marker 'jalan' appears in the name.
+- Jalan Lekar — Malay marker 'jalan' appears in the name.
+- Jalan Lekub — Malay marker 'jalan' appears in the name.
+- Jalan Lembah Kallang — Malay marker 'jalan' appears in the name.
+- Jalan Lembah Thomson — Malay marker 'jalan' appears in the name.
+- Jalan Lempeng — Malay marker 'jalan' appears in the name.
+- Jalan Lengkok Sembawang — Malay marker 'jalan' appears in the name.
+- Jalan Lepas — Malay marker 'jalan' appears in the name.
+- Jalan Lim Tai See — Malay marker 'jalan' appears in the name.
+- Jalan Lima — Malay marker 'jalan' appears in the name.
+- Jalan Limau Bali — Malay marker 'jalan' appears in the name.
+- Jalan Limau Kasturi — Malay marker 'jalan' appears in the name.
+- Jalan Limau Manis — Malay marker 'jalan' appears in the name.
+- Jalan Limau Nipis — Malay marker 'jalan' appears in the name.
+- Jalan Limau Purut — Malay marker 'jalan' appears in the name.
+- Jalan Limbok — Malay marker 'jalan' appears in the name.
+- Jalan Lokam — Malay marker 'jalan' appears in the name.
+- Jalan Loyang Besar — Malay marker 'jalan' appears in the name.
+- Jalan Lye Kwee — Malay marker 'jalan' appears in the name.
+- Jalan Ma'Mor — Malay marker 'jalan' appears in the name.
+- Jalan Machang — Malay marker 'jalan' appears in the name.
+- Jalan Malu Malu — Malay marker 'jalan' appears in the name.
+- Jalan Malu-Malu — Malay marker 'jalan' appears in the name.
+- Jalan Malva — Malay marker 'jalan' appears in the name.
+- Jalan Mamam — Malay marker 'jalan' appears in the name.
+- Jalan Manis — Malay marker 'jalan' appears in the name.
+- Jalan Mariam — Malay marker 'jalan' appears in the name.
+- Jalan Mas Kuning — Malay marker 'jalan' appears in the name.
+- Jalan Mas Puteh — Malay marker 'jalan' appears in the name.
+- Jalan Mashhor — Malay marker 'jalan' appears in the name.
+- Jalan Mastuli — Malay marker 'jalan' appears in the name.
+- Jalan Mat Jambol — Malay marker 'jalan' appears in the name.
+- Jalan Mata Ayer — Malay marker 'jalan' appears in the name.
+- Jalan Mawar — Malay marker 'jalan' appears in the name.
+- Jalan Mayaanam — Malay marker 'jalan' appears in the name.
+- Jalan Melati — Malay marker 'jalan' appears in the name.
+- Jalan Melor — Malay marker 'jalan' appears in the name.
+- Jalan Membina — Malay marker 'jalan' appears in the name.
+- Jalan Mempurong — Malay marker 'jalan' appears in the name.
+- Jalan Menarong — Malay marker 'jalan' appears in the name.
+- Jalan Mendaki — Malay marker 'jalan' appears in the name.
+- Jalan Mengkudu — Malay marker 'jalan' appears in the name.
+- Jalan Mentakab — Malay marker 'jalan' appears in the name.
+- Jalan Merah Saga — Malay marker 'jalan' appears in the name.
+- Jalan Merbok — Malay marker 'jalan' appears in the name.
+- Jalan Merdu — Malay marker 'jalan' appears in the name.
+- Jalan Merlimau — Malay marker 'jalan' appears in the name.
+- Jalan Mesin — Malay marker 'jalan' appears in the name.
+- Jalan Mesra — Malay marker 'jalan' appears in the name.
+- Jalan Minggu — Malay marker 'jalan' appears in the name.
+- Jalan Minyak — Malay marker 'jalan' appears in the name.
+- Jalan Molek — Malay marker 'jalan' appears in the name.
+- Jalan Muhibbah — Malay marker 'jalan' appears in the name.
+- Jalan Mulia — Malay marker 'jalan' appears in the name.
+- Jalan Murai — Malay marker 'jalan' appears in the name.
+- Jalan Mutiara — Malay marker 'jalan' appears in the name.
+- Jalan Myra — Malay marker 'jalan' appears in the name.
+- Jalan Naga Sari — Malay marker 'jalan' appears in the name.
+- Jalan Naung — Malay marker 'jalan' appears in the name.
+- Jalan Nipah — Malay marker 'jalan' appears in the name.
+- Jalan Nira — Malay marker 'jalan' appears in the name.
+- Jalan Noordin — Malay marker 'jalan' appears in the name.
+- Jalan Novena — Malay marker 'jalan' appears in the name.
+- Jalan Novena Barat — Malay marker 'jalan' appears in the name.
+- Jalan Novena Selatan — Malay marker 'jalan' appears in the name.
+- Jalan Novena Timor — Malay marker 'jalan' appears in the name.
+- Jalan Novena Utara — Malay marker 'jalan' appears in the name.
+- Jalan Nuri — Malay marker 'jalan' appears in the name.
+- Jalan Pacheli — Malay marker 'jalan' appears in the name.
+- Jalan Pahang — Malay marker 'jalan' appears in the name.
+- Jalan Pahang Kecil — Malay marker 'jalan' appears in the name.
+- Jalan Pak Wong — Malay marker 'jalan' appears in the name.
+- Jalan Pakis — Malay marker 'jalan' appears in the name.
+- Jalan Pandan — Malay marker 'jalan' appears in the name.
+- Jalan Papan — Malay marker 'jalan' appears in the name.
+- Jalan Paras — Malay marker 'jalan' appears in the name.
+- Jalan Pari Burong — Malay marker 'jalan' appears in the name.
+- Jalan Pari Dedap — Malay marker 'jalan' appears in the name.
+- Jalan Pari Kikis — Malay marker 'jalan' appears in the name.
+- Jalan Pari Unak — Malay marker 'jalan' appears in the name.
+- Jalan Pasir Merah — Malay marker 'jalan' appears in the name.
+- Jalan Pasir Putih – Machang – Jeli — Malay marker 'jalan' appears in the name.
+- Jalan Pasir Ria — Malay marker 'jalan' appears in the name.
+- Jalan Pasiran — Malay marker 'jalan' appears in the name.
+- Jalan Payoh Lai — Malay marker 'jalan' appears in the name.
+- Jalan Pekan Ubin — Malay marker 'jalan' appears in the name.
+- Jalan Pelajau — Malay marker 'jalan' appears in the name.
+- Jalan Pelangi — Malay marker 'jalan' appears in the name.
+- Jalan Pelatina — Malay marker 'jalan' appears in the name.
+- Jalan Pelatok — Malay marker 'jalan' appears in the name.
+- Jalan Pelepah — Malay marker 'jalan' appears in the name.
+- Jalan Pelikat — Malay marker 'jalan' appears in the name.
+- Jalan Pemimpin — Malay marker 'jalan' appears in the name.
+- Jalan Penjara — Malay marker 'jalan' appears in the name.
+- Jalan Peradun — Malay marker 'jalan' appears in the name.
+- Jalan Perahu — Malay marker 'jalan' appears in the name.
+- Jalan Pergam — Malay marker 'jalan' appears in the name.
+- Jalan Permaisuri — Malay marker 'jalan' appears in the name.
+- Jalan Pernama — Malay marker 'jalan' appears in the name.
+- Jalan Pesawat — Malay marker 'jalan' appears in the name.
+- Jalan Pinang — Malay marker 'jalan' appears in the name.
+- Jalan Pintau — Malay marker 'jalan' appears in the name.
+- Jalan Piring — Malay marker 'jalan' appears in the name.
+- Jalan Pisang — Malay marker 'jalan' appears in the name.
+- Jalan Pokok Serunai — Malay marker 'jalan' appears in the name.
+- Jalan Puay Poon — Malay marker 'jalan' appears in the name.
+- Jalan Punai — Malay marker 'jalan' appears in the name.
+- Jalan Puteh Jerneh — Malay marker 'jalan' appears in the name.
+- Jalan Puteri Jula Juli — Malay marker 'jalan' appears in the name.
+- Jalan Puyoh — Malay marker 'jalan' appears in the name.
+- Jalan Rabu — Malay marker 'jalan' appears in the name.
+- Jalan Rahmat — Malay marker 'jalan' appears in the name.
+- Jalan Rajah — Malay marker 'jalan' appears in the name.
+- Jalan Rajawali — Malay marker 'jalan' appears in the name.
+- Jalan Rakit — Malay marker 'jalan' appears in the name.
+- Jalan Rama Rama — Malay marker 'jalan' appears in the name.
+- Jalan Rasok — Malay marker 'jalan' appears in the name.
+- Jalan Rawa — Malay marker 'jalan' appears in the name.
+- Jalan Raya — Malay marker 'jalan' appears in the name.
+- Jalan Rebana — Malay marker 'jalan' appears in the name.
+- Jalan Redop — Malay marker 'jalan' appears in the name.
+- Jalan Remaja — Malay marker 'jalan' appears in the name.
+- Jalan Remis — Malay marker 'jalan' appears in the name.
+- Jalan Rendang — Malay marker 'jalan' appears in the name.
+- Jalan Rengas — Malay marker 'jalan' appears in the name.
+- Jalan Rengkam — Malay marker 'jalan' appears in the name.
+- Jalan Resak — Malay marker 'jalan' appears in the name.
+- Jalan Ria — Malay marker 'jalan' appears in the name.
+- Jalan Riang — Malay marker 'jalan' appears in the name.
+- Jalan Rimau — Malay marker 'jalan' appears in the name.
+- Jalan Rindu — Malay marker 'jalan' appears in the name.
+- Jalan Rukam — Malay marker 'jalan' appears in the name.
+- Jalan Rumah Tinggi — Malay marker 'jalan' appears in the name.
+- Jalan Rumbia — Malay marker 'jalan' appears in the name.
+- Jalan Rumia — Malay marker 'jalan' appears in the name.
+- Jalan Sahabat — Malay marker 'jalan' appears in the name.
+- Jalan Sajak — Malay marker 'jalan' appears in the name.
+- Jalan Salabin — Malay marker 'jalan' appears in the name.
+- Jalan Salang — Malay marker 'jalan' appears in the name.
+- Jalan Sam Heng — Malay marker 'jalan' appears in the name.
+- Jalan Sam Kongsi — Malay marker 'jalan' appears in the name.
+- Jalan Samarinda — Malay marker 'jalan' appears in the name.
+- Jalan Sampurna — Malay marker 'jalan' appears in the name.
+- Jalan Samulun — Malay marker 'jalan' appears in the name.
+- Jalan Sankam — Malay marker 'jalan' appears in the name.
+- Jalan Sappan — Malay marker 'jalan' appears in the name.
+- Jalan Satu — Malay marker 'jalan' appears in the name.
+- Jalan Saudara Ku — Malay marker 'jalan' appears in the name.
+- Jalan Sayang — Malay marker 'jalan' appears in the name.
+- Jalan Seaview — Malay marker 'jalan' appears in the name.
+- Jalan Sedap — Malay marker 'jalan' appears in the name.
+- Jalan Segam — Malay marker 'jalan' appears in the name.
+- Jalan Seh Chuan — Malay marker 'jalan' appears in the name.
+- Jalan Sejarah — Malay marker 'jalan' appears in the name.
+- Jalan Selamat — Malay marker 'jalan' appears in the name.
+- Jalan Selanting — Malay marker 'jalan' appears in the name.
+- Jalan Selaseh — Malay marker 'jalan' appears in the name.
+- Jalan Selendang Delima — Malay marker 'jalan' appears in the name.
+- Jalan Selimang — Malay marker 'jalan' appears in the name.
+- Jalan Sembilang — Malay marker 'jalan' appears in the name.
+- Jalan Semchek — Malay marker 'jalan' appears in the name.
+- Jalan Semerbak — Malay marker 'jalan' appears in the name.
+- Jalan Sempadan — Malay marker 'jalan' appears in the name.
+- Jalan Senandong — Malay marker 'jalan' appears in the name.
+- Jalan Senang — Malay marker 'jalan' appears in the name.
+- Jalan Sendudok — Malay marker 'jalan' appears in the name.
+- Jalan Seni — Malay marker 'jalan' appears in the name.
+- Jalan Sentosa — Malay marker 'jalan' appears in the name.
+- Jalan Senyum — Malay marker 'jalan' appears in the name.
+- Jalan Serene — Malay marker 'jalan' appears in the name.
+- Jalan Serengam — Malay marker 'jalan' appears in the name.
+- Jalan Seruling — Malay marker 'jalan' appears in the name.
+- Jalan Setia — Malay marker 'jalan' appears in the name.
+- Jalan Shaer — Malay marker 'jalan' appears in the name.
+- Jalan Siantan — Malay marker 'jalan' appears in the name.
+- Jalan Siap — Malay marker 'jalan' appears in the name.
+- Jalan Sikudangan — Malay marker 'jalan' appears in the name.
+- Jalan Simpang Bedok — Malay marker 'jalan' appears in the name.
+- Jalan Sinar Bintang — Malay marker 'jalan' appears in the name.
+- Jalan Sinar Bulan — Malay marker 'jalan' appears in the name.
+- Jalan Sindor — Malay marker 'jalan' appears in the name.
+- Jalan Singa — Malay marker 'jalan' appears in the name.
+- Jalan Smk Limau-Limauan — Malay marker 'jalan' appears in the name.
+- Jalan Songket — Malay marker 'jalan' appears in the name.
+- Jalan Soo Bee — Malay marker 'jalan' appears in the name.
+- Jalan Sotong — Malay marker 'jalan' appears in the name.
+- Jalan Suasa — Malay marker 'jalan' appears in the name.
+- Jalan Suka — Malay marker 'jalan' appears in the name.
+- Jalan Sukachita — Malay marker 'jalan' appears in the name.
+- Jalan Sungai Emas — Malay marker 'jalan' appears in the name.
+- Jalan Sungei Belang — Malay marker 'jalan' appears in the name.
+- Jalan Sungei Poyan — Malay marker 'jalan' appears in the name.
+- Jalan Taman — Malay marker 'jalan' appears in the name.
+- Jalan Tamban — Malay marker 'jalan' appears in the name.
+- Jalan Tambur — Malay marker 'jalan' appears in the name.
+- Jalan Tampang — Malay marker 'jalan' appears in the name.
+- Jalan Tan Tock Seng — Malay marker 'jalan' appears in the name.
+- Jalan Tanah Puteh — Malay marker 'jalan' appears in the name.
+- Jalan Tanah Rata — Malay marker 'jalan' appears in the name.
+- Jalan Tani — Malay marker 'jalan' appears in the name.
+- Jalan Tanjong — Malay marker 'jalan' appears in the name.
+- Jalan Tapisan — Malay marker 'jalan' appears in the name.
+- Jalan Tari Dulang — Malay marker 'jalan' appears in the name.
+- Jalan Tari Lilin — Malay marker 'jalan' appears in the name.
+- Jalan Tari Payong — Malay marker 'jalan' appears in the name.
+- Jalan Tari Piring — Malay marker 'jalan' appears in the name.
+- Jalan Tari Serimpi — Malay marker 'jalan' appears in the name.
+- Jalan Tari Zapin — Malay marker 'jalan' appears in the name.
+- Jalan Tarum — Malay marker 'jalan' appears in the name.
+- Jalan Teck Kee — Malay marker 'jalan' appears in the name.
+- Jalan Teck Whye — Malay marker 'jalan' appears in the name.
+- Jalan Tekad — Malay marker 'jalan' appears in the name.
+- Jalan Tekukor — Malay marker 'jalan' appears in the name.
+- Jalan Telang — Malay marker 'jalan' appears in the name.
+- Jalan Telipok — Malay marker 'jalan' appears in the name.
+- Jalan Teliti — Malay marker 'jalan' appears in the name.
+- Jalan Tembusu — Malay marker 'jalan' appears in the name.
+- Jalan Tempua — Malay marker 'jalan' appears in the name.
+- Jalan Tenaga — Malay marker 'jalan' appears in the name.
+- Jalan Tenang — Malay marker 'jalan' appears in the name.
+- Jalan Tenggiri — Malay marker 'jalan' appears in the name.
+- Jalan Tenon — Malay marker 'jalan' appears in the name.
+- Jalan Tenteram — Malay marker 'jalan' appears in the name.
+- Jalan Tepong — Malay marker 'jalan' appears in the name.
+- Jalan Terang Bulan — Malay marker 'jalan' appears in the name.
+- Jalan Terubok — Malay marker 'jalan' appears in the name.
+- Jalan Terusan — Malay marker 'jalan' appears in the name.
+- Jalan Tiga — Malay marker 'jalan' appears in the name.
+- Jalan Tiga Ratus — Malay marker 'jalan' appears in the name.
+- Jalan Tiong — Malay marker 'jalan' appears in the name.
+- Jalan Titiwangsa — Malay marker 'jalan' appears in the name.
+- Jalan Toa Payoh — Malay marker 'jalan' appears in the name.
+- Jalan Todak — Malay marker 'jalan' appears in the name.
+- Jalan Tua Kong — Malay marker 'jalan' appears in the name.
+- Jalan Tukang — Malay marker 'jalan' appears in the name.
+- Jalan Tumpu — Malay marker 'jalan' appears in the name.
+- Jalan Tun Hussien Onn — Malay marker 'jalan' appears in the name.
+- Jalan Tupai — Malay marker 'jalan' appears in the name.
+- Jalan Turi — Malay marker 'jalan' appears in the name.
+- Jalan Ubi — Malay marker 'jalan' appears in the name.
+- Jalan Ubin — Malay marker 'jalan' appears in the name.
+- Jalan Uji — Malay marker 'jalan' appears in the name.
+- Jalan Ulu Seletar — Malay marker 'jalan' appears in the name.
+- Jalan Ulu Sembawang — Malay marker 'jalan' appears in the name.
+- Jalan Ulu Siglap — Malay marker 'jalan' appears in the name.
+- Jalan Unggas — Malay marker 'jalan' appears in the name.
+- Jalan Unum — Malay marker 'jalan' appears in the name.
+- Jalan Usaha — Malay marker 'jalan' appears in the name.
+- Jalan Wajek — Malay marker 'jalan' appears in the name.
+- Jalan Wak Selat — Malay marker 'jalan' appears in the name.
+- Jalan Wakaff — Malay marker 'jalan' appears in the name.
+- Jalan Wangi — Malay marker 'jalan' appears in the name.
+- Jalan Waringin — Malay marker 'jalan' appears in the name.
+- Jalan Wat Siam — Malay marker 'jalan' appears in the name.
+- Jalan Yasin — Malay marker 'jalan' appears in the name.
+- Jalan Zamrud — Malay marker 'jalan' appears in the name.
+- Jamaica Road — English street-type suffix 'road' is used.
+- Jambol Walk — English street-type suffix 'walk' is used.
+- Jansen Close — English street-type suffix 'close' is used.
+- Jansen Road — English street-type suffix 'road' is used.
+- Jasmine Road — English street-type suffix 'road' is used.
+- Java Road — English street-type suffix 'road' is used.
+- Jelapang Road — English street-type suffix 'road' is used.
+- Jelebu Road — English street-type suffix 'road' is used.
+- Jellicoe Road — English street-type suffix 'road' is used.
+- Jervios Road — English street-type suffix 'road' is used.
+- Jervois Close — English street-type suffix 'close' is used.
+- Jervois Lane — English street-type suffix 'lane' is used.
+- Jervois Road — English street-type suffix 'road' is used.
+- Jiak Chuan Road — English street-type suffix 'road' is used.
+- Jiak Kim Street — English street-type suffix 'street' is used.
+- Joan Road — English street-type suffix 'road' is used.
+- John Road — English street-type suffix 'road' is used.
+- Joo Avenue — English street-type suffix 'avenue' is used.
+- Joo Chiat Avenue — English street-type suffix 'avenue' is used.
+- Joo Chiat Lane — English street-type suffix 'lane' is used.
+- Joo Chiat Road — English street-type suffix 'road' is used.
+- Joo Chiat Terrace — English street-type suffix 'terrace' is used.
+- Joo Chiat Walk — English street-type suffix 'walk' is used.
+- Joo Hong Road — English street-type suffix 'road' is used.
+- Joo Koon Circle — English street-type suffix 'circle' is used.
+- Joo Koon Crescent — English street-type suffix 'crescent' is used.
+- Joo Koon Road — English street-type suffix 'road' is used.
+- Joo Koon Way — English street-type suffix 'way' is used.
+- Joo Seng Road — English street-type suffix 'road' is used.
+- Joo Yee Road — English street-type suffix 'road' is used.
+- Joon Hiang Road — English street-type suffix 'road' is used.
+- Jubilee Road — English street-type suffix 'road' is used.
+- Jupiter Road — English street-type suffix 'road' is used.
+- Jurong Canal Drive — English street-type suffix 'drive' is used.
+- Jurong Gateway Road — English street-type suffix 'road' is used.
+- Jurong Road — English street-type suffix 'road' is used.
+- Jurong Town Hall Road — English street-type suffix 'road' is used.
+- Kadayanallur Street — English street-type suffix 'street' is used.
+- Kaki Bukit Crescent — Malay marker 'bukit' appears in the name.
+- Kalidasa Avenue — English street-type suffix 'avenue' is used.
+- Kallang Avenue — English street-type suffix 'avenue' is used.
+- Kallang Pudding Road — English street-type suffix 'road' is used.
+- Kallang Road — English street-type suffix 'road' is used.
+- Kallang Walk — English street-type suffix 'walk' is used.
+- Kallang Way — English street-type suffix 'way' is used.
+- Kampong Arang Road — Malay marker 'kampong' appears in the name.
+- Kampong Bahru Road — Malay marker 'kampong' appears in the name.
+- Kampong Berih Road — Malay marker 'kampong' appears in the name.
+- Kampong Java Road — Malay marker 'kampong' appears in the name.
+- Kampong Kapor Road — Malay marker 'kampong' appears in the name.
+- Kampong Kayu Road — Malay marker 'kampong' appears in the name.
+- Kampong Lorong Buangkok — Malay marker 'kampong' appears in the name.
+- Kandahar Street — English street-type suffix 'street' is used.
+- Kandis Lane — English street-type suffix 'lane' is used.
+- Kandis Link — English street-type suffix 'link' is used.
+- Kandis Walk — English street-type suffix 'walk' is used.
+- Kang Ching Road — English street-type suffix 'road' is used.
+- Kang Choo Bin Road — English street-type suffix 'road' is used.
+- Kang Choo Bin Walk — English street-type suffix 'walk' is used.
+- Kanisha Marican Road — English street-type suffix 'road' is used.
+- Karikal Lane — English street-type suffix 'lane' is used.
+- Kasai Road — English street-type suffix 'road' is used.
+- Katmandu Road — English street-type suffix 'road' is used.
+- Kay Poh Road — English street-type suffix 'road' is used.
+- Kay Siang Road — English street-type suffix 'road' is used.
+- Keat Hong Close — English street-type suffix 'close' is used.
+- Keat Hong Link — English street-type suffix 'link' is used.
+- Kebun Baru Link — English street-type suffix 'link' is used.
+- Kechubong Terrace — English street-type suffix 'terrace' is used.
+- Kee Choe Avenue — English street-type suffix 'avenue' is used.
+- Kee Seng Street — English street-type suffix 'street' is used.
+- Kee Sun Avenue — English street-type suffix 'avenue' is used.
+- Keene Road — English street-type suffix 'road' is used.
+- Kelantan Lane — English street-type suffix 'lane' is used.
+- Kelantan Road — English street-type suffix 'road' is used.
+- Keliville Private Access Road — English street-type suffix 'road' is used.
+- Kellock Road — English street-type suffix 'road' is used.
+- Kelopak Road — English street-type suffix 'road' is used.
+- Kempas Road — English street-type suffix 'road' is used.
+- Kenanga Avenue — English street-type suffix 'avenue' is used.
+- Keng Cheow Street — English street-type suffix 'street' is used.
+- Keng Chin Road — English street-type suffix 'road' is used.
+- Keng Kiat Street — English street-type suffix 'street' is used.
+- Keng Lee Road — English street-type suffix 'road' is used.
+- Kenler Road — English street-type suffix 'road' is used.
+- Kent Road — English street-type suffix 'road' is used.
+- Kenya Crescent — English street-type suffix 'crescent' is used.
+- Kenya Crescent Road — English street-type suffix 'crescent' is used.
+- Keong Saik Road — English street-type suffix 'road' is used.
+- Keppel Road — English street-type suffix 'road' is used.
+- Keramat Road — English street-type suffix 'road' is used.
+- Kerbau Road — English street-type suffix 'road' is used.
+- Keris Drive — English street-type suffix 'drive' is used.
+- Kerong Lane — English street-type suffix 'lane' is used.
+- Kerong Walk — English street-type suffix 'walk' is used.
+- Kew Avenue — English street-type suffix 'avenue' is used.
+- Kew Crescent — English street-type suffix 'crescent' is used.
+- Kew Drive — English street-type suffix 'drive' is used.
+- Kew Lane — English street-type suffix 'lane' is used.
+- Kew Terrace — English street-type suffix 'terrace' is used.
+- Kew Walk — English street-type suffix 'walk' is used.
+- Kheam Hock Nature Way — English street-type suffix 'way' is used.
+- Kheam Hock Road — English street-type suffix 'road' is used.
+- Khiang Guan Avenue — English street-type suffix 'avenue' is used.
+- Kian Teck Avenue — English street-type suffix 'avenue' is used.
+- Kian Teck Crescent — English street-type suffix 'crescent' is used.
+- Kian Teck Drive — English street-type suffix 'drive' is used.
+- Kian Teck Lane — English street-type suffix 'lane' is used.
+- Kian Teck Road — English street-type suffix 'road' is used.
+- Kian Teck Way — English street-type suffix 'way' is used.
+- Killiney Road — English street-type suffix 'road' is used.
+- Kim Cheng Street — English street-type suffix 'street' is used.
+- Kim Chuan Drive — English street-type suffix 'drive' is used.
+- Kim Chuan Lane — English street-type suffix 'lane' is used.
+- Kim Chuan Road — English street-type suffix 'road' is used.
+- Kim Chuan Terrace — English street-type suffix 'terrace' is used.
+- Kim Keat Avenue — English street-type suffix 'avenue' is used.
+- Kim Keat Close — English street-type suffix 'close' is used.
+- Kim Keat Lane — English street-type suffix 'lane' is used.
+- Kim Keat Link — English street-type suffix 'link' is used.
+- Kim Keat Road — English street-type suffix 'road' is used.
+- Kim Pong Road — English street-type suffix 'road' is used.
+- Kim Seng Road — English street-type suffix 'road' is used.
+- Kim Seng Walk — English street-type suffix 'walk' is used.
+- Kim Tian Road — English street-type suffix 'road' is used.
+- Kim Yam Road — English street-type suffix 'road' is used.
+- Kingsford Terrace — English street-type suffix 'terrace' is used.
+- Kingsmead Road — English street-type suffix 'road' is used.
+- Kingston Terrace — English street-type suffix 'terrace' is used.
+- Kingswear Avenue — English street-type suffix 'avenue' is used.
+- Kinta Road — English street-type suffix 'road' is used.
+- Kirk Terrace — English street-type suffix 'terrace' is used.
+- Kismis Avenue — English street-type suffix 'avenue' is used.
+- Kitchener Link — English street-type suffix 'link' is used.
+- Kitchener Road — English street-type suffix 'road' is used.
+- Klang Lane — English street-type suffix 'lane' is used.
+- Koek Road — English street-type suffix 'road' is used.
+- Koh Sek Lim Road — English street-type suffix 'road' is used.
+- Koon Seng Road — English street-type suffix 'road' is used.
+- Kovan Close — English street-type suffix 'close' is used.
+- Kovan Rise — English street-type suffix 'rise' is used.
+- Kovan Road — English street-type suffix 'road' is used.
+- Kramat Lane — English street-type suffix 'lane' is used.
+- Kramat Road — English street-type suffix 'road' is used.
+- Kranji Close — English street-type suffix 'close' is used.
+- Kranji Crescent — English street-type suffix 'crescent' is used.
+- Kranji Link — English street-type suffix 'link' is used.
+- Kranji Loop — English street-type suffix 'loop' is used.
+- Kranji Road — English street-type suffix 'road' is used.
+- Kranji Way — English street-type suffix 'way' is used.
+- Kreta Ayer Road — English street-type suffix 'road' is used.
+- Kreta Road — English street-type suffix 'road' is used.
+- Kung Chong Road — English street-type suffix 'road' is used.
+- Kuo Chuan Avenue — English street-type suffix 'avenue' is used.
+- Kurau Terrace — English street-type suffix 'terrace' is used.
+- Kwong Avenue — English street-type suffix 'avenue' is used.
+- Kwong Min Road — English street-type suffix 'road' is used.
+- La Salle Street — English street-type suffix 'street' is used.
+- Labrador Villa Road — English street-type suffix 'road' is used.
+- Ladang Ring — Categorized by general naming style.
+- Lagos Circle — English street-type suffix 'circle' is used.
+- Lakepoint Drive — English street-type suffix 'drive' is used.
+- Lakeside Drive — English street-type suffix 'drive' is used.
+- Lakme Street — English street-type suffix 'street' is used.
+- Lakme Terrace — English street-type suffix 'terrace' is used.
+- Lambeth Walk — English street-type suffix 'walk' is used.
+- Lange Road — English street-type suffix 'road' is used.
+- Langsat Road — English street-type suffix 'road' is used.
+- Lantana Avenue — English street-type suffix 'avenue' is used.
+- Larkhill Road — English street-type suffix 'road' is used.
+- Lasia Avenue — English street-type suffix 'avenue' is used.
+- Laurel Wood Avenue — English street-type suffix 'avenue' is used.
+- Lavender Street — English street-type suffix 'street' is used.
+- Leedon Road — English street-type suffix 'road' is used.
+- Leicester Road — English street-type suffix 'road' is used.
+- Leith Road — English street-type suffix 'road' is used.
+- Lembu Road — English street-type suffix 'road' is used.
+- Lemon Avenue — English street-type suffix 'avenue' is used.
+- Lempeng Drive — English street-type suffix 'drive' is used.
+- Leng Kee Road — English street-type suffix 'road' is used.
+- Lentor Avenue — English street-type suffix 'avenue' is used.
+- Lentor Crescent — English street-type suffix 'crescent' is used.
+- Lentor Drive — English street-type suffix 'drive' is used.
+- Lentor Hills Road — English street-type suffix 'road' is used.
+- Lentor Lane — English street-type suffix 'lane' is used.
+- Lentor Link — English street-type suffix 'link' is used.
+- Lentor Loop — English street-type suffix 'loop' is used.
+- Lentor Road — English street-type suffix 'road' is used.
+- Lentor Street — English street-type suffix 'street' is used.
+- Lentor Terrace — English street-type suffix 'terrace' is used.
+- Lentor Walk — English street-type suffix 'walk' is used.
+- Lentor Way — English street-type suffix 'way' is used.
+- Leo Drive — English street-type suffix 'drive' is used.
+- Lermit Road — English street-type suffix 'road' is used.
+- Leuchars Road — English street-type suffix 'road' is used.
+- Lewin Terrace — English street-type suffix 'terrace' is used.
+- Lewis Road — English street-type suffix 'road' is used.
+- Li Hwan Close — English street-type suffix 'close' is used.
+- Li Hwan Drive — English street-type suffix 'drive' is used.
+- Li Hwan Terrace — English street-type suffix 'terrace' is used.
+- Li Hwan Walk — English street-type suffix 'walk' is used.
+- Li Po Avenue — English street-type suffix 'avenue' is used.
+- Liane Road — English street-type suffix 'road' is used.
+- Liang Seah Street — English street-type suffix 'street' is used.
+- Libra Drive — English street-type suffix 'drive' is used.
+- Lichfield Road — English street-type suffix 'road' is used.
+- Lichi Avenue — English street-type suffix 'avenue' is used.
+- Lien Ying Chow Drive — English street-type suffix 'drive' is used.
+- Lilac Drive — English street-type suffix 'drive' is used.
+- Lilac Road — English street-type suffix 'road' is used.
+- Lilac Walk — English street-type suffix 'walk' is used.
+- Lily Avenue — English street-type suffix 'avenue' is used.
+- Lim Ah Pin Road — English street-type suffix 'road' is used.
+- Lim Ah Woo Road — English street-type suffix 'road' is used.
+- Lim Chu Kang Road — English street-type suffix 'road' is used.
+- Lim Liak Street — English street-type suffix 'street' is used.
+- Lim Tai See Walk — English street-type suffix 'walk' is used.
+- Lim Teck Boo Road — English street-type suffix 'road' is used.
+- Lim Teck Kim Road — English street-type suffix 'road' is used.
+- Lim Tua Tow Road — English street-type suffix 'road' is used.
+- Limau Rise — English street-type suffix 'rise' is used.
+- Limau Terrace — English street-type suffix 'terrace' is used.
+- Limau Walk — English street-type suffix 'walk' is used.
+- Limbok Terrace — English street-type suffix 'terrace' is used.
+- Lincoln Road — English street-type suffix 'road' is used.
+- Linden Drive — English street-type suffix 'drive' is used.
+- Link Road — English street-type suffix 'link' is used.
+- Little Road — English street-type suffix 'road' is used.
+- Lloyd Road — English street-type suffix 'road' is used.
+- Lock Road — English street-type suffix 'road' is used.
+- Loewen Road — English street-type suffix 'road' is used.
+- Log Walk — English street-type suffix 'walk' is used.
+- Lok Yang Way — English street-type suffix 'way' is used.
+- Loke Yew Street — English street-type suffix 'street' is used.
+- Lompang Road — English street-type suffix 'road' is used.
+- Lookout Loop — English street-type suffix 'loop' is used.
+- Lornie Road — English street-type suffix 'road' is used.
+- Lornie Walk — English street-type suffix 'walk' is used.
+- Lorong Abu Talib — Malay marker 'lorong' appears in the name.
+- Lorong Ah Soo — Malay marker 'lorong' appears in the name.
+- Lorong Ah Thia — Malay marker 'lorong' appears in the name.
+- Lorong Ampas — Malay marker 'lorong' appears in the name.
+- Lorong Asrama — Malay marker 'lorong' appears in the name.
+- Lorong Ayam Belaga — Malay marker 'lorong' appears in the name.
+- Lorong Ayam Denak — Malay marker 'lorong' appears in the name.
+- Lorong Ayam Hutan — Malay marker 'lorong' appears in the name.
+- Lorong Ayam Jalak — Malay marker 'lorong' appears in the name.
+- Lorong Ayam Katek — Malay marker 'lorong' appears in the name.
+- Lorong Bachok — Malay marker 'lorong' appears in the name.
+- Lorong Bakar Batu — Malay marker 'lorong' appears in the name.
+- Lorong Bandang — Malay marker 'lorong' appears in the name.
+- Lorong Banir Stream — Malay marker 'lorong' appears in the name.
+- Lorong Batawi — Malay marker 'lorong' appears in the name.
+- Lorong Bekukong — Malay marker 'lorong' appears in the name.
+- Lorong Biawak — Malay marker 'lorong' appears in the name.
+- Lorong Bin Kiang — Malay marker 'lorong' appears in the name.
+- Lorong Bistari — Malay marker 'lorong' appears in the name.
+- Lorong Buang Kok — Malay marker 'lorong' appears in the name.
+- Lorong Buangkok — Malay marker 'lorong' appears in the name.
+- Lorong Bunga — Malay marker 'lorong' appears in the name.
+- Lorong Chan Chin Mooi — Malay marker 'lorong' appears in the name.
+- Lorong Chencharu — Malay marker 'lorong' appears in the name.
+- Lorong Chow Thye — Malay marker 'lorong' appears in the name.
+- Lorong Chuan — Malay marker 'lorong' appears in the name.
+- Lorong Danau — Malay marker 'lorong' appears in the name.
+- Lorong G Telok Kurau — Malay marker 'lorong' appears in the name.
+- Lorong Gambir — Malay marker 'lorong' appears in the name.
+- Lorong H Telok Kurau — Malay marker 'lorong' appears in the name.
+- Lorong Halus — Malay marker 'lorong' appears in the name.
+- Lorong Halus Wetland — Malay marker 'lorong' appears in the name.
+- Lorong Halwa — Malay marker 'lorong' appears in the name.
+- Lorong How Sun — Malay marker 'lorong' appears in the name.
+- Lorong J Telok Kurau — Malay marker 'lorong' appears in the name.
+- Lorong K Telok Kurau — Malay marker 'lorong' appears in the name.
+- Lorong Kebasi — Malay marker 'lorong' appears in the name.
+- Lorong Kembang — Malay marker 'lorong' appears in the name.
+- Lorong Kembangan — Malay marker 'lorong' appears in the name.
+- Lorong Kemunchup — Malay marker 'lorong' appears in the name.
+- Lorong Kerepek — Malay marker 'lorong' appears in the name.
+- Lorong Kilat — Malay marker 'lorong' appears in the name.
+- Lorong Kismis — Malay marker 'lorong' appears in the name.
+- Lorong L Telok Kurau — Malay marker 'lorong' appears in the name.
+- Lorong Lada Hitam — Malay marker 'lorong' appears in the name.
+- Lorong Lew Lian — Malay marker 'lorong' appears in the name.
+- Lorong Limau — Malay marker 'lorong' appears in the name.
+- Lorong Liput — Malay marker 'lorong' appears in the name.
+- Lorong Low Koon — Malay marker 'lorong' appears in the name.
+- Lorong M Telok Kurau — Malay marker 'lorong' appears in the name.
+- Lorong Mambong — Malay marker 'lorong' appears in the name.
+- Lorong Marican — Malay marker 'lorong' appears in the name.
+- Lorong Marzuki — Malay marker 'lorong' appears in the name.
+- Lorong Mega — Malay marker 'lorong' appears in the name.
+- Lorong Melayu — Malay marker 'lorong' appears in the name.
+- Lorong Melukut — Malay marker 'lorong' appears in the name.
+- Lorong Mydin — Malay marker 'lorong' appears in the name.
+- Lorong N — Malay marker 'lorong' appears in the name.
+- Lorong N Telok Kurau — Malay marker 'lorong' appears in the name.
+- Lorong Nangka — Malay marker 'lorong' appears in the name.
+- Lorong Napiri — Malay marker 'lorong' appears in the name.
+- Lorong Ong Lye — Malay marker 'lorong' appears in the name.
+- Lorong Pasu — Malay marker 'lorong' appears in the name.
+- Lorong Paya Lebar — Malay marker 'lorong' appears in the name.
+- Lorong Payah — Malay marker 'lorong' appears in the name.
+- Lorong Pelita — Malay marker 'lorong' appears in the name.
+- Lorong Penchalak — Malay marker 'lorong' appears in the name.
+- Lorong Pendek — Malay marker 'lorong' appears in the name.
+- Lorong Pisang Asam — Malay marker 'lorong' appears in the name.
+- Lorong Pisang Batu — Malay marker 'lorong' appears in the name.
+- Lorong Pisang Emas — Malay marker 'lorong' appears in the name.
+- Lorong Pisang Hijau — Malay marker 'lorong' appears in the name.
+- Lorong Pisang Udang — Malay marker 'lorong' appears in the name.
+- Lorong Pulai — Malay marker 'lorong' appears in the name.
+- Lorong Puntong — Malay marker 'lorong' appears in the name.
+- Lorong Rusuk — Malay marker 'lorong' appears in the name.
+- Lorong Sakai — Malay marker 'lorong' appears in the name.
+- Lorong Salleh — Malay marker 'lorong' appears in the name.
+- Lorong Samak — Malay marker 'lorong' appears in the name.
+- Lorong Sarhad — Malay marker 'lorong' appears in the name.
+- Lorong Sari — Malay marker 'lorong' appears in the name.
+- Lorong Sarina — Malay marker 'lorong' appears in the name.
+- Lorong Selangat — Malay marker 'lorong' appears in the name.
+- Lorong Semangka — Malay marker 'lorong' appears in the name.
+- Lorong Serai — Malay marker 'lorong' appears in the name.
+- Lorong Serambi — Malay marker 'lorong' appears in the name.
+- Lorong Sesuai — Malay marker 'lorong' appears in the name.
+- Lorong Sidin — Malay marker 'lorong' appears in the name.
+- Lorong Siglap — Malay marker 'lorong' appears in the name.
+- Lorong Sireh Pinang — Malay marker 'lorong' appears in the name.
+- Lorong Stangee — Malay marker 'lorong' appears in the name.
+- Lorong Tahar — Malay marker 'lorong' appears in the name.
+- Lorong Tanggam — Malay marker 'lorong' appears in the name.
+- Lorong Tawas — Malay marker 'lorong' appears in the name.
+- Lorong Telok — Malay marker 'lorong' appears in the name.
+- Lorong Temechut — Malay marker 'lorong' appears in the name.
+- Lorong Terigu — Malay marker 'lorong' appears in the name.
+- Lothian Terrace — English street-type suffix 'terrace' is used.
+- Lotus Avenue — English street-type suffix 'avenue' is used.
+- Lowland Road — English street-type suffix 'road' is used.
+- Loyang Avenue — English street-type suffix 'avenue' is used.
+- Loyang Besar Close — English street-type suffix 'close' is used.
+- Loyang Close — English street-type suffix 'close' is used.
+- Loyang Crescent — English street-type suffix 'crescent' is used.
+- Loyang Drive — English street-type suffix 'drive' is used.
+- Loyang Lane — English street-type suffix 'lane' is used.
+- Loyang Link — English street-type suffix 'link' is used.
+- Loyang Rise — English street-type suffix 'rise' is used.
+- Loyang Street — English street-type suffix 'street' is used.
+- Loyang Walk — English street-type suffix 'walk' is used.
+- Loyang Way — English street-type suffix 'way' is used.
+- Lucky Crescent — English street-type suffix 'crescent' is used.
+- Lucky Rise — English street-type suffix 'rise' is used.
+- Lumnitzera Walk — English street-type suffix 'walk' is used.
+- Lutheran Road — English street-type suffix 'road' is used.
+- Lyndhurst Road — English street-type suffix 'road' is used.
+- Lyneham Road — English street-type suffix 'road' is used.
+- Macalister Road — English street-type suffix 'road' is used.
+- Mackenzie Road — English street-type suffix 'road' is used.
+- Mackerrow Road — English street-type suffix 'road' is used.
+- Macpherson Lane — English street-type suffix 'lane' is used.
+- Macpherson Road — English street-type suffix 'road' is used.
+- Macpherson Walk — English street-type suffix 'walk' is used.
+- Mactaggart Road — English street-type suffix 'road' is used.
+- Madras Street — English street-type suffix 'street' is used.
+- Magazine Road — English street-type suffix 'road' is used.
+- Maidstone Road — English street-type suffix 'road' is used.
+- Main Gate Road — English street-type suffix 'road' is used.
+- Main Road — English street-type suffix 'road' is used.
+- Maju Avenue — English street-type suffix 'avenue' is used.
+- Maju Drive — English street-type suffix 'drive' is used.
+- Makepeace Road — English street-type suffix 'road' is used.
+- Makeway Avenue — English street-type suffix 'avenue' is used.
+- Malabar Street — English street-type suffix 'street' is used.
+- Malacca Street — English street-type suffix 'street' is used.
+- Malan Road — English street-type suffix 'road' is used.
+- Malay Street — English street-type suffix 'street' is used.
+- Malcolm Road — English street-type suffix 'road' is used.
+- Malta Crescent — English street-type suffix 'crescent' is used.
+- Mandai Avenue — English street-type suffix 'avenue' is used.
+- Mandai Link — English street-type suffix 'link' is used.
+- Mandai Quarry Road — English street-type suffix 'road' is used.
+- Mandai Road — English street-type suffix 'road' is used.
+- Mandalay Road — English street-type suffix 'road' is used.
+- Mangis Road — English street-type suffix 'road' is used.
+- Mangrove Walk — English street-type suffix 'walk' is used.
+- Manila Street — English street-type suffix 'street' is used.
+- Manston Road — English street-type suffix 'road' is used.
+- Maple Avenue — English street-type suffix 'avenue' is used.
+- Maple Lane — English street-type suffix 'lane' is used.
+- Mar Thoma Road — English street-type suffix 'road' is used.
+- Marang Road — English street-type suffix 'road' is used.
+- Maranta Avenue — English street-type suffix 'avenue' is used.
+- Margaret Drive — English street-type suffix 'drive' is used.
+- Margate Road — English street-type suffix 'road' is used.
+- Margate Terrace — English street-type suffix 'terrace' is used.
+- Margoliouth Road — English street-type suffix 'road' is used.
+- Maria Avenue — English street-type suffix 'avenue' is used.
+- Mariam Close — English street-type suffix 'close' is used.
+- Mariam Walk — English street-type suffix 'walk' is used.
+- Mariam Way — English street-type suffix 'way' is used.
+- Marigold Drive — English street-type suffix 'drive' is used.
+- Marina Boulevard — English street-type suffix 'boulevard' is used.
+- Marina Coastal Drive — English street-type suffix 'drive' is used.
+- Marina Link — English street-type suffix 'link' is used.
+- Marina View Link — English street-type suffix 'view' is used.
+- Marina Way — English street-type suffix 'way' is used.
+- Marine Crescent — English street-type suffix 'crescent' is used.
+- Marine Drive — English street-type suffix 'drive' is used.
+- Marine Parade Road — English street-type suffix 'road' is used.
+- Marine Terrace — English street-type suffix 'terrace' is used.
+- Marine Terrace Walk — English street-type suffix 'terrace' is used.
+- Market Street — English street-type suffix 'street' is used.
+- Marlene Avenue — English street-type suffix 'avenue' is used.
+- Marne Road — English street-type suffix 'road' is used.
+- Marshall Lane — English street-type suffix 'lane' is used.
+- Marshall Road — English street-type suffix 'road' is used.
+- Marsiling Crescent — English street-type suffix 'crescent' is used.
+- Marsiling Drive — English street-type suffix 'drive' is used.
+- Marsiling Lane — English street-type suffix 'lane' is used.
+- Marsiling Rise — English street-type suffix 'rise' is used.
+- Marsiling Road — English street-type suffix 'road' is used.
+- Martaban Road — English street-type suffix 'road' is used.
+- Martia Road — English street-type suffix 'road' is used.
+- Martin Road — English street-type suffix 'road' is used.
+- Maryland Drive — English street-type suffix 'drive' is used.
+- Marymount Lane — English street-type suffix 'lane' is used.
+- Marymount Road — English street-type suffix 'road' is used.
+- Marymount Terrace — English street-type suffix 'terrace' is used.
+- Mas Kuning Terrace — English street-type suffix 'terrace' is used.
+- Matlock Rise — English street-type suffix 'rise' is used.
+- Mattar Road — English street-type suffix 'road' is used.
+- Maude Road — English street-type suffix 'road' is used.
+- Maxwell Link — English street-type suffix 'link' is used.
+- Maxwell Road — English street-type suffix 'road' is used.
+- May Road — English street-type suffix 'road' is used.
+- Mayfield Avenue — English street-type suffix 'avenue' is used.
+- Mayflower Avenue — English street-type suffix 'avenue' is used.
+- Mayflower Crescent — English street-type suffix 'crescent' is used.
+- Mayflower Drive — English street-type suffix 'drive' is used.
+- Mayflower Lane — English street-type suffix 'lane' is used.
+- Mayflower Rise — English street-type suffix 'rise' is used.
+- Mayflower Road — English street-type suffix 'road' is used.
+- Mayflower Terrace — English street-type suffix 'terrace' is used.
+- Mayflower Way — English street-type suffix 'way' is used.
+- Mayne Road — English street-type suffix 'road' is used.
+- Mayo Street — English street-type suffix 'street' is used.
+- Mber Teck Chye Terrace — English street-type suffix 'terrace' is used.
+- Mccallum Street — English street-type suffix 'street' is used.
+- Mcnair Road — English street-type suffix 'road' is used.
+- Mcnally Street — English street-type suffix 'street' is used.
+- Media Circle — English street-type suffix 'circle' is used.
+- Media Link — English street-type suffix 'link' is used.
+- Media Walk — English street-type suffix 'walk' is used.
+- Medical Drive — English street-type suffix 'drive' is used.
+- Medway Drive — English street-type suffix 'drive' is used.
+- Mei Chin Road — English street-type suffix 'road' is used.
+- Mei Hwan Crescent — English street-type suffix 'crescent' is used.
+- Mei Hwan Drive — English street-type suffix 'drive' is used.
+- Mei Hwan Road — English street-type suffix 'road' is used.
+- Mei Ling Street — English street-type suffix 'street' is used.
+- Melrose Drive — English street-type suffix 'drive' is used.
+- Meng Suan Road — English street-type suffix 'road' is used.
+- Meragi Close — English street-type suffix 'close' is used.
+- Meragi Road — English street-type suffix 'road' is used.
+- Meragi Terrace — English street-type suffix 'terrace' is used.
+- Meranti Crescent — English street-type suffix 'crescent' is used.
+- Meranti Road — English street-type suffix 'road' is used.
+- Merbau Road — English street-type suffix 'road' is used.
+- Mergui Road — English street-type suffix 'road' is used.
+- Merino Crescent — English street-type suffix 'crescent' is used.
+- Merlimau Road — English street-type suffix 'road' is used.
+- Merpati Road — English street-type suffix 'road' is used.
+- Merryn Avenue — English street-type suffix 'avenue' is used.
+- Merryn Close — English street-type suffix 'close' is used.
+- Merryn Drive — English street-type suffix 'drive' is used.
+- Merryn Road — English street-type suffix 'road' is used.
+- Merryn Terrace — English street-type suffix 'terrace' is used.
+- Metropole Drive — English street-type suffix 'drive' is used.
+- Mewr Private Road — English street-type suffix 'road' is used.
+- Meyappa Chettiar Road — English street-type suffix 'road' is used.
+- Meyer Road — English street-type suffix 'road' is used.
+- Mid-Canopy Walk — English street-type suffix 'walk' is used.
+- Middle Road — English street-type suffix 'road' is used.
+- Middlesex Road — English street-type suffix 'road' is used.
+- Millenia Walk — English street-type suffix 'walk' is used.
+- Miller Street — English street-type suffix 'street' is used.
+- Miltonia Close — English street-type suffix 'close' is used.
+- Mimosa Crescent — English street-type suffix 'crescent' is used.
+- Mimosa Drive — English street-type suffix 'drive' is used.
+- Mimosa Road — English street-type suffix 'road' is used.
+- Mimosa Terrace — English street-type suffix 'terrace' is used.
+- Mimosa Walk — English street-type suffix 'walk' is used.
+- Minaret Walk — English street-type suffix 'walk' is used.
+- Minbu Road — English street-type suffix 'road' is used.
+- Minden Road — English street-type suffix 'road' is used.
+- Minto Road — English street-type suffix 'road' is used.
+- Mist Walk — English street-type suffix 'walk' is used.
+- Mistri Road — English street-type suffix 'road' is used.
+- Moberly Close — English street-type suffix 'close' is used.
+- Moh Guan Terrace — English street-type suffix 'terrace' is used.
+- Mohamed Ali Lane — English street-type suffix 'lane' is used.
+- Montreal Drive — English street-type suffix 'drive' is used.
+- Montreal Link — English street-type suffix 'link' is used.
+- Montreal Road — English street-type suffix 'road' is used.
+- Montrose Terrace — English street-type suffix 'terrace' is used.
+- Moonbeam Drive — English street-type suffix 'drive' is used.
+- Moonbeam Terrace — English street-type suffix 'terrace' is used.
+- Moonbeam Walk — English street-type suffix 'walk' is used.
+- Moonstone Lane — English street-type suffix 'lane' is used.
+- Moreton Close — English street-type suffix 'close' is used.
+- Morley Road — English street-type suffix 'road' is used.
+- Mornington Crescent — English street-type suffix 'crescent' is used.
+- Morse Road — English street-type suffix 'road' is used.
+- Moulmein Rise — English street-type suffix 'rise' is used.
+- Moulmein Road — English street-type suffix 'road' is used.
+- Mountbatten Road — English street-type suffix 'road' is used.
+- Mowbray Road — English street-type suffix 'road' is used.
+- Mugliston Road — English street-type suffix 'road' is used.
+- Mugliston Walk — English street-type suffix 'walk' is used.
+- Mulberry Avenue — English street-type suffix 'avenue' is used.
+- Munshi Abdullah Avenue — English street-type suffix 'avenue' is used.
+- Munshi Abdullah Walk — English street-type suffix 'walk' is used.
+- Murai Farmway — Categorized by general naming style.
+- Murray Street — English street-type suffix 'street' is used.
+- Murray Terrace — English street-type suffix 'terrace' is used.
+- Muscat Street — English street-type suffix 'street' is used.
+- Muthuraman Chetty Road — English street-type suffix 'road' is used.
+- Nallur Road — English street-type suffix 'road' is used.
+- Namly Avenue — English street-type suffix 'avenue' is used.
+- Namly Close — English street-type suffix 'close' is used.
+- Namly Crescent — English street-type suffix 'crescent' is used.
+- Namly Drive — English street-type suffix 'drive' is used.
+- Namly Rise — English street-type suffix 'rise' is used.
+- Nankin Street — English street-type suffix 'street' is used.
+- Nanson Road — English street-type suffix 'road' is used.
+- Nanyang Avenue — English street-type suffix 'avenue' is used.
+- Nanyang Circle — English street-type suffix 'circle' is used.
+- Nanyang Crescent — English street-type suffix 'crescent' is used.
+- Nanyang Drive — English street-type suffix 'drive' is used.
+- Nanyang Link — English street-type suffix 'link' is used.
+- Nanyang Terrace — English street-type suffix 'terrace' is used.
+- Nanyang Walk — English street-type suffix 'walk' is used.
+- Napier Road — English street-type suffix 'road' is used.
+- Narayanan Chetty Road — English street-type suffix 'road' is used.
+- Narooma Road — English street-type suffix 'road' is used.
+- Nassim Road — English street-type suffix 'road' is used.
+- Nathan Road — English street-type suffix 'road' is used.
+- Nee Soon Road — English street-type suffix 'road' is used.
+- Neil Road — English street-type suffix 'road' is used.
+- Nemesu Avenue — English street-type suffix 'avenue' is used.
+- Neo Pee Teck Lane — English street-type suffix 'lane' is used.
+- Neo Tiew Crescent — English street-type suffix 'crescent' is used.
+- Neo Tiew Harvest Lane — English street-type suffix 'lane' is used.
+- Neo Tiew Harvest Link — English street-type suffix 'link' is used.
+- Neo Tiew Road — English street-type suffix 'road' is used.
+- Neram Crescent — English street-type suffix 'crescent' is used.
+- Neram Road — English street-type suffix 'road' is used.
+- Netheravon Road — English street-type suffix 'road' is used.
+- Newton Road — English street-type suffix 'road' is used.
+- Neythai Road — English street-type suffix 'road' is used.
+- Neythal Road — English street-type suffix 'road' is used.
+- Nicoll Drive — English street-type suffix 'drive' is used.
+- Nihon Food Street — English street-type suffix 'street' is used.
+- Nim Crescent — English street-type suffix 'crescent' is used.
+- Nim Drive — English street-type suffix 'drive' is used.
+- Nim Rise — English street-type suffix 'rise' is used.
+- Nim Road — English street-type suffix 'road' is used.
+- Nim Terrace — English street-type suffix 'terrace' is used.
+- Nineteen Shelford Road — English street-type suffix 'road' is used.
+- Niven Road — English street-type suffix 'road' is used.
+- Norfolk Road — English street-type suffix 'road' is used.
+- Norma Terrace — English street-type suffix 'terrace' is used.
+- Norris Road — English street-type suffix 'road' is used.
+- Northolt Road — English street-type suffix 'road' is used.
+- Northpoint Drive — English street-type suffix 'drive' is used.
+- Northshore Crescent — English street-type suffix 'crescent' is used.
+- Northshore Drive — English street-type suffix 'drive' is used.
+- Northshore Link — English street-type suffix 'link' is used.
+- Northshore Walk — English street-type suffix 'walk' is used.
+- Northstar Road — English street-type suffix 'road' is used.
+- Northumberland Road — English street-type suffix 'road' is used.
+- Novena Rise — English street-type suffix 'rise' is used.
+- Novena Terrace — English street-type suffix 'terrace' is used.
+- Nutmeg Road — English street-type suffix 'road' is used.
+- Ocean Drive — English street-type suffix 'drive' is used.
+- Ocean Way — English street-type suffix 'way' is used.
+- Office Ring Road — English street-type suffix 'road' is used.
+- Office Road — English street-type suffix 'road' is used.
+- Oldham Lane — English street-type suffix 'lane' is used.
+- Olive Road — English street-type suffix 'road' is used.
+- Olympic Walk — English street-type suffix 'walk' is used.
+- Omar Khayyam Avenue — English street-type suffix 'avenue' is used.
+- On-Road Cycling Lane — English street-type suffix 'road' is used.
+- Onan Road — English street-type suffix 'road' is used.
+- One George Street — English street-type suffix 'street' is used.
+- One Oxley Rise — English street-type suffix 'rise' is used.
+- One Raffles Institution Lane — English street-type suffix 'lane' is used.
+- One Raffles Link — English street-type suffix 'link' is used.
+- One Sims Lane — English street-type suffix 'lane' is used.
+- Onraet Road — English street-type suffix 'road' is used.
+- Ontario Avenue — English street-type suffix 'avenue' is used.
+- Opal Crescent — English street-type suffix 'crescent' is used.
+- Ophir Road — English street-type suffix 'road' is used.
+- Orchid Club Road — English street-type suffix 'road' is used.
+- Orchid Drive — English street-type suffix 'drive' is used.
+- Oriole Crescent — English street-type suffix 'crescent' is used.
+- Ottawa Road — English street-type suffix 'road' is used.
+- Oue Link — English street-type suffix 'link' is used.
+- Outram Road — English street-type suffix 'road' is used.
+- Owen Road — English street-type suffix 'road' is used.
+- Oxford Road — English street-type suffix 'road' is used.
+- Oxford Street — English street-type suffix 'street' is used.
+- Oxley Rise — English street-type suffix 'rise' is used.
+- Oxley Road — English street-type suffix 'road' is used.
+- Oxley Walk — English street-type suffix 'walk' is used.
+- Pahang Street — English street-type suffix 'street' is used.
+- Pakistan Road — English street-type suffix 'road' is used.
+- Palmer Road — English street-type suffix 'road' is used.
+- Pandan Avenue — English street-type suffix 'avenue' is used.
+- Pandan Crescent — English street-type suffix 'crescent' is used.
+- Pandan Loop — English street-type suffix 'loop' is used.
+- Pandan Road — English street-type suffix 'road' is used.
+- Pang Seng Road — English street-type suffix 'road' is used.
+- Parbury Avenue — English street-type suffix 'avenue' is used.
+- Pari Dedap Walk — English street-type suffix 'walk' is used.
+- Parkstone Road — English street-type suffix 'road' is used.
+- Parry Avenue — English street-type suffix 'avenue' is used.
+- Parry Road — English street-type suffix 'road' is used.
+- Parry Terrace — English street-type suffix 'terrace' is used.
+- Parry Walk — English street-type suffix 'walk' is used.
+- Parsi Road — English street-type suffix 'road' is used.
+- Pasir Avenue — Malay marker 'pasir' appears in the name.
+- Pasir Drive — Malay marker 'pasir' appears in the name.
+- Pasir Laba Road — Malay marker 'pasir' appears in the name.
+- Pasir Merah Avenue — Malay marker 'pasir' appears in the name.
+- Pasir Merah Drive — Malay marker 'pasir' appears in the name.
+- Pasir Merah Link — Malay marker 'pasir' appears in the name.
+- Pasir Merah Rise — Malay marker 'pasir' appears in the name.
+- Pasir Panjang Close — Malay marker 'pasir' appears in the name.
+- Pasir Panjang Drive — Malay marker 'pasir' appears in the name.
+- Pasir Panjang Road — Malay marker 'pasir' appears in the name.
+- Pasir Ris Avenue — Malay marker 'pasir' appears in the name.
+- Pasir Ris Close — Malay marker 'pasir' appears in the name.
+- Pasir Ris Lane — Malay marker 'pasir' appears in the name.
+- Pasir Ris Link — Malay marker 'pasir' appears in the name.
+- Pasir Ris Rise — Malay marker 'pasir' appears in the name.
+- Pasir Ris Road — Malay marker 'pasir' appears in the name.
+- Pasir Ris Terrace — Malay marker 'pasir' appears in the name.
+- Pasir Ris Walk — Malay marker 'pasir' appears in the name.
+- Pasir Ris Way — Malay marker 'pasir' appears in the name.
+- Pasir Way — Malay marker 'pasir' appears in the name.
+- Paterson Road — English street-type suffix 'road' is used.
+- Patterson Road — English street-type suffix 'road' is used.
+- Paul Little Drive — English street-type suffix 'drive' is used.
+- Pavilion Circle — English street-type suffix 'circle' is used.
+- Pavilion Rise — English street-type suffix 'rise' is used.
+- Pavilion Street — English street-type suffix 'street' is used.
+- Paya Lebar Crescent — English street-type suffix 'crescent' is used.
+- Paya Lebar Link — English street-type suffix 'link' is used.
+- Paya Lebar Road — English street-type suffix 'road' is used.
+- Paya Lebar Street — English street-type suffix 'street' is used.
+- Paya Lebar Walk — English street-type suffix 'walk' is used.
+- Paya Lebar Way — English street-type suffix 'way' is used.
+- Peakville Avenue — English street-type suffix 'avenue' is used.
+- Peakville Terrace — English street-type suffix 'terrace' is used.
+- Peakville Walk — English street-type suffix 'walk' is used.
+- Pebble Lane — English street-type suffix 'lane' is used.
+- Peck Hay Road — English street-type suffix 'road' is used.
+- Peck Seah Street — English street-type suffix 'street' is used.
+- Peel Road — English street-type suffix 'road' is used.
+- Pegu Road — English street-type suffix 'road' is used.
+- Pei Wah Avenue — English street-type suffix 'avenue' is used.
+- Peirce Drive — English street-type suffix 'drive' is used.
+- Peirce Road — English street-type suffix 'road' is used.
+- Pekin Street — English street-type suffix 'street' is used.
+- Pemimpin Drive — English street-type suffix 'drive' is used.
+- Pemimpin Terrace — English street-type suffix 'terrace' is used.
+- Penang Lane — English street-type suffix 'lane' is used.
+- Penang Road — English street-type suffix 'road' is used.
+- Pender Road — English street-type suffix 'road' is used.
+- Pending Road — English street-type suffix 'road' is used.
+- Peng Kang Avenue — English street-type suffix 'avenue' is used.
+- Peng Nguan Street — English street-type suffix 'street' is used.
+- Penhas Road — English street-type suffix 'road' is used.
+- Penjuru Close — English street-type suffix 'close' is used.
+- Penjuru Lane — English street-type suffix 'lane' is used.
+- Penjuru Road — English street-type suffix 'road' is used.
+- Penjuru Street — English street-type suffix 'street' is used.
+- Penjuru Walk — English street-type suffix 'walk' is used.
+- Pennefather Road — English street-type suffix 'road' is used.
+- Pepys Road — English street-type suffix 'road' is used.
+- Perahu Road — English street-type suffix 'road' is used.
+- Perak Road — English street-type suffix 'road' is used.
+- Percival Road — English street-type suffix 'road' is used.
+- Pereira Road — English street-type suffix 'road' is used.
+- Permatang Avenue — English street-type suffix 'avenue' is used.
+- Perumal Road — English street-type suffix 'road' is used.
+- Pesari Walk — English street-type suffix 'walk' is used.
+- Pesawat Drive — English street-type suffix 'drive' is used.
+- Pesek Drive — English street-type suffix 'drive' is used.
+- Pesek Road — English street-type suffix 'road' is used.
+- Petain Road — English street-type suffix 'road' is used.
+- Petir Road — English street-type suffix 'road' is used.
+- Pheng Geck Avenue — English street-type suffix 'avenue' is used.
+- Phillip Street — English street-type suffix 'street' is used.
+- Phillips Avenue — English street-type suffix 'avenue' is used.
+- Phoenix Avenue — English street-type suffix 'avenue' is used.
+- Phoenix Rise — English street-type suffix 'rise' is used.
+- Phoenix Road — English street-type suffix 'road' is used.
+- Phoenix Walk — English street-type suffix 'walk' is used.
+- Pickering Street — English street-type suffix 'street' is used.
+- Pillai Road — English street-type suffix 'road' is used.
+- Pioneer Crescent — English street-type suffix 'crescent' is used.
+- Pioneer Road — English street-type suffix 'road' is used.
+- Pioneer Sector Lane — English street-type suffix 'lane' is used.
+- Pioneer Sector Walk — English street-type suffix 'walk' is used.
+- Pioneer Walk — English street-type suffix 'walk' is used.
+- Pionner Road — English street-type suffix 'road' is used.
+- Pipit Road — English street-type suffix 'road' is used.
+- Pit Lane — English street-type suffix 'lane' is used.
+- Plantation Avenue — English street-type suffix 'avenue' is used.
+- Plantation Close — English street-type suffix 'close' is used.
+- Plantation Crescent — English street-type suffix 'crescent' is used.
+- Plantation Drive — English street-type suffix 'drive' is used.
+- Platina Road — English street-type suffix 'road' is used.
+- Playfair Road — English street-type suffix 'road' is used.
+- Plumer Road — English street-type suffix 'road' is used.
+- Plymouth Avenue — English street-type suffix 'avenue' is used.
+- Poh Huat Crescent — English street-type suffix 'crescent' is used.
+- Poh Huat Drive — English street-type suffix 'drive' is used.
+- Poh Huat Road — English street-type suffix 'road' is used.
+- Poh Huat Terrace — English street-type suffix 'terrace' is used.
+- Pollen Crescent — English street-type suffix 'crescent' is used.
+- Pollen Lane — English street-type suffix 'lane' is used.
+- Pollen Rise — English street-type suffix 'rise' is used.
+- Pollen Terrace — English street-type suffix 'terrace' is used.
+- Pollen Walk — English street-type suffix 'walk' is used.
+- Polytechnic Crescent — English street-type suffix 'crescent' is used.
+- Polytechnic Link — English street-type suffix 'link' is used.
+- Ponggol Seventeenth Avenue — English street-type suffix 'avenue' is used.
+- Ponggol Twenty-Fourth Avenue — English street-type suffix 'avenue' is used.
+- Poole Road — English street-type suffix 'road' is used.
+- Portchester Avenue — English street-type suffix 'avenue' is used.
+- Portsdown Avenue — English street-type suffix 'avenue' is used.
+- Portsdown Road — English street-type suffix 'road' is used.
+- Preston Road — English street-type suffix 'road' is used.
+- Primary Rainforest Urban Walk — English street-type suffix 'walk' is used.
+- Primrose Avenue — English street-type suffix 'avenue' is used.
+- Prinsep Link — English street-type suffix 'link' is used.
+- Prinsep Street — English street-type suffix 'street' is used.
+- Prome Road — English street-type suffix 'road' is used.
+- Puay Hee Avenue — English street-type suffix 'avenue' is used.
+- Pulasan Road — English street-type suffix 'road' is used.
+- Punggol Barat Drive — English street-type suffix 'drive' is used.
+- Punggol Barat Lane — English street-type suffix 'lane' is used.
+- Punggol Close — English street-type suffix 'close' is used.
+- Punggol Coast Road — English street-type suffix 'road' is used.
+- Punggol Drive — English street-type suffix 'drive' is used.
+- Punggol Field Walk — English street-type suffix 'walk' is used.
+- Punggol Promenade Punggol Point Walk — English street-type suffix 'walk' is used.
+- Punggol Promenade Riverside Walk — English street-type suffix 'walk' is used.
+- Punggol Road — English street-type suffix 'road' is used.
+- Punggol Seventeenth Avenue — English street-type suffix 'avenue' is used.
+- Punggol Walk — English street-type suffix 'walk' is used.
+- Punggol Way — English street-type suffix 'way' is used.
+- Purvis Street — English street-type suffix 'street' is used.
+- Quality Road — English street-type suffix 'road' is used.
+- Queens Close — English street-type suffix 'close' is used.
+- Queensway Drive — English street-type suffix 'drive' is used.
+- Quemoy Road — English street-type suffix 'road' is used.
+- Race Course Lane — English street-type suffix 'lane' is used.
+- Race Course Road — English street-type suffix 'road' is used.
+- Raffles Avenue — English street-type suffix 'avenue' is used.
+- Raffles Boulevard — English street-type suffix 'boulevard' is used.
+- Raffles Link — English street-type suffix 'link' is used.
+- Raffles Terrace — English street-type suffix 'terrace' is used.
+- Rakit Road — English street-type suffix 'road' is used.
+- Rambai Road — English street-type suffix 'road' is used.
+- Rambutan Road — English street-type suffix 'road' is used.
+- Ramsgate Road — English street-type suffix 'road' is used.
+- Rangoon Lane — English street-type suffix 'lane' is used.
+- Rangoon Road — English street-type suffix 'road' is used.
+- Rasau Walk — English street-type suffix 'walk' is used.
+- Rasok Drive — English street-type suffix 'drive' is used.
+- Read Crescent — English street-type suffix 'crescent' is used.
+- Read Street — English street-type suffix 'street' is used.
+- Rebecca Road — English street-type suffix 'road' is used.
+- Recreation Lane — English street-type suffix 'lane' is used.
+- Recreation Road — English street-type suffix 'road' is used.
+- Recreation Terrace — English street-type suffix 'terrace' is used.
+- Redhill Close — English street-type suffix 'close' is used.
+- Redhill Lane — English street-type suffix 'lane' is used.
+- Redhill Rise — English street-type suffix 'rise' is used.
+- Redhill Road — English street-type suffix 'road' is used.
+- Redwood Avenue — English street-type suffix 'avenue' is used.
+- Refinery Road — English street-type suffix 'road' is used.
+- Regent Street — English street-type suffix 'street' is used.
+- Republic Avenue — English street-type suffix 'avenue' is used.
+- Republic Boulevard — English street-type suffix 'boulevard' is used.
+- Republic Crescent — English street-type suffix 'crescent' is used.
+- Republic Link — English street-type suffix 'link' is used.
+- Research Link — English street-type suffix 'link' is used.
+- Reservoir Rise — English street-type suffix 'rise' is used.
+- Reservoir Road — English street-type suffix 'road' is used.
+- Richards Avenue — English street-type suffix 'avenue' is used.
+- Ridgewood Close — English street-type suffix 'close' is used.
+- Ridout Road — English street-type suffix 'road' is used.
+- Rienzi Street — English street-type suffix 'street' is used.
+- Rifle Range Link — English street-type suffix 'link' is used.
+- Rifle Range Road — English street-type suffix 'road' is used.
+- Rifle Way — English street-type suffix 'way' is used.
+- Rindu Terrace — English street-type suffix 'terrace' is used.
+- Ringwood Road — English street-type suffix 'road' is used.
+- Ripley Crescent — English street-type suffix 'crescent' is used.
+- Ritchie Road — English street-type suffix 'road' is used.
+- Riverina Crescent — English street-type suffix 'crescent' is used.
+- Riverina Walk — English street-type suffix 'walk' is used.
+- Riverside Road — English street-type suffix 'road' is used.
+- Rivervale Close — English street-type suffix 'close' is used.
+- Rivervale Crescent — English street-type suffix 'crescent' is used.
+- Rivervale Drive — English street-type suffix 'drive' is used.
+- Rivervale Lane — English street-type suffix 'lane' is used.
+- Rivervale Link — English street-type suffix 'link' is used.
+- Rivervale Street — English street-type suffix 'street' is used.
+- Rivervale Walk — English street-type suffix 'walk' is used.
+- Riviera Drive — English street-type suffix 'drive' is used.
+- Road — English street-type suffix 'road' is used.
+- Roberts Lane — English street-type suffix 'lane' is used.
+- Robey Crescent — English street-type suffix 'crescent' is used.
+- Robin Close — English street-type suffix 'close' is used.
+- Robin Drive — English street-type suffix 'drive' is used.
+- Robin Lane — English street-type suffix 'lane' is used.
+- Robin Road — English street-type suffix 'road' is used.
+- Robin Walk — English street-type suffix 'walk' is used.
+- Robinson Road — English street-type suffix 'road' is used.
+- Rochalie Drive — English street-type suffix 'drive' is used.
+- Rochdale Road — English street-type suffix 'road' is used.
+- Rochester Drive — English street-type suffix 'drive' is used.
+- Rochor Canal Road — English street-type suffix 'road' is used.
+- Rochor Road — English street-type suffix 'road' is used.
+- Rodyk Street — English street-type suffix 'street' is used.
+- Roman Terrace — English street-type suffix 'terrace' is used.
+- Rose Lane — English street-type suffix 'lane' is used.
+- Roseburn Avenue — English street-type suffix 'avenue' is used.
+- Rosewood Drive — English street-type suffix 'drive' is used.
+- Ross Avenue — English street-type suffix 'avenue' is used.
+- Rosyth Avenue — English street-type suffix 'avenue' is used.
+- Rosyth Road — English street-type suffix 'road' is used.
+- Rotan Lane — English street-type suffix 'lane' is used.
+- Rowell Road — English street-type suffix 'road' is used.
+- Royal Road — English street-type suffix 'road' is used.
+- Ruby Lane — English street-type suffix 'lane' is used.
+- Russels Road — English street-type suffix 'road' is used.
+- Rutland Road — English street-type suffix 'road' is used.
+- Sago Lane — English street-type suffix 'lane' is used.
+- Sago Street — English street-type suffix 'street' is used.
+- Saiboo Street — English street-type suffix 'street' is used.
+- Sakra Avenue — English street-type suffix 'avenue' is used.
+- Sakra Road — English street-type suffix 'road' is used.
+- Salam Walk — English street-type suffix 'walk' is used.
+- Sallim Road — English street-type suffix 'road' is used.
+- Sam Leong Road — English street-type suffix 'road' is used.
+- Sandilands Road — English street-type suffix 'road' is used.
+- Sandwich Road — English street-type suffix 'road' is used.
+- Sandy Lane — English street-type suffix 'lane' is used.
+- Sang Nila Utama Road — English street-type suffix 'road' is used.
+- Sang Nilai Utama Boulevard — English street-type suffix 'boulevard' is used.
+- Sanyongkong Road — English street-type suffix 'road' is used.
+- Saraca Drive — English street-type suffix 'drive' is used.
+- Saraca Road — English street-type suffix 'road' is used.
+- Saraca Terrace — English street-type suffix 'terrace' is used.
+- Saraca Walk — English street-type suffix 'walk' is used.
+- Sarimbun Avenue — English street-type suffix 'avenue' is used.
+- Sarkies Road — English street-type suffix 'road' is used.
+- Saujana Road — English street-type suffix 'road' is used.
+- Saunders Road — English street-type suffix 'road' is used.
+- Scotts Road — English street-type suffix 'road' is used.
+- Sea Avenue — English street-type suffix 'avenue' is used.
+- Sea Breeze Avenue — English street-type suffix 'avenue' is used.
+- Sea Breeze Road — English street-type suffix 'road' is used.
+- Sea Breeze Walk — English street-type suffix 'walk' is used.
+- Seac Road — English street-type suffix 'road' is used.
+- Seagull Walk — English street-type suffix 'walk' is used.
+- Seah Im Road — English street-type suffix 'road' is used.
+- Seah Street — English street-type suffix 'street' is used.
+- Sealand Road — English street-type suffix 'road' is used.
+- Second Avenue — English street-type suffix 'avenue' is used.
+- Second Chin Bee Road — English street-type suffix 'road' is used.
+- Second Hospital Avenue — English street-type suffix 'avenue' is used.
+- Second Lok Yang Road — English street-type suffix 'road' is used.
+- Second Street — English street-type suffix 'street' is used.
+- Segar Close — English street-type suffix 'close' is used.
+- Segar Road — English street-type suffix 'road' is used.
+- Selarang Ring Road — English street-type suffix 'road' is used.
+- Selegie Road — English street-type suffix 'road' is used.
+- Seletar Aerospace Avenue — English street-type suffix 'avenue' is used.
+- Seletar Aerospace Crescent — English street-type suffix 'crescent' is used.
+- Seletar Aerospace Drive — English street-type suffix 'drive' is used.
+- Seletar Aerospace Lane — English street-type suffix 'lane' is used.
+- Seletar Aerospace Link — English street-type suffix 'link' is used.
+- Seletar Aerospace Rise — English street-type suffix 'rise' is used.
+- Seletar Aerospace Way — English street-type suffix 'way' is used.
+- Seletar Close — English street-type suffix 'close' is used.
+- Seletar Club Road — English street-type suffix 'road' is used.
+- Seletar Crescent — English street-type suffix 'crescent' is used.
+- Seletar Hills Drive — English street-type suffix 'drive' is used.
+- Seletar Link — English street-type suffix 'link' is used.
+- Seletar Road — English street-type suffix 'road' is used.
+- Seletar Terrace — English street-type suffix 'terrace' is used.
+- Seletar Waterworks Walk — English street-type suffix 'walk' is used.
+- Sembawang Avenue — English street-type suffix 'avenue' is used.
+- Sembawang Close — English street-type suffix 'close' is used.
+- Sembawang Crescent — English street-type suffix 'crescent' is used.
+- Sembawang Drive — English street-type suffix 'drive' is used.
+- Sembawang Hills Drive — English street-type suffix 'drive' is used.
+- Sembawang Link — English street-type suffix 'link' is used.
+- Sembawang Road — English street-type suffix 'road' is used.
+- Sembawang Walk — English street-type suffix 'walk' is used.
+- Sembawang Way — English street-type suffix 'way' is used.
+- Sembong Road — English street-type suffix 'road' is used.
+- Senang Crescent — English street-type suffix 'crescent' is used.
+- Seng Poh Lane — English street-type suffix 'lane' is used.
+- Seng Poh Road — English street-type suffix 'road' is used.
+- Senja Close — English street-type suffix 'close' is used.
+- Senja Link — English street-type suffix 'link' is used.
+- Senja Road — English street-type suffix 'road' is used.
+- Senja Way — English street-type suffix 'way' is used.
+- Sennett Avenue — English street-type suffix 'avenue' is used.
+- Sennett Close — English street-type suffix 'close' is used.
+- Sennett Drive — English street-type suffix 'drive' is used.
+- Sennett Lane — English street-type suffix 'lane' is used.
+- Sennett Road — English street-type suffix 'road' is used.
+- Sennett Terrace — English street-type suffix 'terrace' is used.
+- Senoko Avenue — English street-type suffix 'avenue' is used.
+- Senoko Crescent — English street-type suffix 'crescent' is used.
+- Senoko Drive — English street-type suffix 'drive' is used.
+- Senoko Link — English street-type suffix 'link' is used.
+- Senoko Loop — English street-type suffix 'loop' is used.
+- Senoko Road — English street-type suffix 'road' is used.
+- Senoko Way — English street-type suffix 'way' is used.
+- Sentul Crescent — English street-type suffix 'crescent' is used.
+- Sentul Walk — English street-type suffix 'walk' is used.
+- Serangoon Lane — Malay marker 'serangoon' appears in the name.
+- Serangoon Link — Malay marker 'serangoon' appears in the name.
+- Serangoon Road — Malay marker 'serangoon' appears in the name.
+- Serangoon Terrace — Malay marker 'serangoon' appears in the name.
+- Serapong Course Road — English street-type suffix 'road' is used.
+- Seraya Avenue — English street-type suffix 'avenue' is used.
+- Seraya Crescent — English street-type suffix 'crescent' is used.
+- Seraya Lane — English street-type suffix 'lane' is used.
+- Seraya Loop — English street-type suffix 'loop' is used.
+- Seraya Road — English street-type suffix 'road' is used.
+- Serenade Walk — English street-type suffix 'walk' is used.
+- Service Road — English street-type suffix 'road' is used.
+- Seton Close — English street-type suffix 'close' is used.
+- Shamah Terrace — English street-type suffix 'terrace' is used.
+- Shan Road — English street-type suffix 'road' is used.
+- Shanghai Road — English street-type suffix 'road' is used.
+- Shangri-La Close — English street-type suffix 'close' is used.
+- Shangri-La Walk — English street-type suffix 'walk' is used.
+- Shaw Road — English street-type suffix 'road' is used.
+- Sheares Avenue — English street-type suffix 'avenue' is used.
+- Sheares Link — English street-type suffix 'link' is used.
+- Shelford Road — English street-type suffix 'road' is used.
+- Shenton Lane — English street-type suffix 'lane' is used.
+- Shenton Way — English street-type suffix 'way' is used.
+- Shepherd'S Drive — English street-type suffix 'drive' is used.
+- Sherwood Road — English street-type suffix 'road' is used.
+- Shipyard Crescent — English street-type suffix 'crescent' is used.
+- Shipyard Road — English street-type suffix 'road' is used.
+- Short Street — English street-type suffix 'street' is used.
+- Shrewsbury Road — English street-type suffix 'road' is used.
+- Shunfu Road — English street-type suffix 'road' is used.
+- Siak Kew Avenue — English street-type suffix 'avenue' is used.
+- Sian Tuan Avenue — English street-type suffix 'avenue' is used.
+- Siang Kuang Avenue — English street-type suffix 'avenue' is used.
+- Siglap Avenue — English street-type suffix 'avenue' is used.
+- Siglap Close — English street-type suffix 'close' is used.
+- Siglap Drive — English street-type suffix 'drive' is used.
+- Siglap Link — English street-type suffix 'link' is used.
+- Siglap Rise — English street-type suffix 'rise' is used.
+- Siglap Road — English street-type suffix 'road' is used.
+- Siglap Terrace — English street-type suffix 'terrace' is used.
+- Siglap Walk — English street-type suffix 'walk' is used.
+- Silat Avenue — English street-type suffix 'avenue' is used.
+- Silat Road — English street-type suffix 'road' is used.
+- Siloso Road — English street-type suffix 'road' is used.
+- Sime Road — English street-type suffix 'road' is used.
+- Simei Avenue — English street-type suffix 'avenue' is used.
+- Simei Lane — English street-type suffix 'lane' is used.
+- Simei Rise — English street-type suffix 'rise' is used.
+- Simei Road — English street-type suffix 'road' is used.
+- Simon Lane — English street-type suffix 'lane' is used.
+- Simon Road — English street-type suffix 'road' is used.
+- Simon Walk — English street-type suffix 'walk' is used.
+- Sims Avenue — English street-type suffix 'avenue' is used.
+- Sims Close — English street-type suffix 'close' is used.
+- Sims Drive — English street-type suffix 'drive' is used.
+- Sims Lane — English street-type suffix 'lane' is used.
+- Sims Way — English street-type suffix 'way' is used.
+- Sin Koy Lane — English street-type suffix 'lane' is used.
+- Sin Ming Avenue — English street-type suffix 'avenue' is used.
+- Sin Ming Drive — English street-type suffix 'drive' is used.
+- Sin Ming Lane — English street-type suffix 'lane' is used.
+- Sin Ming Road — English street-type suffix 'road' is used.
+- Sin Ming Street — English street-type suffix 'street' is used.
+- Sin Ming Walk — English street-type suffix 'walk' is used.
+- Sinaran Drive — English street-type suffix 'drive' is used.
+- Sing Avenue — English street-type suffix 'avenue' is used.
+- Sing Joo Walk — English street-type suffix 'walk' is used.
+- Siok Wan Close — English street-type suffix 'close' is used.
+- Sirat Road — English street-type suffix 'road' is used.
+- Sit Wah Road — English street-type suffix 'road' is used.
+- Six Battery Road — English street-type suffix 'road' is used.
+- Sixth Avenue — English street-type suffix 'avenue' is used.
+- Sixth Crescent — English street-type suffix 'crescent' is used.
+- Sixth Lok Yang Road — English street-type suffix 'road' is used.
+- Slim Barracks Rise — English street-type suffix 'rise' is used.
+- Solomon Street — English street-type suffix 'street' is used.
+- Somapah Road — English street-type suffix 'road' is used.
+- Somerset Road — English street-type suffix 'road' is used.
+- Somme Road — English street-type suffix 'road' is used.
+- Sommerville Road — English street-type suffix 'road' is used.
+- Sommerville Walk — English street-type suffix 'walk' is used.
+- Soo Chow Drive — English street-type suffix 'drive' is used.
+- Soo Chow Rise — English street-type suffix 'rise' is used.
+- Soo Chow Walk — English street-type suffix 'walk' is used.
+- Soo Chow Way — English street-type suffix 'way' is used.
+- Soon Lee Drive — English street-type suffix 'drive' is used.
+- Soon Lee Road — English street-type suffix 'road' is used.
+- Soon Lee Street — English street-type suffix 'street' is used.
+- Soon Wing Road — English street-type suffix 'road' is used.
+- Sophia Road — English street-type suffix 'road' is used.
+- Sorby Adams Drive — English street-type suffix 'drive' is used.
+- Spc Adam Road — English street-type suffix 'road' is used.
+- Spc Admiralty Road — English street-type suffix 'road' is used.
+- Spooner Road — English street-type suffix 'road' is used.
+- Sports Drive — English street-type suffix 'drive' is used.
+- Spring Street — English street-type suffix 'street' is used.
+- Springdew Terrace — English street-type suffix 'terrace' is used.
+- Springleaf Avenue — English street-type suffix 'avenue' is used.
+- Springleaf Crescent — English street-type suffix 'crescent' is used.
+- Springleaf Drive — English street-type suffix 'drive' is used.
+- Springleaf Lane — English street-type suffix 'lane' is used.
+- Springleaf Link — English street-type suffix 'link' is used.
+- Springleaf Rise — English street-type suffix 'rise' is used.
+- Springleaf Road — English street-type suffix 'road' is used.
+- Springleaf Walk — English street-type suffix 'walk' is used.
+- Springside Avenue — English street-type suffix 'avenue' is used.
+- Springside Crescent — English street-type suffix 'crescent' is used.
+- Springside Drive — English street-type suffix 'drive' is used.
+- Springside Link — English street-type suffix 'link' is used.
+- Springside Road — English street-type suffix 'road' is used.
+- Springside Walk — English street-type suffix 'walk' is used.
+- Springwood Avenue — English street-type suffix 'avenue' is used.
+- Springwood Close — English street-type suffix 'close' is used.
+- Springwood Crescent — English street-type suffix 'crescent' is used.
+- Springwood Terrace — English street-type suffix 'terrace' is used.
+- Springwood Walk — English street-type suffix 'walk' is used.
+- Squirrel Lane — English street-type suffix 'lane' is used.
+- Sreya Road — English street-type suffix 'road' is used.
+- Stadium Boulevard — English street-type suffix 'boulevard' is used.
+- Stadium Crescent — English street-type suffix 'crescent' is used.
+- Stadium Drive — English street-type suffix 'drive' is used.
+- Stadium Lane — English street-type suffix 'lane' is used.
+- Stadium Riverside Walk — English street-type suffix 'walk' is used.
+- Stadium Road — English street-type suffix 'road' is used.
+- Stadium Walk — English street-type suffix 'walk' is used.
+- Stadium Way — English street-type suffix 'way' is used.
+- Stagmont Ring — Categorized by general naming style.
+- Stagmont Road — English street-type suffix 'road' is used.
+- Stamford Road — English street-type suffix 'road' is used.
+- Stangee Close — English street-type suffix 'close' is used.
+- Stanley Street — English street-type suffix 'street' is used.
+- Starlight Road — English street-type suffix 'road' is used.
+- Starlight Terrace — English street-type suffix 'terrace' is used.
+- Stars Avenue — English street-type suffix 'avenue' is used.
+- Stephen Lee Road — English street-type suffix 'road' is used.
+- Stevens Close — English street-type suffix 'close' is used.
+- Stevens Drive — English street-type suffix 'drive' is used.
+- Stevens Road — English street-type suffix 'road' is used.
+- Still Lane — English street-type suffix 'lane' is used.
+- Still Road — English street-type suffix 'road' is used.
+- Stirling Rise — English street-type suffix 'rise' is used.
+- Stirling Road — English street-type suffix 'road' is used.
+- Stirling Walk — English street-type suffix 'walk' is used.
+- Stockport Road — English street-type suffix 'road' is used.
+- Stokesay Drive — English street-type suffix 'drive' is used.
+- Stone Avenue — English street-type suffix 'avenue' is used.
+- Stores Road — English street-type suffix 'road' is used.
+- Straits Boulevard — English street-type suffix 'boulevard' is used.
+- Strathmore Avenue — English street-type suffix 'avenue' is used.
+- Strathmore Road — English street-type suffix 'road' is used.
+- Stratton Drive — English street-type suffix 'drive' is used.
+- Stratton Road — English street-type suffix 'road' is used.
+- Stratton Walk — English street-type suffix 'walk' is used.
+- Students Walk — English street-type suffix 'walk' is used.
+- Sturdee Road — English street-type suffix 'road' is used.
+- Subhan Street — English street-type suffix 'street' is used.
+- Sudan Road — English street-type suffix 'road' is used.
+- Suffolk Road — English street-type suffix 'road' is used.
+- Suffolk Walk — English street-type suffix 'walk' is used.
+- Sumang Crescent — English street-type suffix 'crescent' is used.
+- Sumang Lane — English street-type suffix 'lane' is used.
+- Sumang Link — English street-type suffix 'link' is used.
+- Sumang Walk — English street-type suffix 'walk' is used.
+- Sumbawa Road — English street-type suffix 'road' is used.
+- Sunbird Avenue — English street-type suffix 'avenue' is used.
+- Sunbird Circle — English street-type suffix 'circle' is used.
+- Sunbird Road — English street-type suffix 'road' is used.
+- Sungei Gedong Road — Malay marker 'sungei' appears in the name.
+- Sungei Kadut Avenue — Malay marker 'sungei' appears in the name.
+- Sungei Kadut Crescent — Malay marker 'sungei' appears in the name.
+- Sungei Kadut Drive — Malay marker 'sungei' appears in the name.
+- Sungei Kadut Lane — Malay marker 'sungei' appears in the name.
+- Sungei Kadut Loop — Malay marker 'sungei' appears in the name.
+- Sungei Kadut Way — Malay marker 'sungei' appears in the name.
+- Sungei Road — Malay marker 'sungei' appears in the name.
+- Sungei Tengah Close — Malay marker 'sungei' appears in the name.
+- Sungei Tengah Lane — Malay marker 'sungei' appears in the name.
+- Sungei Tengah Road — Malay marker 'sungei' appears in the name.
+- Sunrise Avenue — English street-type suffix 'avenue' is used.
+- Sunrise Close — English street-type suffix 'close' is used.
+- Sunrise Drive — English street-type suffix 'drive' is used.
+- Sunrise Lane — English street-type suffix 'lane' is used.
+- Sunrise Terrace — English street-type suffix 'terrace' is used.
+- Sunrise Walk — English street-type suffix 'walk' is used.
+- Sunrise Way — English street-type suffix 'way' is used.
+- Sunset Avenue — English street-type suffix 'avenue' is used.
+- Sunset Close — English street-type suffix 'close' is used.
+- Sunset Crescent — English street-type suffix 'crescent' is used.
+- Sunset Drive — English street-type suffix 'drive' is used.
+- Sunset Lane — English street-type suffix 'lane' is used.
+- Sunset Terrace — English street-type suffix 'terrace' is used.
+- Sunset Walk — English street-type suffix 'walk' is used.
+- Sunset Way — English street-type suffix 'way' is used.
+- Sunshine Terrace — English street-type suffix 'terrace' is used.
+- Sunview Drive — English street-type suffix 'drive' is used.
+- Sunview Road — English street-type suffix 'road' is used.
+- Sunview Way — English street-type suffix 'way' is used.
+- Supreme Court Lane — English street-type suffix 'lane' is used.
+- Surin Avenue — English street-type suffix 'avenue' is used.
+- Surin Lane — English street-type suffix 'lane' is used.
+- Surin Road — English street-type suffix 'road' is used.
+- Surrey Road — English street-type suffix 'road' is used.
+- Swanage Road — English street-type suffix 'road' is used.
+- Swee Hee Lane — English street-type suffix 'lane' is used.
+- Swettenham Close — English street-type suffix 'close' is used.
+- Swettenham Road — English street-type suffix 'road' is used.
+- Swiss Club Avenue — English street-type suffix 'avenue' is used.
+- Swiss Club Lane — English street-type suffix 'lane' is used.
+- Swiss Club Link — English street-type suffix 'link' is used.
+- Swiss Club Road — English street-type suffix 'road' is used.
+- Syed Alwi Road — English street-type suffix 'road' is used.
+- Synagogue Street — English street-type suffix 'street' is used.
+- Taban Loop — English street-type suffix 'loop' is used.
+- Tagore Avenue — English street-type suffix 'avenue' is used.
+- Tagore Drive — English street-type suffix 'drive' is used.
+- Tagore Lane — English street-type suffix 'lane' is used.
+- Tagore Road — English street-type suffix 'road' is used.
+- Tah Ching Road — English street-type suffix 'road' is used.
+- Tai Gin Road — English street-type suffix 'road' is used.
+- Tai Hwan Avenue — English street-type suffix 'avenue' is used.
+- Tai Hwan Close — English street-type suffix 'close' is used.
+- Tai Hwan Crescent — English street-type suffix 'crescent' is used.
+- Tai Hwan Drive — English street-type suffix 'drive' is used.
+- Tai Hwan Lane — English street-type suffix 'lane' is used.
+- Tai Hwan Terrace — English street-type suffix 'terrace' is used.
+- Tai Hwan Walk — English street-type suffix 'walk' is used.
+- Tai Keng Avenue — English street-type suffix 'avenue' is used.
+- Tai Keng Lane — English street-type suffix 'lane' is used.
+- Tai Keng Terrace — English street-type suffix 'terrace' is used.
+- Tai Seng Avenue — English street-type suffix 'avenue' is used.
+- Tai Seng Drive — English street-type suffix 'drive' is used.
+- Tai Seng Link — English street-type suffix 'link' is used.
+- Tai Seng Street — English street-type suffix 'street' is used.
+- Tai Thong Crescent — English street-type suffix 'crescent' is used.
+- Talma Road — English street-type suffix 'road' is used.
+- Tamarind Road — English street-type suffix 'road' is used.
+- Tampines Avenue — English street-type suffix 'avenue' is used.
+- Tampines Lane — English street-type suffix 'lane' is used.
+- Tampines Link — English street-type suffix 'link' is used.
+- Tampines Road — English street-type suffix 'road' is used.
+- Tampines Walk — English street-type suffix 'walk' is used.
+- Tan Boon Chong Avenue — English street-type suffix 'avenue' is used.
+- Tan Kah Kee Drive — English street-type suffix 'drive' is used.
+- Tan Kim Cheng Road — English street-type suffix 'road' is used.
+- Tan Lark Sye Walk — English street-type suffix 'walk' is used.
+- Tan Quee Lan Street — English street-type suffix 'street' is used.
+- Tan Sim Boh Road — English street-type suffix 'road' is used.
+- Tan Tock Seng Link — English street-type suffix 'link' is used.
+- Tanah Merah Besar Lane — English street-type suffix 'lane' is used.
+- Tanah Merah Besar Road — English street-type suffix 'road' is used.
+- Tanah Merah Coast Lane — English street-type suffix 'lane' is used.
+- Tanah Merah Coast Road — English street-type suffix 'road' is used.
+- Tanah Merah Kechil Avenue — English street-type suffix 'avenue' is used.
+- Tanah Merah Kechil Link — English street-type suffix 'link' is used.
+- Tanah Merah Kechil Rise — English street-type suffix 'rise' is used.
+- Tanah Merah Kechil Road — English street-type suffix 'road' is used.
+- Tanglin Halt Close — English street-type suffix 'close' is used.
+- Tanglin Halt Road — English street-type suffix 'road' is used.
+- Tanglin Rise — English street-type suffix 'rise' is used.
+- Tanglin Road — English street-type suffix 'road' is used.
+- Tangmere Road — English street-type suffix 'road' is used.
+- Tanjong Katong Road — English street-type suffix 'road' is used.
+- Tanjong Kling Road — English street-type suffix 'road' is used.
+- Tanjong Pagar Road — English street-type suffix 'road' is used.
+- Tanjong Penjuru Crescent — English street-type suffix 'crescent' is used.
+- Tanjong Rhu Close — English street-type suffix 'close' is used.
+- Tanjong Rhu Road — English street-type suffix 'road' is used.
+- Tank Road — English street-type suffix 'road' is used.
+- Tannery Lane — English street-type suffix 'lane' is used.
+- Tannery Road — English street-type suffix 'road' is used.
+- Tao Ching Road — English street-type suffix 'road' is used.
+- Tasmania Road — English street-type suffix 'road' is used.
+- Tavistock Avenue — English street-type suffix 'avenue' is used.
+- Tay Lian Teck Drive — English street-type suffix 'drive' is used.
+- Tay Lian Teck Road — English street-type suffix 'road' is used.
+- Tebing Lane — English street-type suffix 'lane' is used.
+- Technology Crescent — English street-type suffix 'crescent' is used.
+- Technology Drive — English street-type suffix 'drive' is used.
+- Teck Chye Terrace — English street-type suffix 'terrace' is used.
+- Teck Lim Road — English street-type suffix 'road' is used.
+- Teck Whye Avenue — English street-type suffix 'avenue' is used.
+- Teck Whye Crescent — English street-type suffix 'crescent' is used.
+- Teck Whye Lane — English street-type suffix 'lane' is used.
+- Teck Whye Walk — English street-type suffix 'walk' is used.
+- Tekka Lane — English street-type suffix 'lane' is used.
+- Telegraph Street — English street-type suffix 'street' is used.
+- Telok Ayer Street — Malay marker 'telok' appears in the name.
+- Telok Blangah Crescent — Malay marker 'telok' appears in the name.
+- Telok Blangah Drive — Malay marker 'telok' appears in the name.
+- Telok Blangah Rise — Malay marker 'telok' appears in the name.
+- Telok Blangah Road — Malay marker 'telok' appears in the name.
+- Telok Blangah Way — Malay marker 'telok' appears in the name.
+- Telok Kurau Road — Malay marker 'telok' appears in the name.
+- Telok Paku Road — Malay marker 'telok' appears in the name.
+- Temasek Avenue — English street-type suffix 'avenue' is used.
+- Temasek Boulevard — English street-type suffix 'boulevard' is used.
+- Tembeling Lane — English street-type suffix 'lane' is used.
+- Tembeling Road — English street-type suffix 'road' is used.
+- Tembusu Avenue — English street-type suffix 'avenue' is used.
+- Tembusu Crescent — English street-type suffix 'crescent' is used.
+- Tembusu Drive — English street-type suffix 'drive' is used.
+- Tembusu Road — English street-type suffix 'road' is used.
+- Temenggong Road — English street-type suffix 'road' is used.
+- Teng Tong Road — English street-type suffix 'road' is used.
+- Tengah Avenue — English street-type suffix 'avenue' is used.
+- Tengah Boulevard — English street-type suffix 'boulevard' is used.
+- Tengah Close — English street-type suffix 'close' is used.
+- Tengah Drive — English street-type suffix 'drive' is used.
+- Tengah Link — English street-type suffix 'link' is used.
+- Tengah Road — English street-type suffix 'road' is used.
+- Tengah Way — English street-type suffix 'way' is used.
+- Teo Hong Road — English street-type suffix 'road' is used.
+- Teo Kim Eng Road — English street-type suffix 'road' is used.
+- Teow Hock Avenue — English street-type suffix 'avenue' is used.
+- Terang Bulan Avenue — English street-type suffix 'avenue' is used.
+- Terasse Lane — English street-type suffix 'lane' is used.
+- Tessensohn Road — English street-type suffix 'road' is used.
+- Tew Chew Street — English street-type suffix 'street' is used.
+- Tham Soong Avenue — English street-type suffix 'avenue' is used.
+- The Beo Crescent — English street-type suffix 'crescent' is used.
+- The Gun Terrace — English street-type suffix 'terrace' is used.
+- The Loop — English street-type suffix 'loop' is used.
+- The Terrace — English street-type suffix 'terrace' is used.
+- Thiam Siew Avenue — English street-type suffix 'avenue' is used.
+- Third Avenue — English street-type suffix 'avenue' is used.
+- Third Chin Bee Road — English street-type suffix 'road' is used.
+- Third Hospital Avenue — English street-type suffix 'avenue' is used.
+- Third Lok Yang Road — English street-type suffix 'road' is used.
+- Third Street — English street-type suffix 'street' is used.
+- Thomson Close — English street-type suffix 'close' is used.
+- Thomson Hills Drive — English street-type suffix 'drive' is used.
+- Thomson Lane — English street-type suffix 'lane' is used.
+- Thomson Road — English street-type suffix 'road' is used.
+- Thomson Terrace — English street-type suffix 'terrace' is used.
+- Thomson Walk — English street-type suffix 'walk' is used.
+- Thong Bee Road — English street-type suffix 'road' is used.
+- Thong Soon Avenue — English street-type suffix 'avenue' is used.
+- Thong Soon Road — English street-type suffix 'road' is used.
+- Thrift Drive — English street-type suffix 'drive' is used.
+- Tiong Bahru Road — English street-type suffix 'road' is used.
+- Tiong Poh Avenue — English street-type suffix 'avenue' is used.
+- Tiong Poh Road — English street-type suffix 'road' is used.
+- To.Tree.Top.Walk — English street-type suffix 'walk' is used.
+- Toa Payoh Link — English street-type suffix 'link' is used.
+- Toa Payoh Rise — English street-type suffix 'rise' is used.
+- Toh Avenue — English street-type suffix 'avenue' is used.
+- Toh Close — English street-type suffix 'close' is used.
+- Toh Crescent — English street-type suffix 'crescent' is used.
+- Toh Drive — English street-type suffix 'drive' is used.
+- Toh Guan Road — English street-type suffix 'road' is used.
+- Toh Street — English street-type suffix 'street' is used.
+- Toh Tuck Avenue — English street-type suffix 'avenue' is used.
+- Toh Tuck Close — English street-type suffix 'close' is used.
+- Toh Tuck Crescent — English street-type suffix 'crescent' is used.
+- Toh Tuck Drive — English street-type suffix 'drive' is used.
+- Toh Tuck Link — English street-type suffix 'link' is used.
+- Toh Tuck Rise — English street-type suffix 'rise' is used.
+- Toh Tuck Road — English street-type suffix 'road' is used.
+- Toh Tuck Terrace — English street-type suffix 'terrace' is used.
+- Toh Tuck Walk — English street-type suffix 'walk' is used.
+- Toh Yi Drive — English street-type suffix 'drive' is used.
+- Toh Yi Road — English street-type suffix 'road' is used.
+- Tomlinson Road — English street-type suffix 'road' is used.
+- Tong Hwa Street — English street-type suffix 'street' is used.
+- Tong Lee Road — English street-type suffix 'road' is used.
+- Tong Watt Road — English street-type suffix 'road' is used.
+- Topaz Road — English street-type suffix 'road' is used.
+- Toranto Road — English street-type suffix 'road' is used.
+- Toronto Road — English street-type suffix 'road' is used.
+- Tosca Street — English street-type suffix 'street' is used.
+- Tosca Terrace — English street-type suffix 'terrace' is used.
+- Town Hall Link — English street-type suffix 'link' is used.
+- Towner Road — English street-type suffix 'road' is used.
+- Townshend Road — English street-type suffix 'road' is used.
+- Tractor Road — English street-type suffix 'road' is used.
+- Transit Road — English street-type suffix 'road' is used.
+- Tras Link — English street-type suffix 'link' is used.
+- Tras Street — English street-type suffix 'street' is used.
+- Treetop Walk — English street-type suffix 'walk' is used.
+- Trengganu Street — English street-type suffix 'street' is used.
+- Trevose Crescent — English street-type suffix 'crescent' is used.
+- Truro Road — English street-type suffix 'road' is used.
+- Tu Fu Avenue — English street-type suffix 'avenue' is used.
+- Tua Kong Walk — English street-type suffix 'walk' is used.
+- Tuah Road — English street-type suffix 'road' is used.
+- Tuas Basin Close — English street-type suffix 'close' is used.
+- Tuas Basin Lane — English street-type suffix 'lane' is used.
+- Tuas Basin Link — English street-type suffix 'link' is used.
+- Tuas Crescent — English street-type suffix 'crescent' is used.
+- Tuas Lane — English street-type suffix 'lane' is used.
+- Tuas Loop — English street-type suffix 'loop' is used.
+- Tuas Nexus Drive — English street-type suffix 'drive' is used.
+- Tuas Road — English street-type suffix 'road' is used.
+- Tuas Street — English street-type suffix 'street' is used.
+- Tuas View Close — English street-type suffix 'view' is used.
+- Tuas View Crescent — English street-type suffix 'view' is used.
+- Tuas View Drive — English street-type suffix 'view' is used.
+- Tuas View Lane — English street-type suffix 'view' is used.
+- Tuas View Link — English street-type suffix 'view' is used.
+- Tuas View Loop — English street-type suffix 'view' is used.
+- Tudor Close — English street-type suffix 'close' is used.
+- Tukang Lnnovation Lane — English street-type suffix 'lane' is used.
+- Tung Po Avenue — English street-type suffix 'avenue' is used.
+- Turf Club Avenue — English street-type suffix 'avenue' is used.
+- Turf Club Road — English street-type suffix 'road' is used.
+- Turnhouse Road — English street-type suffix 'road' is used.
+- Tyersall Avenue — English street-type suffix 'avenue' is used.
+- Tyersall Road — English street-type suffix 'road' is used.
+- Tyrwhitt Road — English street-type suffix 'road' is used.
+- Ubi Close — Malay marker 'ubi' appears in the name.
+- Ubi Crescent — Malay marker 'ubi' appears in the name.
+- Ubi Link — Malay marker 'ubi' appears in the name.
+- Ulu Pandan Road — English street-type suffix 'road' is used.
+- Underpass To Meyer Road — English street-type suffix 'road' is used.
+- Union Street — English street-type suffix 'street' is used.
+- Unity Street — English street-type suffix 'street' is used.
+- University Road — English street-type suffix 'road' is used.
+- University Walk — English street-type suffix 'walk' is used.
+- Upavon Road — English street-type suffix 'road' is used.
+- Vanda Avenue — English street-type suffix 'avenue' is used.
+- Vanda Crescent — English street-type suffix 'crescent' is used.
+- Vanda Drive — English street-type suffix 'drive' is used.
+- Vanda Link — English street-type suffix 'link' is used.
+- Vanda Road — English street-type suffix 'road' is used.
+- Vaughan Road — English street-type suffix 'road' is used.
+- Veerago Close — English street-type suffix 'close' is used.
+- Veerasamy Road — English street-type suffix 'road' is used.
+- Venture Avenue — English street-type suffix 'avenue' is used.
+- Venture Drive — English street-type suffix 'drive' is used.
+- Venus Drive — English street-type suffix 'drive' is used.
+- Venus Link — English street-type suffix 'link' is used.
+- Venus Loop — English street-type suffix 'loop' is used.
+- Venus Road — English street-type suffix 'road' is used.
+- Verde Avenue — English street-type suffix 'avenue' is used.
+- Verde Crescent — English street-type suffix 'crescent' is used.
+- Verde Walk — English street-type suffix 'walk' is used.
+- Verdun Road — English street-type suffix 'road' is used.
+- Victoria Lane — English street-type suffix 'lane' is used.
+- Victoria Link — English street-type suffix 'link' is used.
+- Victoria Street — English street-type suffix 'street' is used.
+- Vigilante Drive — English street-type suffix 'drive' is used.
+- Vista Terrace — English street-type suffix 'terrace' is used.
+- Waddington Road — English street-type suffix 'road' is used.
+- Wajek Walk — English street-type suffix 'walk' is used.
+- Wak Hassan Drive — English street-type suffix 'drive' is used.
+- Wallace Way — English street-type suffix 'way' is used.
+- Wallich Street — English street-type suffix 'street' is used.
+- Walmer Drive — English street-type suffix 'drive' is used.
+- Walshe Road — English street-type suffix 'road' is used.
+- Walton Road — English street-type suffix 'road' is used.
+- Wan Lee Road — English street-type suffix 'road' is used.
+- Wan Tho Avenue — English street-type suffix 'avenue' is used.
+- Wareham Road — English street-type suffix 'road' is used.
+- Waringin Walk — English street-type suffix 'walk' is used.
+- Warna Road — English street-type suffix 'road' is used.
+- Warwick Road — English street-type suffix 'road' is used.
+- Water Terrace — English street-type suffix 'terrace' is used.
+- Waterloo Close — English street-type suffix 'close' is used.
+- Waterloo Link — English street-type suffix 'link' is used.
+- Waterloo Street — English street-type suffix 'street' is used.
+- Watten Close — English street-type suffix 'close' is used.
+- Watten Drive — English street-type suffix 'drive' is used.
+- Watten Rise — English street-type suffix 'rise' is used.
+- Watten Terrace — English street-type suffix 'terrace' is used.
+- Wee Nam Road — English street-type suffix 'road' is used.
+- Weld Road — English street-type suffix 'road' is used.
+- Wellington Circle — English street-type suffix 'circle' is used.
+- Wellington Road — English street-type suffix 'road' is used.
+- Westbourne Road — English street-type suffix 'road' is used.
+- Westerhout Road — English street-type suffix 'road' is used.
+- Westlake Avenue — English street-type suffix 'avenue' is used.
+- Westridge Walk — English street-type suffix 'walk' is used.
+- Westwood Avenue — English street-type suffix 'avenue' is used.
+- Westwood Crescent — English street-type suffix 'crescent' is used.
+- Westwood Drive — English street-type suffix 'drive' is used.
+- Westwood Road — English street-type suffix 'road' is used.
+- Westwood Terrace — English street-type suffix 'terrace' is used.
+- Westwood Walk — English street-type suffix 'walk' is used.
+- Weyhill Close — English street-type suffix 'close' is used.
+- Whampoa Drive — English street-type suffix 'drive' is used.
+- Whampoa Road — English street-type suffix 'road' is used.
+- Whitchurch Road — English street-type suffix 'road' is used.
+- Whitley Road — English street-type suffix 'road' is used.
+- Whitney Road — English street-type suffix 'road' is used.
+- Wilby Road — English street-type suffix 'road' is used.
+- Wilkie Road — English street-type suffix 'road' is used.
+- Wilkie Terrace — English street-type suffix 'terrace' is used.
+- Wilkinson Road — English street-type suffix 'road' is used.
+- Willow Avenue — English street-type suffix 'avenue' is used.
+- Wilmonar Avenue — English street-type suffix 'avenue' is used.
+- Wilton Close — English street-type suffix 'close' is used.
+- Wiltshire Road — English street-type suffix 'road' is used.
+- Wimborne Road — English street-type suffix 'road' is used.
+- Winchester Road — English street-type suffix 'road' is used.
+- Winstedt Drive — English street-type suffix 'drive' is used.
+- Winstedt Road — English street-type suffix 'road' is used.
+- Wishart Road — English street-type suffix 'road' is used.
+- Wittering Road — English street-type suffix 'road' is used.
+- Woking Road — English street-type suffix 'road' is used.
+- Wolskel Road — English street-type suffix 'road' is used.
+- Wong Chin Yoke Road — English street-type suffix 'road' is used.
+- Woo Mon Chew Road — English street-type suffix 'road' is used.
+- Woodgrove Avenue — English street-type suffix 'avenue' is used.
+- Woodgrove Drive — English street-type suffix 'drive' is used.
+- Woodgrove Walk — English street-type suffix 'walk' is used.
+- Woodhaven Drive — English street-type suffix 'drive' is used.
+- Woodlands Circle — English street-type suffix 'circle' is used.
+- Woodlands Close — English street-type suffix 'close' is used.
+- Woodlands Crescent — English street-type suffix 'crescent' is used.
+- Woodlands Lane — English street-type suffix 'lane' is used.
+- Woodlands Link — English street-type suffix 'link' is used.
+- Woodlands Loop — English street-type suffix 'loop' is used.
+- Woodlands Ring Road — English street-type suffix 'road' is used.
+- Woodlands Rise — English street-type suffix 'rise' is used.
+- Woodlands Road — English street-type suffix 'road' is used.
+- Woodlands Terrace — English street-type suffix 'terrace' is used.
+- Woodlands Walk — English street-type suffix 'walk' is used.
+- Woodleigh Close — English street-type suffix 'close' is used.
+- Woodleigh Lane — English street-type suffix 'lane' is used.
+- Woodleigh Link — English street-type suffix 'link' is used.
+- Woodsville Close — English street-type suffix 'close' is used.
+- Woollerton Drive — English street-type suffix 'drive' is used.
+- Woolwich Road — English street-type suffix 'road' is used.
+- Worcester Road — English street-type suffix 'road' is used.
+- Workshop Road — English street-type suffix 'road' is used.
+- Worthing Road — English street-type suffix 'road' is used.
+- Xilin Avenue — English street-type suffix 'avenue' is used.
+- Yan Kit Road — English street-type suffix 'road' is used.
+- Yardwood Avenue — English street-type suffix 'avenue' is used.
+- Yarwood Avenue — English street-type suffix 'avenue' is used.
+- Yew Siang Road — English street-type suffix 'road' is used.
+- Yew Tee Close — English street-type suffix 'close' is used.
+- Yio Chu Kang Crescent — English street-type suffix 'crescent' is used.
+- Yio Chu Kang Drive — English street-type suffix 'drive' is used.
+- Yio Chu Kang Link — English street-type suffix 'link' is used.
+- Yio Chu Kang Road — English street-type suffix 'road' is used.
+- Yio Chu Kang Terrace — English street-type suffix 'terrace' is used.
+- Yishun Close — English street-type suffix 'close' is used.
+- Yishun Lane — English street-type suffix 'lane' is used.
+- Yishun Ring Road — English street-type suffix 'road' is used.
+- Yishun Walk — English street-type suffix 'walk' is used.
+- Yong Siak Street — English street-type suffix 'street' is used.
+- York Road — English street-type suffix 'road' is used.
+- Youngberg Terrace — English street-type suffix 'terrace' is used.
+- Yuan Ching Road — English street-type suffix 'road' is used.
+- Yuk Tong Avenue — English street-type suffix 'avenue' is used.
+- Yung An Road — English street-type suffix 'road' is used.
+- Yung Ho Road — English street-type suffix 'road' is used.
+- Yung Ho Walk — English street-type suffix 'walk' is used.
+- Yung Kuang Road — English street-type suffix 'road' is used.
+- Yung Loh Road — English street-type suffix 'road' is used.
+- Yung Sheng Road — English street-type suffix 'road' is used.
+- Yunnan Crescent — English street-type suffix 'crescent' is used.
+- Yunnan Road — English street-type suffix 'road' is used.
+- Zehnder Road — English street-type suffix 'road' is used.
+- Zion Close — English street-type suffix 'close' is used.
+- Zion Road — English street-type suffix 'road' is used.
+- Zubir Said Drive — English street-type suffix 'drive' is used.
 
