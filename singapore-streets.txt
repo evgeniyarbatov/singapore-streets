@@ -3585,7 +3585,6 @@ Spc Adam Road
 Spc Admiralty Road
 Spooner Road
 Sports Drive
-Sports Drive 2
 Spottiswoode Park Road
 Spring Street
 Springdew Terrace
@@ -3851,6 +3850,7 @@ Tan Sim Boh Road
 Tan Tock Seng Link
 Tanah Merah Besar Lane
 Tanah Merah Besar Road
+Tanah Merah Coast Lane
 Tanah Merah Coast Road
 Tanah Merah Ferry Road
 Tanah Merah Kechil Avenue
