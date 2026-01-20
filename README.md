@@ -1,6 +1,6 @@
 # Singapore Streets
 
-Exploring Singapore streets.
+Exploring Singapore street names.
 
 ## How to Run
 
@@ -16,3 +16,7 @@ make clean
 # Use ollama to tag each street
 make categorize
 ```
+
+## Story
+
+I became interested in learning about Singapore street names after running long distances in Singapore. Then one day my son asked me how many streets there are in Singapore, and I decided to find out the answer. This turned out to be interesting as there is nothing obvious that defines a street name in OSM data. I think this is one of those projects where you can always make incremental improvements and discover more.

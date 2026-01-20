@@ -40,8 +40,7 @@ def categorize_name(name: str, model: str) -> str:
 
 
 def main() -> int:
-    if len(sys.argv) != 5 or sys.argv[3] != "--model":
-        print("Usage: categorize_streets.py <input.txt> <output.csv> --model <model>")
+    if len(sys.argv) != 5:
         return 1
 
     input_path, output_path, model = sys.argv[1], sys.argv[2], sys.argv[4]
