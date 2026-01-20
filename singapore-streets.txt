@@ -1505,6 +1505,7 @@ Jalan Dondang Sayang
 Jalan Dua
 Jalan Durian
 Jalan Dusun
+Jalan Dusun Hdb
 Jalan Elok
 Jalan Emas Urai
 Jalan Empat
@@ -1574,6 +1575,7 @@ Jalan Joran
 Jalan Jurong Kechil
 Jalan Kakatua
 Jalan Kampong Chantek
+Jalan Kampong Siglap
 Jalan Kampung Siglap
 Jalan Kandis
 Jalan Kapal
@@ -1852,6 +1854,7 @@ Jalan Smk Limau-Limauan
 Jalan Songket
 Jalan Soo Bee
 Jalan Sotong
+Jalan Stadium
 Jalan Suasa
 Jalan Suka
 Jalan Sukachita
@@ -1978,6 +1981,7 @@ Jurong East Street 31
 Jurong East Street 32
 Jurong Gateway Road
 Jurong Hill
+Jurong Lake Gardens
 Jurong Lake Link
 Jurong Pier Road
 Jurong Pier Way
@@ -2429,6 +2433,7 @@ Lorong Kemunchup
 Lorong Kerepek
 Lorong Kilat
 Lorong Kismis
+Lorong Kondo Apartment University 1A
 Lorong L Telok Kurau
 Lorong Lada Hitam
 Lorong Lew Lian
@@ -3316,6 +3321,7 @@ Sam Leong Road
 Sandilands Road
 Sandwich Road
 Sandy Lane
+Sang Nila Utama Boulevard
 Sang Nila Utama Road
 Sang Nilai Utama Boulevard
 Sanyongkong Road
@@ -4119,7 +4125,7 @@ Tuas West Road
 Tuas West Street
 Tudor Close
 Tukang Innovation Drive
-Tukang Lnnovation Lane
+Tukang Innovation Lane
 Tung Po Avenue
 Turf Club Avenue
 Turf Club Road

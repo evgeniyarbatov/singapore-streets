@@ -31,6 +31,8 @@ Along Drain - Banana Fields # Filtered: not street pattern
 Amphitheatre # Filtered: not street pattern
 Anchor Green Primary School # Filtered: not street pattern
 Anchorvale Grove # Filtered: not street pattern
+Ang Mo Kio Avenue 5 Park Connector # Filtered: not street pattern
+Ang Mo Kio Avenue 8 Park Connector # Filtered: not street pattern
 Ang Mo Kio Bus Interchange # Filtered: building/mall, not street pattern
 Ang Mo Kio Central Flyover # Filtered: not street pattern
 Ang Mo Kio Grove # Filtered: not street pattern
@@ -101,6 +103,7 @@ Benoi Place # Filtered: not street pattern
 Benoi Sector # Filtered: not street pattern
 Berlayer Creek Mangrove Trail # Filtered: not street pattern
 Bgain 681 Old Street Coffee House # Filtered: not street pattern
+Bidadari Park # Filtered: not street pattern
 Bidadari Pcn # Filtered: not street pattern
 Bin Tong Park # Filtered: not street pattern
 Binjai Park # Filtered: not street pattern
@@ -233,7 +236,6 @@ Central Library Plaza # Filtered: building/mall, not street pattern
 Central Line 3 # Filtered: not street pattern
 Central Linear Park # Filtered: not street pattern
 Central Mall # Filtered: building/mall, not street pattern
-Central Manpower Base # Filtered: not street pattern
 Central Meadows # Filtered: not street pattern
 Central Office 1 # Filtered: not street pattern
 Central Office 2 # Filtered: not street pattern
@@ -259,6 +261,7 @@ Changi Green # Filtered: not street pattern
 Changi Point Bridge # Filtered: not street pattern
 Changi Rise Condo # Filtered: building/mall, not street pattern
 Changi Village Terminal # Filtered: building/mall, not street pattern
+Changkat Stadium # Filtered: not street pattern
 Chartwell Drive Park # Filtered: not street pattern
 Chartwell Drive Substation # Filtered: not street pattern
 Chatsworth Park # Filtered: not street pattern
@@ -365,7 +368,6 @@ Countryside Place # Filtered: not street pattern
 Countryside View # Filtered: not street pattern
 Cove Grove # Filtered: not street pattern
 Covered Footpath # Filtered: not street pattern
-Covered Walkway # Filtered: not street pattern
 Cp # Filtered: not street pattern
 Cp B24 # Filtered: not street pattern
 Cp B65 # Filtered: not street pattern
@@ -481,7 +483,6 @@ Fishing Cat Trail # Filtered: not street pattern
 Florissa Park # Filtered: not street pattern
 Foot And Mtb Path # Filtered: not street pattern
 Foot Path # Filtered: not street pattern
-Footpath # Filtered: not street pattern
 Footpath # Filtered: not street pattern
 Footpath To Backgate # Filtered: not street pattern
 Footpath Within The Residences # Filtered: building/mall, not street pattern
@@ -618,6 +619,9 @@ Jalan Bahtera Adventure Centre # Filtered: building/mall
 Jalan Batu Hawker Centre # Filtered: building/mall
 Jalan Besar Plaza # Filtered: building/mall
 Jalan Besar Swimming Complex # Filtered: building/mall
+Jalan Bm 3/1 # Filtered: contains slash
+Jalan Bm 3/6 # Filtered: contains slash
+Jalan Bm 3/9 # Filtered: contains slash
 Jambol Place # Filtered: not street pattern
 Japanese Garden Bridge # Filtered: not street pattern
 Jering Trail # Filtered: not street pattern
@@ -644,6 +648,7 @@ Jurong Hill Park # Filtered: not street pattern
 Jurong Hill Prawn Fishing & Beer Garden # Filtered: not street pattern
 Jurong Hill Tower # Filtered: building/mall, not street pattern
 Jurong Island Highway # Filtered: not street pattern
+Jurong Lake Floating Broadwalk # Filtered: not street pattern
 Jurong Lake Gardens Gym # Filtered: not street pattern
 Jurong Park Connector # Filtered: not street pattern
 Jurong Pier Flyover # Filtered: not street pattern
@@ -701,6 +706,7 @@ Kmedp Green Roof # Filtered: not street pattern
 Kolam Ayer Bridge # Filtered: not street pattern
 Kovan Green # Filtered: not street pattern
 Kranji Green # Filtered: not street pattern
+Kranji Park Connector # Filtered: not street pattern
 Kranji Reservoir Park # Filtered: not street pattern
 Kranji Way Dormitory # Filtered: not street pattern
 Kruing Path # Filtered: not street pattern
@@ -714,6 +720,7 @@ Lakeside Green # Filtered: not street pattern
 Lakeside Grove # Filtered: not street pattern
 Lakeside Plaza # Filtered: building/mall, not street pattern
 Laluan Kedua Malaysia–Singapura # Filtered: not street pattern
+Lanchar Bridge # Filtered: not street pattern
 Langur Trail # Filtered: not street pattern
 Le Grove # Filtered: not street pattern
 Le Hill Condominium # Filtered: building/mall, not street pattern
@@ -738,6 +745,7 @@ Lentor Central Residences # Filtered: building/mall, not street pattern
 Lentor Green # Filtered: not street pattern
 Lentor Grove # Filtered: not street pattern
 Lentor Interchange # Filtered: building/mall, not street pattern
+Lentor Park Connector # Filtered: not street pattern
 Lentor Place # Filtered: not street pattern
 Lentor Plain # Filtered: not street pattern
 Lentor Vale # Filtered: not street pattern
@@ -842,7 +850,6 @@ Mandai Track 15 # Filtered: not street pattern
 Mangrove Boardwalk # Filtered: not street pattern
 Maple Lane Park # Filtered: not street pattern
 Mar Thoma Road Park # Filtered: not street pattern
-Maragaret Drive Pcn # Filtered: not street pattern
 Marang Trail # Filtered: not street pattern
 Margaret Drive Dormitory # Filtered: not street pattern
 Margaret Drive Hawker Centre # Filtered: building/mall, not street pattern
@@ -1103,6 +1110,7 @@ Pipeline Track # Filtered: not street pattern
 Plam Grove Condominium # Filtered: building/mall, not street pattern
 Plam Grove Regency # Filtered: not street pattern
 Plantation Grove # Filtered: not street pattern
+Play Corridor Park Connector # Filtered: not street pattern
 Plaza Singapura Forecourt # Filtered: building/mall, not street pattern
 Pleasant Hill Lodge # Filtered: not street pattern
 Pollen Place # Filtered: not street pattern
@@ -1125,10 +1133,12 @@ Punggol Field # Filtered: not street pattern
 Punggol Green # Filtered: not street pattern
 Punggol Green Primary School # Filtered: not street pattern
 Punggol Heritage Trail # Filtered: not street pattern
+Punggol Park # Filtered: not street pattern
 Punggol Park Connector # Filtered: not street pattern
 Punggol Place # Filtered: not street pattern
 Punggol Road Track 19 # Filtered: not street pattern
 Punggol Waterway # Filtered: not street pattern
+Punggol Way Dorm # Filtered: not street pattern
 Punggol West Bank Park Connector # Filtered: not street pattern
 Punggol West Flyover # Filtered: not street pattern
 Putting Green # Filtered: not street pattern
@@ -1187,6 +1197,7 @@ Road To Track # Filtered: not street pattern
 Robertson Quay # Filtered: not street pattern
 Rochelle At Newton # Filtered: not street pattern
 Rochester Park # Filtered: not street pattern
+Rochor Canal Park Connector # Filtered: not street pattern
 Rochor Link Bridge # Filtered: not street pattern
 Rock Path # Filtered: not street pattern
 Root Hollow Trek # Filtered: not street pattern
@@ -1261,6 +1272,7 @@ Sengkang Floating Wetland Path # Filtered: not street pattern
 Sengkang Green Primary School # Filtered: not street pattern
 Sengkang Riverside Bridge # Filtered: not street pattern
 Sengkang West Depot # Filtered: not street pattern
+Sengkang West Way Park Connector # Filtered: not street pattern
 Senja Flyover # Filtered: not street pattern
 Senja Green # Filtered: not street pattern
 Senja Parc View Common Green # Filtered: not street pattern
@@ -1323,7 +1335,6 @@ Sit Wah Road Dog Run # Filtered: not street pattern
 Sixth Avenue Residences # Filtered: building/mall, not street pattern
 Sixth Avenue Ville # Filtered: not street pattern
 Sky Green # Filtered: not street pattern
-Skyline Promenade # Filtered: not street pattern
 Skyride # Filtered: not street pattern
 Slider # Filtered: not street pattern
 Smrt Kranji Depot # Filtered: not street pattern
@@ -1521,7 +1532,6 @@ Toh Tuck Avenue Building Park # Filtered: building/mall, not street pattern
 Toh Tuck Place # Filtered: not street pattern
 Town Council Cycling Path # Filtered: not street pattern
 Town Green # Filtered: not street pattern
-Tpe Park Connector # Filtered: not street pattern
 Tram Safari Route # Filtered: not street pattern
 Tras Link Park # Filtered: not street pattern
 Treasure Hunters # Filtered: not street pattern
@@ -1657,8 +1667,6 @@ Woodlands View # Filtered: not street pattern
 Woodleigh Bus Interchange # Filtered: building/mall, not street pattern
 Woodleigh Park # Filtered: not street pattern
 Woodleigh Underpass # Filtered: not street pattern
-Woods Square Cpn 1 # Filtered: not street pattern
-Woods Square Cpn 2 # Filtered: not street pattern
 Woodsville Flyover # Filtered: not street pattern
 Woodsville Tunnel # Filtered: not street pattern
 Woollerton Park # Filtered: not street pattern
@@ -1673,6 +1681,7 @@ Yishun Industrial Park A # Filtered: not street pattern
 Yishun Park Connector # Filtered: not street pattern
 Yishun Sapphire # Filtered: not street pattern
 York Place # Filtered: not street pattern
+Youth Olympic Park # Filtered: not street pattern
 Zheng Hua Park Connector # Filtered: not street pattern
 Zhenghua-Senja Square Rc # Filtered: not street pattern
 Zion Bridge # Filtered: not street pattern

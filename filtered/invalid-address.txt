@@ -29,6 +29,7 @@
 25 Genting Road, Singapore 349482
 2Nd Level Connecting Path
 30 Bukit Chermin
+30 Dover Avenue
 30 Nanyang Drive
 30Sce Parade Square
 36 Aroozoo Avenue
@@ -58,7 +59,6 @@
 73 Meyer Road
 75 Meyer Road
 77 Meyer Road
-772 Link House
 793 Link House
 8 Eden Grove
 8 Orange Grove
@@ -85,12 +85,12 @@ Bke (Sle) To Woodlands Road
 Bliss @ Hillside Drive
 Blk 11 Telok Blangah Crescent Market & Food Centre
 Blk 134
-Blk 29 Dropoff Point
 Blk 30
 Blk 79 Parking Aisle
 Blk 959 Jurong West Street 92
 Blk18 Jalan Tenteram Playground
 Bukit Batok Central (Neighbourhood) Park
+Bukit Panjang (Woodlands Road To Kje) Park Connector
 Burgundy Crescent Playground
 Cactus Road Playground
 Car Park (Ussc)
@@ -111,6 +111,7 @@ Circle Line (Cc)
 Circle Line Extension (Ce)
 Clover Crescent Playground
 Clover Way Playground
+Cmpb (Central Manpower Base)
 Coastal Path (Closed Since 2017)
 Crescent @ Kallang
 Crescent Hall (Hall 17)
@@ -248,6 +249,7 @@ New Heights Studio @ Bedok
 Nim Crescent Playground
 North Bridge Road Market & Food Centre
 Our Space @ Tai Gin
+Pang Sua (North Bank) Park Connector
 Park Grove @ Yishun
 Parry Road Playground
 Path Between Kopitiam (''Coffee Shops") And Wet Market

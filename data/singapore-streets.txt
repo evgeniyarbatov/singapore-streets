@@ -29,6 +29,7 @@
 25 Genting Road, Singapore 349482
 2nd Level Connecting Path
 30 Bukit Chermin
+30 Dover Avenue
 30 Nanyang Drive
 30SCE Parade Square
 36 Aroozoo Avenue
@@ -58,7 +59,6 @@
 73 Meyer Road
 75 Meyer Road
 77 Meyer Road
-772 Link House
 793 Link House
 8 Eden Grove
 8 Orange Grove
@@ -173,6 +173,8 @@ Andover Road
 Andrew Road
 Andrews Avenue
 Andrews Terrace
+Ang Mo Kio Ave 5 Park Connector
+Ang Mo Kio Ave 8 Park Connector
 Ang Mo Kio Avenue 1
 Ang Mo Kio Avenue 10
 Ang Mo Kio Avenue 12
@@ -224,6 +226,8 @@ Ang Mo Kio Street 65
 Ang Mo Kio Street 66
 Ang Mo Kio Street 81
 Ang Mo Kio Street 82
+Ang Mo Kio Town Garden East
+Ang Mo Kio Town Garden West
 Ang Mo Kio Underpass
 Ang Siang Hill
 Angklong Lane
@@ -447,6 +451,7 @@ Beverly Hill
 Bgain 681 Old Street Coffee House
 Bhamo Road
 Bicester Road
+Bidadari Park
 Bidadari Park Drive
 Bidadari PCN
 Bideford Road
@@ -501,7 +506,6 @@ Blangah Rise Primary School
 Bliss @ Hillside Drive
 Blk 11 Telok Blangah Crescent Market & Food Centre
 Blk 134
-Blk 29 Dropoff Point
 Blk 30
 Blk 79 Parking Aisle
 Blk 959 Jurong West Street 92
@@ -669,6 +673,7 @@ Bukit Merah Lane 3
 Bukit Merah Lane 4
 Bukit Merah View
 Bukit Mugliston
+Bukit Panjang (Woodlands Road to KJE) Park Connector
 Bukit Panjang / Zheng Hua Park Connector
 Bukit Panjang Flyover
 Bukit Panjang Integrated Transport Hub
@@ -881,7 +886,6 @@ Central Line 3
 Central Linear Park
 Central Link
 Central Mall
-Central Manpower Base
 Central Manpower Base (Block 1)
 Central Meadows
 Central Office 1
@@ -960,6 +964,7 @@ Changi Village Coastal Walk
 Changi Village Coastal Walk (Kelong Walk)
 Changi Village Road
 Changi Village Terminal
+Changkat Stadium
 Chantilly Rise
 Chapel Close
 Chapel Road
@@ -1018,7 +1023,7 @@ Chiltern Drive Park
 Chin Bee Avenue
 Chin Bee Crescent
 Chin Bee Drive
-Chin Bee road
+Chin Bee Road
 Chin Cheng Avenue
 Chin Chew Street
 Chin Swee Road
@@ -1172,6 +1177,7 @@ Cluny Park
 Cluny Park Road
 Cluny Park Way
 Cluny Road
+CMPB (Central Manpower Base)
 Coast to Coast Trail
 Coast-to-Coast Trail
 Coastal Park Connector
@@ -1263,7 +1269,6 @@ Cove Grove
 Cove Way
 covered footpath
 Covered Walk Way
-Covered Walkway
 Cowdray Avenue
 Cox Terrace
 CP
@@ -1696,7 +1701,6 @@ Foo Kim Lin Road
 Foot and MTB path
 foot path
 footpath
-Footpath
 Footpath to backgate
 Footpath within the Residences
 Ford Avenue
@@ -2263,6 +2267,9 @@ Jalan Binchang
 Jalan Bingka
 Jalan Binjai
 Jalan Bintang Tiga
+Jalan BM 3/1
+Jalan BM 3/6
+Jalan BM 3/9
 Jalan Boon Lay
 Jalan Bukit Ho Swee
 Jalan Bukit Merah
@@ -2304,6 +2311,7 @@ Jalan Dondang Sayang
 Jalan Dua
 Jalan Durian
 Jalan Dusun
+Jalan Dusun HDB
 Jalan Elok
 Jalan Emas Urai
 Jalan Empat
@@ -2373,6 +2381,7 @@ Jalan Joran
 Jalan Jurong Kechil
 Jalan Kakatua
 Jalan Kampong Chantek
+Jalan Kampong Siglap
 JALAN KAMPUNG SIGLAP
 Jalan Kandis
 Jalan Kapal
@@ -2657,6 +2666,7 @@ Jalan SMK Limau-Limauan
 Jalan Songket
 Jalan Soo Bee
 Jalan Sotong
+Jalan Stadium
 Jalan Suasa
 Jalan Suka
 Jalan Sukachita
@@ -2813,6 +2823,8 @@ Jurong Hill Park
 Jurong Hill Prawn Fishing & Beer Garden
 Jurong Hill Tower
 Jurong Island Highway
+Jurong Lake Floating Broadwalk
+Jurong Lake Gardens
 Jurong Lake Gardens Gym
 Jurong Lake Link
 Jurong Park Connector
@@ -3081,6 +3093,7 @@ Kranji Expressway
 Kranji Green
 Kranji Link
 Kranji Loop
+Kranji Park Connector
 Kranji Reservoir Park
 Kranji Road
 Kranji Way
@@ -3125,6 +3138,7 @@ Lakme Street
 Lakme Terrace
 Laluan Kedua Malaysia–Singapura
 Lambeth Walk
+Lanchar Bridge
 Lange Road
 Langsat Road
 Langur Trail
@@ -3179,6 +3193,7 @@ Lentor Interchange
 Lentor Lane
 Lentor Link
 Lentor Loop
+Lentor Park Connector
 Lentor Place
 Lentor Plain
 Lentor Road
@@ -3489,6 +3504,7 @@ Lorong Kemunchup
 Lorong Kerepek
 Lorong Kilat
 Lorong Kismis
+Lorong Kondo Apartment University 1A
 Lorong Koo Chye Sheng Hong Temple
 Lorong L Telok Kurau
 Lorong Lada Hitam
@@ -3674,7 +3690,6 @@ Maple Lane Park
 Mar Thoma Road
 Mar Thoma Road Park
 Mar Thoma Syrian Church Road
-Maragaret Drive PCN
 Marang Road
 Marang Trail
 Maranta Avenue
@@ -4235,6 +4250,7 @@ Pandora North
 Pandora South
 Pandora West
 Pang Seng Road
+Pang Sua (North Bank) Park Connector
 Pang Sua Park Connector
 Pangshan Green
 Parade Square
@@ -4507,6 +4523,7 @@ Plantation Drive
 Plantation Grove
 Platina Road
 Platina Road Playground
+Play Corridor Park Connector
 Play@Heights Park
 Playfair Road
 Playground at 25 Jalan Membina
@@ -4593,6 +4610,7 @@ Punggol Green
 Punggol Green Primary School
 Punggol Heritage Trail
 Punggol North Avenue
+Punggol Park
 Punggol Park Connector
 Punggol Place
 Punggol Primary School Parade Square
@@ -4605,6 +4623,7 @@ Punggol Town Square
 Punggol Walk
 Punggol Waterway
 Punggol Way
+Punggol Way Dorm
 Punggol West Bank Park Connector
 Punggol West Community Square
 Punggol West Flyover
@@ -4758,6 +4777,7 @@ Rochdale Road
 Rochelle at Newton
 Rochester Drive
 Rochester Park
+Rochor Canal Park Connector
 Rochor Canal Road
 Rochor Link Bridge
 Rochor Road
@@ -4832,6 +4852,7 @@ Sandown Place
 Sandwich Road
 Sandy Island
 Sandy Lane
+Sang Nila Utama Boulevard
 Sang Nila Utama Road
 Sang Nilai Utama Boulevard
 Sanyongkong Road
@@ -4987,6 +5008,7 @@ Sengkang West Depot
 Sengkang West Drive
 Sengkang West Road
 Sengkang West Way
+Sengkang West Way Park Connector
 Senja Close
 Senja Flyover
 Senja Green
@@ -5195,7 +5217,6 @@ Sixth Lok Yang Road
 Sky Green
 Skyline @ Orchard Boulevard
 Skyline 360° @ Saint Thomas Walk
-Skyline Promenade
 SkyRide
 Slider
 Slim Barracks Rise
@@ -5886,7 +5907,6 @@ Town Hall Link
 Towner Heights
 Towner Road
 Townshend Road
-TPE Park Connector
 Tractor Road
 Tram Safari Route
 Transit Road
@@ -6007,10 +6027,9 @@ Tuas West Drive
 Tuas West Road
 Tuas West Street
 Tudor Close
-tukang innovation dr
 Tukang Innovation Drive
 Tukang Innovation Grove
-Tukang lnnovation Lane
+Tukang Innovation Lane
 Tung Po Avenue
 Turf Club Avenue
 Turf Club Road
@@ -6406,8 +6425,6 @@ Woodleigh Link
 Woodleigh Park
 Woodleigh Underpass
 Woods Square
-Woods Square CPN 1
-Woods Square CPN 2
 Woodsville Close
 Woodsville Flyover
 Woodsville Tunnel
@@ -6491,6 +6508,7 @@ York Place
 York Road
 Yotel Singapore Orchard Road
 Youngberg Terrace
+Youth Olympic Park
 Yuan Ching Road
 Yuk Tong Avenue
 Yung An Road
