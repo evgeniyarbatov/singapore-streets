@@ -13,6 +13,6 @@ make city
 make streets
 # Clean street names
 make clean
-# Use ollama to group street names
+# Use ollama to tag each street
 make categorize
 ```
