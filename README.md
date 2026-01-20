@@ -1,4 +1,4 @@
-# Singapore Streets
+# Singapore Streets 🇸🇬
 
 Exploring Singapore street names with OpenStreetMap.
 
