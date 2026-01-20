@@ -1,4 +1,2 @@
 osmium
 polyline
-black
-flake8

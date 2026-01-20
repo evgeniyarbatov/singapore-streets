@@ -1,2 +1,0 @@
-- [ ] finish running `make categorize`
-- [ ] Add tests
