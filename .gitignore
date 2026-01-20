@@ -2,3 +2,5 @@ __pycache__
 .venv
 data
 filtered
+singapore-streets.txt
+street_categories.csv

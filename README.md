@@ -4,7 +4,7 @@ Exploring Singapore street names with OpenStreetMap.
 
 ## How Many Streets?
 
-~4,460 streets based on `data/singapore-streets.txt` You can group them by auto-generated tags in `data/street_categories.txt`
+~4,460 streets based on `dataset/singapore-streets.csv`
 
 ## How to Run
 
