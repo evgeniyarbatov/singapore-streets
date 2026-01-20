@@ -1,2 +1,2 @@
-- [ ] experiment with ollama for summaries
 - [ ] finish running `make categorize`
+- [ ] Add tests
