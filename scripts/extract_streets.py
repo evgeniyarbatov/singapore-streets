@@ -190,10 +190,6 @@ def is_street_pattern(name):
 
 
 def main():
-    if len(sys.argv) != 3:
-        print("Usage: python3 extract_streets.py <input_osm_file> <output_csv_file>")
-        sys.exit(1)
-
     osm_file = sys.argv[1]
     csv_file = sys.argv[2]
 
