@@ -3,6 +3,7 @@ from pathlib import Path
 
 streets_txt = "singapore-streets.txt"
 categories_csv = "street_categories.csv"
+osm_streets_csv = "data/singapore-streets.csv"
 
 output_dir = Path("dataset")
 output_dir.mkdir(parents=True, exist_ok=True)
@@ -26,5 +27,16 @@ merged_df = streets_df.merge(
 
 merged_df = merged_df[[0, 1]]
 merged_df.columns = ["street_name", "category"]
+
+osm_streets_df = pd.read_csv(osm_streets_csv)
+osm_streets_df = osm_streets_df.rename(columns={"name": "street_name"})
+
+osm_streets_df = osm_streets_df[["street_name", "polyline"]]
+
+merged_df = merged_df.merge(
+    osm_streets_df,
+    on="street_name",
+    how="left"
+)
 
 merged_df.to_csv(output_file, index=False)
