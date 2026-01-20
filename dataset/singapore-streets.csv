@@ -1,3 +1,4 @@
+street_name,category
 Abingdon Road,Historic British Colonies
 Adam Drive,Road Name
 Adam Road,Historical Figures
@@ -1508,7 +1509,7 @@ Jalan Dusun,Tropical Garden
 Jalan Dusun Hdb,Housing Development Board
 Jalan Elok,Tropical Flora
 Jalan Emas Urai,Precious Metal
-Jalan Empat,"Four Streets"
+Jalan Empat,Four Streets
 Jalan Enam,Narrow Streets
 Jalan Endut Senin,Malay Day Names
 Jalan Enggang,Jalan Enggang
@@ -1675,7 +1676,7 @@ Jalan Machang,Agricultural
 Jalan Malu Malu,Malay Folktale
 Jalan Malu-Malu,Mythical Creatures
 Jalan Malva,Tropical Flowers
-Jalan Mamam,"Matriarchal Honor"
+Jalan Mamam,Matriarchal Honor"""
 Jalan Manis,Sweets
 Jalan Mariam,Islamic Heritage
 Jalan Mas Kuning,Fruit Streets
@@ -1763,7 +1764,7 @@ Jalan Pisang,Fruit Streets
 Jalan Pokok Serunai,Tropical Flora
 Jalan Puay Poon,Fruits
 Jalan Punai,Tropical Plants
-Jalan Puteh Jerneh,"Heritage Namesake"
+Jalan Puteh Jerneh,Heritage Namesake
 Jalan Puteri Jula Juli,Ethnic Neighborhood
 Jalan Putra Square 5,Historical Figures
 Jalan Puyoh,Fruits
@@ -1792,7 +1793,7 @@ Jalan Riang,Historical
 Jalan Riang Park,Parkway
 Jalan Rimau,Animal Street
 Jalan Rindu,Nostalgia Lane
-Jalan Rukam,"Malay Heritage"
+Jalan Rukam,Malay Heritage
 Jalan Rumah Tinggi,Historical
 Jalan Rumbia,Tropical Fruit
 Jalan Rumia,Malay Islands
@@ -1803,7 +1804,7 @@ Jalan Salang,Fowl-related Streets
 Jalan Sam Heng,Historic Namesake
 Jalan Sam Kongsi,Historical Figures
 Jalan Samarinda,Tropical Plants
-Jalan Sampurna,"Religious"
+Jalan Sampurna,Religious
 Jalan Samulun,Malay Heritage
 Jalan Sankam,Historical Figures
 Jalan Sappan,Tropical Plants
@@ -2463,7 +2464,7 @@ Lorong Pasu,Plantation Path
 Lorong Paya Lebar,Historical Namesake
 Lorong Payah,Historical figure
 Lorong Pelita,Luminous Lane
-Lorong Penchalak,"Food Street"
+Lorong Penchalak,Food Street
 Lorong Pendek,Short Street
 Lorong Pisang Asam,Tropical Fruits
 Lorong Pisang Batu,Fruit Names

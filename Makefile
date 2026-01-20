@@ -45,4 +45,7 @@ categorize:
 	@$(PYTHON) scripts/categorize_streets.py $(STREET_FILE) street_categories.csv --model $(MODEL)
 	@echo "✓ Categorization complete"
 
-.PHONY: osm
+dataset:
+	@$(PYTHON) scripts/create-dataset.py
+
+.PHONY: osm dataset
