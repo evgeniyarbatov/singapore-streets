@@ -4,7 +4,7 @@ Exploring Singapore street names with OpenStreetMap.
 
 ## How Many Streets?
 
-~4,443 streets - [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-street-names)
+~4,443 streets based on [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-street-names)
 
 ## How to Run
 

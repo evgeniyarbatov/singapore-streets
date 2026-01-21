@@ -48,4 +48,7 @@ categorize:
 dataset:
 	@$(PYTHON) scripts/create-dataset.py
 
-.PHONY: osm dataset
+test:
+	@$(PYTHON) -m unittest discover -s tests
+
+.PHONY: osm dataset test
