@@ -19,6 +19,10 @@ make streets
 make clean
 # Use ollama to tag each street
 make categorize
+# Create dataset
+make dataset
+# Upload dataset to Kaggle
+make upload
 ```
 
 ## Story
