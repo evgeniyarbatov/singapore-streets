@@ -1,9 +1,9 @@
 import pandas as pd
 from pathlib import Path
 
-streets_txt = "singapore-streets.txt"
-categories_csv = "street_categories.csv"
-osm_streets_csv = "data/singapore-streets.csv"
+streets_txt = "data/street-names.txt"
+categories_csv = "data/street_categories.csv"
+osm_streets_csv = "data/osm-streets.csv"
 
 output_dir = Path("dataset")
 output_dir.mkdir(parents=True, exist_ok=True)

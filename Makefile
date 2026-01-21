@@ -1,18 +1,17 @@
 VENV_PATH := .venv
-
 PYTHON := $(VENV_PATH)/bin/python
 PIP := $(VENV_PATH)/bin/pip
 REQUIREMENTS := requirements.txt
 
-SINGAPORE_OSM_URL = https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf
-
 OSM_DIR = osm
+SINGAPORE_OSM_URL = https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf
 SINGAPORE_OSM_PATH = $(OSM_DIR)/$(notdir $(SINGAPORE_OSM_URL))
 
-SG_STREETS_FILE = data/singapore-streets.txt
+OSM_STREETS_FILE = data/osm-streets.csv
+STREET_NAMES_FILE = data/street-names.txt
+STREET_CATEGORIES_FILE = data/street_categories.csv
 
-STREET_FILE        := singapore-streets.txt
-MODEL              := mistral-nemo:latest
+MODEL = mistral-nemo:latest
 
 venv:
 	@python3 -m venv $(VENV_PATH)
@@ -30,19 +29,21 @@ city:
 	@osmium cat --overwrite $(OSM_DIR)/singapore.osm.pbf -o $(OSM_DIR)/singapore.osm
 
 streets:
-	@$(PYTHON) scripts/extract_streets.py $(OSM_DIR)/singapore.osm data/singapore-streets.csv
-	@$(PYTHON) -c "import csv; [print(row[0]) for row in csv.reader(open('data/singapore-streets.csv'))][1:]" | sort | uniq > $(SG_STREETS_FILE)
+	@$(PYTHON) scripts/extract_streets.py $(OSM_DIR)/singapore.osm $(OSM_STREETS_FILE)
+	@$(PYTHON) -c "import csv; [print(row[0]) for row in csv.reader(open('$(OSM_STREETS_FILE)'))][1:]" | sort | uniq > $(STREET_NAMES_FILE)
 
 clean:
-	@cat data/singapore-streets.txt | \
+	@tmp="$$(mktemp)"; \
+	cat $(STREET_NAMES_FILE) | \
 	$(PYTHON) scripts/format-address.py | \
 	$(PYTHON) scripts/invalid-address.py | \
 	$(PYTHON) scripts/street-names.py | \
-	sort | uniq > singapore-streets.txt
+	sort | uniq > "$$tmp"; \
+	mv "$$tmp" $(STREET_NAMES_FILE)
 
 categorize:
 	@echo "▶ Starting street name categorization"
-	@$(PYTHON) scripts/categorize_streets.py $(STREET_FILE) street_categories.csv --model $(MODEL)
+	@$(PYTHON) scripts/categorize_streets.py $(STREET_NAMES_FILE) $(STREET_CATEGORIES_FILE) --model $(MODEL)
 	@echo "✓ Categorization complete"
 
 dataset:
