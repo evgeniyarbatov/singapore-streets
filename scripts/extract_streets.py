@@ -190,7 +190,14 @@ def detect_polyline_issues(streets):
     return duplicate_polylines, non_streets
 
 
-def extract_streets_from_osm(osm_file_path, output_csv_path):
+def write_street_names(streets, output_path):
+    names = sorted({street["name"] for street in streets})
+    with open(output_path, "w", encoding="utf-8") as names_file:
+        for name in names:
+            names_file.write(f"{name}\n")
+
+
+def extract_streets_from_osm(osm_file_path, output_csv_path, street_names_path=None):
     """
     Extract street names, coordinates, and source tags from OSM file using osmium
     """
@@ -236,6 +243,10 @@ def extract_streets_from_osm(osm_file_path, output_csv_path):
 
     print(f"Saved to {output_csv_path}")
 
+    if street_names_path:
+        write_street_names(merged_streets, street_names_path)
+        print(f"Saved to {street_names_path}")
+
 
 def is_street_pattern(name):
     """Check if name matches street patterns"""
@@ -253,8 +264,9 @@ def is_street_pattern(name):
 def main():
     osm_file = sys.argv[1]
     csv_file = sys.argv[2]
+    street_names_file = sys.argv[3] if len(sys.argv) > 3 else None
 
-    extract_streets_from_osm(osm_file, csv_file)
+    extract_streets_from_osm(osm_file, csv_file, street_names_file)
 
 
 if __name__ == "__main__":

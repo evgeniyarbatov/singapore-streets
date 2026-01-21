@@ -1,4 +1,5 @@
 VENV_PATH := .venv
+
 PYTHON := $(VENV_PATH)/bin/python
 PIP := $(VENV_PATH)/bin/pip
 REQUIREMENTS := requirements.txt
@@ -25,12 +26,19 @@ osm:
 	@wget $(SINGAPORE_OSM_URL) -P $(OSM_DIR)
 
 city:
-	@osmconvert $(SINGAPORE_OSM_PATH) -B=$(OSM_DIR)/singapore.poly -o=$(OSM_DIR)/singapore.osm.pbf
-	@osmium cat --overwrite $(OSM_DIR)/singapore.osm.pbf -o $(OSM_DIR)/singapore.osm
+	@osmconvert $(SINGAPORE_OSM_PATH) \
+	-B=$(OSM_DIR)/singapore.poly \
+	-o=$(OSM_DIR)/singapore.osm.pbf
+
+	@osmium cat --overwrite \
+	$(OSM_DIR)/singapore.osm.pbf \
+	-o $(OSM_DIR)/singapore.osm
 
 streets:
-	@$(PYTHON) scripts/extract_streets.py $(OSM_DIR)/singapore.osm $(OSM_STREETS_FILE)
-	@$(PYTHON) -c "import csv; [print(row[0]) for row in csv.reader(open('$(OSM_STREETS_FILE)'))][1:]" | sort | uniq > $(STREET_NAMES_FILE)
+	@$(PYTHON) scripts/extract_streets.py \
+	$(OSM_DIR)/singapore.osm \
+	$(OSM_STREETS_FILE) \
+	$(STREET_NAMES_FILE)
 
 clean:
 	@tmp="$$(mktemp)"; \
@@ -42,9 +50,10 @@ clean:
 	mv "$$tmp" $(STREET_NAMES_FILE)
 
 categorize:
-	@echo "▶ Starting street name categorization"
-	@$(PYTHON) scripts/categorize_streets.py $(STREET_NAMES_FILE) $(STREET_CATEGORIES_FILE) --model $(MODEL)
-	@echo "✓ Categorization complete"
+	@$(PYTHON) scripts/categorize_streets.py \
+	$(STREET_NAMES_FILE) \
+	$(STREET_CATEGORIES_FILE) \
+	--model $(MODEL)
 
 dataset:
 	@$(PYTHON) scripts/create-dataset.py
