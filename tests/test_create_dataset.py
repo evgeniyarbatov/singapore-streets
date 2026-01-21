@@ -123,15 +123,15 @@ class TestCreateDataset(unittest.TestCase):
             data_dir = Path(tmp_dir) / "data"
             data_dir.mkdir(parents=True, exist_ok=True)
 
-            (Path(tmp_dir) / "singapore-streets.txt").write_text(
+            (data_dir / "street-names.txt").write_text(
                 "Alpha Street\nBeta Street\n",
                 encoding="utf-8",
             )
-            (Path(tmp_dir) / "street_categories.csv").write_text(
+            (data_dir / "street_categories.csv").write_text(
                 "Alpha Street,Category A\nGamma Street,Category C\n",
                 encoding="utf-8",
             )
-            (data_dir / "singapore-streets.csv").write_text(
+            (data_dir / "osm-streets.csv").write_text(
                 "name,polyline\nAlpha Street,abc\n",
                 encoding="utf-8",
             )
