@@ -58,7 +58,10 @@ categorize:
 dataset:
 	@$(PYTHON) scripts/create-dataset.py
 
+upload:
+	@kaggle datasets version -p dataset -m "update dataset"
+
 test:
 	@$(PYTHON) -m unittest discover -s tests
 
-.PHONY: osm dataset test
+.PHONY: osm dataset upload test
