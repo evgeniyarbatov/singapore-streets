@@ -1,8 +1,10 @@
+import os
 import sys
 import re
 
 
 def main():
+    os.makedirs("filtered", exist_ok=True)
     # Building/shopping mall exclusions
     building_keywords = [
         "mall",
