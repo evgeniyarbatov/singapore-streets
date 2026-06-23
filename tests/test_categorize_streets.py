@@ -1,4 +1,5 @@
 import importlib.util
+import io
 import os
 import sys
 import tempfile
@@ -20,6 +21,16 @@ MODULE = load_module("categorize_streets", SCRIPT_PATH)
 
 
 class TestCategorizeStreets(unittest.TestCase):
+    def test_load_names(self):
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            input_path = os.path.join(tmp_dir, "input.txt")
+            with open(input_path, "w", encoding="utf-8") as handle:
+                handle.write("Alpha Street\n\nBeta Street\n")
+
+            names = MODULE.load_names(input_path)
+
+            self.assertEqual(names, ["Alpha Street", "Beta Street"])
+
     def test_load_processed(self):
         with tempfile.TemporaryDirectory() as tmp_dir:
             output_path = os.path.join(tmp_dir, "output.csv")
@@ -66,7 +77,8 @@ class TestCategorizeStreets(unittest.TestCase):
                     stdout="New Category\n",
                 )
                 with mock.patch.object(sys, "argv", argv):
-                    exit_code = MODULE.main()
+                    with mock.patch.object(sys, "stderr", new_callable=io.StringIO):
+                        exit_code = MODULE.main()
 
             self.assertEqual(exit_code, 0)
             with open(output_path, "r", encoding="utf-8") as handle:
