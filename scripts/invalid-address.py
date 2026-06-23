@@ -1,8 +1,10 @@
+import os
 import sys
 import re
 
 
 def main():
+    os.makedirs("filtered", exist_ok=True)
     with open(
         "filtered/invalid-address.txt",
         "w",
