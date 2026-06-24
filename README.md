@@ -55,6 +55,14 @@ make dataset
 make upload
 ```
 
+Steps 3–8 (extract through dataset build) can be re-run together with:
+
+```bash
+make all
+```
+
+Use this whenever `extract_streets.py` or the cleaning scripts change, or after re-running `make city` with fresh OSM data. It skips `osm`, `city`, and `upload`, which you run separately.
+
 ## Categorization
 
 Street categories use a fixed taxonomy defined in `data/taxonomy.yaml` — not open-ended LLM labels.

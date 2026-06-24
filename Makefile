@@ -78,4 +78,6 @@ upload:
 test:
 	@$(PYTHON) -m unittest discover -s tests
 
-.PHONY: osm dataset upload test category-report canonical
+all: streets clean canonical categorize category-report dataset
+
+.PHONY: venv install osm city streets clean canonical categorize category-report dataset upload test all
