@@ -158,6 +158,7 @@ Rules live in `data/taxonomy.yaml` under `rules:` and `colonial_surnames:`. The 
 | `dataset` | Build `dataset/singapore-streets.csv` |
 | `upload` | Push dataset to Kaggle |
 | `test` | Run unit tests |
+| `all` | Run `streets` through `dataset` (everything but `osm`, `city`, `upload`) |
 
 ## Testing
 
