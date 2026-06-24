@@ -116,15 +116,13 @@ python scripts/categorize_streets.py \
 | Flag | Default | Description |
 |------|---------|-------------|
 | `--model` | (required unless `--no-llm`) | Ollama model name |
-| `--reviewed` | `data/categories-reviewed.csv` | Human override file |
 | `--prompt` | `prompts/categorize-v1.md` | Prompt template |
-| `--no-llm` | off | Rules + review only; no Ollama calls |
+| `--no-llm` | off | Rules only; no Ollama calls |
 
 **Priority order:**
 
-1. Row in `categories-reviewed.csv`
-2. Rule match from taxonomy
-3. Ollama with constrained JSON output (`primary_category`, `tags`, `confidence`)
+1. Rule match from taxonomy
+2. Ollama with constrained JSON output (`primary_category`, `tags`, `confidence`)
 
 Output is appended to `data/street_categories.csv`. Already-processed streets are skipped.
 
@@ -173,19 +171,7 @@ These are not scripts but are central to categorization:
 | File | Role |
 |------|------|
 | `data/taxonomy.yaml` | Primary categories, secondary tags, regex rules, colonial surnames |
-| `data/categories-reviewed.csv` | Human overrides — never overwritten by `categorize_streets.py` |
 | `prompts/categorize-v1.md` | LLM prompt template with `{{CATEGORIES}}`, `{{TAGS}}`, `{{STREET_NAME}}` placeholders |
-
-### Adding a manual category override
-
-Edit `data/categories-reviewed.csv`:
-
-```csv
-street_name,primary_category,tags,notes
-Baker Street,commemorative_persons,person,Literary reference
-```
-
-Use ids from `data/taxonomy.yaml` (not display names). Re-run `make categorize` — the override row takes precedence.
 
 ### Changing the taxonomy
 

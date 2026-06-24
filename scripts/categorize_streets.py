@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Categorize Singapore street names using rules, LLM, and human review."""
+"""Categorize Singapore street names using rules and LLM."""
 
 from __future__ import annotations
 
@@ -15,7 +15,6 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from taxonomy import (
-    Classification,
     format_tags,
     get_taxonomy,
     parse_tags,
@@ -25,9 +24,6 @@ OLLAMA_TIMEOUT_SECONDS = 120
 PROMPT_VERSION = "categorize-v1"
 DEFAULT_PROMPT_PATH = (
     Path(__file__).resolve().parents[1] / "prompts" / "categorize-v1.md"
-)
-DEFAULT_REVIEWED_PATH = (
-    Path(__file__).resolve().parents[1] / "data" / "categories-reviewed.csv"
 )
 
 OUTPUT_FIELDS = [
@@ -97,23 +93,6 @@ def load_processed(output_path: str) -> dict[str, StreetCategory]:
             legacy_category=(row.get("legacy_category") or "").strip(),
         )
     return processed
-
-
-def load_reviewed(reviewed_path: str) -> dict[str, StreetCategory]:
-    reviewed: dict[str, StreetCategory] = {}
-    taxonomy = get_taxonomy()
-    for row in _read_csv_rows(reviewed_path):
-        name = (row.get("street_name") or "").strip()
-        primary = (row.get("primary_category") or "").strip()
-        if not name or not primary:
-            continue
-        reviewed[name] = StreetCategory(
-            street_name=name,
-            primary_category=taxonomy.validate_category_id(primary),
-            tags=parse_tags(row.get("tags") or ""),
-            source="reviewed",
-        )
-    return reviewed
 
 
 def _resolve_category_label(label: str) -> StreetCategory:
@@ -218,20 +197,10 @@ def categorize_name_llm(
 
 def classify_street(
     name: str,
-    reviewed: dict[str, StreetCategory],
     model: str | None,
     prompt_path: Path,
     use_llm: bool,
 ) -> StreetCategory:
-    if name in reviewed:
-        entry = reviewed[name]
-        return StreetCategory(
-            street_name=name,
-            primary_category=entry.primary_category,
-            tags=entry.tags,
-            source="reviewed",
-        )
-
     taxonomy = get_taxonomy()
     rule_match = taxonomy.classify_by_rules(name)
     if rule_match:
@@ -282,14 +251,13 @@ def parse_args(argv: list[str]) -> dict:
     if len(argv) < 3:
         raise ValueError(
             "Usage: categorize_streets.py <input.txt> <output.csv> "
-            "[--model <model>] [--reviewed <path>] [--prompt <path>] [--no-llm]"
+            "[--model <model>] [--prompt <path>] [--no-llm]"
         )
 
     options = {
         "input_path": argv[1],
         "output_path": argv[2],
         "model": None,
-        "reviewed_path": str(DEFAULT_REVIEWED_PATH),
         "prompt_path": DEFAULT_PROMPT_PATH,
         "use_llm": True,
     }
@@ -299,10 +267,6 @@ def parse_args(argv: list[str]) -> dict:
         flag = argv[index]
         if flag == "--model" and index + 1 < len(argv):
             options["model"] = argv[index + 1]
-            index += 2
-            continue
-        if flag == "--reviewed" and index + 1 < len(argv):
-            options["reviewed_path"] = argv[index + 1]
             index += 2
             continue
         if flag == "--prompt" and index + 1 < len(argv):
@@ -329,7 +293,6 @@ def main() -> int:
         return 1
 
     processed = load_processed(options["output_path"])
-    reviewed = load_reviewed(options["reviewed_path"])
     names = load_names(options["input_path"])
     total = len(names)
     already_done = sum(1 for name in names if name in processed)
@@ -357,7 +320,6 @@ def main() -> int:
             try:
                 entry = classify_street(
                     name,
-                    reviewed,
                     options["model"],
                     options["prompt_path"],
                     options["use_llm"],
