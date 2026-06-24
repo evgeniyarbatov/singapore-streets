@@ -1,0 +1,649 @@
+version: 1
+
+primary_categories:
+  - id: colonial_british
+    name: Colonial & British
+    description: >
+      Names from the British colonial era — officials, institutions, British
+      places, military figures, and royal references.
+    examples:
+      - Stamford Road
+      - Raffles Avenue
+      - Admiralty Road
+      - Allenby Road
+
+  - id: malay_archipelago
+    name: Malay & Archipelago
+    description: >
+      Indigenous Malay and regional place-words — Jalan, Lorong, Kampong,
+      and names rooted in the Malay/Indonesian archipelago.
+    examples:
+      - Jalan Besar
+      - Lorong Halus
+      - Kampong Bahru
+      - Pasir Panjang Road
+
+  - id: chinese_dialect_clan
+    name: Chinese Dialect & Clan
+    description: >
+      Teochew, Hokkien, Cantonese, and other Chinese dialect transliterations;
+      often linked to markets, temples, or clan associations.
+    examples:
+      - Teochew Avenue
+      - Hokkien Street
+      - Amoy Street
+      - Club Street
+
+  - id: tamil_south_asian
+    name: Tamil & South Asian
+    description: >
+      Tamil, Hindi, and broader South Asian heritage names, including Hindu
+      and Muslim community links.
+    examples:
+      - Serangoon Road
+      - Race Course Road
+      - Buffalo Road
+      - Veerasamy Road
+
+  - id: japanese_wartime
+    name: Japanese & Wartime
+    description: >
+      Rare names tied to the Japanese occupation or wartime period; assign
+      only with clear historical basis.
+    examples: []
+
+  - id: nature_geography
+    name: Nature & Geography
+    description: >
+      Hills, rivers, flora, fauna, water bodies, and descriptive geographic
+      features — Bukit, Sungei, Mount, Bay, and botanical names.
+    examples:
+      - Mount Pleasant
+      - Sungei Kadut
+      - Bukit Timah Road
+      - Bayfront Avenue
+
+  - id: trade_industry
+    name: Trade & Industry
+    description: >
+      Occupations, goods, markets, and economic activity — trade streets,
+      industrial estates, and commercial naming.
+    examples:
+      - Market Street
+      - Timberland Avenue
+      - Fishery Port Road
+      - TradeHub
+
+  - id: institutions_public
+    name: Institutions & Public
+    description: >
+      Schools, hospitals, civic buildings, airports, and other public
+      infrastructure naming.
+    examples:
+      - Hospital Drive
+      - School Road
+      - Airport Boulevard
+      - Parliament Place
+
+  - id: housing_development
+    name: Housing & Development
+    description: >
+      Names from HDB new towns, private estates, and planned developments
+      from the 1960s onward.
+    examples:
+      - Compassvale Walk
+      - Punggol Field
+      - Sengkang East Way
+      - Tampines Street
+
+  - id: commemorative_persons
+    name: Commemorative & Persons
+    description: >
+      Streets named after people — local or foreign politicians,
+      philanthropists, pioneers, and historical figures.
+    examples:
+      - Adam Road
+      - Albert Winsemius Lane
+      - Eu Tong Sen Street
+      - Lim Chu Kang Road
+
+  - id: abstract_modern
+    name: Abstract & Modern
+    description: >
+      Developer-era poetic or abstract names — compass points, virtues,
+      seasons, colours, and aspirational branding.
+    examples:
+      - Spring Avenue
+      - Vision Drive
+      - Amber Road
+      - Sunrise Terrace
+
+  - id: numeric_functional
+    name: Numeric & Functional
+    description: >
+      Numbered streets and functional identifiers — Lorong 1, Street 11,
+      Avenue 3, and similar systematic naming.
+    examples:
+      - Lorong 1 Geylang
+      - Ang Mo Kio Avenue 1
+      - Bedok North Street 1
+
+  - id: uncategorized
+    name: Uncategorized
+    description: >
+      Streets not yet classified or with insufficient evidence; honest
+      bucket that should shrink over time.
+    examples: []
+
+secondary_tags:
+  - id: person
+    description: Named after a specific individual
+  - id: tree
+    description: Named after a tree or plant species
+  - id: sea
+    description: Coastal, marine, or harbour reference
+  - id: estate
+    description: Part of a named housing estate or new town
+  - id: extinct_place
+    description: References a place or kampung that no longer exists
+  - id: running_route
+    description: Personal tag — good running route
+  - id: military
+    description: Military or naval reference
+  - id: market
+    description: Market or trading place reference
+  - id: temple
+    description: Religious or temple association
+  - id: clan
+    description: Clan or community association
+
+# Rule-based classification (applied before LLM). First match wins.
+rules:
+  - category: numeric_functional
+    tags: [estate]
+    patterns:
+      - "^Lorong \\d"
+      - "\\bAvenue \\d+$"
+      - "\\bStreet \\d+$"
+      - "\\bDrive \\d+$"
+      - "\\bWalk \\d+$"
+      - "\\bCrescent \\d+$"
+      - "\\bLane \\d+$"
+
+  - category: malay_archipelago
+    patterns:
+      - "^Jalan\\b"
+      - "^Lorong\\b"
+      - "\\bKampong\\b"
+      - "\\bKampung\\b"
+      - "\\bPasir\\b"
+      - "\\bPulau\\b"
+      - "\\bTanjong\\b"
+      - "\\bTelok\\b"
+
+  - category: nature_geography
+    tags: [tree]
+    patterns:
+      - "\\bBukit\\b"
+      - "\\bSungei\\b"
+      - "\\bMount\\b"
+      - "\\bBay\\b"
+      - "\\bHill\\b"
+      - "\\bRiver\\b"
+      - "\\bPark\\b"
+      - "\\bGarden"
+      - "\\bGardens\\b"
+      - "\\bForest\\b"
+      - "\\bGreen\\b"
+      - "\\bLake\\b"
+      - "\\bCoast\\b"
+      - "\\bSea\\b"
+      - "\\bBeach\\b"
+      - "\\bCove\\b"
+      - "\\bIsland\\b"
+
+  - category: institutions_public
+    patterns:
+      - "\\bHospital\\b"
+      - "\\bSchool\\b"
+      - "\\bCollege\\b"
+      - "\\bUniversity\\b"
+      - "\\bAirport\\b"
+      - "\\bPort\\b"
+      - "\\bStation\\b"
+      - "\\bMRT\\b"
+      - "\\bParliament\\b"
+      - "\\bCivic\\b"
+      - "\\bLibrary\\b"
+
+  - category: trade_industry
+    tags: [market]
+    patterns:
+      - "\\bMarket\\b"
+      - "\\bTrade\\b"
+      - "\\bIndustrial\\b"
+      - "\\bFactory\\b"
+      - "\\bWarehouse\\b"
+      - "\\bCargo\\b"
+      - "\\bFishery\\b"
+      - "\\bTimber\\b"
+      - "\\bWharf\\b"
+
+  - category: colonial_british
+    tags: [military]
+    patterns:
+      - "\\bAdmiralty\\b"
+      - "\\bAllenby\\b"
+      - "\\bRaffles\\b"
+      - "\\bStamford\\b"
+      - "\\bVictoria\\b"
+      - "\\bColonial\\b"
+      - "\\bBritish\\b"
+      - "\\bRoyal\\b"
+      - "\\bKing\\b"
+      - "\\bQueen\\b"
+      - "\\bPrince\\b"
+      - "\\bDuke\\b"
+
+  - category: chinese_dialect_clan
+    tags: [clan, market]
+    patterns:
+      - "\\bTeochew\\b"
+      - "\\bHokkien\\b"
+      - "\\bCantonese\\b"
+      - "\\bAmoy\\b"
+      - "\\bHakka\\b"
+      - "\\bClub Street\\b"
+      - "\\bChina\\b"
+      - "\\bChinatown\\b"
+
+  - category: tamil_south_asian
+    patterns:
+      - "\\bSerangoon\\b"
+      - "\\bVeerasamy\\b"
+      - "\\bBuffalo\\b"
+      - "\\bLittle India\\b"
+      - "\\bHindu\\b"
+      - "\\bTemple\\b"
+      - "\\bMosque\\b"
+      - "\\bMasjid\\b"
+
+  - category: housing_development
+    tags: [estate]
+    patterns:
+      - "\\bHDB\\b"
+      - "\\bEstate\\b"
+      - "\\bHeights\\b"
+      - "\\bVille\\b"
+      - "\\bValley\\b"
+      - "\\bGreenview\\b"
+      - "\\bParkview\\b"
+
+# Map free-form legacy LLM labels to taxonomy (substring match, first wins).
+legacy_label_mappings:
+  - patterns:
+      - Historical Figure
+      - Historic Figure
+      - Named After
+      - Person
+      - Philanthrop
+      - Pioneer
+      - Politician
+    category: commemorative_persons
+    tags: [person]
+
+  - patterns:
+      - Malay
+      - Javanese
+      - Indonesian
+      - Archipelago
+    category: malay_archipelago
+
+  - patterns:
+      - Chinese
+      - Teochew
+      - Hokkien
+      - Cantonese
+      - Hakka
+      - Clan
+      - Dialect
+    category: chinese_dialect_clan
+    tags: [clan]
+
+  - patterns:
+      - Tamil
+      - Indian
+      - Hindu
+      - Muslim
+      - Islamic
+      - South Asian
+    category: tamil_south_asian
+
+  - patterns:
+      - Japanese
+      - Wartime
+      - Occupation
+    category: japanese_wartime
+
+  - patterns:
+      - Botanical
+      - Nature
+      - Tree
+      - Flora
+      - Tropical Plant
+      - Hill
+      - River
+      - Riverine
+      - Waterfront
+      - Coastal
+      - Marine
+      - Nut Named
+      - Alpine
+    category: nature_geography
+    tags: [tree]
+
+  - patterns:
+      - Industrial
+      - Trade
+      - Market
+      - Commercial
+      - Business
+      - Economic
+      - Aviation
+      - Aerospace
+      - Logistics
+      - Agricultural
+      - Farming
+    category: trade_industry
+
+  - patterns:
+      - Hospital
+      - School
+      - Education
+      - Civic
+      - Public
+      - Airport
+      - Transportation Infrastructure
+      - Road Infrastructure
+      - Infrastructure
+    category: institutions_public
+
+  - patterns:
+      - Residential
+      - Housing
+      - Estate
+      - Development
+      - HDB
+      - New Town
+      - Condominium
+      - Modern Architecture
+      - Urban
+    category: housing_development
+    tags: [estate]
+
+  - patterns:
+      - British
+      - Colonial
+      - Royal
+      - Military
+      - Naval
+      - Historic British
+    category: colonial_british
+    tags: [military]
+
+  - patterns:
+      - Avenue
+      - Road Name
+      - Abstract
+      - Color
+      - Colour
+      - Season
+      - Vision
+      - Modern
+      - Poetic
+      - Jewelry
+      - Opera
+    category: abstract_modern
+
+  - patterns:
+      - Heritage
+      - Historical Landmark
+      - Historical
+      - Landmark
+      - Historic Place
+      - Historic Architecture
+      - Historic Famil
+      - Historic Structure
+      - Historic Communication
+      - Historic Industry
+    category: commemorative_persons
+
+  - patterns:
+      - Religious Figure
+      - Religious Name
+      - Religious
+      - Temple
+      - Mosque
+      - Hindu
+    category: tamil_south_asian
+    tags: [temple]
+
+  - patterns:
+      - Transportation
+      - Transport
+      - Expressway
+      - Highway
+      - Railway
+      - Road Infrastructure
+      - Road Number
+      - Junction
+      - Route
+    category: institutions_public
+
+  - patterns:
+      - Tropical
+      - Botany
+      - Botanical
+      - Fruit
+      - Flower
+      - Plant
+      - Woodland
+      - Wildlife
+      - Avian
+      - Jungle
+      - Nut
+      - Tree
+      - Rice
+      - Plantation
+      - Garden
+    category: nature_geography
+    tags: [tree]
+
+  - patterns:
+      - Nautical
+      - Maritime
+      - Sea
+      - Beach
+      - Coastal
+      - Anchor
+      - Cable
+      - Brani
+      - Wharf
+      - Port
+    category: nature_geography
+    tags: [sea]
+
+  - patterns:
+      - Sport
+      - Stadium
+      - Recreation
+    category: institutions_public
+
+  - patterns:
+      - Peranakan
+      - Kampong
+      - Malay
+      - Traditional Name
+      - Rural
+      - Village
+    category: malay_archipelago
+
+  - patterns:
+      - Food
+      - Beverage
+      - Drink
+      - Seafood
+      - Market
+      - Retail
+    category: trade_industry
+    tags: [market]
+
+  - patterns:
+      - Science
+      - Tech
+      - Technology
+      - Biopolis
+      - Innovation
+      - Industrial
+    category: trade_industry
+
+  - patterns:
+      - Literary
+      - Writer
+      - Opera
+      - Artistic
+      - Cultural
+      - Art
+    category: commemorative_persons
+
+  - patterns:
+      - European
+      - French
+      - British Town
+      - Rural England
+      - Rural Australia
+      - Colonial Town
+      - Burmese
+      - Middle Eastern
+      - Arab
+      - Baghdad
+      - Bussorah
+    category: colonial_british
+
+  - patterns:
+      - Horse Racing
+      - Ascot
+    category: commemorative_persons
+
+  - patterns:
+      - Geographical
+      - Natural Feature
+      - Geographic
+      - Island
+      - Alpine
+      - Arcadian
+      - Paradise
+    category: nature_geography
+
+  - patterns:
+      - Rise Name
+      - Naming Style
+      - Road$
+      - Avenue Name
+      - Narrow
+      - Square
+      - Close$
+      - Crescent$
+      - Terrace
+      - Walk$
+      - Link$
+      - Way$
+      - Drive$
+      - Lane$
+      - Poetic
+      - Color
+      - Colour
+      - Wine
+      - Astronomy
+      - Fur Animal
+      - Arcadian
+    category: abstract_modern
+
+  - patterns:
+      - Place of Residence
+      - Residential
+      - Estate Name
+      - Heights
+    category: housing_development
+    tags: [estate]
+
+  - patterns:
+      - Animal
+      - Bird
+      - Mythical
+      - Wildlife
+    category: nature_geography
+
+  - patterns:
+      - Victorian
+      - Architectural Style
+      - Architecture
+      - Dutch Colon
+    category: colonial_british
+
+  - patterns:
+      - Marina Bay
+      - Bay
+      - Sunrise
+      - Sunset
+      - Morning
+      - Lunar
+      - Moon
+      - Space
+      - Golden Age
+      - Geometric
+      - Musical
+      - Gaming
+      - Zodiac
+      - Racing Circuit
+    category: abstract_modern
+
+  - patterns:
+      - Historic Name
+      - Asian Name
+      - Australia
+      - Folk
+      - Carpentry
+      - Foliage
+    category: commemorative_persons
+
+# Known colonial-era person surnames (word-boundary match on street name).
+colonial_surnames:
+  - Abingdon
+  - Albert
+  - Alexandra
+  - Allenby
+  - Anderson
+  - Bencoolen
+  - Cecil
+  - Connaught
+  - Dalhousie
+  - Dunman
+  - Edinburgh
+  - Exeter
+  - Gladstone
+  - Hastings
+  - Killiney
+  - Moulmein
+  - Nelson
+  - Outram
+  - Pickering
+  - Prinsep
+  - Raffles
+  - Robinson
+  - Somerset
+  - Stamford
+  - Tanglin
+  - Victoria
+  - Waterloo
+  - Winchester
