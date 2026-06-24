@@ -62,35 +62,14 @@ class TestCategorizeStreets(unittest.TestCase):
             self.assertEqual(processed["Jalan Besar"].primary_category, "malay_archipelago")
 
     def test_classify_street_uses_rules_without_llm(self):
-        reviewed = {}
         entry = MODULE.classify_street(
             "Jalan Besar",
-            reviewed,
             model=None,
             prompt_path=MODULE.DEFAULT_PROMPT_PATH,
             use_llm=False,
         )
         self.assertEqual(entry.primary_category, "malay_archipelago")
         self.assertEqual(entry.source, "rule")
-
-    def test_classify_street_prefers_reviewed_override(self):
-        reviewed = {
-            "Jalan Besar": MODULE.StreetCategory(
-                street_name="Jalan Besar",
-                primary_category="commemorative_persons",
-                tags=(),
-                source="reviewed",
-            )
-        }
-        entry = MODULE.classify_street(
-            "Jalan Besar",
-            reviewed,
-            model=None,
-            prompt_path=MODULE.DEFAULT_PROMPT_PATH,
-            use_llm=False,
-        )
-        self.assertEqual(entry.primary_category, "commemorative_persons")
-        self.assertEqual(entry.source, "reviewed")
 
     def test_categorize_name_llm_parses_json(self):
         with mock.patch.object(MODULE.subprocess, "run") as mocked_run:
@@ -114,7 +93,6 @@ class TestCategorizeStreets(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp_dir:
             input_path = os.path.join(tmp_dir, "input.txt")
             output_path = os.path.join(tmp_dir, "output.csv")
-            reviewed_path = os.path.join(tmp_dir, "reviewed.csv")
             with open(input_path, "w", encoding="utf-8") as handle:
                 handle.write("Jalan Besar\nBeta Street\n")
             with open(output_path, "w", encoding="utf-8", newline="") as handle:
@@ -138,8 +116,6 @@ class TestCategorizeStreets(unittest.TestCase):
                 input_path,
                 output_path,
                 "--no-llm",
-                "--reviewed",
-                reviewed_path,
             ]
 
             with mock.patch.object(sys, "argv", argv):
