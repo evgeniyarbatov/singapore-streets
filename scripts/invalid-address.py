@@ -1,40 +1,79 @@
+import argparse
 import os
 import sys
 import re
 
 
+LORONG_NUMBER_RE = re.compile(r"^Lorong\s+(\d+[A-Za-z]?)\b", re.IGNORECASE)
+BARE_LORONG_RE = re.compile(r"^Lorong\s+\d+[A-Za-z]?$", re.IGNORECASE)
+
+
+def find_named_lorong_numbers(lines):
+    """
+    Numbers that appear in a Lorong name alongside other words, e.g.
+    "Lorong 12 Geylang". A bare "Lorong 12" is kept when its number shows
+    up here, since that's evidence it's a real, named lane rather than a
+    stray numeric fragment.
+    """
+    numbers = set()
+    for line in lines:
+        if BARE_LORONG_RE.match(line):
+            continue
+        match = LORONG_NUMBER_RE.match(line)
+        if match:
+            numbers.add(match.group(1).lower())
+    return numbers
+
+
+def is_invalid(line, named_lorong_numbers):
+    starts_with_letter = re.match(r"^[A-Z]", line)
+    is_block = re.match(r"^Blk", line, re.IGNORECASE)
+    contains_punctuation = bool(re.search(r"[;,:#()]", line))
+    has_stop_words = bool(
+        re.search(
+            r"(^After|^Before|Opposite|^Entrance|Bus Station|MRT Station|Temple$|Playground|Fitness Centre|Wet Market$|Food Centre$|Bus Terminal$)",
+            line,
+        )
+    )
+    has_special_characters = bool(re.search(r"@", line))
+
+    bare_lorong_match = BARE_LORONG_RE.match(line)
+    has_invalid_lorongs = bool(bare_lorong_match) and (
+        bare_lorong_match.group(0).split()[1].lower() not in named_lorong_numbers
+    )
+
+    return (
+        not starts_with_letter
+        or is_block
+        or contains_punctuation
+        or has_stop_words
+        or has_special_characters
+        or has_invalid_lorongs
+    )
+
+
 def main():
-    os.makedirs("filtered", exist_ok=True)
-    with open(
-        "filtered/invalid-address.txt",
-        "w",
-    ) as f:
-        for line in sys.stdin:
-            line = line.rstrip()
+    parser = argparse.ArgumentParser(description="Drop lines that are clearly not street names.")
+    parser.add_argument(
+        "--reject-log",
+        default="filtered/invalid-address.txt",
+        help="Where to write rejected lines (default: filtered/invalid-address.txt)",
+    )
+    args = parser.parse_args()
 
-            starts_with_letter = re.match(r"^[A-Z]", line)
-            is_block = re.match(r"^Blk", line, re.IGNORECASE)
-            contains_punctuation = bool(re.search(r"[;,:#()]", line))
-            has_stop_words = bool(
-                re.search(
-                    r"(^After|^Before|Opposite|^Entrance|Bus Station|MRT Station|Temple$|Playground|Fitness Centre|Wet Market$|Food Centre$|Bus Terminal$)",
-                    line,
-                )
-            )
-            has_special_characters = bool(re.search(r"@", line))
-            has_invalid_lorongs = bool(re.search(r"^Lorong\s+\d+$", line))
+    lines = [line.rstrip() for line in sys.stdin]
+    named_lorong_numbers = find_named_lorong_numbers(lines)
 
-            if (
-                starts_with_letter
-                and not is_block
-                and not contains_punctuation
-                and not has_stop_words
-                and not has_special_characters
-                and not has_invalid_lorongs
-            ):
-                print(line)
-            else:
+    reject_dir = os.path.dirname(args.reject_log)
+    if reject_dir:
+        os.makedirs(reject_dir, exist_ok=True)
+
+    with open(args.reject_log, "w") as f:
+        for line in lines:
+            if is_invalid(line, named_lorong_numbers):
                 f.write(line + "\n")
+            else:
+                print(line)
 
 
 if __name__ == "__main__":

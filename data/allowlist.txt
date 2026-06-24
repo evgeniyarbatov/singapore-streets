@@ -1,0 +1,3 @@
+# One street name per line. These always pass scripts/street-names.py,
+# bypassing the building/mall and slash-name filters — for legitimate
+# edge cases confirmed against an official source.
