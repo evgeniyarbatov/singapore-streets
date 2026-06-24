@@ -1,10 +1,35 @@
+import argparse
 import os
 import sys
 import re
 
 
+def load_allowlist(path):
+    if not path or not os.path.exists(path):
+        return set()
+    with open(path, encoding="utf-8") as f:
+        return {line.strip() for line in f if line.strip() and not line.startswith("#")}
+
+
 def main():
-    os.makedirs("filtered", exist_ok=True)
+    parser = argparse.ArgumentParser(
+        description="Keep only names that look like real Singapore streets."
+    )
+    parser.add_argument(
+        "--reject-log",
+        default="filtered/not-street-names.txt",
+        help="Where to write rejected lines (default: filtered/not-street-names.txt)",
+    )
+    parser.add_argument(
+        "--allowlist",
+        default="data/allowlist.txt",
+        help="Names that always pass, bypassing the building/slash filters "
+        "(default: data/allowlist.txt)",
+    )
+    args = parser.parse_args()
+
+    allowlist = load_allowlist(args.allowlist)
+
     # Building/shopping mall exclusions
     building_keywords = [
         "mall",
@@ -29,13 +54,19 @@ def main():
         "foodcourt",
     ]
 
-    with open(
-        "filtered/not-street-names.txt",
-        "w",
-    ) as f:
+    reject_dir = os.path.dirname(args.reject_log)
+    if reject_dir:
+        os.makedirs(reject_dir, exist_ok=True)
+
+    with open(args.reject_log, "w") as f:
         seen_names = []
         for line in sys.stdin:
             line = line.rstrip()
+
+            if line in allowlist:
+                print(line)
+                seen_names.append(line)
+                continue
 
             is_lorong = bool(
                 re.search(
@@ -48,6 +79,16 @@ def main():
             is_jalan = bool(
                 re.search(
                     r"^Jalan\s*",
+                    line,
+                    re.IGNORECASE,
+                )
+            )
+
+            # Bukit/Kampong/Mount are prefix words in Singapore street names
+            # (Bukit Timah, Kampong Glam, Mount Faber), not suffixes.
+            is_prefix_name = bool(
+                re.search(
+                    r"^(Bukit|Kampong|Mount)\s",
                     line,
                     re.IGNORECASE,
                 )
@@ -72,12 +113,15 @@ def main():
                     r"Link|"
                     r"Loop|"
                     r"Parkway|"
+                    r"Place|"
+                    r"Quay|"
                     r"Ring|"
                     r"Rise|"
                     r"Road|"
                     r"Square|"
                     r"Street|"
                     r"Terrace|"
+                    r"View|"
                     r"Walk|"
                     r"Way"
                     r")(\s*\d+[A-Za-z]?)?$",
@@ -96,7 +140,7 @@ def main():
             has_slash = "/" in line
 
             if (
-                (is_street_name or is_lorong or is_jalan)
+                (is_street_name or is_lorong or is_jalan or is_prefix_name)
                 and not is_building
                 and not has_slash
             ):
@@ -128,7 +172,7 @@ def main():
                         reason.append("building/mall")
                     if has_slash:
                         reason.append("contains slash")
-                    if not (is_street_name or is_lorong or is_jalan):
+                    if not (is_street_name or is_lorong or is_jalan or is_prefix_name):
                         reason.append("not street pattern")
 
                     f.write(f"{line} # Filtered: {', '.join(reason)}\n")

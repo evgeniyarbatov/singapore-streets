@@ -7,6 +7,32 @@ import osmium
 import polyline
 
 
+# Tags consulted (in priority order) when a way/relation has no plain "name".
+# Also merged as aliases of the primary name when present.
+ALIAS_TAGS = ["name:en", "name:ms", "name:zh", "alt_name", "old_name"]
+
+
+def resolve_name_and_aliases(tags):
+    """
+    Pick a primary name and a set of aliases from an OSM tags mapping.
+
+    Falls back through ALIAS_TAGS when "name" is missing (e.g. a way only
+    tagged with alt_name/old_name), so streets are not silently dropped.
+    """
+    alias_values = [tags[t] for t in ALIAS_TAGS if t in tags]
+
+    if "name" in tags:
+        name = tags["name"]
+    elif alias_values:
+        name = alias_values[0]
+        alias_values = alias_values[1:]
+    else:
+        return None, []
+
+    aliases = sorted({value for value in alias_values if value and value != name})
+    return name, aliases
+
+
 def encode_polyline(coords):
     """
     Encode coordinates as polyline string using Google's polyline algorithm
@@ -27,34 +53,72 @@ class StreetHandler(osmium.SimpleHandler):
         osmium.SimpleHandler.__init__(self)
         self.streets = []
         self.nodes = {}
+        self.ways_by_id = {}
 
     def node(self, n):
         # Store node coordinates
         self.nodes[n.id] = (n.location.lat, n.location.lon)
 
-    def way(self, w):
-        # Check for highway with name
-        if "highway" in w.tags and "name" in w.tags:
-            name = w.tags["name"]
-            coords = []
-            for node_ref in w.nodes:
-                if node_ref.ref in self.nodes:
-                    coords.append(self.nodes[node_ref.ref])
+    def _way_coords(self, w):
+        coords = []
+        for node_ref in w.nodes:
+            if node_ref.ref in self.nodes:
+                coords.append(self.nodes[node_ref.ref])
+        return coords
 
+    def way(self, w):
+        coords = self._way_coords(w)
+        # Keep every way's coords so named relations can stitch member
+        # geometries together once all ways have been seen.
+        self.ways_by_id[w.id] = coords
+
+        name, aliases = resolve_name_and_aliases(w.tags)
+        if name is None:
+            return
+
+        if "highway" in w.tags:
             self.streets.append(
-                {"name": name, "coords": coords, "osm_source": "highway_name"}
+                {
+                    "name": name,
+                    "coords": coords,
+                    "osm_source": "highway_name",
+                    "aliases": aliases,
+                }
+            )
+        elif is_street_pattern(name):
+            self.streets.append(
+                {
+                    "name": name,
+                    "coords": coords,
+                    "osm_source": "name_pattern",
+                    "aliases": aliases,
+                }
             )
 
-        # Check for general name tags with street patterns
-        elif "name" in w.tags and is_street_pattern(w.tags["name"]):
-            name = w.tags["name"]
-            coords = []
-            for node_ref in w.nodes:
-                if node_ref.ref in self.nodes:
-                    coords.append(self.nodes[node_ref.ref])
+    def relation(self, r):
+        # Named relations: route=road (expressways, major roads tagged as
+        # routes) or any relation carrying a highway tag directly.
+        is_road_route = r.tags.get("type") == "route" and r.tags.get("route") == "road"
+        if not (is_road_route or "highway" in r.tags):
+            return
 
+        name, aliases = resolve_name_and_aliases(r.tags)
+        if name is None:
+            return
+
+        for member in r.members:
+            if member.type != "w" or member.ref not in self.ways_by_id:
+                continue
+            coords = self.ways_by_id[member.ref]
+            if not coords:
+                continue
             self.streets.append(
-                {"name": name, "coords": coords, "osm_source": "name_pattern"}
+                {
+                    "name": name,
+                    "coords": coords,
+                    "osm_source": "relation_name",
+                    "aliases": aliases,
+                }
             )
 
 
@@ -150,16 +214,24 @@ def merge_street_polylines(streets, max_link_meters=25, precision=6):
     groups = {}
     for street in streets:
         name = street["name"]
-        groups.setdefault(
-            name, {"name": name, "coords_list": [], "osm_source": street["osm_source"]}
-        )["coords_list"].append(street["coords"])
+        group = groups.setdefault(
+            name,
+            {"name": name, "coords_list": [], "osm_source": street["osm_source"], "aliases": set()},
+        )
+        group["coords_list"].append(street["coords"])
+        group["aliases"].update(street.get("aliases", []))
 
     # ---- merge per group ----
     merged = []
     for g in groups.values():
         coords = merge_segments(g["coords_list"])
         merged.append(
-            {"name": g["name"], "polyline": encode_polyline(coords), "osm_source": g["osm_source"]}
+            {
+                "name": g["name"],
+                "polyline": encode_polyline(coords),
+                "osm_source": g["osm_source"],
+                "aliases": "|".join(sorted(g["aliases"])),
+            }
         )
 
     return merged
@@ -197,7 +269,25 @@ def write_street_names(streets, output_path):
             names_file.write(f"{name}\n")
 
 
-def extract_streets_from_osm(osm_file_path, output_csv_path, street_names_path=None):
+def write_review_queue(duplicate_polylines, non_streets, output_path):
+    """
+    Write polyline issues (duplicate geometries, missing polylines) to a CSV
+    so they can be triaged instead of only scrolling past on stderr.
+    """
+    with open(output_path, "w", newline="", encoding="utf-8") as review_file:
+        writer = csv.writer(review_file)
+        writer.writerow(["issue_type", "names", "polyline"])
+
+        for polyline_str, names in duplicate_polylines.items():
+            writer.writerow(["duplicate_polyline", "|".join(sorted(names)), polyline_str])
+
+        for name in sorted(set(non_streets)):
+            writer.writerow(["missing_polyline", name, ""])
+
+
+def extract_streets_from_osm(
+    osm_file_path, output_csv_path, street_names_path=None, review_queue_path=None
+):
     """
     Extract street names, coordinates, and source tags from OSM file using osmium
     """
@@ -232,9 +322,13 @@ def extract_streets_from_osm(osm_file_path, output_csv_path, street_names_path=N
         for names in duplicate_polylines.values():
             print(f"  {', '.join(sorted(names))}", file=sys.stderr)
 
+    if review_queue_path:
+        write_review_queue(duplicate_polylines, non_streets, review_queue_path)
+        print(f"Saved review queue to {review_queue_path}")
+
     # Write to CSV
     with open(output_csv_path, "w", newline="", encoding="utf-8") as csv_file:
-        fieldnames = ["name", "polyline", "osm_source"]
+        fieldnames = ["name", "polyline", "osm_source", "aliases"]
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
 
@@ -252,9 +346,10 @@ def is_street_pattern(name):
     """Check if name matches street patterns"""
     street_pattern = re.compile(
         r"\b("
-        r"avenue|boulevard|central|circle|close|crescent|drive|expressway|"
-        r"farmway|gardens|green|grove|heights|hill|lane|link|loop|parkway|"
-        r"ring|rise|road|square|street|terrace|walk|way|jalan|lorong"
+        r"avenue|boulevard|bukit|central|circle|close|crescent|drive|expressway|"
+        r"farmway|gardens|green|grove|heights|hill|jalan|kampong|lane|link|loop|"
+        r"lorong|mount|parkway|place|quay|rise|ring|road|square|street|"
+        r"terrace|view|walk|way"
         r")\b",
         re.IGNORECASE,
     )
@@ -265,8 +360,9 @@ def main():
     osm_file = sys.argv[1]
     csv_file = sys.argv[2]
     street_names_file = sys.argv[3] if len(sys.argv) > 3 else None
+    review_queue_file = sys.argv[4] if len(sys.argv) > 4 else None
 
-    extract_streets_from_osm(osm_file, csv_file, street_names_file)
+    extract_streets_from_osm(osm_file, csv_file, street_names_file, review_queue_file)
 
 
 if __name__ == "__main__":

@@ -9,20 +9,22 @@ All pipeline scripts live in `scripts/`. Most are invoked via `Makefile` targets
 Reads a clipped Singapore OSM XML file and produces street names with map polylines.
 
 ```bash
-python scripts/extract_streets.py osm/singapore.osm data/osm-streets.csv data/street-names.txt
+python scripts/extract_streets.py osm/singapore.osm data/osm-streets.csv data/street-names.txt data/review-queue.csv
 ```
 
 **What it does:**
 
-1. Walks OSM nodes and ways with **osmium**
+1. Walks OSM nodes, ways, and relations with **osmium**
 2. Collects ways that are either:
-   - `highway` + `name` tag, or
-   - `name` tag matching a street suffix pattern (`Road`, `Jalan`, `Lorong`, etc.)
-3. Groups segments by name and **merges polylines** when endpoints are within 25 m
-4. Flags duplicate geometries and null polylines to stderr
-5. Writes `data/osm-streets.csv` and optionally `data/street-names.txt`
+   - `highway` + name tag, or
+   - name tag matching a street suffix pattern (`Road`, `Jalan`, `Lorong`, `Quay`, `Bukit`, `Kampong`, `Mount`, etc.)
+3. Also collects named relations (`type=route, route=road`, or any relation with a `highway` tag — e.g. expressways split across many unnamed member ways), stitching their member ways' geometry
+4. Resolves a primary name with fallback through `name`, `name:en`, `name:ms`, `name:zh`, `alt_name`, `old_name` — a way with no `name` tag but an `alt_name`/`old_name` is still captured instead of silently dropped. The other tag values become aliases.
+5. Groups segments by name and **merges polylines** when endpoints are within 25 m; aliases are unioned per group
+6. Flags duplicate geometries and null polylines to stderr, and writes them to `data/review-queue.csv` when a path is given
+7. Writes `data/osm-streets.csv` (with `name`, `polyline`, `osm_source`, `aliases` columns) and optionally `data/street-names.txt`
 
-**Key functions:** `StreetHandler`, `merge_street_polylines()`, `detect_polyline_issues()`, `is_street_pattern()`
+**Key functions:** `StreetHandler`, `resolve_name_and_aliases()`, `merge_street_polylines()`, `detect_polyline_issues()`, `write_review_queue()`, `is_street_pattern()`
 
 **Makefile target:** `make streets`
 
@@ -53,12 +55,12 @@ Drops lines that are clearly not street names.
 - Are not block addresses (`Blk …`)
 - Have no punctuation (`;,:#()`)
 - Match no stop-word patterns (bus stops, MRT, temples, food centres, etc.)
-- Are not bare numbered lorongs (`Lorong 5` alone)
+- Are not a bare numbered lorong (`Lorong 5` alone) **unless** the same number also appears in a named variant elsewhere in the batch (e.g. `Lorong 5 Geylang`) — that's evidence it's a real, officially named lane rather than a stray fragment
 
-**Rejects** everything else → `filtered/invalid-address.txt`
+**Rejects** everything else → reject log path (default `filtered/invalid-address.txt`, override with `--reject-log`)
 
 ```bash
-cat data/street-names.txt | python scripts/format-address.py | python scripts/invalid-address.py
+cat data/street-names.txt | python scripts/format-address.py | python scripts/invalid-address.py --reject-log filtered/invalid-address.txt
 ```
 
 ### `street-names.py`
@@ -66,22 +68,37 @@ cat data/street-names.txt | python scripts/format-address.py | python scripts/in
 Final street-name filter. Keeps names that look like real streets; rejects buildings, malls, and slash-names.
 
 **Keeps** names matching:
-- Street suffix patterns (`Road`, `Avenue`, `Crescent`, …)
-- `Jalan …` or `Lorong …` prefixes
+- Street suffix patterns (`Road`, `Avenue`, `Crescent`, `Quay`, `Place`, `View`, …)
+- `Jalan …` or `Lorong …` prefixes, or `Bukit …` / `Kampong …` / `Mount …` prefixes
 - Directional variants (`Foo Road East`) when the base name already exists
+- Any name listed in the allowlist file (default `data/allowlist.txt`, override with `--allowlist`) — bypasses the building/mall and slash filters for confirmed official edge cases
 
-**Rejects** → `filtered/not-street-names.txt` (with reason comment)
+**Rejects** → reject log path (default `filtered/not-street-names.txt`, override with `--reject-log`; includes a reason comment)
 
 ```bash
 # Full clean pipeline (as Makefile runs it):
 cat data/street-names.txt \
   | python scripts/format-address.py \
-  | python scripts/invalid-address.py \
-  | python scripts/street-names.py \
+  | python scripts/invalid-address.py --reject-log filtered/invalid-address.txt \
+  | python scripts/street-names.py --reject-log filtered/not-street-names.txt --allowlist data/allowlist.txt \
   | sort | uniq > data/street-names.txt
 ```
 
 **Makefile target:** `make clean`
+
+### `canonical_streets.py`
+
+Groups directional variants of the same street (`Foo Road`, `Foo Road East`, `Foo Road West`) into one logical row.
+
+```bash
+python scripts/canonical_streets.py data/street-names.txt data/canonical-streets.csv
+```
+
+Output columns: `canonical_name` (direction stripped), `display_name` (preferred form — the bare canonical name when present, else the shortest variant), `aliases` (pipe-separated remaining variants).
+
+**Key functions:** `canonicalize()`, `build_canonical_table()`, `write_canonical_table()`
+
+**Makefile target:** `make canonical`
 
 ---
 
@@ -183,10 +200,11 @@ Edit `data/taxonomy.yaml`, then re-run `make categorize --no-llm` to apply rule 
 
 | Script | Input | Output |
 |--------|-------|--------|
-| `extract_streets.py` | `osm/singapore.osm` | `data/osm-streets.csv`, `data/street-names.txt` |
+| `extract_streets.py` | `osm/singapore.osm` | `data/osm-streets.csv`, `data/street-names.txt`, `data/review-queue.csv` |
 | `format-address.py` | stdin (names) | stdout (normalized names) |
-| `invalid-address.py` | stdin | stdout; `filtered/invalid-address.txt` |
-| `street-names.py` | stdin | stdout; `filtered/not-street-names.txt` |
+| `invalid-address.py` | stdin | stdout; reject log (`--reject-log`) |
+| `street-names.py` | stdin | stdout; reject log (`--reject-log`); allowlist (`--allowlist`) |
+| `canonical_streets.py` | `street-names.txt` | `data/canonical-streets.csv` |
 | `categorize_streets.py` | `street-names.txt` | `data/street_categories.csv` |
 | `category_report.py` | `street_categories.csv` | stdout + `category-stats.json` |
 | `create-dataset.py` | names + categories + OSM CSV | `dataset/singapore-streets.csv` |

@@ -63,18 +63,18 @@ The [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-str
 
 ### 1.2 Improve OSM extraction
 
-- [ ] Merge multilingual and alias tags: `name`, `name:en`, `name:ms`, `name:zh`, `alt_name`, `old_name`
-- [ ] Include **named relations** (some expressways and major roads are relation-tagged)
-- [ ] Expand street-type regex using [Remember Singapore suffix guide](https://remembersingapore.org/2018/08/15/singapore-street-suffixes/) and Wikipedia [road naming conventions](https://en.wikipedia.org/wiki/Road_names_in_Singapore) — e.g. `Quay`, `Place`, `View`, `Mount`, `Bukit`, `Kampong`, `Lorong` variants
-- [ ] Handle **directional variants** systematically (`Foo Road East` vs `Foo Road`) — keep both when official; link as aliases in metadata
-- [ ] Log and review `detect_polyline_issues` output: duplicate polylines, null polylines → `data/review-queue.csv`
+- [x] Merge multilingual and alias tags: `name`, `name:en`, `name:ms`, `name:zh`, `alt_name`, `old_name`
+- [x] Include **named relations** (some expressways and major roads are relation-tagged)
+- [x] Expand street-type regex using [Remember Singapore suffix guide](https://remembersingapore.org/2018/08/15/singapore-street-suffixes/) and Wikipedia [road naming conventions](https://en.wikipedia.org/wiki/Road_names_in_Singapore) — e.g. `Quay`, `Place`, `View`, `Mount`, `Bukit`, `Kampong`, `Lorong` variants
+- [x] Handle **directional variants** systematically (`Foo Road East` vs `Foo Road`) — keep both when official; link as aliases in metadata (see `data/canonical-streets.csv`, Phase 1.3)
+- [x] Log and review `detect_polyline_issues` output: duplicate polylines, null polylines → `data/review-queue.csv`
 
 ### 1.3 Tighten the cleaning pipeline
 
-- [ ] Replace silent `filtered/*.txt` side effects with explicit `--reject-log` CLI flags
-- [ ] Revisit `Lorong \d+` exclusion — many valid Singapore streets are exactly that; use context (paired with named roads) instead of blanket drop
-- [ ] Add **allowlist** for known edge cases (e.g. legitimate slash names if they exist officially)
-- [ ] Canonical name table: `canonical_name`, `display_name`, `aliases[]` — one row per logical street
+- [x] Replace silent `filtered/*.txt` side effects with explicit `--reject-log` CLI flags
+- [x] Revisit `Lorong \d+` exclusion — many valid Singapore streets are exactly that; use context (paired with named roads) instead of blanket drop
+- [x] Add **allowlist** for known edge cases (e.g. legitimate slash names if they exist officially)
+- [x] Canonical name table: `canonical_name`, `display_name`, `aliases[]` — one row per logical street
 
 ### 1.4 Definition of “street”
 

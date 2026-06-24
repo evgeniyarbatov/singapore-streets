@@ -39,16 +39,19 @@ make streets
 # 4. Normalize and filter street names
 make clean
 
-# 5. Assign stable taxonomy categories (see below)
+# 5. Group directional variants into a canonical name table (optional)
+make canonical
+
+# 6. Assign stable taxonomy categories (see below)
 make categorize
 
-# 6. Check category coverage
+# 7. Check category coverage
 make category-report
 
-# 7. Build the publishable dataset (CSV with name, category, polyline)
+# 8. Build the publishable dataset (CSV with name, category, polyline)
 make dataset
 
-# 8. Upload to Kaggle (optional)
+# 9. Upload to Kaggle (optional)
 make upload
 ```
 
