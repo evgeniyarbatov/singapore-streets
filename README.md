@@ -4,25 +4,87 @@ Exploring Singapore street names with OpenStreetMap.
 
 ## How Many Streets?
 
-~4,443 streets based on [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-street-names)
+~4,443 streets based on the [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-street-names).
 
-## How to Run
+## Documentation
 
+Architecture and script reference: [docs/](docs/).
+
+## Prerequisites
+
+- Python 3
+- [osmium](https://osmcode.org/osmium-tool/), `osmconvert`, and `wget` (for the OSM download/extract steps)
+- [Ollama](https://ollama.com/) with a local model (default: `mistral-nemo:latest`) — only needed if you run `make categorize` without existing categories
+
+## Setup
+
+```bash
+make install
 ```
-# Download the latest OSM data
+
+## Full Pipeline
+
+Run from the repo root:
+
+```bash
+# 1. Download regional OSM extract
 make osm
-# Extract Singapore OSM
+
+# 2. Clip to Singapore boundary
 make city
-# Extract street names from OSM
+
+# 3. Extract street names and polylines from OSM
 make streets
-# Clean street names
+
+# 4. Normalize and filter street names
 make clean
-# Use ollama to tag each street
+
+# 5. Assign stable taxonomy categories (see below)
 make categorize
-# Create dataset
+
+# 6. Check category coverage
+make category-report
+
+# 7. Build the publishable dataset (CSV with name, category, polyline)
 make dataset
-# Upload dataset to Kaggle
+
+# 8. Upload to Kaggle (optional)
 make upload
+```
+
+## Categorization
+
+Street categories use a fixed taxonomy defined in `data/taxonomy.yaml` — not open-ended LLM labels.
+
+The pipeline applies categories in this order:
+
+1. **Human review** — rows in `data/categories-reviewed.csv` always win
+2. **Rules** — regex and lookup rules from the taxonomy (e.g. `Jalan`, `Bukit`, numbered avenues)
+3. **LLM** — constrained JSON classification via `prompts/categorize-v1.md` (when running `make categorize`)
+
+Useful commands:
+
+```bash
+# Categorize streets (resumable; skips already-processed rows)
+make categorize
+
+# Print coverage stats and write data/category-stats.json
+make category-report
+```
+
+To override a category manually, add a row to `data/categories-reviewed.csv`:
+
+```csv
+street_name,primary_category,tags,notes
+Baker Street,commemorative_persons,person,Literary reference
+```
+
+Use category ids from `data/taxonomy.yaml` (e.g. `colonial_british`, `malay_archipelago`).
+
+## Tests
+
+```bash
+make test
 ```
 
 ## Story

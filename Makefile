@@ -49,9 +49,6 @@ clean:
 	sort | uniq > "$$tmp"; \
 	mv "$$tmp" $(STREET_NAMES_FILE)
 
-migrate-categories:
-	@$(PYTHON) scripts/migrate_categories.py
-
 categorize:
 	@$(PYTHON) scripts/categorize_streets.py \
 	$(STREET_NAMES_FILE) \
@@ -70,4 +67,4 @@ upload:
 test:
 	@$(PYTHON) -m unittest discover -s tests
 
-.PHONY: osm dataset upload test migrate-categories category-report
+.PHONY: osm dataset upload test category-report
