@@ -14,19 +14,23 @@ streets_df = pd.read_csv(
     header=None,
 )
 
-categories_df = pd.read_csv(
-    categories_csv,
-    header=None
-)
+categories_df = pd.read_csv(categories_csv)
+if "street_name" in categories_df.columns:
+    category_col = "category" if "category" in categories_df.columns else "primary_category"
+    categories_df = categories_df[["street_name", category_col]].rename(
+        columns={category_col: "category"}
+    )
+else:
+    categories_df = pd.read_csv(categories_csv, header=None)
+    categories_df = categories_df[[0, 1]]
+    categories_df.columns = ["street_name", "category"]
 
 merged_df = streets_df.merge(
     categories_df,
-    on=0,
-    how="inner"
+    left_on=0,
+    right_on="street_name",
+    how="inner",
 )
-
-merged_df = merged_df[[0, 1]]
-merged_df.columns = ["street_name", "category"]
 
 osm_streets_df = pd.read_csv(osm_streets_csv)
 osm_streets_df = osm_streets_df.rename(columns={"name": "street_name"})
@@ -39,4 +43,5 @@ merged_df = merged_df.merge(
     how="left"
 )
 
+merged_df = merged_df[["street_name", "category", "polyline"]]
 merged_df.to_csv(output_file, index=False)
