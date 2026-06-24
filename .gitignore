@@ -3,5 +3,6 @@ __pycache__
 data/**
 !data/.gitkeep
 !data/taxonomy.yaml
+!data/categories-reviewed.csv
 filtered/
 dataset/*.csv
