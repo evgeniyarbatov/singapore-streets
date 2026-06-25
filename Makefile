@@ -13,9 +13,22 @@ STREET_NAMES_FILE = data/street-names.txt
 STREET_CATEGORIES_FILE = data/street_categories.csv
 REVIEW_QUEUE_FILE = data/review-queue.csv
 CANONICAL_STREETS_FILE = data/canonical-streets.csv
+CATEGORY_STATS_FILE = data/category-stats.json
+DATASET_FILE = dataset/singapore-streets.csv
 ALLOWLIST_FILE = data/allowlist.txt
 INVALID_ADDRESS_LOG = filtered/invalid-address.txt
 NOT_STREET_NAMES_LOG = filtered/not-street-names.txt
+SINGAPORE_OSM_XML = $(OSM_DIR)/singapore.osm
+SINGAPORE_OSM_CLIPPED = $(OSM_DIR)/singapore.osm.pbf
+
+GENERATED_DATA = \
+	$(OSM_STREETS_FILE) \
+	$(STREET_NAMES_FILE) \
+	$(STREET_CATEGORIES_FILE) \
+	$(REVIEW_QUEUE_FILE) \
+	$(CANONICAL_STREETS_FILE) \
+	$(CATEGORY_STATS_FILE) \
+	$(DATASET_FILE)
 
 MODEL = mistral-nemo:latest
 
@@ -36,12 +49,12 @@ city:
 	-o=$(OSM_DIR)/singapore.osm.pbf
 
 	@osmium cat --overwrite \
-	$(OSM_DIR)/singapore.osm.pbf \
-	-o $(OSM_DIR)/singapore.osm
+	$(SINGAPORE_OSM_CLIPPED) \
+	-o $(SINGAPORE_OSM_XML)
 
 streets:
 	@$(PYTHON) scripts/extract_streets.py \
-	$(OSM_DIR)/singapore.osm \
+	$(SINGAPORE_OSM_XML) \
 	$(OSM_STREETS_FILE) \
 	$(STREET_NAMES_FILE) \
 	$(REVIEW_QUEUE_FILE)
@@ -80,4 +93,15 @@ test:
 
 all: streets clean canonical categorize category-report dataset
 
-.PHONY: venv install osm city streets clean canonical categorize category-report dataset upload test all
+reset:
+	@rm -f $(GENERATED_DATA)
+	@rm -rf filtered
+
+reset-osm:
+	@rm -f $(SINGAPORE_OSM_PATH) $(SINGAPORE_OSM_CLIPPED) $(SINGAPORE_OSM_XML)
+
+fresh: reset all
+
+fresh-all: reset reset-osm osm city all
+
+.PHONY: venv install osm city streets clean canonical categorize category-report dataset upload test all reset reset-osm fresh fresh-all

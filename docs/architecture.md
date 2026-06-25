@@ -163,6 +163,9 @@ Rules live in `data/taxonomy.yaml` under `rules:` and `colonial_surnames:`. The 
 | `upload` | Push dataset to Kaggle |
 | `test` | Run unit tests |
 | `all` | Run `streets` through `dataset` (everything but `osm`, `city`, `upload`) |
+| `reset` | Delete generated pipeline outputs |
+| `fresh` | `reset` then `all` |
+| `fresh-all` | `reset`, re-download/re-clip OSM, then `all` |
 
 ## Testing
 
