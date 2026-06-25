@@ -12,6 +12,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+from category_overrides import apply_overrides_to_rows
 from taxonomy import get_taxonomy, parse_tags
 
 
@@ -22,7 +23,7 @@ def load_categories(path: Path) -> list[dict[str, str]]:
 
 def build_report(categories_path: Path) -> dict:
     taxonomy = get_taxonomy()
-    rows = load_categories(categories_path)
+    rows = apply_overrides_to_rows(load_categories(categories_path))
 
     by_category: Counter[str] = Counter()
     by_source: Counter[str] = Counter()

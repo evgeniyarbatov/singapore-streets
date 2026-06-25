@@ -1,5 +1,11 @@
-import pandas as pd
+import sys
 from pathlib import Path
+
+import pandas as pd
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from category_overrides import merge_category_dataframe
 
 streets_txt = "data/street-names.txt"
 categories_csv = "data/street_categories.csv"
@@ -24,6 +30,8 @@ else:
     categories_df = pd.read_csv(categories_csv, header=None)
     categories_df = categories_df[[0, 1]]
     categories_df.columns = ["street_name", "category"]
+
+categories_df = merge_category_dataframe(categories_df)
 
 merged_df = streets_df.merge(
     categories_df,

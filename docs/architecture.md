@@ -127,9 +127,13 @@ street-names.txt ──► classify_by_rules() ──► matched? ──► writ
                                │
                                ▼
                          write CSV (resumable)
+                               │
+                               ▼
+                    categories-override.csv
+                    (manual corrections, git-tracked)
 ```
 
-Rules live in `data/taxonomy.yaml` under `rules:` and `colonial_surnames:`. The shared loader is `scripts/taxonomy.py`.
+Rules live in `data/taxonomy.yaml` under `rules:` and `colonial_surnames:`. The shared loader is `scripts/taxonomy.py`. Overrides in `data/categories-override.csv` replace any prior label for that street.
 
 ## External dependencies
 

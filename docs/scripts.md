@@ -140,8 +140,9 @@ python scripts/categorize_streets.py \
 
 1. Rule match from taxonomy
 2. Ollama with constrained JSON output (`primary_category`, `tags`, `confidence`)
+3. Manual overrides from `data/categories-override.csv` (always win; tracked in git)
 
-Output is appended to `data/street_categories.csv`. Already-processed streets are skipped.
+Output is written to `data/street_categories.csv`. Already-processed streets are skipped unless listed in the override file.
 
 **Makefile target:** `make categorize`
 
@@ -188,6 +189,7 @@ These are not scripts but are central to categorization:
 | File | Role |
 |------|------|
 | `data/taxonomy.yaml` | Primary categories, secondary tags, regex rules, colonial surnames |
+| `data/categories-override.csv` | Manual category corrections (`street_name`, `category`) |
 | `prompts/categorize-v1.md` | LLM prompt template with `{{CATEGORIES}}`, `{{TAGS}}`, `{{STREET_NAME}}` placeholders |
 
 ### Changing the taxonomy

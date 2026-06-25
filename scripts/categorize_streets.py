@@ -14,6 +14,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+from category_overrides import DEFAULT_OVERRIDE_PATH, CategoryOverride, load_overrides
 from taxonomy import (
     format_tags,
     get_taxonomy,
@@ -195,12 +196,24 @@ def categorize_name_llm(
     )
 
 
+def entry_from_override(override: CategoryOverride) -> StreetCategory:
+    return StreetCategory(
+        street_name=override.street_name,
+        primary_category=override.primary_category,
+        tags=(),
+        source="override",
+    )
+
+
 def classify_street(
     name: str,
     model: str | None,
     prompt_path: Path,
     use_llm: bool,
+    overrides: dict[str, CategoryOverride] | None = None,
 ) -> StreetCategory:
+    if overrides and name in overrides:
+        return entry_from_override(overrides[name])
     taxonomy = get_taxonomy()
     rule_match = taxonomy.classify_by_rules(name)
     if rule_match:
@@ -259,6 +272,7 @@ def parse_args(argv: list[str]) -> dict:
         "output_path": argv[2],
         "model": None,
         "prompt_path": DEFAULT_PROMPT_PATH,
+        "override_path": DEFAULT_OVERRIDE_PATH,
         "use_llm": True,
     }
 
@@ -271,6 +285,10 @@ def parse_args(argv: list[str]) -> dict:
             continue
         if flag == "--prompt" and index + 1 < len(argv):
             options["prompt_path"] = Path(argv[index + 1])
+            index += 2
+            continue
+        if flag == "--overrides" and index + 1 < len(argv):
+            options["override_path"] = Path(argv[index + 1])
             index += 2
             continue
         if flag == "--no-llm":
@@ -293,67 +311,83 @@ def main() -> int:
         return 1
 
     processed = load_processed(options["output_path"])
+    overrides = load_overrides(options["override_path"])
     names = load_names(options["input_path"])
     total = len(names)
-    already_done = sum(1 for name in names if name in processed)
+    already_done = sum(
+        1
+        for name in names
+        if name in processed and name not in overrides
+    )
     remaining = total - already_done
 
     print(
         f"Categorizing {remaining} streets "
         f"({already_done}/{total} already done, "
+        f"{len(overrides)} overrides, "
         f"model={options['model'] or 'none'}, llm={options['use_llm']})",
         file=sys.stderr,
         flush=True,
     )
 
-    done = already_done
-    file_exists = os.path.exists(options["output_path"])
-    with open(options["output_path"], "a", encoding="utf-8", newline="") as output:
-        writer = csv.DictWriter(output, fieldnames=OUTPUT_FIELDS)
-        if not file_exists or os.path.getsize(options["output_path"]) == 0:
-            writer.writeheader()
-
-        for name in names:
-            if name in processed:
-                continue
-
-            try:
-                entry = classify_street(
-                    name,
-                    options["model"],
-                    options["prompt_path"],
-                    options["use_llm"],
-                )
-            except subprocess.TimeoutExpired:
-                entry = StreetCategory(
-                    street_name=name,
-                    primary_category="uncategorized",
-                    tags=(),
-                    source="llm_timeout",
-                    prompt_version=PROMPT_VERSION,
-                    model=options["model"] or "",
-                )
-                print(
-                    f"Timed out after {OLLAMA_TIMEOUT_SECONDS}s: {name}",
-                    file=sys.stderr,
-                    flush=True,
-                )
-            except (subprocess.CalledProcessError, ValueError, json.JSONDecodeError) as exc:
-                entry = StreetCategory(
-                    street_name=name,
-                    primary_category="uncategorized",
-                    tags=(),
-                    source="llm_error",
-                    prompt_version=PROMPT_VERSION,
-                    model=options["model"] or "",
-                )
-                print(f"LLM failed for {name}: {exc}", file=sys.stderr, flush=True)
-
-            write_category_row(writer, entry)
-            output.flush()
-            processed[name] = entry
+    entries: list[StreetCategory] = []
+    done = 0
+    for name in names:
+        if name in overrides:
+            entry = entry_from_override(overrides[name])
+            entries.append(entry)
             done += 1
             print_progress(done, total, name, entry)
+            continue
+
+        if name in processed:
+            entry = processed[name]
+            entries.append(entry)
+            done += 1
+            continue
+
+        try:
+            entry = classify_street(
+                name,
+                options["model"],
+                options["prompt_path"],
+                options["use_llm"],
+                overrides=overrides,
+            )
+        except subprocess.TimeoutExpired:
+            entry = StreetCategory(
+                street_name=name,
+                primary_category="uncategorized",
+                tags=(),
+                source="llm_timeout",
+                prompt_version=PROMPT_VERSION,
+                model=options["model"] or "",
+            )
+            print(
+                f"Timed out after {OLLAMA_TIMEOUT_SECONDS}s: {name}",
+                file=sys.stderr,
+                flush=True,
+            )
+        except (subprocess.CalledProcessError, ValueError, json.JSONDecodeError) as exc:
+            entry = StreetCategory(
+                street_name=name,
+                primary_category="uncategorized",
+                tags=(),
+                source="llm_error",
+                prompt_version=PROMPT_VERSION,
+                model=options["model"] or "",
+            )
+            print(f"LLM failed for {name}: {exc}", file=sys.stderr, flush=True)
+
+        entries.append(entry)
+        done += 1
+        print_progress(done, total, name, entry)
+
+    with open(options["output_path"], "w", encoding="utf-8", newline="") as output:
+        writer = csv.DictWriter(output, fieldnames=OUTPUT_FIELDS)
+        writer.writeheader()
+        for entry in entries:
+            write_category_row(writer, entry)
 
     print(f"Done. Categorized {done}/{total} streets.", file=sys.stderr, flush=True)
     return 0
