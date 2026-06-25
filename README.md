@@ -63,6 +63,20 @@ make all
 
 Use this whenever `extract_streets.py` or the cleaning scripts change, or after re-running `make city` with fresh OSM data. It skips `osm`, `city`, and `upload`, which you run separately.
 
+To wipe generated outputs and rebuild from the existing OSM clip:
+
+```bash
+make fresh
+```
+
+To also re-download and re-clip OSM before rebuilding:
+
+```bash
+make fresh-all
+```
+
+`make reset` only deletes generated data (keeps `data/taxonomy.yaml`, `data/allowlist.txt`, and `data/categories-override.csv`).
+
 ## Categorization
 
 Street categories use a fixed taxonomy defined in `data/taxonomy.yaml` — not open-ended LLM labels.
