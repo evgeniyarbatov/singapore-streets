@@ -4,5 +4,6 @@ data/**
 !data/.gitkeep
 !data/taxonomy.yaml
 !data/allowlist.txt
+!data/categories-override.csv
 filtered/
 dataset/*.csv

@@ -89,6 +89,25 @@ class TestCategorizeStreets(unittest.TestCase):
             self.assertEqual(entry.tags, ("tree",))
             self.assertEqual(entry.source, "llm")
 
+    def test_classify_street_uses_override_before_rules(self):
+        overrides = {
+            "Jalan Besar": MODULE.CategoryOverride(
+                street_name="Jalan Besar",
+                primary_category="nature_geography",
+            )
+        }
+
+        entry = MODULE.classify_street(
+            "Jalan Besar",
+            model=None,
+            prompt_path=MODULE.DEFAULT_PROMPT_PATH,
+            use_llm=False,
+            overrides=overrides,
+        )
+
+        self.assertEqual(entry.primary_category, "nature_geography")
+        self.assertEqual(entry.source, "override")
+
     def test_main_appends_new_entries_with_rules(self):
         with tempfile.TemporaryDirectory() as tmp_dir:
             input_path = os.path.join(tmp_dir, "input.txt")
@@ -129,6 +148,59 @@ class TestCategorizeStreets(unittest.TestCase):
             self.assertEqual(len(rows), 2)
             self.assertEqual(rows[0]["street_name"], "Jalan Besar")
             self.assertEqual(rows[1]["street_name"], "Beta Street")
+
+    def test_main_applies_override_to_existing_row(self):
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            input_path = os.path.join(tmp_dir, "input.txt")
+            output_path = os.path.join(tmp_dir, "output.csv")
+            override_path = os.path.join(tmp_dir, "overrides.csv")
+            with open(input_path, "w", encoding="utf-8") as handle:
+                handle.write("Adam Drive\n")
+            with open(output_path, "w", encoding="utf-8", newline="") as handle:
+                writer = csv.DictWriter(handle, fieldnames=MODULE.OUTPUT_FIELDS)
+                writer.writeheader()
+                writer.writerow(
+                    {
+                        "street_name": "Adam Drive",
+                        "primary_category": "housing_development",
+                        "category": "Housing & Development",
+                        "tags": "estate",
+                        "source": "llm",
+                        "prompt_version": "categorize-v1",
+                        "model": "mistral-nemo:latest",
+                        "legacy_category": "",
+                    }
+                )
+            with open(override_path, "w", encoding="utf-8", newline="") as handle:
+                writer = csv.DictWriter(handle, fieldnames=["street_name", "category"])
+                writer.writeheader()
+                writer.writerow(
+                    {
+                        "street_name": "Adam Drive",
+                        "category": "commemorative_persons",
+                    }
+                )
+
+            argv = [
+                "categorize_streets.py",
+                input_path,
+                output_path,
+                "--no-llm",
+                "--overrides",
+                override_path,
+            ]
+
+            with mock.patch.object(sys, "argv", argv):
+                with mock.patch.object(sys, "stderr", new_callable=io.StringIO):
+                    exit_code = MODULE.main()
+
+            self.assertEqual(exit_code, 0)
+            with open(output_path, "r", encoding="utf-8", newline="") as handle:
+                rows = list(csv.DictReader(handle))
+
+            self.assertEqual(len(rows), 1)
+            self.assertEqual(rows[0]["primary_category"], "commemorative_persons")
+            self.assertEqual(rows[0]["source"], "override")
 
 
 if __name__ == "__main__":

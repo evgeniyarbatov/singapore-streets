@@ -45,13 +45,6 @@ primary_categories:
       - Buffalo Road
       - Veerasamy Road
 
-  - id: japanese_wartime
-    name: Japanese & Wartime
-    description: >
-      Rare names tied to the Japanese occupation or wartime period; assign
-      only with clear historical basis.
-    examples: []
-
   - id: nature_geography
     name: Nature & Geography
     description: >
@@ -318,12 +311,6 @@ legacy_label_mappings:
       - Islamic
       - South Asian
     category: tamil_south_asian
-
-  - patterns:
-      - Japanese
-      - Wartime
-      - Occupation
-    category: japanese_wartime
 
   - patterns:
       - Botanical
