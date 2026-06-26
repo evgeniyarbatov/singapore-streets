@@ -6,6 +6,8 @@ REQUIREMENTS := requirements.txt
 
 OSM_DIR = osm
 SINGAPORE_OSM_URL = https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf
+OSM_URL = $(SINGAPORE_OSM_URL)
+include $(HOME)/gitRepo/dotfiles/make/osm-country.mk
 SINGAPORE_OSM_PATH = $(OSM_DIR)/$(notdir $(SINGAPORE_OSM_URL))
 
 OSM_STREETS_FILE = data/osm-streets.csv
@@ -39,9 +41,7 @@ install: venv
 	@$(PIP) install --disable-pip-version-check -q --upgrade pip
 	@$(PIP) install --disable-pip-version-check -q -r $(REQUIREMENTS)
 
-osm:
-	@rm -f $(SINGAPORE_OSM_PATH)
-	@wget $(SINGAPORE_OSM_URL) -P $(OSM_DIR)
+osm: osm-country-fetch
 
 city:
 	@osmconvert $(SINGAPORE_OSM_PATH) \
