@@ -51,13 +51,12 @@ city:
 	$(SINGAPORE_OSM_CLIPPED) \
 	-o $(SINGAPORE_OSM_XML)
 
-streets:
+streets: install
 	@$(PYTHON) scripts/extract_streets.py \
 	$(SINGAPORE_OSM_XML) \
 	$(OSM_STREETS_FILE) \
 	$(STREET_NAMES_FILE) \
 	$(REVIEW_QUEUE_FILE)
-
 clean:
 	@tmp="$$(mktemp)"; \
 	cat $(STREET_NAMES_FILE) | \
@@ -67,29 +66,24 @@ clean:
 	sort | uniq > "$$tmp"; \
 	mv "$$tmp" $(STREET_NAMES_FILE)
 
-canonical:
+canonical: install
 	@$(PYTHON) scripts/canonical_streets.py \
 	$(STREET_NAMES_FILE) \
 	$(CANONICAL_STREETS_FILE)
-
-categorize:
+categorize: install
 	@$(PYTHON) scripts/categorize_streets.py \
 	$(STREET_NAMES_FILE) \
 	$(STREET_CATEGORIES_FILE) \
 	--model $(MODEL)
-
-category-report:
+category-report: install
 	@$(PYTHON) scripts/category_report.py
-
-dataset:
+dataset: install
 	@$(PYTHON) scripts/create-dataset.py
-
 upload:
 	@kaggle datasets version -p dataset -m "update dataset"
 
-test:
+test: install
 	@$(PYTHON) -m unittest discover -s tests
-
 all: streets clean canonical categorize category-report dataset
 
 reset:
