@@ -1,8 +1,5 @@
-VENV_PATH := .venv
-
-PYTHON := $(VENV_PATH)/bin/python
-PIP := $(VENV_PATH)/bin/pip
-REQUIREMENTS := requirements.txt
+# Uses uv (https://docs.astral.sh/uv) for dependency management — uv sync creates/updates .venv; run commands via uv run, no manual activation.
+PYTHON := uv run python
 
 OSM_DIR = osm
 SINGAPORE_OSM_URL = https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf
@@ -34,11 +31,8 @@ GENERATED_DATA = \
 
 MODEL = mistral-nemo:latest
 
-venv:
-	@uv venv $(VENV_PATH)
-
-install: venv
-	@uv pip install -q -r $(REQUIREMENTS)
+install:
+	@uv sync
 
 osm: osm-country-fetch
 
@@ -97,4 +91,26 @@ fresh: reset all
 
 fresh-all: reset reset-osm osm city all
 
-.PHONY: venv install osm city streets clean canonical categorize category-report dataset upload test all reset reset-osm fresh fresh-all
+lock:
+	@uv lock
+
+help:
+	@echo "install         - uv sync dependencies"
+	@echo "osm             - fetch country OSM extract"
+	@echo "city            - clip OSM extract to city bounds"
+	@echo "streets         - extract streets from OSM data"
+	@echo "clean           - dedupe/normalize street names"
+	@echo "canonical       - build canonical streets file"
+	@echo "categorize      - categorize streets with the model"
+	@echo "category-report - print category stats"
+	@echo "dataset         - build the final dataset"
+	@echo "upload          - push dataset to Kaggle"
+	@echo "test            - run unit tests"
+	@echo "all             - streets, clean, canonical, categorize, category-report, dataset"
+	@echo "reset           - remove generated data"
+	@echo "reset-osm       - remove downloaded/converted OSM files"
+	@echo "fresh           - reset + all"
+	@echo "fresh-all       - reset, reset-osm, osm, city, all"
+	@echo "lock            - update uv.lock"
+
+.PHONY: install osm city streets clean canonical categorize category-report dataset upload test all reset reset-osm fresh fresh-all lock help

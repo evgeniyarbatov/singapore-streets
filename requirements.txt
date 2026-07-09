@@ -1,4 +1,0 @@
-osmium
-polyline
-pandas
-pyyaml
