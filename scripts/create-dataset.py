@@ -45,11 +45,7 @@ osm_streets_df = osm_streets_df.rename(columns={"name": "street_name"})
 
 osm_streets_df = osm_streets_df[["street_name", "polyline"]]
 
-merged_df = merged_df.merge(
-    osm_streets_df,
-    on="street_name",
-    how="left"
-)
+merged_df = merged_df.merge(osm_streets_df, on="street_name", how="left")
 
 merged_df = merged_df[["street_name", "category", "polyline"]]
 merged_df.to_csv(output_file, index=False)

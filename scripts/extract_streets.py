@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
-import sys
 import csv
 import re
+import sys
+
 import osmium
 import polyline
-
 
 # Tags consulted (in priority order) when a way/relation has no plain "name".
 # Also merged as aliases of the primary name when present.
@@ -216,7 +216,12 @@ def merge_street_polylines(streets, max_link_meters=25, precision=6):
         name = street["name"]
         group = groups.setdefault(
             name,
-            {"name": name, "coords_list": [], "osm_source": street["osm_source"], "aliases": set()},
+            {
+                "name": name,
+                "coords_list": [],
+                "osm_source": street["osm_source"],
+                "aliases": set(),
+            },
         )
         group["coords_list"].append(street["coords"])
         group["aliases"].update(street.get("aliases", []))
@@ -254,9 +259,7 @@ def detect_polyline_issues(streets):
         names.add(street["name"])
 
     duplicate_polylines = {
-        polyline_str: names
-        for polyline_str, names in polyline_to_names.items()
-        if len(names) > 1
+        polyline_str: names for polyline_str, names in polyline_to_names.items() if len(names) > 1
     }
 
     return duplicate_polylines, non_streets

@@ -1,14 +1,15 @@
 import csv
+import importlib.util
 import sys
 import tempfile
 import types
 import unittest
 from pathlib import Path
-import importlib.util
 
 try:
     import polyline
 except ModuleNotFoundError:
+
     def _encode(coords):
         return "|".join(f"{lat},{lon}" for lat, lon in coords)
 
@@ -23,6 +24,7 @@ except ModuleNotFoundError:
 
 def load_module(name, path):
     if "osmium" not in sys.modules:
+
         class SimpleHandler:
             def __init__(self):
                 pass
@@ -45,7 +47,14 @@ class TestExtractStreets(unittest.TestCase):
         self.assertFalse(MODULE.is_street_pattern("Sunset Valley"))
 
     def test_is_street_pattern_expanded_suffixes(self):
-        for name in ["Marina Quay", "Raffles Place", "Bukit Timah", "Faber Mount", "Kampong Glam", "Harbour View"]:
+        for name in [
+            "Marina Quay",
+            "Raffles Place",
+            "Bukit Timah",
+            "Faber Mount",
+            "Kampong Glam",
+            "Harbour View",
+        ]:
             self.assertTrue(MODULE.is_street_pattern(name), name)
 
     def test_resolve_name_and_aliases_prefers_name_tag(self):

@@ -55,9 +55,7 @@ class TestInvalidAddress(unittest.TestCase):
 
     def test_bare_lorong_kept_when_named_variant_present(self):
         with tempfile.TemporaryDirectory() as tmp_dir:
-            stdout = self._run_main(
-                tmp_dir, "Lorong 12\nLorong 12 Geylang\nLorong 99\n"
-            )
+            stdout = self._run_main(tmp_dir, "Lorong 12\nLorong 12 Geylang\nLorong 99\n")
 
             self.assertEqual(stdout, "Lorong 12\nLorong 12 Geylang\n")
             invalid_path = Path(tmp_dir) / "filtered" / "invalid-address.txt"

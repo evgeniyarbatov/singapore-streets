@@ -1,8 +1,7 @@
 import argparse
 import os
-import sys
 import re
-
+import sys
 
 LORONG_NUMBER_RE = re.compile(r"^Lorong\s+(\d+[A-Za-z]?)\b", re.IGNORECASE)
 BARE_LORONG_RE = re.compile(r"^Lorong\s+\d+[A-Za-z]?$", re.IGNORECASE)

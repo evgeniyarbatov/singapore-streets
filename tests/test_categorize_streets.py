@@ -1,13 +1,13 @@
-import importlib.util
 import csv
+import importlib.util
 import io
 import os
+import subprocess
 import sys
 import tempfile
 import unittest
 from pathlib import Path
 from unittest import mock
-import subprocess
 
 
 def load_module(name, path):
@@ -142,7 +142,7 @@ class TestCategorizeStreets(unittest.TestCase):
                     exit_code = MODULE.main()
 
             self.assertEqual(exit_code, 0)
-            with open(output_path, "r", encoding="utf-8", newline="") as handle:
+            with open(output_path, encoding="utf-8", newline="") as handle:
                 rows = list(csv.DictReader(handle))
 
             self.assertEqual(len(rows), 2)
@@ -195,7 +195,7 @@ class TestCategorizeStreets(unittest.TestCase):
                     exit_code = MODULE.main()
 
             self.assertEqual(exit_code, 0)
-            with open(output_path, "r", encoding="utf-8", newline="") as handle:
+            with open(output_path, encoding="utf-8", newline="") as handle:
                 rows = list(csv.DictReader(handle))
 
             self.assertEqual(len(rows), 1)

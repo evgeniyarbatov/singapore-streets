@@ -61,13 +61,18 @@ class TestStreetNames(unittest.TestCase):
     def test_reject_log_flag_overrides_default_path(self):
         with tempfile.TemporaryDirectory() as tmp_dir:
             self._run_main(
-                tmp_dir, "Orchard Road\nVivoCity Mall\n", argv=["--reject-log", "custom/rejects.txt"]
+                tmp_dir,
+                "Orchard Road\nVivoCity Mall\n",
+                argv=["--reject-log", "custom/rejects.txt"],
             )
 
             custom_path = Path(tmp_dir) / "custom" / "rejects.txt"
             self.assertTrue(custom_path.exists())
             self.assertTrue(
-                any("VivoCity Mall" in line for line in custom_path.read_text(encoding="utf-8").splitlines())
+                any(
+                    "VivoCity Mall" in line
+                    for line in custom_path.read_text(encoding="utf-8").splitlines()
+                )
             )
 
     def test_allowlist_bypasses_slash_and_building_filters(self):
