@@ -3,7 +3,6 @@ import csv
 import re
 import sys
 
-
 DIRECTION_RE = re.compile(r"\s+(East|West|North|South)(\s+\d+[A-Za-z]?)?$", re.IGNORECASE)
 
 

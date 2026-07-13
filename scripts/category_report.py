@@ -17,7 +17,7 @@ from taxonomy import get_taxonomy, parse_tags
 
 
 def load_categories(path: Path) -> list[dict[str, str]]:
-    with open(path, "r", encoding="utf-8", newline="") as handle:
+    with open(path, encoding="utf-8", newline="") as handle:
         return list(csv.DictReader(handle))
 
 

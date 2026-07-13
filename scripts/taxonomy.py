@@ -4,7 +4,7 @@
 from __future__ import annotations
 
 import re
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
@@ -66,11 +66,7 @@ class Taxonomy:
         ]
 
     def primary_category_ids(self) -> list[str]:
-        return [
-            category_id
-            for category_id in self.categories
-            if category_id != UNCATEGORIZED_ID
-        ]
+        return [category_id for category_id in self.categories if category_id != UNCATEGORIZED_ID]
 
     def classify_by_rules(self, street_name: str) -> Classification | None:
         for pattern, category_id, tags in self.rules:
@@ -114,7 +110,7 @@ def _compile_word_pattern(word: str) -> re.Pattern[str]:
 
 def load_taxonomy(path: str | Path | None = None) -> Taxonomy:
     taxonomy_path = Path(path) if path else DEFAULT_TAXONOMY_PATH
-    with open(taxonomy_path, "r", encoding="utf-8") as handle:
+    with open(taxonomy_path, encoding="utf-8") as handle:
         raw: dict[str, Any] = yaml.safe_load(handle)
 
     categories = {}

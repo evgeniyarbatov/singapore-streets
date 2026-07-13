@@ -44,16 +44,12 @@ class DataFrame:
         mapping = columns or {}
         self._columns = [mapping.get(col, col) for col in self._columns]
         self._rows = [
-            {mapping.get(col, col): value for col, value in row.items()}
-            for row in self._rows
+            {mapping.get(col, col): value for col, value in row.items()} for row in self._rows
         ]
         return self
 
     def __getitem__(self, columns):
-        rows = [
-            {col: row.get(col) for col in columns}
-            for row in self._rows
-        ]
+        rows = [{col: row.get(col) for col in columns} for row in self._rows]
         return DataFrame(rows, list(columns))
 
     @property
@@ -62,11 +58,10 @@ class DataFrame:
 
     @columns.setter
     def columns(self, values):
-        mapping = dict(zip(self._columns, values))
+        mapping = dict(zip(self._columns, values, strict=False))
         self._columns = list(values)
         self._rows = [
-            {mapping.get(col, col): value for col, value in row.items()}
-            for row in self._rows
+            {mapping.get(col, col): value for col, value in row.items()} for row in self._rows
         ]
 
     def to_csv(self, path, index=False):
@@ -78,7 +73,7 @@ class DataFrame:
 
 
 def read_csv(path, header="infer"):
-    with open(path, "r", encoding="utf-8", newline="") as handle:
+    with open(path, encoding="utf-8", newline="") as handle:
         reader = csv.reader(handle)
         rows = list(reader)
 
@@ -87,16 +82,10 @@ def read_csv(path, header="infer"):
 
     if header is None:
         columns = list(range(len(rows[0])))
-        data = [
-            {columns[i]: value for i, value in enumerate(row)}
-            for row in rows
-        ]
+        data = [{columns[i]: value for i, value in enumerate(row)} for row in rows]
     else:
         columns = rows[0]
-        data = [
-            {columns[i]: value for i, value in enumerate(row)}
-            for row in rows[1:]
-        ]
+        data = [{columns[i]: value for i, value in enumerate(row)} for row in rows[1:]]
     return DataFrame(data, columns)
 
 
@@ -109,6 +98,7 @@ class PandasStub:
 def run_script(path):
     try:
         import pandas  # noqa: F401
+
         runpy.run_path(str(path), run_name="__main__")
     except ModuleNotFoundError:
         sys.modules["pandas"] = PandasStub()
@@ -144,14 +134,19 @@ class TestCreateDataset(unittest.TestCase):
                 os.chdir(old_cwd)
 
             output_path = Path(tmp_dir) / "dataset" / "singapore-streets.csv"
-            with open(output_path, "r", encoding="utf-8", newline="") as handle:
+            with open(output_path, encoding="utf-8", newline="") as handle:
                 rows = list(csv.DictReader(handle))
 
-            self.assertEqual(rows, [{
-                "street_name": "Alpha Street",
-                "category": "Category A",
-                "polyline": "abc",
-            }])
+            self.assertEqual(
+                rows,
+                [
+                    {
+                        "street_name": "Alpha Street",
+                        "category": "Category A",
+                        "polyline": "abc",
+                    }
+                ],
+            )
 
 
 if __name__ == "__main__":

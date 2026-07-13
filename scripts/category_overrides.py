@@ -8,9 +8,7 @@ from pathlib import Path
 
 from taxonomy import get_taxonomy
 
-DEFAULT_OVERRIDE_PATH = (
-    Path(__file__).resolve().parents[1] / "data" / "categories-override.csv"
-)
+DEFAULT_OVERRIDE_PATH = Path(__file__).resolve().parents[1] / "data" / "categories-override.csv"
 
 OVERRIDE_FIELDS = ["street_name", "category"]
 
@@ -43,7 +41,7 @@ def load_overrides(path: str | Path | None = None) -> dict[str, CategoryOverride
         return {}
 
     overrides: dict[str, CategoryOverride] = {}
-    with open(override_path, "r", encoding="utf-8", newline="") as handle:
+    with open(override_path, encoding="utf-8", newline="") as handle:
         reader = csv.DictReader(handle)
         for row in reader:
             name = (row.get("street_name") or "").strip()

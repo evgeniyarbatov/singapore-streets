@@ -23,9 +23,7 @@ from taxonomy import (
 
 OLLAMA_TIMEOUT_SECONDS = 120
 PROMPT_VERSION = "categorize-v1"
-DEFAULT_PROMPT_PATH = (
-    Path(__file__).resolve().parents[1] / "prompts" / "categorize-v1.md"
-)
+DEFAULT_PROMPT_PATH = Path(__file__).resolve().parents[1] / "prompts" / "categorize-v1.md"
 
 OUTPUT_FIELDS = [
     "street_name",
@@ -56,7 +54,7 @@ class StreetCategory:
 
 def load_names(input_path: str) -> list[str]:
     names = []
-    with open(input_path, "r", encoding="utf-8") as handle:
+    with open(input_path, encoding="utf-8") as handle:
         for line in handle:
             name = line.strip()
             if name:
@@ -67,7 +65,7 @@ def load_names(input_path: str) -> list[str]:
 def _read_csv_rows(path: str) -> list[dict[str, str]]:
     if not os.path.exists(path):
         return []
-    with open(path, "r", encoding="utf-8", newline="") as handle:
+    with open(path, encoding="utf-8", newline="") as handle:
         reader = csv.DictReader(handle)
         return [dict(row) for row in reader]
 
@@ -181,9 +179,7 @@ def categorize_name_llm(
     if isinstance(raw_tags, str):
         raw_tags = [raw_tags]
     tags = tuple(
-        tag_id
-        for tag_id in (str(tag).strip() for tag in raw_tags)
-        if tag_id in taxonomy.tags
+        tag_id for tag_id in (str(tag).strip() for tag in raw_tags) if tag_id in taxonomy.tags
     )
 
     return StreetCategory(
@@ -253,8 +249,7 @@ def write_category_row(writer: csv.DictWriter, entry: StreetCategory) -> None:
 def print_progress(done: int, total: int, name: str, entry: StreetCategory) -> None:
     percent = 100.0 * done / total if total else 100.0
     print(
-        f"[{done}/{total}] {percent:5.1f}% {name} -> "
-        f"{entry.category} ({entry.source})",
+        f"[{done}/{total}] {percent:5.1f}% {name} -> {entry.category} ({entry.source})",
         file=sys.stderr,
         flush=True,
     )
@@ -314,11 +309,7 @@ def main() -> int:
     overrides = load_overrides(options["override_path"])
     names = load_names(options["input_path"])
     total = len(names)
-    already_done = sum(
-        1
-        for name in names
-        if name in processed and name not in overrides
-    )
+    already_done = sum(1 for name in names if name in processed and name not in overrides)
     remaining = total - already_done
 
     print(
