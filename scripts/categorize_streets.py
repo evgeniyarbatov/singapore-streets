@@ -7,10 +7,12 @@ import csv
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 from dataclasses import dataclass
 from pathlib import Path
+from typing import Any, cast
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
@@ -146,15 +148,15 @@ def build_prompt(street_name: str, prompt_path: Path) -> str:
     )
 
 
-def _extract_json_block(text: str) -> dict:
+def _extract_json_block(text: str) -> dict[str, Any]:
     text = text.strip()
     try:
-        return json.loads(text)
+        return cast("dict[str, Any]", json.loads(text))
     except json.JSONDecodeError:
         match = re.search(r"\{.*\}", text, re.DOTALL)
         if not match:
             raise ValueError("No JSON object in LLM response") from None
-        return json.loads(match.group(0))
+        return cast("dict[str, Any]", json.loads(match.group(0)))
 
 
 def categorize_name_llm(
@@ -163,8 +165,11 @@ def categorize_name_llm(
     prompt_path: Path,
 ) -> StreetCategory:
     prompt = build_prompt(name, prompt_path)
-    result = subprocess.run(
-        ["ollama", "run", model],
+    ollama_path = shutil.which("ollama")
+    if ollama_path is None:
+        raise FileNotFoundError("ollama executable not found on PATH")
+    result = subprocess.run(  # noqa: S603 — operator-supplied model/prompt, not attacker input
+        [ollama_path, "run", model],
         input=prompt,
         text=True,
         capture_output=True,
@@ -231,7 +236,7 @@ def classify_street(
     )
 
 
-def write_category_row(writer: csv.DictWriter, entry: StreetCategory) -> None:
+def write_category_row(writer: csv.DictWriter[str], entry: StreetCategory) -> None:
     writer.writerow(
         {
             "street_name": entry.street_name,
@@ -255,14 +260,14 @@ def print_progress(done: int, total: int, name: str, entry: StreetCategory) -> N
     )
 
 
-def parse_args(argv: list[str]) -> dict:
+def parse_args(argv: list[str]) -> dict[str, Any]:
     if len(argv) < 3:
         raise ValueError(
             "Usage: categorize_streets.py <input.txt> <output.csv> "
             "[--model <model>] [--prompt <path>] [--no-llm]"
         )
 
-    options = {
+    options: dict[str, Any] = {
         "input_path": argv[1],
         "output_path": argv[2],
         "model": None,

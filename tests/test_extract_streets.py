@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import csv
 import importlib.util
 import sys
@@ -10,29 +12,40 @@ try:
     import polyline
 except ModuleNotFoundError:
 
-    def _encode(coords):
+    def _encode(coords: list[tuple[float, float]]) -> str:
         return "|".join(f"{lat},{lon}" for lat, lon in coords)
 
-    def _decode(value):
+    def _decode(value: str) -> list[tuple[float, float]]:
         if not value:
             return []
-        return [tuple(map(float, pair.split(","))) for pair in value.split("|")]
+        result = []
+        for pair in value.split("|"):
+            lat_str, lon_str = pair.split(",")
+            result.append((float(lat_str), float(lon_str)))
+        return result
 
-    polyline = types.SimpleNamespace(encode=_encode, decode=_decode)
-    sys.modules["polyline"] = polyline
+    polyline_module = types.ModuleType("polyline")
+    polyline_module.encode = _encode  # type: ignore[attr-defined]
+    polyline_module.decode = _decode  # type: ignore[attr-defined]
+    sys.modules["polyline"] = polyline_module
+    polyline = polyline_module
 
 
-def load_module(name, path):
+def load_module(name: str, path: Path) -> types.ModuleType:
     if "osmium" not in sys.modules:
 
         class SimpleHandler:
-            def __init__(self):
+            def __init__(self) -> None:
                 pass
 
-        sys.modules["osmium"] = types.SimpleNamespace(SimpleHandler=SimpleHandler)
+        osmium_module = types.ModuleType("osmium")
+        osmium_module.SimpleHandler = SimpleHandler  # type: ignore[attr-defined]
+        sys.modules["osmium"] = osmium_module
 
     spec = importlib.util.spec_from_file_location(name, path)
+    assert spec is not None
     module = importlib.util.module_from_spec(spec)
+    assert spec.loader is not None
     spec.loader.exec_module(module)
     return module
 
@@ -42,11 +55,11 @@ MODULE = load_module("extract_streets", SCRIPT_PATH)
 
 
 class TestExtractStreets(unittest.TestCase):
-    def test_is_street_pattern(self):
+    def test_is_street_pattern(self) -> None:
         self.assertTrue(MODULE.is_street_pattern("Orchard Road"))
         self.assertFalse(MODULE.is_street_pattern("Sunset Valley"))
 
-    def test_is_street_pattern_expanded_suffixes(self):
+    def test_is_street_pattern_expanded_suffixes(self) -> None:
         for name in [
             "Marina Quay",
             "Raffles Place",
@@ -57,26 +70,26 @@ class TestExtractStreets(unittest.TestCase):
         ]:
             self.assertTrue(MODULE.is_street_pattern(name), name)
 
-    def test_resolve_name_and_aliases_prefers_name_tag(self):
+    def test_resolve_name_and_aliases_prefers_name_tag(self) -> None:
         name, aliases = MODULE.resolve_name_and_aliases(
             {"name": "Orchard Road", "name:en": "Orchard Road", "alt_name": "Orchard Rd"}
         )
         self.assertEqual(name, "Orchard Road")
         self.assertEqual(aliases, ["Orchard Rd"])
 
-    def test_resolve_name_and_aliases_falls_back_without_name_tag(self):
+    def test_resolve_name_and_aliases_falls_back_without_name_tag(self) -> None:
         name, aliases = MODULE.resolve_name_and_aliases(
             {"alt_name": "Old Holland Road", "old_name": "Holland Road"}
         )
         self.assertEqual(name, "Old Holland Road")
         self.assertEqual(aliases, ["Holland Road"])
 
-    def test_resolve_name_and_aliases_no_name_at_all(self):
+    def test_resolve_name_and_aliases_no_name_at_all(self) -> None:
         name, aliases = MODULE.resolve_name_and_aliases({"highway": "residential"})
         self.assertIsNone(name)
         self.assertEqual(aliases, [])
 
-    def test_merge_street_polylines(self):
+    def test_merge_street_polylines(self) -> None:
         streets = [
             {
                 "name": "Test Street",
@@ -98,7 +111,7 @@ class TestExtractStreets(unittest.TestCase):
         decoded = polyline.decode(merged[0]["polyline"])
         self.assertEqual(decoded, [(1.0, 1.0), (1.0, 1.001), (1.0, 1.002)])
 
-    def test_detect_polyline_issues(self):
+    def test_detect_polyline_issues(self) -> None:
         streets = [
             {"name": "Alpha", "polyline": "abc"},
             {"name": "Beta", "polyline": "abc"},
@@ -110,7 +123,7 @@ class TestExtractStreets(unittest.TestCase):
         self.assertEqual(duplicates["abc"], {"Alpha", "Beta"})
         self.assertEqual(set(non_streets), {"Gamma"})
 
-    def test_merge_street_polylines_merges_aliases(self):
+    def test_merge_street_polylines_merges_aliases(self) -> None:
         streets = [
             {
                 "name": "Test Street",
@@ -130,7 +143,7 @@ class TestExtractStreets(unittest.TestCase):
 
         self.assertEqual(merged[0]["aliases"], "Old Test Street|Test St")
 
-    def test_write_review_queue(self):
+    def test_write_review_queue(self) -> None:
         duplicate_polylines = {"abc": {"Alpha", "Beta"}}
         non_streets = ["Gamma"]
 
@@ -151,31 +164,31 @@ class TestExtractStreets(unittest.TestCase):
 
 
 class FakeNodeRef:
-    def __init__(self, ref):
+    def __init__(self, ref: int) -> None:
         self.ref = ref
 
 
 class FakeWay:
-    def __init__(self, way_id, tags, node_refs):
+    def __init__(self, way_id: int, tags: dict[str, str], node_refs: list[int]) -> None:
         self.id = way_id
         self.tags = tags
         self.nodes = [FakeNodeRef(ref) for ref in node_refs]
 
 
 class FakeMember:
-    def __init__(self, member_type, ref):
+    def __init__(self, member_type: str, ref: int) -> None:
         self.type = member_type
         self.ref = ref
 
 
 class FakeRelation:
-    def __init__(self, tags, members):
+    def __init__(self, tags: dict[str, str], members: list[FakeMember]) -> None:
         self.tags = tags
         self.members = members
 
 
 class TestStreetHandlerRelations(unittest.TestCase):
-    def test_named_relation_stitches_member_way_coords(self):
+    def test_named_relation_stitches_member_way_coords(self) -> None:
         handler = MODULE.StreetHandler()
         handler.nodes = {1: (1.0, 1.0), 2: (1.0, 1.001)}
 
@@ -196,7 +209,7 @@ class TestStreetHandlerRelations(unittest.TestCase):
         self.assertEqual(street["osm_source"], "relation_name")
         self.assertEqual(street["coords"], [(1.0, 1.0), (1.0, 1.001)])
 
-    def test_unrelated_relation_is_ignored(self):
+    def test_unrelated_relation_is_ignored(self) -> None:
         handler = MODULE.StreetHandler()
         handler.nodes = {1: (1.0, 1.0), 2: (1.0, 1.001)}
         handler.way(FakeWay(10, {"highway": "trunk"}, [1, 2]))

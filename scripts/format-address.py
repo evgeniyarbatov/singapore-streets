@@ -1,8 +1,10 @@
+from __future__ import annotations
+
 import re
 import sys
 
 
-def format(text):
+def format(text: str) -> str:
     text = text.title()
     text = re.sub(r"&apos;", "'", text)
     text = re.sub(r"’", "'", text)
@@ -15,11 +17,10 @@ def format(text):
     text = re.sub(r"Blvd\b", "Boulevard", text)
     text = re.sub(r"Bt\b", "Bukit", text)
     text = re.sub(r"Aft\b", "After", text)
-    text = re.sub(r"Bef\b", "Before", text)
-    return text
+    return re.sub(r"Bef\b", "Before", text)
 
 
-def main():
+def main() -> None:
     for line in sys.stdin:
         line = line.rstrip()
         print(format(line))

@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 
+from __future__ import annotations
+
 import csv
+import math
 import re
 import sys
+from pathlib import Path
+from typing import Any
 
 import osmium
 import polyline
@@ -12,7 +17,7 @@ import polyline
 ALIAS_TAGS = ["name:en", "name:ms", "name:zh", "alt_name", "old_name"]
 
 
-def resolve_name_and_aliases(tags):
+def resolve_name_and_aliases(tags: dict[str, str]) -> tuple[str | None, list[str]]:
     """
     Pick a primary name and a set of aliases from an OSM tags mapping.
 
@@ -33,7 +38,7 @@ def resolve_name_and_aliases(tags):
     return name, aliases
 
 
-def encode_polyline(coords):
+def encode_polyline(coords: list[tuple[float, float]]) -> str | None:
     """
     Encode coordinates as polyline string using Google's polyline algorithm
     """
@@ -43,30 +48,31 @@ def encode_polyline(coords):
         # Single point - just return lat,lon
         return None
     # Multiple points - encode as polyline
-    return polyline.encode(coords)
+    result: str = polyline.encode(coords)
+    return result
 
 
 class StreetHandler(osmium.SimpleHandler):
     """OSM handler to extract street names from various sources"""
 
-    def __init__(self):
+    def __init__(self) -> None:
         osmium.SimpleHandler.__init__(self)
-        self.streets = []
-        self.nodes = {}
-        self.ways_by_id = {}
+        self.streets: list[dict[str, Any]] = []
+        self.nodes: dict[int, tuple[float, float]] = {}
+        self.ways_by_id: dict[int, list[tuple[float, float]]] = {}
 
-    def node(self, n):
+    def node(self, n: Any) -> None:
         # Store node coordinates
         self.nodes[n.id] = (n.location.lat, n.location.lon)
 
-    def _way_coords(self, w):
+    def _way_coords(self, w: Any) -> list[tuple[float, float]]:
         coords = []
         for node_ref in w.nodes:
             if node_ref.ref in self.nodes:
                 coords.append(self.nodes[node_ref.ref])
         return coords
 
-    def way(self, w):
+    def way(self, w: Any) -> None:
         coords = self._way_coords(w)
         # Keep every way's coords so named relations can stitch member
         # geometries together once all ways have been seen.
@@ -95,7 +101,7 @@ class StreetHandler(osmium.SimpleHandler):
                 }
             )
 
-    def relation(self, r):
+    def relation(self, r: Any) -> None:
         # Named relations: route=road (expressways, major roads tagged as
         # routes) or any relation carrying a highway tag directly.
         is_road_route = r.tags.get("type") == "route" and r.tags.get("route") == "road"
@@ -122,19 +128,18 @@ class StreetHandler(osmium.SimpleHandler):
             )
 
 
-import math
-
-
-def merge_street_polylines(streets, max_link_meters=25, precision=6):
+def merge_street_polylines(
+    streets: list[dict[str, Any]], max_link_meters: float = 25, precision: int = 6
+) -> list[dict[str, Any]]:
     """
     Faster merge: uses a local meters approximation (no geopy),
     precomputes endpoints, and avoids repeated heavy distance calls.
     """
 
-    def key(pt):
+    def key(pt: tuple[float, float]) -> tuple[float, float]:
         return (round(pt[0], precision), round(pt[1], precision))
 
-    def dedupe(coords):
+    def dedupe(coords: list[tuple[float, float]]) -> list[tuple[float, float]]:
         out = []
         seen = set()
         for pt in coords:
@@ -144,7 +149,9 @@ def merge_street_polylines(streets, max_link_meters=25, precision=6):
                 out.append(pt)
         return out
 
-    def merge_segments(segments):
+    def merge_segments(
+        segments: list[list[tuple[float, float]]],
+    ) -> list[tuple[float, float]]:
         segments = [s for s in segments if s and len(s) > 1]
         if not segments:
             return []
@@ -160,13 +167,13 @@ def merge_street_polylines(streets, max_link_meters=25, precision=6):
 
         # Fast approximate meters distance on lat/lon
         # 1 deg lat ~= 111_320m; 1 deg lon ~= 111_320m * cos(lat)
-        def dist_m(a, b):
+        def dist_m(a: tuple[float, float], b: tuple[float, float]) -> float:
             dlat = (a[0] - b[0]) * 111_320.0
             dlon = (a[1] - b[1]) * 111_320.0 * cos_lat
             return math.hypot(dlat, dlon)
 
         # Precompute segment records
-        segs = [{"coords": s, "start": s[0], "end": s[-1]} for s in segments]
+        segs: list[dict[str, Any]] = [{"coords": s, "start": s[0], "end": s[-1]} for s in segments]
 
         # Start from the longest segment
         start_i = max(range(len(segs)), key=lambda i: len(segs[i]["coords"]))
@@ -175,7 +182,7 @@ def merge_street_polylines(streets, max_link_meters=25, precision=6):
 
         while segs:
             head, tail = path[0], path[-1]
-            best = None  # (d, idx, mode)
+            best: tuple[float, int, str] | None = None
 
             for i, sg in enumerate(segs):
                 s0, s1 = sg["start"], sg["end"]
@@ -192,6 +199,7 @@ def merge_street_polylines(streets, max_link_meters=25, precision=6):
                 if best is None or c[0] < best[0]:
                     best = c
 
+            assert best is not None
             d, idx, mode = best
             if d > max_link_meters:
                 break
@@ -211,7 +219,7 @@ def merge_street_polylines(streets, max_link_meters=25, precision=6):
         return dedupe(path)
 
     # ---- group streets by name ----
-    groups = {}
+    groups: dict[str, dict[str, Any]] = {}
     for street in streets:
         name = street["name"]
         group = groups.setdefault(
@@ -227,7 +235,7 @@ def merge_street_polylines(streets, max_link_meters=25, precision=6):
         group["aliases"].update(street.get("aliases", []))
 
     # ---- merge per group ----
-    merged = []
+    merged: list[dict[str, Any]] = []
     for g in groups.values():
         coords = merge_segments(g["coords_list"])
         merged.append(
@@ -242,12 +250,14 @@ def merge_street_polylines(streets, max_link_meters=25, precision=6):
     return merged
 
 
-def detect_polyline_issues(streets):
+def detect_polyline_issues(
+    streets: list[dict[str, Any]],
+) -> tuple[dict[str, set[str]], list[str]]:
     """
     Detect duplicate geometries with different names and entries with no polyline.
     """
-    polyline_to_names = {}
-    non_streets = []
+    polyline_to_names: dict[str, set[str]] = {}
+    non_streets: list[str] = []
 
     for street in streets:
         polyline_str = street["polyline"]
@@ -265,14 +275,18 @@ def detect_polyline_issues(streets):
     return duplicate_polylines, non_streets
 
 
-def write_street_names(streets, output_path):
+def write_street_names(streets: list[dict[str, Any]], output_path: str | Path) -> None:
     names = sorted({street["name"] for street in streets})
     with open(output_path, "w", encoding="utf-8") as names_file:
         for name in names:
             names_file.write(f"{name}\n")
 
 
-def write_review_queue(duplicate_polylines, non_streets, output_path):
+def write_review_queue(
+    duplicate_polylines: dict[str, set[str]],
+    non_streets: list[str],
+    output_path: str | Path,
+) -> None:
     """
     Write polyline issues (duplicate geometries, missing polylines) to a CSV
     so they can be triaged instead of only scrolling past on stderr.
@@ -289,8 +303,11 @@ def write_review_queue(duplicate_polylines, non_streets, output_path):
 
 
 def extract_streets_from_osm(
-    osm_file_path, output_csv_path, street_names_path=None, review_queue_path=None
-):
+    osm_file_path: str,
+    output_csv_path: str,
+    street_names_path: str | None = None,
+    review_queue_path: str | None = None,
+) -> None:
     """
     Extract street names, coordinates, and source tags from OSM file using osmium
     """
@@ -345,7 +362,7 @@ def extract_streets_from_osm(
         print(f"Saved to {street_names_path}")
 
 
-def is_street_pattern(name):
+def is_street_pattern(name: str) -> bool:
     """Check if name matches street patterns"""
     street_pattern = re.compile(
         r"\b("
@@ -359,7 +376,7 @@ def is_street_pattern(name):
     return bool(street_pattern.search(name))
 
 
-def main():
+def main() -> None:
     osm_file = sys.argv[1]
     csv_file = sys.argv[2]
     street_names_file = sys.argv[3] if len(sys.argv) > 3 else None

@@ -1,10 +1,14 @@
+from __future__ import annotations
+
 import importlib.util
 import unittest
 from pathlib import Path
+from types import ModuleType
 
 
-def load_module(name, path):
+def load_module(name: str, path: Path) -> ModuleType:
     spec = importlib.util.spec_from_file_location(name, path)
+    assert spec is not None and spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     return module
@@ -16,35 +20,35 @@ TAXONOMY_PATH = Path(__file__).resolve().parents[1] / "data" / "taxonomy.yaml"
 
 
 class TestTaxonomy(unittest.TestCase):
-    def setUp(self):
+    def setUp(self) -> None:
         self.taxonomy = TAXONOMY_MODULE.load_taxonomy(TAXONOMY_PATH)
 
-    def test_loads_primary_categories(self):
+    def test_loads_primary_categories(self) -> None:
         self.assertIn("colonial_british", self.taxonomy.categories)
         self.assertIn("uncategorized", self.taxonomy.categories)
         self.assertLessEqual(len(self.taxonomy.categories), 20)
 
-    def test_classify_jalan_as_malay(self):
+    def test_classify_jalan_as_malay(self) -> None:
         result = self.taxonomy.classify_by_rules("Jalan Besar")
         self.assertIsNotNone(result)
         self.assertEqual(result.category_id, "malay_archipelago")
 
-    def test_classify_numbered_avenue(self):
+    def test_classify_numbered_avenue(self) -> None:
         result = self.taxonomy.classify_by_rules("Ang Mo Kio Avenue 1")
         self.assertIsNotNone(result)
         self.assertEqual(result.category_id, "numeric_functional")
 
-    def test_classify_colonial_surname(self):
+    def test_classify_colonial_surname(self) -> None:
         result = self.taxonomy.classify_by_rules("Raffles Avenue")
         self.assertIsNotNone(result)
         self.assertEqual(result.category_id, "colonial_british")
 
-    def test_legacy_historical_figures_maps_to_commemorative(self):
+    def test_legacy_historical_figures_maps_to_commemorative(self) -> None:
         result = self.taxonomy.classify_legacy_label("Historical Figures")
         self.assertIsNotNone(result)
         self.assertEqual(result.category_id, "commemorative_persons")
 
-    def test_legacy_botanical_maps_to_nature(self):
+    def test_legacy_botanical_maps_to_nature(self) -> None:
         result = self.taxonomy.classify_legacy_label("Botanical")
         self.assertIsNotNone(result)
         self.assertEqual(result.category_id, "nature_geography")

@@ -21,7 +21,7 @@ def load_categories(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(handle))
 
 
-def build_report(categories_path: Path) -> dict:
+def build_report(categories_path: Path) -> dict[str, object]:
     taxonomy = get_taxonomy()
     rows = apply_overrides_to_rows(load_categories(categories_path))
 

@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import argparse
 import os
 import re
@@ -7,14 +9,14 @@ LORONG_NUMBER_RE = re.compile(r"^Lorong\s+(\d+[A-Za-z]?)\b", re.IGNORECASE)
 BARE_LORONG_RE = re.compile(r"^Lorong\s+\d+[A-Za-z]?$", re.IGNORECASE)
 
 
-def find_named_lorong_numbers(lines):
+def find_named_lorong_numbers(lines: list[str]) -> set[str]:
     """
     Numbers that appear in a Lorong name alongside other words, e.g.
     "Lorong 12 Geylang". A bare "Lorong 12" is kept when its number shows
     up here, since that's evidence it's a real, named lane rather than a
     stray numeric fragment.
     """
-    numbers = set()
+    numbers: set[str] = set()
     for line in lines:
         if BARE_LORONG_RE.match(line):
             continue
@@ -24,9 +26,9 @@ def find_named_lorong_numbers(lines):
     return numbers
 
 
-def is_invalid(line, named_lorong_numbers):
-    starts_with_letter = re.match(r"^[A-Z]", line)
-    is_block = re.match(r"^Blk", line, re.IGNORECASE)
+def is_invalid(line: str, named_lorong_numbers: set[str]) -> bool:
+    starts_with_letter = bool(re.match(r"^[A-Z]", line))
+    is_block = bool(re.match(r"^Blk", line, re.IGNORECASE))
     contains_punctuation = bool(re.search(r"[;,:#()]", line))
     has_stop_words = bool(
         re.search(
@@ -37,7 +39,7 @@ def is_invalid(line, named_lorong_numbers):
     has_special_characters = bool(re.search(r"@", line))
 
     bare_lorong_match = BARE_LORONG_RE.match(line)
-    has_invalid_lorongs = bool(bare_lorong_match) and (
+    has_invalid_lorongs = bare_lorong_match is not None and (
         bare_lorong_match.group(0).split()[1].lower() not in named_lorong_numbers
     )
 
@@ -51,7 +53,7 @@ def is_invalid(line, named_lorong_numbers):
     )
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser(description="Drop lines that are clearly not street names.")
     parser.add_argument(
         "--reject-log",

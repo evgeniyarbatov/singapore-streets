@@ -1,13 +1,18 @@
+from __future__ import annotations
+
 import importlib.util
 import io
 import sys
+import types
 import unittest
 from contextlib import redirect_stdout
 from pathlib import Path
 
 
-def load_module(name, path):
+def load_module(name: str, path: Path) -> types.ModuleType:
     spec = importlib.util.spec_from_file_location(name, path)
+    assert spec is not None
+    assert spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     return module
@@ -18,7 +23,7 @@ MODULE = load_module("format_address", SCRIPT_PATH)
 
 
 class TestFormatAddress(unittest.TestCase):
-    def test_format_replacements(self):
+    def test_format_replacements(self) -> None:
         text = "123 rd &apos;test’ jln lor ave blvd bt aft bef"
         formatted = MODULE.format(text)
         self.assertEqual(
@@ -26,7 +31,7 @@ class TestFormatAddress(unittest.TestCase):
             "123 Road &Apos;Test' Jalan Lorong Avenue Boulevard Bukit After Before",
         )
 
-    def test_main_formats_lines(self):
+    def test_main_formats_lines(self) -> None:
         input_data = "foo rd\nbar st\n"
         expected_output = "Foo Road\nBar Street\n"
 
