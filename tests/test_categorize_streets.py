@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import csv
 import importlib.util
 import io
@@ -7,11 +9,13 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from types import ModuleType
 from unittest import mock
 
 
-def load_module(name, path):
+def load_module(name: str, path: Path) -> ModuleType:
     spec = importlib.util.spec_from_file_location(name, path)
+    assert spec is not None and spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     sys.modules[name] = module
     spec.loader.exec_module(module)
@@ -24,10 +28,10 @@ TAXONOMY_PATH = Path(__file__).resolve().parents[1] / "data" / "taxonomy.yaml"
 
 
 class TestCategorizeStreets(unittest.TestCase):
-    def setUp(self):
+    def setUp(self) -> None:
         MODULE.get_taxonomy(TAXONOMY_PATH)
 
-    def test_load_names(self):
+    def test_load_names(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             input_path = os.path.join(tmp_dir, "input.txt")
             with open(input_path, "w", encoding="utf-8") as handle:
@@ -37,7 +41,7 @@ class TestCategorizeStreets(unittest.TestCase):
 
             self.assertEqual(names, ["Alpha Street", "Beta Street"])
 
-    def test_load_processed_reads_new_csv_format(self):
+    def test_load_processed_reads_new_csv_format(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             output_path = os.path.join(tmp_dir, "output.csv")
             with open(output_path, "w", encoding="utf-8", newline="") as handle:
@@ -61,7 +65,7 @@ class TestCategorizeStreets(unittest.TestCase):
             self.assertIn("Jalan Besar", processed)
             self.assertEqual(processed["Jalan Besar"].primary_category, "malay_archipelago")
 
-    def test_classify_street_uses_rules_without_llm(self):
+    def test_classify_street_uses_rules_without_llm(self) -> None:
         entry = MODULE.classify_street(
             "Jalan Besar",
             model=None,
@@ -71,7 +75,7 @@ class TestCategorizeStreets(unittest.TestCase):
         self.assertEqual(entry.primary_category, "malay_archipelago")
         self.assertEqual(entry.source, "rule")
 
-    def test_categorize_name_llm_parses_json(self):
+    def test_categorize_name_llm_parses_json(self) -> None:
         with mock.patch.object(MODULE.subprocess, "run") as mocked_run:
             mocked_run.return_value = subprocess.CompletedProcess(
                 args=["ollama", "run", "model"],
@@ -89,7 +93,7 @@ class TestCategorizeStreets(unittest.TestCase):
             self.assertEqual(entry.tags, ("tree",))
             self.assertEqual(entry.source, "llm")
 
-    def test_classify_street_uses_override_before_rules(self):
+    def test_classify_street_uses_override_before_rules(self) -> None:
         overrides = {
             "Jalan Besar": MODULE.CategoryOverride(
                 street_name="Jalan Besar",
@@ -108,7 +112,7 @@ class TestCategorizeStreets(unittest.TestCase):
         self.assertEqual(entry.primary_category, "nature_geography")
         self.assertEqual(entry.source, "override")
 
-    def test_main_appends_new_entries_with_rules(self):
+    def test_main_appends_new_entries_with_rules(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             input_path = os.path.join(tmp_dir, "input.txt")
             output_path = os.path.join(tmp_dir, "output.csv")
@@ -137,9 +141,11 @@ class TestCategorizeStreets(unittest.TestCase):
                 "--no-llm",
             ]
 
-            with mock.patch.object(sys, "argv", argv):
-                with mock.patch.object(sys, "stderr", new_callable=io.StringIO):
-                    exit_code = MODULE.main()
+            with (
+                mock.patch.object(sys, "argv", argv),
+                mock.patch.object(sys, "stderr", new_callable=io.StringIO),
+            ):
+                exit_code = MODULE.main()
 
             self.assertEqual(exit_code, 0)
             with open(output_path, encoding="utf-8", newline="") as handle:
@@ -149,7 +155,7 @@ class TestCategorizeStreets(unittest.TestCase):
             self.assertEqual(rows[0]["street_name"], "Jalan Besar")
             self.assertEqual(rows[1]["street_name"], "Beta Street")
 
-    def test_main_applies_override_to_existing_row(self):
+    def test_main_applies_override_to_existing_row(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             input_path = os.path.join(tmp_dir, "input.txt")
             output_path = os.path.join(tmp_dir, "output.csv")
@@ -190,9 +196,11 @@ class TestCategorizeStreets(unittest.TestCase):
                 override_path,
             ]
 
-            with mock.patch.object(sys, "argv", argv):
-                with mock.patch.object(sys, "stderr", new_callable=io.StringIO):
-                    exit_code = MODULE.main()
+            with (
+                mock.patch.object(sys, "argv", argv),
+                mock.patch.object(sys, "stderr", new_callable=io.StringIO),
+            ):
+                exit_code = MODULE.main()
 
             self.assertEqual(exit_code, 0)
             with open(output_path, encoding="utf-8", newline="") as handle:

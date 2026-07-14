@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import csv
 import importlib.util
 import os
@@ -5,10 +7,12 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from types import ModuleType
 
 
-def load_module(name, path):
+def load_module(name: str, path: Path) -> ModuleType:
     spec = importlib.util.spec_from_file_location(name, path)
+    assert spec is not None and spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     sys.modules[name] = module
     spec.loader.exec_module(module)
@@ -24,10 +28,10 @@ TAXONOMY_PATH = Path(__file__).resolve().parents[1] / "data" / "taxonomy.yaml"
 
 
 class TestCategoryOverrides(unittest.TestCase):
-    def setUp(self):
+    def setUp(self) -> None:
         OVERRIDES_MODULE.get_taxonomy(TAXONOMY_PATH)
 
-    def test_load_overrides_accepts_category_ids(self):
+    def test_load_overrides_accepts_category_ids(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             override_path = os.path.join(tmp_dir, "overrides.csv")
             with open(override_path, "w", encoding="utf-8", newline="") as handle:
@@ -46,7 +50,7 @@ class TestCategoryOverrides(unittest.TestCase):
             entry = overrides["Adam Drive"]
             self.assertEqual(entry.primary_category, "commemorative_persons")
 
-    def test_load_overrides_accepts_display_names(self):
+    def test_load_overrides_accepts_display_names(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             override_path = os.path.join(tmp_dir, "overrides.csv")
             with open(override_path, "w", encoding="utf-8", newline="") as handle:
@@ -63,7 +67,7 @@ class TestCategoryOverrides(unittest.TestCase):
 
             self.assertEqual(overrides["Adam Drive"].primary_category, "commemorative_persons")
 
-    def test_apply_overrides_to_rows_replaces_existing_category(self):
+    def test_apply_overrides_to_rows_replaces_existing_category(self) -> None:
         rows = [
             {
                 "street_name": "Adam Drive",

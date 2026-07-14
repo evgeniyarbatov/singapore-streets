@@ -1,17 +1,19 @@
+from __future__ import annotations
+
 import argparse
 import os
 import re
 import sys
 
 
-def load_allowlist(path):
+def load_allowlist(path: str) -> set[str]:
     if not path or not os.path.exists(path):
         return set()
     with open(path, encoding="utf-8") as f:
         return {line.strip() for line in f if line.strip() and not line.startswith("#")}
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser(
         description="Keep only names that look like real Singapore streets."
     )
@@ -59,7 +61,7 @@ def main():
         os.makedirs(reject_dir, exist_ok=True)
 
     with open(args.reject_log, "w") as f:
-        seen_names = []
+        seen_names: list[str] = []
         for line in sys.stdin:
             line = line.rstrip()
 

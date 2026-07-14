@@ -1,19 +1,23 @@
+from __future__ import annotations
+
 import csv
 import os
 import runpy
 import sys
 import tempfile
+import types
 import unittest
 from pathlib import Path
+from typing import Any
 
 
 class DataFrame:
-    def __init__(self, rows, columns):
+    def __init__(self, rows: list[dict[Any, Any]], columns: list[Any]) -> None:
         self._rows = rows
         self._columns = columns
 
-    def merge(self, other, on, how):
-        right_index = {}
+    def merge(self, other: DataFrame, on: Any, how: str) -> DataFrame:
+        right_index: dict[Any, list[dict[Any, Any]]] = {}
         for row in other._rows:
             right_index.setdefault(row.get(on), []).append(row)
 
@@ -40,7 +44,7 @@ class DataFrame:
                 columns.append(key)
         return DataFrame(rows, columns)
 
-    def rename(self, columns):
+    def rename(self, columns: dict[Any, Any] | None) -> DataFrame:
         mapping = columns or {}
         self._columns = [mapping.get(col, col) for col in self._columns]
         self._rows = [
@@ -48,23 +52,23 @@ class DataFrame:
         ]
         return self
 
-    def __getitem__(self, columns):
+    def __getitem__(self, columns: list[Any]) -> DataFrame:
         rows = [{col: row.get(col) for col in columns} for row in self._rows]
         return DataFrame(rows, list(columns))
 
     @property
-    def columns(self):
+    def columns(self) -> list[Any]:
         return self._columns
 
     @columns.setter
-    def columns(self, values):
+    def columns(self, values: list[Any]) -> None:
         mapping = dict(zip(self._columns, values, strict=False))
         self._columns = list(values)
         self._rows = [
             {mapping.get(col, col): value for col, value in row.items()} for row in self._rows
         ]
 
-    def to_csv(self, path, index=False):
+    def to_csv(self, path: str | Path, index: bool = False) -> None:
         with open(path, "w", newline="", encoding="utf-8") as handle:
             writer = csv.DictWriter(handle, fieldnames=self._columns)
             writer.writeheader()
@@ -72,7 +76,7 @@ class DataFrame:
                 writer.writerow({col: row.get(col) for col in self._columns})
 
 
-def read_csv(path, header="infer"):
+def read_csv(path: str | Path, header: str | None = "infer") -> DataFrame:
     with open(path, encoding="utf-8", newline="") as handle:
         reader = csv.reader(handle)
         rows = list(reader)
@@ -80,6 +84,7 @@ def read_csv(path, header="infer"):
     if not rows:
         return DataFrame([], [])
 
+    columns: list[Any]
     if header is None:
         columns = list(range(len(rows[0])))
         data = [{columns[i]: value for i, value in enumerate(row)} for row in rows]
@@ -89,25 +94,21 @@ def read_csv(path, header="infer"):
     return DataFrame(data, columns)
 
 
-class PandasStub:
-    @staticmethod
-    def read_csv(path, header="infer"):
-        return read_csv(path, header=header)
-
-
-def run_script(path):
+def run_script(path: str | Path) -> None:
     try:
         import pandas  # noqa: F401
 
         runpy.run_path(str(path), run_name="__main__")
     except ModuleNotFoundError:
-        sys.modules["pandas"] = PandasStub()
+        pandas_module = types.ModuleType("pandas")
+        pandas_module.read_csv = read_csv  # type: ignore[attr-defined]
+        sys.modules["pandas"] = pandas_module
         runpy.run_path(str(path), run_name="__main__")
         sys.modules.pop("pandas", None)
 
 
 class TestCreateDataset(unittest.TestCase):
-    def test_creates_dataset_csv(self):
+    def test_creates_dataset_csv(self) -> None:
         script_path = Path(__file__).resolve().parents[1] / "scripts" / "create-dataset.py"
         with tempfile.TemporaryDirectory() as tmp_dir:
             data_dir = Path(tmp_dir) / "data"

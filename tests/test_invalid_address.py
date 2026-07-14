@@ -1,15 +1,20 @@
+from __future__ import annotations
+
 import importlib.util
 import io
 import os
 import sys
 import tempfile
+import types
 import unittest
 from contextlib import redirect_stdout
 from pathlib import Path
 
 
-def load_module(name, path):
+def load_module(name: str, path: Path) -> types.ModuleType:
     spec = importlib.util.spec_from_file_location(name, path)
+    assert spec is not None
+    assert spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     return module
@@ -20,7 +25,7 @@ MODULE = load_module("invalid_address", SCRIPT_PATH)
 
 
 class TestInvalidAddress(unittest.TestCase):
-    def _run_main(self, tmp_dir, input_data, argv=None):
+    def _run_main(self, tmp_dir: str, input_data: str, argv: list[str] | None = None) -> str:
         filtered_dir = Path(tmp_dir) / "filtered"
         filtered_dir.mkdir(parents=True, exist_ok=True)
 
@@ -43,7 +48,7 @@ class TestInvalidAddress(unittest.TestCase):
 
         return stdout.getvalue()
 
-    def test_main_filters_invalid_lines(self):
+    def test_main_filters_invalid_lines(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             stdout = self._run_main(tmp_dir, "Main Road\nBlk 123\nLorong 12\n")
 
@@ -53,7 +58,7 @@ class TestInvalidAddress(unittest.TestCase):
             invalid_lines = invalid_path.read_text(encoding="utf-8").splitlines()
             self.assertEqual(invalid_lines, ["Blk 123", "Lorong 12"])
 
-    def test_bare_lorong_kept_when_named_variant_present(self):
+    def test_bare_lorong_kept_when_named_variant_present(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             stdout = self._run_main(tmp_dir, "Lorong 12\nLorong 12 Geylang\nLorong 99\n")
 
@@ -62,7 +67,7 @@ class TestInvalidAddress(unittest.TestCase):
             invalid_lines = invalid_path.read_text(encoding="utf-8").splitlines()
             self.assertEqual(invalid_lines, ["Lorong 99"])
 
-    def test_reject_log_flag_overrides_default_path(self):
+    def test_reject_log_flag_overrides_default_path(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             self._run_main(
                 tmp_dir, "Main Road\nBlk 123\n", argv=["--reject-log", "custom/rejects.txt"]

@@ -29,7 +29,7 @@ if "street_name" in categories_df.columns:
 else:
     categories_df = pd.read_csv(categories_csv, header=None)
     categories_df = categories_df[[0, 1]]
-    categories_df.columns = ["street_name", "category"]
+    categories_df.columns = pd.Index(["street_name", "category"])
 
 categories_df = merge_category_dataframe(categories_df)
 

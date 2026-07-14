@@ -1,15 +1,20 @@
+from __future__ import annotations
+
 import importlib.util
 import io
 import os
 import sys
 import tempfile
+import types
 import unittest
 from contextlib import redirect_stdout
 from pathlib import Path
 
 
-def load_module(name, path):
+def load_module(name: str, path: Path) -> types.ModuleType:
     spec = importlib.util.spec_from_file_location(name, path)
+    assert spec is not None
+    assert spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     return module
@@ -20,7 +25,7 @@ MODULE = load_module("street_names", SCRIPT_PATH)
 
 
 class TestStreetNames(unittest.TestCase):
-    def _run_main(self, tmp_dir, input_data, argv=None):
+    def _run_main(self, tmp_dir: str, input_data: str, argv: list[str] | None = None) -> str:
         filtered_dir = Path(tmp_dir) / "filtered"
         filtered_dir.mkdir(parents=True, exist_ok=True)
 
@@ -43,7 +48,7 @@ class TestStreetNames(unittest.TestCase):
 
         return stdout.getvalue()
 
-    def test_main_filters_street_names(self):
+    def test_main_filters_street_names(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             stdout = self._run_main(
                 tmp_dir, "Orchard Road\nVivoCity Mall\nJalan Besar\nFoo/Bar Road\n"
@@ -58,7 +63,7 @@ class TestStreetNames(unittest.TestCase):
             self.assertTrue(any("VivoCity Mall" in line for line in filtered_lines))
             self.assertTrue(any("Foo/Bar Road" in line for line in filtered_lines))
 
-    def test_reject_log_flag_overrides_default_path(self):
+    def test_reject_log_flag_overrides_default_path(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             self._run_main(
                 tmp_dir,
@@ -75,7 +80,7 @@ class TestStreetNames(unittest.TestCase):
                 )
             )
 
-    def test_allowlist_bypasses_slash_and_building_filters(self):
+    def test_allowlist_bypasses_slash_and_building_filters(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             allowlist_path = Path(tmp_dir) / "allowlist.txt"
             allowlist_path.write_text("Foo/Bar Road\n", encoding="utf-8")
@@ -88,7 +93,7 @@ class TestStreetNames(unittest.TestCase):
 
             self.assertEqual(stdout.splitlines(), ["Orchard Road", "Foo/Bar Road"])
 
-    def test_expanded_suffixes_are_kept(self):
+    def test_expanded_suffixes_are_kept(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             stdout = self._run_main(tmp_dir, "Marina Quay\nRaffles Place\nBukit Timah\n")
 

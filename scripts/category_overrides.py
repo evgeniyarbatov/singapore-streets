@@ -5,8 +5,12 @@ from __future__ import annotations
 import csv
 from dataclasses import dataclass
 from pathlib import Path
+from typing import TYPE_CHECKING
 
 from taxonomy import get_taxonomy
+
+if TYPE_CHECKING:
+    import pandas as pd
 
 DEFAULT_OVERRIDE_PATH = Path(__file__).resolve().parents[1] / "data" / "categories-override.csv"
 
@@ -89,7 +93,9 @@ def apply_overrides_to_rows(
     return list(by_name.values())
 
 
-def merge_category_dataframe(categories_df, overrides: dict[str, CategoryOverride] | None = None):
+def merge_category_dataframe(
+    categories_df: pd.DataFrame, overrides: dict[str, CategoryOverride] | None = None
+) -> pd.DataFrame:
     """Return categories_df with override rows replacing matching street_name rows."""
     import pandas as pd
 
