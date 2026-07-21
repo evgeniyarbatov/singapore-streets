@@ -182,6 +182,26 @@ Supports both the legacy `name,category` CSV format and the new header-based for
 
 ---
 
+## Static site
+
+### `build_site.py`
+
+Builds the browsable catalog under `site/dist/` for local preview and GitHub Pages.
+
+```bash
+python scripts/build_site.py --base-path /singapore-streets/
+python scripts/build_site.py --base-path /   # local root serve
+```
+
+1. Reads `dataset/singapore-streets.csv`
+2. Joins tags from `data/street_categories.csv` and aliases from OSM / canonical tables
+3. Writes `site/dist/data/streets.json.gz`, `meta.json`, `index.html`, and copies `site/static/*`
+4. Adds `.nojekyll` for GitHub Pages
+
+**Makefile targets:** `make site`, `make site-local`, `make site-serve`, `make site-deploy`
+
+---
+
 ## Configuration files
 
 These are not scripts but are central to categorization:
@@ -207,6 +227,7 @@ Edit `data/taxonomy.yaml`, then re-run `make categorize --no-llm` to apply rule 
 | `invalid-address.py` | stdin | stdout; reject log (`--reject-log`) |
 | `street-names.py` | stdin | stdout; reject log (`--reject-log`); allowlist (`--allowlist`) |
 | `canonical_streets.py` | `street-names.txt` | `data/canonical-streets.csv` |
+| `build_site.py` | dataset + categories + aliases | `site/dist/` |
 | `categorize_streets.py` | `street-names.txt` | `data/street_categories.csv` |
 | `category_report.py` | `street_categories.csv` | stdout + `category-stats.json` |
 | `create-dataset.py` | names + categories + OSM CSV | `dataset/singapore-streets.csv` |

@@ -24,6 +24,9 @@ Geofabrik OSM PBF
        │
        ▼
   dataset/singapore-streets.csv Published dataset (Kaggle)
+       │
+       ▼
+  build_site.py                 Static catalog → site/dist (GitHub Pages)
 ```
 
 Each stage writes artifacts under `data/` or `dataset/`. Intermediate reject logs go to `filtered/`.
@@ -59,6 +62,9 @@ singapore-streets/
 │   └── singapore-streets.csv
 ├── prompts/
 │   └── categorize-v1.md    # Versioned LLM prompt template
+├── site/
+│   ├── static/             # app.js, style.css (source)
+│   └── dist/               # Generated static site (committed for Pages)
 ├── scripts/                # Pipeline scripts (see scripts.md)
 ├── tests/                  # Unit tests per script
 ├── Makefile                # Orchestration targets
@@ -163,14 +169,23 @@ Rules live in `data/taxonomy.yaml` under `rules:` and `colonial_surnames:`. The 
 | `upload` | Push dataset to Kaggle |
 | `test` | Run unit tests |
 | `all` | Run `streets` through `dataset` (everything but `osm`, `city`, `upload`) |
+| `site` | Build static catalog into `site/dist` (Pages base path) |
+| `site-local` / `site-serve` | Build with base `/` and serve locally |
+| `site-deploy` | Build + print GitHub Pages deploy steps |
 | `reset` | Delete generated pipeline outputs |
 | `fresh` | `reset` then `all` |
 | `fresh-all` | `reset`, re-download/re-clip OSM, then `all` |
 
+## Static site
+
+`scripts/build_site.py` joins the publishable dataset with category tags and OSM/canonical aliases into gzipped `site/dist/data/streets.json.gz`, plus a single-page Leaflet UI (`index.html`, `app.js`, `style.css`). District, etymology, and personal notes render when those fields exist later.
+
+`site/dist` is committed so GitHub Actions can deploy without regenerating pipeline data (mostly gitignored). Push to `main` runs `.github/workflows/pages.yml`.
+
 ## Testing
 
-Tests live in `tests/` and mirror `scripts/`. They cover extraction/merge logic, each cleaning filter, categorization (mocked Ollama), taxonomy rules, and dataset creation. Run with `make test`.
+Tests live in `tests/` and mirror `scripts/`. They cover extraction/merge logic, each cleaning filter, categorization (mocked Ollama), taxonomy rules, dataset creation, and the site builder. Run with `make test`.
 
 ## Future direction
 
-See [ROADMAP.md](../ROADMAP.md) for planned work: official-source diffing (Phase 1), enrichment and etymology (Phase 3), static map site (Phase 4), and packaging/CI hardening (Phase 5).
+See [ROADMAP.md](../ROADMAP.md) for planned work: official-source diffing (Phase 1.1), enrichment and etymology (Phase 3), memory-lane features (Phase 4.2), and packaging/CI hardening (Phase 5).

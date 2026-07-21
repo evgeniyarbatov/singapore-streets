@@ -1,0 +1,375 @@
+:root {
+  --bg: #f6f3ee;
+  --panel: #fffdf9;
+  --ink: #1c1b19;
+  --muted: #5c584f;
+  --line: #ddd5c8;
+  --accent: #c45c26;
+  --accent-soft: #f3e0d2;
+  --shadow: 0 10px 30px rgba(28, 27, 25, 0.12);
+  --radius: 12px;
+  --header-h: 72px;
+  --filters-h: 72px;
+  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+a {
+  color: var(--accent);
+}
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.85rem 1.25rem;
+  border-bottom: 1px solid var(--line);
+  background: linear-gradient(180deg, #fffaf3, var(--bg));
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+.brand h1 {
+  margin: 0;
+  font-size: 1.35rem;
+  letter-spacing: 0.01em;
+}
+
+.brand h1 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.subtitle {
+  margin: 0.15rem 0 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.tabs {
+  display: flex;
+  gap: 0.4rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.25rem;
+}
+
+.tab {
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  padding: 0.45rem 0.95rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.95rem;
+}
+
+.tab.active {
+  background: var(--ink);
+  color: #fffaf3;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  align-items: end;
+  padding: 0.75rem 1.25rem;
+  border-bottom: 1px solid var(--line);
+  background: var(--panel);
+  position: sticky;
+  top: var(--header-h);
+  z-index: 15;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 10rem;
+}
+
+.search-field {
+  flex: 1 1 14rem;
+}
+
+.label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+input[type="search"],
+select {
+  font: inherit;
+  font-size: 0.95rem;
+  padding: 0.5rem 0.65rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--ink);
+}
+
+.filter-status {
+  margin: 0 0 0.2rem auto;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+main {
+  flex: 1;
+  min-height: 0;
+}
+
+.view-map {
+  position: relative;
+  height: calc(100vh - var(--header-h) - var(--filters-h) - 48px);
+  min-height: 420px;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  background: #e7e2d8;
+}
+
+.legend {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  z-index: 500;
+  max-width: min(280px, calc(100% - 24px));
+  max-height: 45%;
+  overflow: auto;
+  background: rgba(255, 253, 249, 0.95);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 0.65rem 0.8rem;
+  font-size: 0.82rem;
+}
+
+.legend h3 {
+  margin: 0 0 0.4rem;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0.2rem 0;
+}
+
+.swatch {
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 999px;
+  flex: 0 0 auto;
+}
+
+.view-list {
+  padding: 0.5rem 1.25rem 2rem;
+}
+
+.street-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.65rem;
+}
+
+.street-card {
+  text-align: left;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: var(--radius);
+  padding: 0.8rem 0.9rem;
+  cursor: pointer;
+  font: inherit;
+  box-shadow: 0 1px 0 rgba(28, 27, 25, 0.04);
+}
+
+.street-card:hover,
+.street-card:focus-visible {
+  border-color: var(--accent);
+  outline: none;
+  box-shadow: var(--shadow);
+}
+
+.street-card .name {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.street-card .meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: var(--accent-soft);
+  color: #6a3414;
+  border-radius: 999px;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.78rem;
+}
+
+.pill.tag {
+  background: #ebe7df;
+  color: var(--muted);
+}
+
+.detail-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(28, 27, 25, 0.35);
+  z-index: 40;
+}
+
+.detail {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: min(420px, 100%);
+  height: 100%;
+  background: var(--panel);
+  border-left: 1px solid var(--line);
+  box-shadow: var(--shadow);
+  z-index: 50;
+  padding: 1rem 1rem 1.25rem;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.detail-close {
+  align-self: flex-end;
+  border: 0;
+  background: transparent;
+  font-size: 1.6rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--muted);
+}
+
+.detail h2 {
+  margin: 0;
+  font-size: 1.45rem;
+}
+
+.detail .detail-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.detail dl {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 7rem 1fr;
+  gap: 0.35rem 0.75rem;
+  font-size: 0.95rem;
+}
+
+.detail dt {
+  color: var(--muted);
+}
+
+.detail dd {
+  margin: 0;
+}
+
+.detail-map {
+  height: 220px;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  overflow: hidden;
+  background: #e7e2d8;
+}
+
+.detail-map.hidden {
+  display: none;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.hidden {
+  display: none !important;
+}
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 0.7rem 1.25rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+.empty-state {
+  padding: 2rem 0;
+  color: var(--muted);
+  text-align: center;
+}
+
+@media (max-width: 720px) {
+  .site-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .filters {
+    top: 0;
+    position: static;
+  }
+
+  .filter-status {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .legend {
+    display: none;
+  }
+
+  .detail {
+    width: 100%;
+  }
+}
