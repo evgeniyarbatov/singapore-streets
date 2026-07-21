@@ -264,11 +264,6 @@
       .map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`)
       .join("");
 
-    const missing = [];
-    if (!street.etymology) missing.push("etymology");
-    if (!street.memory_note) missing.push("personal note");
-    if (!street.district) missing.push("district");
-
     els.detailBody.innerHTML = `
       <h2>${escapeHtml(street.name)}</h2>
       <div class="detail-meta">
@@ -276,11 +271,6 @@
         ${tags}
       </div>
       <dl>${dl}</dl>
-      ${
-        missing.length
-          ? `<p class="muted">Not yet filled: ${missing.join(", ")}.</p>`
-          : ""
-      }
     `;
 
     els.detail.classList.remove("hidden");
