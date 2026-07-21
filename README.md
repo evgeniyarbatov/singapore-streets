@@ -2,13 +2,15 @@
 
 Exploring Singapore street names with OpenStreetMap.
 
+**Browse the map:** [evgeniyarbatov.github.io/singapore-streets](https://evgeniyarbatov.github.io/singapore-streets/)
+
 ## How Many Streets?
 
-~4,443 streets based on the [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-street-names).
+~4,926 streets — map and list on the [site](https://evgeniyarbatov.github.io/singapore-streets/), CSV on [Kaggle](https://www.kaggle.com/datasets/evgenyarbatov/singapore-street-names).
 
-## Browse the catalog
+## Site
 
-Static map + list site (GitHub Pages):
+Public GitHub Pages catalog (Leaflet map, list filters, street detail):
 
 https://evgeniyarbatov.github.io/singapore-streets/
 
@@ -18,7 +20,7 @@ make site         # rebuild site/dist for Pages (base path /singapore-streets/)
 make site-deploy  # rebuild + print deploy steps
 ```
 
-Pushing `site/dist` on `main` deploys via `.github/workflows/pages.yml`. One-time: repo **Settings → Pages → Source = GitHub Actions**.
+Pushing `site/dist` on `main` deploys via `.github/workflows/pages.yml`.
 
 ## Documentation
 
