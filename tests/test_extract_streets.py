@@ -108,8 +108,53 @@ class TestExtractStreets(unittest.TestCase):
         self.assertEqual(len(merged), 1)
         self.assertEqual(merged[0]["name"], "Test Street")
 
-        decoded = polyline.decode(merged[0]["polyline"])
+        parts = merged[0]["polyline"].split(MODULE.POLYLINE_SEP)
+        self.assertEqual(len(parts), 1)
+        decoded = polyline.decode(parts[0])
         self.assertEqual(decoded, [(1.0, 1.0), (1.0, 1.001), (1.0, 1.002)])
+
+    def test_merge_street_polylines_keeps_y_junction_branches(self) -> None:
+        # Three segments share a junction node (Y-shape). The old single-chain
+        # merge dropped the arm that could not attach to the path endpoints.
+        junction = (1.323, 103.806)
+        arm_a = [junction, (1.323, 103.807)]
+        arm_b = [junction, (1.324, 103.806)]
+        arm_c = [junction, (1.322, 103.805)]
+        streets = [
+            {"name": "Fork Drive", "coords": arm_a, "osm_source": "highway_name"},
+            {"name": "Fork Drive", "coords": arm_b, "osm_source": "highway_name"},
+            {"name": "Fork Drive", "coords": arm_c, "osm_source": "highway_name"},
+        ]
+
+        merged = MODULE.merge_street_polylines(streets, max_link_meters=25)
+        self.assertEqual(len(merged), 1)
+
+        parts = [p for p in merged[0]["polyline"].split(MODULE.POLYLINE_SEP) if p]
+        self.assertGreaterEqual(len(parts), 2)
+
+        covered: set[tuple[float, float]] = set()
+        for part in parts:
+            covered.update(polyline.decode(part))
+        for pt in (*arm_a, *arm_b, *arm_c):
+            self.assertIn(pt, covered)
+
+    def test_merge_street_polylines_keeps_disconnected_components(self) -> None:
+        streets = [
+            {
+                "name": "Split Road",
+                "coords": [(1.0, 1.0), (1.0, 1.001)],
+                "osm_source": "highway_name",
+            },
+            {
+                "name": "Split Road",
+                "coords": [(1.1, 1.1), (1.1, 1.101)],
+                "osm_source": "highway_name",
+            },
+        ]
+
+        merged = MODULE.merge_street_polylines(streets, max_link_meters=25)
+        parts = [p for p in merged[0]["polyline"].split(MODULE.POLYLINE_SEP) if p]
+        self.assertEqual(len(parts), 2)
 
     def test_detect_polyline_issues(self) -> None:
         streets = [
