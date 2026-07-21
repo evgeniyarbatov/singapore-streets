@@ -30,7 +30,7 @@ Each stage writes artifacts under `data/` or `dataset/`. Intermediate reject log
 
 ## Design principles
 
-**OSM as source of truth for geometry.** Street polylines come from OSM `highway` ways and named relations with `name` (or alias) tags. There is no separate geocoding step — the same extract that produces names also produces coordinates.
+**OSM as source of truth for geometry.** Street polylines come from OSM `highway` ways and named relations with `name` (or alias) tags. There is no separate geocoding step — the same extract that produces names also produces coordinates. What counts as a street (include / exclude / gray zone) is defined in [street-definition.md](street-definition.md).
 
 **Cleaning is a filter chain, not a single pass.** Three small stdin/stdout scripts run in sequence during `make clean`. Each step has a narrow job (normalize spelling, drop junk, keep only street-shaped names). Rejected lines go to an explicit `--reject-log` path (default under `filtered/`) for inspection, and a curated `data/allowlist.txt` lets confirmed edge cases skip the building/slash filters.
 

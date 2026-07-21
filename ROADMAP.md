@@ -83,11 +83,10 @@ The [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-str
 
 ### 1.4 Definition of “street”
 
-Document in `docs/street-definition.md` (or README section):
-
-- Included: public highways with official street names, including walkways and links when named
-- Excluded: building names, MRT labels, bus stop descriptions, condo internal drives unless publicly named
-- Gray zone: private estates, unnamed connectors — tag as `confidence: low` rather than drop silently
+- [x] Document in [`docs/street-definition.md`](docs/street-definition.md):
+  - Included: named public thoroughfares (highways, road-route relations, street-pattern names) after cleaning
+  - Excluded: buildings/malls, MRT/bus labels, blocks, slash compounds, unnamed connectors
+  - Gray zone: private estates, orphan lorongs, expressway scope — keep vs reject log today; low-confidence tag planned, not implemented
 
 **Phase 1 done when:** Reference diff shows &lt;1% unexplained gaps vs best official source, and every gap is ticketed in `data/review-queue.csv`.
 
