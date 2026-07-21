@@ -6,7 +6,7 @@ A plan to grow this repo from an OSM extraction pipeline into a **comprehensive,
 
 ## Vision
 
-Singapore streets are rare and oddly specific. A single name can carry colonial history, a Malay place-word, a clan association, a rubber estate, a kampung that no longer exists, or a developer's poetic flourish from the 2010s. The goal is not just a count (~4,443 today) but a **living catalog** where every name can be found, understood, and revisited.
+Singapore streets are rare and oddly specific. A single name can carry colonial history, a Malay place-word, a clan association, a rubber estate, a kampung that no longer exists, or a developer's poetic flourish from the 2010s. The goal is not just a count (~4,926 today) but a **living catalog** where every name can be found, understood, and revisited.
 
 Success looks like:
 
@@ -20,21 +20,26 @@ Success looks like:
 
 ## Where We Are Today
 
-The current pipeline is solid for a v1:
+The pipeline is solid through categorization and dataset publish:
 
 ```
-OSM (Geofabrik) → clip to Singapore → extract names + polylines → clean/filter → Ollama categories → Kaggle dataset
+OSM (Geofabrik) → clip to Singapore → extract names + polylines → clean/filter
+  → canonical names → rules + Ollama + overrides → category report → Kaggle dataset
 ```
 
 | Stage | What works | What limits us |
 |-------|------------|----------------|
-| **Extract** (`extract_streets.py`) | Highway `name` tags, regex street patterns, polyline merge | OSM-only; relations/areas ignored; `name:en` / `alt_name` not merged |
-| **Clean** (`format-address`, `invalid-address`, `street-names`) | Normalizes abbreviations; filters malls, blocks, junk | Regex is brittle; `Lorong N` alone is dropped; slash-names excluded |
-| **Categorize** (`categorize_streets.py`) | Resumable; local LLM via Ollama | Free-form labels → inconsistent taxonomy; no validation |
-| **Dataset** (`create-dataset.py`) | `street_name`, `category`, `polyline` | Inner join drops uncategorized streets; no metadata columns |
-| **Tests** | Core extract/merge/filter logic covered | No integration test on full pipeline; no golden-file regression |
+| **Extract** (`extract_streets.py`) | Highway + relation names; `name` / `name:en` / `name:ms` / `name:zh` / `alt_name` / `old_name`; polyline merge; review queue | OSM-only; no official-source completeness check |
+| **Clean** (`format-address`, `invalid-address`, `street-names`) | Explicit reject logs; allowlist; smarter `Lorong` handling | Still regex-driven; gray-zone confidence not modeled |
+| **Canonical** (`canonical_streets.py`) | Directional variants linked (`canonical_name`, `display_name`, `aliases`) | Not yet joined into the published dataset |
+| **Categorize** (`categorize_streets.py`) | Fixed taxonomy; rules → LLM → overrides; resumable; prompt/model logged | Inter-rater audit not done; a few uncategorized names remain |
+| **Report** (`category_report.py`) | Coverage, by-category / by-source / by-tag stats → `category-stats.json` | No confidence distribution chart beyond raw counters |
+| **Dataset** (`create-dataset.py`) | `street_name`, `category`, `polyline` | Inner join drops uncategorized; no district / etymology / aliases columns |
+| **Tooling** | `make all` / `fresh` / `fresh-all`; uv; pre-commit + ruff + mypy; unit tests | No CI; not an installable package; no golden-file OSM regression |
 
-The [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-street-names) is a good starting point for others. The roadmap below is about making it **authoritative, delightful, and yours**.
+**Phase 2 outcome (current numbers):** ~4,926 streets; **99.8%** in the fixed taxonomy (10 uncategorized); sources roughly half rules / half LLM plus a handful of manual overrides.
+
+The [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-street-names) remains the public publish target. Next high-value gaps: official-source completeness (Phase 1.1), enrichment (Phase 3), and a browsable map (Phase 4).
 
 ---
 
@@ -88,13 +93,15 @@ Document in `docs/street-definition.md` (or README section):
 
 ---
 
-## Phase 2 — Categorization: A Real Taxonomy
+## Phase 2 — Categorization: A Real Taxonomy ✅
 
 **Goal:** Replace open-ended LLM labels with a **stable, browsable category system** that still captures Singapore’s weirdness.
 
+**Status:** Complete for practical purposes — fixed taxonomy, rules → LLM → human overrides, 99.8% coverage, review queue of 10 names.
+
 ### 2.1 Design the taxonomy
 
-Proposed **primary categories** (draft — refine as you label):
+Primary categories live in `data/taxonomy.yaml` (12 categories; Japanese/wartime dropped as not useful in practice):
 
 | Category | Examples | Notes |
 |----------|----------|-------|
@@ -102,7 +109,6 @@ Proposed **primary categories** (draft — refine as you label):
 | **Malay & Archipelago** | Jalan Besar, Lorong Halus, Kampong Bahru | Indigenous place-words, geography |
 | **Chinese dialect & clan** | Teochew, Hokkien, Cantonese transliterations | Often market, temple, clan links |
 | **Tamil & South Asian** | Serangoon, Race Course Road area names | Includes Hindu / Muslim heritage |
-| **Japanese / wartime** | Rare; handle carefully with sources | |
 | **Nature & geography** | Mount Pleasant, Sungei, Bukit, Bay | Hills, rivers, flora, fauna |
 | **Trade & industry** | Market Street, Timberland... | Occupations, goods, economic activity |
 | **Institutions & public** | Hospital Drive, School zones | Schools, hospitals, civic buildings |
@@ -112,23 +118,23 @@ Proposed **primary categories** (draft — refine as you label):
 | **Numeric & functional** | `Lorong 1`, `Street 11` | Still catalog; tag separately |
 | **Uncategorized / unknown** | Honest bucket | Shrinks over time |
 
-- [ ] Store taxonomy in `data/taxonomy.yaml` with descriptions and example streets
-- [ ] Add optional **secondary tags** (multi-value): `person`, `tree`, `sea`, `estate`, `extinct-place`, `running-route` (your personal tag)
+- [x] Store taxonomy in `data/taxonomy.yaml` with descriptions and example streets
+- [x] Add optional **secondary tags** (multi-value): `person`, `tree`, `sea`, `estate`, `extinct_place`, `running_route`, plus `military`, `market`, `temple`, `clan`
 
 ### 2.2 Categorization workflow
 
-- [ ] **Rules first** — regex/lookup for obvious classes (`^Jalan`, `^Lorong`, `Bukit`, `Sungei`, `Mount`, colonial surnames list)
-- [ ] **LLM second** — constrained classification: pick from taxonomy + suggest tags; require JSON schema output
-- [ ] **Human review third** — `data/categories-reviewed.csv` overrides model; never overwritten on re-run
-- [ ] Version prompts in `prompts/categorize-v1.md`; log model + prompt version per row
+- [x] **Rules first** — regex/lookup in taxonomy (`^Jalan`, `^Lorong`, `Bukit`, `Sungei`, colonial surnames list, …)
+- [x] **LLM second** — constrained classification via Ollama; JSON schema (`primary_category`, `tags`, `confidence`) in `prompts/categorize-v1.md`
+- [x] **Human review third** — `data/categories-override.csv` (git-tracked) wins over rules and model; never overwritten on re-run
+- [x] Version prompts in `prompts/categorize-v1.md`; log model + prompt version per row in `street_categories.csv`
 
 ### 2.3 Quality controls
 
-- [ ] Normalize legacy categories: map old free-form LLM labels → taxonomy via one-time migration script
+- [x] Normalize legacy categories: free-form LLM labels mapped via `legacy_label_mappings` in taxonomy (one-time migrate script removed after use)
 - [ ] Inter-rater check: sample 100 streets, compare two models or model vs manual notes
-- [ ] Report: streets per category, longest tail of singleton labels, confidence distribution
+- [x] Report: streets per category / source / tag, uncategorized review queue → `make category-report` / `data/category-stats.json`
 
-**Phase 2 done when:** ≥95% of streets have a primary category from the fixed taxonomy; review queue for the rest is &lt;200 names.
+**Phase 2 done when:** ≥95% of streets have a primary category from the fixed taxonomy; review queue for the rest is &lt;200 names. **Met** (99.8% / 10 names). Optional polish: inter-rater sample and clearing the last uncategorized streets via overrides.
 
 ---
 
@@ -151,6 +157,7 @@ first_known_year, old_names[], osm_id, last_osm_sync
 - [ ] Join **district / planning area** from OneMap or URA boundaries (point-in-polygon from polyline centroid)
 - [ ] Add `etymology_short` (1–2 sentences) from curated sources + LLM draft + manual edit
 - [ ] Link to external refs: NLB BiblioAsia articles, Roots.gov.sg, Remember Singapore, Victor Savage & Brenda Yeoh’s work
+- [ ] Publish canonical aliases and secondary tags in the dataset (data already produced earlier in the pipeline)
 
 ### 3.2 Personal layer (optional but encouraged)
 
@@ -202,10 +209,12 @@ first_known_year, old_names[], osm_id, last_osm_sync
 
 ### 5.1 Engineering
 
-- [ ] Single entrypoint: `make all` or `python -m singapore_streets build`
+- [x] Single entrypoint: `make all` (also `make fresh` / `make fresh-all` for rebuilds)
 - [ ] Package scripts as installable module (`src/singapore_streets/`) — reduces `runpy` / path hacks
 - [ ] Golden-file test: small checked-in OSM snippet → expected `street-names.txt`
 - [ ] CI (GitHub Actions): `make test` on every push
+- [x] Local quality gates: pre-commit + ruff + mypy (`--strict`)
+- [x] Dependency management via **uv** (`pyproject.toml` + `uv.lock`; Makefile uses `uv run`)
 - [ ] Pin OSM download date in dataset metadata; changelog in `CHANGELOG.md`
 - [ ] Structured logging instead of stderr prints for review queues
 
@@ -221,31 +230,32 @@ first_known_year, old_names[], osm_id, last_osm_sync
 - [ ] Issue templates: “Missing street”, “Wrong category”, “Etymology source”
 - [ ] Acknowledge URA/SLA/OSM licenses clearly
 
-**Phase 5 done when:** A fresh clone + `make all` reproduces the published dataset; contributors can fix a category without touching Python.
+**Phase 5 done when:** A fresh clone + `make all` reproduces the published dataset; contributors can fix a category without touching Python (overrides already enable the latter).
 
 ---
 
 ## Suggested Order of Work
 
-If you want the highest joy per hour:
+Highest joy per hour from here:
 
 1. **Phase 1.1** — diff against official source (immediate “what are we missing?”)
-2. **Phase 2.1–2.2** — taxonomy + constrained categorization (fixes the messiest part today)
-3. **Phase 4.1** — static map site (makes the catalog *feel* real)
-4. **Phase 3.2** — personal memory notes (makes it *yours*)
-5. Everything else in parallel as curiosity strikes
+2. **Phase 4.1** — static map site (makes the catalog *feel* real; taxonomy is ready to color by)
+3. **Phase 3.2** — personal memory notes (makes it *yours*)
+4. **Phase 3.1** — district join + a first batch of etymologies
+5. **Phase 5** CI / packaging as friction shows up
+6. Optional Phase 2 polish: inter-rater sample, clear remaining uncategorized via overrides
 
 ---
 
 ## Milestones
 
-| Milestone | Target | Celebration |
-|-----------|--------|-------------|
-| **M1: Complete list** | ≤50 streets gap vs official | Print the count; compare to your son’s original question |
-| **M2: Stable taxonomy** | &lt;20 primary categories, &gt;95% coverage | Category pie chart poster |
-| **M3: Story-ready** | 500 streets with etymology | Pick 10 favorites for a “trip down memory lane” post |
-| **M4: Explorable** | Public map site | Walk Singapore virtually before your next visit |
-| **M5: Living catalog** | Quarterly OSM refresh automated | New streets since last visit surfaced automatically |
+| Milestone | Target | Status | Celebration |
+|-----------|--------|--------|-------------|
+| **M1: Complete list** | ≤50 streets gap vs official | Open — needs Phase 1.1 | Print the count; compare to your son’s original question |
+| **M2: Stable taxonomy** | &lt;20 primary categories, &gt;95% coverage | **Done** (12 categories, 99.8%) | Category pie chart poster |
+| **M3: Story-ready** | 500 streets with etymology | Open | Pick 10 favorites for a “trip down memory lane” post |
+| **M4: Explorable** | Public map site | Open | Walk Singapore virtually before your next visit |
+| **M5: Living catalog** | Quarterly OSM refresh automated | Open | New streets since last visit surfaced automatically |
 
 ---
 
