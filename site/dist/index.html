@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Singapore Streets</title>
+  <meta name="description" content="Browsable catalog of Singapore street names from OpenStreetMap." />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <link rel="stylesheet" href="/singapore-streets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <h1><a href="/singapore-streets/">Singapore Streets</a></h1>
+      <p class="subtitle"><span id="street-count">4,926</span> named streets · OSM catalog</p>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button type="button" class="tab active" data-view="map" role="tab" aria-selected="true">Map</button>
+      <button type="button" class="tab" data-view="list" role="tab" aria-selected="false">List</button>
+    </nav>
+  </header>
+
+  <section class="filters" aria-label="Filters">
+    <label class="field search-field">
+      <span class="label">Search</span>
+      <input id="search" type="search" placeholder="Street name…" autocomplete="off" />
+    </label>
+    <label class="field">
+      <span class="label">Category</span>
+      <select id="category">
+        <option value="">All categories</option>
+      </select>
+    </label>
+    <label class="field">
+      <span class="label">Tag</span>
+      <select id="tag">
+        <option value="">All tags</option>
+      </select>
+    </label>
+    <label class="field district-field hidden">
+      <span class="label">District</span>
+      <select id="district">
+        <option value="">All districts</option>
+      </select>
+    </label>
+    <p class="filter-status"><span id="match-count">0</span> shown</p>
+  </section>
+
+  <main>
+    <section id="view-map" class="view view-map" aria-label="Map view">
+      <div id="map"></div>
+      <aside id="map-legend" class="legend" aria-label="Category legend"></aside>
+    </section>
+
+    <section id="view-list" class="view view-list hidden" aria-label="List view">
+      <div id="list" class="street-list"></div>
+    </section>
+  </main>
+
+  <aside id="detail" class="detail hidden" aria-live="polite">
+    <button type="button" id="detail-close" class="detail-close" aria-label="Close detail">×</button>
+    <div id="detail-body"></div>
+    <div id="detail-map" class="detail-map"></div>
+  </aside>
+  <div id="detail-backdrop" class="detail-backdrop hidden"></div>
+
+  <footer class="site-footer">
+    <p>
+      Built from
+      <a href="https://github.com/evgeniyarbatov/singapore-streets">evgeniyarbatov/singapore-streets</a>.
+      Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>.
+    </p>
+  </footer>
+
+  <script>
+    window.SITE_BASE = "/singapore-streets/";
+  </script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="/singapore-streets/app.js"></script>
+</body>
+</html>

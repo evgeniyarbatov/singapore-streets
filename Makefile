@@ -31,6 +31,11 @@ GENERATED_DATA = \
 
 MODEL = mistral-nemo:latest
 
+# GitHub Pages project site base path. Use SITE_BASE=/ for local root serve.
+SITE_BASE ?= /singapore-streets/
+SITE_DIST = site/dist
+SITE_PORT ?= 8000
+
 install:
 	@uv sync
 
@@ -76,6 +81,25 @@ dataset: install
 upload:
 	@kaggle datasets version -p dataset -m "update dataset"
 
+site: install
+	@$(PYTHON) scripts/build_site.py --base-path "$(SITE_BASE)"
+
+site-local: install
+	@$(PYTHON) scripts/build_site.py --base-path /
+
+site-serve: site-local
+	@echo "Serving $(SITE_DIST) at http://127.0.0.1:$(SITE_PORT)/"
+	@$(PYTHON) -m http.server $(SITE_PORT) --directory $(SITE_DIST)
+
+# Rebuild for Pages and print deploy steps. Push to main triggers Actions deploy.
+site-deploy: site
+	@echo "Site built at $(SITE_DIST) with base path $(SITE_BASE)"
+	@echo "Deploy: commit site/dist (and related files), then:"
+	@echo "  git push origin main"
+	@echo "GitHub Actions workflow .github/workflows/pages.yml publishes to GitHub Pages."
+	@echo "One-time: repo Settings → Pages → Source = GitHub Actions"
+	@echo "URL: https://evgeniyarbatov.github.io/singapore-streets/"
+
 test: install
 	@$(PYTHON) -m unittest discover -s tests
 all: streets clean canonical categorize category-report dataset
@@ -105,6 +129,10 @@ help:
 	@echo "category-report - print category stats"
 	@echo "dataset         - build the final dataset"
 	@echo "upload          - push dataset to Kaggle"
+	@echo "site            - build static site into site/dist (Pages base path)"
+	@echo "site-local      - build static site with base path /"
+	@echo "site-serve      - build for local root and serve on SITE_PORT (default 8000)"
+	@echo "site-deploy     - build site and print GitHub Pages deploy steps"
 	@echo "test            - run unit tests"
 	@echo "all             - streets, clean, canonical, categorize, category-report, dataset"
 	@echo "reset           - remove generated data"
@@ -113,4 +141,4 @@ help:
 	@echo "fresh-all       - reset, reset-osm, osm, city, all"
 	@echo "lock            - update uv.lock"
 
-.PHONY: install osm city streets clean canonical categorize category-report dataset upload test all reset reset-osm fresh fresh-all lock help
+.PHONY: install osm city streets clean canonical categorize category-report dataset upload site site-local site-serve site-deploy test all reset reset-osm fresh fresh-all lock help

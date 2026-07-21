@@ -177,13 +177,15 @@ first_known_year, old_names[], osm_id, last_osm_sync
 
 **Goal:** Make the catalog **pleasant to use**, not only a CSV on Kaggle.
 
-### 4.1 Static site (lowest friction)
+### 4.1 Static site (lowest friction) ✅
 
-- [ ] `site/` — simple static generator (Python → HTML or lightweight Astro/11ty)
-- [ ] **Map view** — Leaflet/MapLibre, polylines from dataset, category-colored
-- [ ] **List view** — filter by category, district, tag, search by substring
-- [ ] **Street detail page** — name, map snippet, etymology, aliases, your memory note
-- [ ] Deploy to GitHub Pages
+- [x] `site/` — Python generator (`scripts/build_site.py`) → `site/dist/`
+- [x] **Map view** — Leaflet, polylines from dataset, category-colored
+- [x] **List view** — filter by category, tag, search by substring (district filter ready when data exists)
+- [x] **Street detail** — name, map snippet, aliases/tags; etymology / memory note / district when present
+- [x] Deploy to GitHub Pages — `make site` / `make site-deploy`; workflow `.github/workflows/pages.yml`
+
+Local: `make site-serve`. After push to `main`, site is at https://evgeniyarbatov.github.io/singapore-streets/
 
 ### 4.2 “Memory lane” features
 
@@ -238,9 +240,9 @@ first_known_year, old_names[], osm_id, last_osm_sync
 Highest joy per hour from here:
 
 1. **Phase 1.1** — diff against official source (immediate “what are we missing?”)
-2. **Phase 4.1** — static map site (makes the catalog *feel* real; taxonomy is ready to color by)
-3. **Phase 3.2** — personal memory notes (makes it *yours*)
-4. **Phase 3.1** — district join + a first batch of etymologies
+2. **Phase 3.2** — personal memory notes (makes it *yours*; site already surfaces them)
+3. **Phase 3.1** — district join + a first batch of etymologies (list filters + detail light up)
+4. **Phase 4.2** — random street / quiz / running map on the existing site
 5. **Phase 5** CI / packaging as friction shows up
 6. Optional Phase 2 polish: inter-rater sample, clear remaining uncategorized via overrides
 
@@ -253,7 +255,7 @@ Highest joy per hour from here:
 | **M1: Complete list** | ≤50 streets gap vs official | Open — needs Phase 1.1 | Print the count; compare to your son’s original question |
 | **M2: Stable taxonomy** | &lt;20 primary categories, &gt;95% coverage | **Done** (12 categories, 99.8%) | Category pie chart poster |
 | **M3: Story-ready** | 500 streets with etymology | Open | Pick 10 favorites for a “trip down memory lane” post |
-| **M4: Explorable** | Public map site | Open | Walk Singapore virtually before your next visit |
+| **M4: Explorable** | Public map site | **Done** (Phase 4.1) | Walk Singapore virtually before your next visit |
 | **M5: Living catalog** | Quarterly OSM refresh automated | Open | New streets since last visit surfaced automatically |
 
 ---
