@@ -255,7 +255,8 @@ main {
   position: fixed;
   inset: 0;
   background: rgba(28, 27, 25, 0.35);
-  z-index: 40;
+  /* Above Leaflet panes/controls (up to 1000); map view shares root stacking context. */
+  z-index: 1100;
 }
 
 .detail {
@@ -267,7 +268,7 @@ main {
   background: var(--panel);
   border-left: 1px solid var(--line);
   box-shadow: var(--shadow);
-  z-index: 50;
+  z-index: 1200;
   padding: 1rem 1rem 1.25rem;
   overflow: auto;
   display: flex;
