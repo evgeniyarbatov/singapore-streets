@@ -8,7 +8,7 @@ Exploring Singapore street names with OpenStreetMap.
 
 ## Documentation
 
-Architecture and script reference: [docs/](docs/).
+Architecture, street definition, and script reference: [docs/](docs/).
 
 ## Prerequisites
 
