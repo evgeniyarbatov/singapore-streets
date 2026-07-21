@@ -78,11 +78,11 @@ singapore-streets/
 | Column | Description |
 |--------|-------------|
 | `name` | Street name as tagged in OSM (falls back through `name:en`, `name:ms`, `name:zh`, `alt_name`, `old_name` when no plain `name` tag exists) |
-| `polyline` | Encoded polyline string (Google algorithm) |
+| `polyline` | One or more Google-encoded polylines joined by `;` (forks / dual carriageways keep every arm) |
 | `osm_source` | `highway_name`, `name_pattern`, or `relation_name` |
 | `aliases` | Pipe-separated alternate names merged from the tags above |
 
-Multiple OSM ways with the same name are merged into one polyline when endpoints are within ~25 m. Named relations (e.g. expressways tagged as `type=route, route=road`) stitch their member ways' geometry the same way.
+Multiple OSM ways with the same name are chained when endpoints are within ~25 m. Geometry that cannot form a single chain (Y-junctions, dual carriageways, gaps) is kept as additional polylines separated by `;`. Named relations (e.g. expressways tagged as `type=route, route=road`) stitch their member ways the same way.
 
 ### `data/street-names.txt`
 
@@ -117,7 +117,7 @@ Final publishable dataset — inner join of `street-names.txt`, `street_categori
 |--------|-------------|
 | `street_name` | Official-style name |
 | `category` | Display category from taxonomy |
-| `polyline` | Map geometry |
+| `polyline` | Map geometry (`;`-joined Google polylines when multi-path) |
 
 Streets without a category are excluded (inner join).
 

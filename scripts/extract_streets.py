@@ -38,6 +38,11 @@ def resolve_name_and_aliases(tags: dict[str, str]) -> tuple[str | None, list[str
     return name, aliases
 
 
+# Separator between independent Google-encoded polylines for one street.
+# Google polyline characters are ASCII 63–126 (?..~); ';' (59) cannot appear.
+POLYLINE_SEP = ";"
+
+
 def encode_polyline(coords: list[tuple[float, float]]) -> str | None:
     """
     Encode coordinates as polyline string using Google's polyline algorithm
@@ -45,11 +50,19 @@ def encode_polyline(coords: list[tuple[float, float]]) -> str | None:
     if not coords:
         return ""
     if len(coords) == 1:
-        # Single point - just return lat,lon
         return None
-    # Multiple points - encode as polyline
     result: str = polyline.encode(coords)
     return result
+
+
+def encode_polylines(paths: list[list[tuple[float, float]]]) -> str:
+    """Encode one or more coordinate paths; join independent paths with POLYLINE_SEP."""
+    parts: list[str] = []
+    for coords in paths:
+        encoded = encode_polyline(coords)
+        if encoded:
+            parts.append(encoded)
+    return POLYLINE_SEP.join(parts)
 
 
 class StreetHandler(osmium.SimpleHandler):
@@ -132,8 +145,13 @@ def merge_street_polylines(
     streets: list[dict[str, Any]], max_link_meters: float = 25, precision: int = 6
 ) -> list[dict[str, Any]]:
     """
-    Faster merge: uses a local meters approximation (no geopy),
-    precomputes endpoints, and avoids repeated heavy distance calls.
+    Group ways by name and stitch collinear segments into paths.
+
+    Segments whose endpoints are within max_link_meters are chained into one
+    path. When a name has forks (Y-junctions), dual carriageways, or other
+    geometry that cannot form a single chain, remaining segments become
+    additional paths. The CSV field is one or more Google polylines joined by
+    POLYLINE_SEP — nothing is dropped just because it is not on the first chain.
     """
 
     def key(pt: tuple[float, float]) -> tuple[float, float]:
@@ -151,13 +169,11 @@ def merge_street_polylines(
 
     def merge_segments(
         segments: list[list[tuple[float, float]]],
-    ) -> list[tuple[float, float]]:
+    ) -> list[list[tuple[float, float]]]:
         segments = [s for s in segments if s and len(s) > 1]
         if not segments:
             return []
 
-        # Use mean latitude to scale lon degrees -> meters
-        # (good enough for local nearest-neighbor decisions)
         all_lats = []
         for s in segments:
             all_lats.append(s[0][0])
@@ -165,60 +181,56 @@ def merge_street_polylines(
         mean_lat = sum(all_lats) / len(all_lats)
         cos_lat = math.cos(math.radians(mean_lat))
 
-        # Fast approximate meters distance on lat/lon
-        # 1 deg lat ~= 111_320m; 1 deg lon ~= 111_320m * cos(lat)
         def dist_m(a: tuple[float, float], b: tuple[float, float]) -> float:
             dlat = (a[0] - b[0]) * 111_320.0
             dlon = (a[1] - b[1]) * 111_320.0 * cos_lat
             return math.hypot(dlat, dlon)
 
-        # Precompute segment records
         segs: list[dict[str, Any]] = [{"coords": s, "start": s[0], "end": s[-1]} for s in segments]
-
-        # Start from the longest segment
-        start_i = max(range(len(segs)), key=lambda i: len(segs[i]["coords"]))
-        path = list(segs[start_i]["coords"])
-        segs.pop(start_i)
+        paths: list[list[tuple[float, float]]] = []
 
         while segs:
-            head, tail = path[0], path[-1]
-            best: tuple[float, int, str] | None = None
+            start_i = max(range(len(segs)), key=lambda i: len(segs[i]["coords"]))
+            path = list(segs[start_i]["coords"])
+            segs.pop(start_i)
 
-            for i, sg in enumerate(segs):
-                s0, s1 = sg["start"], sg["end"]
+            while segs:
+                head, tail = path[0], path[-1]
+                best: tuple[float, int, str] | None = None
 
-                # 4 ways to connect, comparing endpoints only
-                # mode implies whether to reverse segment and whether to prepend/append
-                candidates = [
-                    (dist_m(tail, s0), i, "append_fwd"),
-                    (dist_m(tail, s1), i, "append_rev"),
-                    (dist_m(head, s1), i, "prepend_fwd"),  # seg end meets head
-                    (dist_m(head, s0), i, "prepend_rev"),
-                ]
-                c = min(candidates, key=lambda x: x[0])
-                if best is None or c[0] < best[0]:
-                    best = c
+                for i, sg in enumerate(segs):
+                    s0, s1 = sg["start"], sg["end"]
+                    candidates = [
+                        (dist_m(tail, s0), i, "append_fwd"),
+                        (dist_m(tail, s1), i, "append_rev"),
+                        (dist_m(head, s1), i, "prepend_fwd"),
+                        (dist_m(head, s0), i, "prepend_rev"),
+                    ]
+                    c = min(candidates, key=lambda x: x[0])
+                    if best is None or c[0] < best[0]:
+                        best = c
 
-            assert best is not None
-            d, idx, mode = best
-            if d > max_link_meters:
-                break
+                assert best is not None
+                d, idx, mode = best
+                if d > max_link_meters:
+                    break
 
-            sg = segs.pop(idx)
-            coords = sg["coords"]
+                sg = segs.pop(idx)
+                coords = sg["coords"]
 
-            if mode == "append_fwd":
-                path.extend(coords)
-            elif mode == "append_rev":
-                path.extend(reversed(coords))
-            elif mode == "prepend_fwd":
-                path = coords + path
-            else:  # prepend_rev
-                path = list(reversed(coords)) + path
+                if mode == "append_fwd":
+                    path.extend(coords)
+                elif mode == "append_rev":
+                    path.extend(reversed(coords))
+                elif mode == "prepend_fwd":
+                    path = coords + path
+                else:
+                    path = list(reversed(coords)) + path
 
-        return dedupe(path)
+            paths.append(dedupe(path))
 
-    # ---- group streets by name ----
+        return paths
+
     groups: dict[str, dict[str, Any]] = {}
     for street in streets:
         name = street["name"]
@@ -234,14 +246,13 @@ def merge_street_polylines(
         group["coords_list"].append(street["coords"])
         group["aliases"].update(street.get("aliases", []))
 
-    # ---- merge per group ----
     merged: list[dict[str, Any]] = []
     for g in groups.values():
-        coords = merge_segments(g["coords_list"])
+        paths = merge_segments(g["coords_list"])
         merged.append(
             {
                 "name": g["name"],
-                "polyline": encode_polyline(coords),
+                "polyline": encode_polylines(paths),
                 "osm_source": g["osm_source"],
                 "aliases": "|".join(sorted(g["aliases"])),
             }

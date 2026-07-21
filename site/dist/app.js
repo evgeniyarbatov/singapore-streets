@@ -18,7 +18,7 @@
   let layerGroup = null;
   /** @type {L.Map | null} */
   let detailMap = null;
-  /** @type {L.Polyline | null} */
+  /** @type {L.Layer | null} */
   let detailLine = null;
 
   const els = {
@@ -46,6 +46,8 @@
   }
 
   // Google encoded polyline decoder (precision 5).
+  // Multiple independent paths for one street are joined with ';'
+  // (semicolon is outside the Google polyline character set).
   function decodePolyline(str) {
     if (!str) return [];
     let index = 0;
@@ -79,6 +81,15 @@
       coordinates.push([lat / 1e5, lng / 1e5]);
     }
     return coordinates;
+  }
+
+  /** @returns {Array<Array<[number, number]>>} */
+  function decodeStreetPolylines(str) {
+    if (!str) return [];
+    return str
+      .split(";")
+      .map(decodePolyline)
+      .filter((coords) => coords.length >= 2);
   }
 
   function colorFor(category) {
@@ -185,17 +196,20 @@
     const toDraw = filtered.length > maxDraw ? filtered.slice(0, maxDraw) : filtered;
 
     for (const street of toDraw) {
-      const coords = decodePolyline(street.polyline);
-      if (coords.length < 2) continue;
-      const line = L.polyline(coords, {
+      const paths = decodeStreetPolylines(street.polyline);
+      if (!paths.length) continue;
+      const style = {
         color: colorFor(street.category),
         weight: 3,
         opacity: 0.75,
-      });
-      line.bindTooltip(street.name);
-      line.on("click", () => openDetail(street.name));
-      layerGroup.addLayer(line);
-      for (const c of coords) bounds.push(c);
+      };
+      for (const coords of paths) {
+        const line = L.polyline(coords, style);
+        line.bindTooltip(street.name);
+        line.on("click", () => openDetail(street.name));
+        layerGroup.addLayer(line);
+        for (const c of coords) bounds.push(c);
+      }
     }
 
     if (bounds.length) {
@@ -276,8 +290,8 @@
     els.detail.classList.remove("hidden");
     els.detailBackdrop.classList.remove("hidden");
 
-    const coords = decodePolyline(street.polyline);
-    if (coords.length >= 2) {
+    const paths = decodeStreetPolylines(street.polyline);
+    if (paths.length) {
       els.detailMap.classList.remove("hidden");
       if (!detailMap) {
         detailMap = L.map(els.detailMap, {
@@ -290,11 +304,14 @@
         }).addTo(detailMap);
       }
       if (detailLine) detailMap.removeLayer(detailLine);
-      detailLine = L.polyline(coords, {
+      const style = {
         color: colorFor(street.category),
         weight: 5,
         opacity: 0.9,
-      }).addTo(detailMap);
+      };
+      detailLine = L.featureGroup(
+        paths.map((coords) => L.polyline(coords, style))
+      ).addTo(detailMap);
       setTimeout(() => {
         detailMap.invalidateSize();
         detailMap.fitBounds(detailLine.getBounds(), { padding: [16, 16], maxZoom: 17 });

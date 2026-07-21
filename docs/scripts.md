@@ -20,7 +20,7 @@ python scripts/extract_streets.py osm/singapore.osm data/osm-streets.csv data/st
    - name tag matching a street suffix pattern (`Road`, `Jalan`, `Lorong`, `Quay`, `Bukit`, `Kampong`, `Mount`, etc.)
 3. Also collects named relations (`type=route, route=road`, or any relation with a `highway` tag — e.g. expressways split across many unnamed member ways), stitching their member ways' geometry
 4. Resolves a primary name with fallback through `name`, `name:en`, `name:ms`, `name:zh`, `alt_name`, `old_name` — a way with no `name` tag but an `alt_name`/`old_name` is still captured instead of silently dropped. The other tag values become aliases.
-5. Groups segments by name and **merges polylines** when endpoints are within 25 m; aliases are unioned per group
+5. Groups segments by name and **merges polylines** when endpoints are within 25 m (remaining forks / disconnected arms become extra polylines joined by `;`); aliases are unioned per group
 6. Flags duplicate geometries and null polylines to stderr, and writes them to `data/review-queue.csv` when a path is given
 7. Writes `data/osm-streets.csv` (with `name`, `polyline`, `osm_source`, `aliases` columns) and optionally `data/street-names.txt`
 
