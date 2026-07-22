@@ -71,7 +71,7 @@ streets: install
 	$(OSM_STREETS_FILE) \
 	$(STREET_NAMES_FILE) \
 	$(REVIEW_QUEUE_FILE)
-clean:
+clean: install
 	@tmp="$$(mktemp)"; \
 	cat $(STREET_NAMES_FILE) | \
 	$(PYTHON) scripts/format-address.py | \
