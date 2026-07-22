@@ -76,7 +76,10 @@ class TestCategorizeStreets(unittest.TestCase):
         self.assertEqual(entry.source, "rule")
 
     def test_categorize_name_llm_parses_json(self) -> None:
-        with mock.patch.object(MODULE.subprocess, "run") as mocked_run:
+        with (
+            mock.patch.object(MODULE.shutil, "which", return_value="/usr/bin/ollama"),
+            mock.patch.object(MODULE.subprocess, "run") as mocked_run,
+        ):
             mocked_run.return_value = subprocess.CompletedProcess(
                 args=["ollama", "run", "model"],
                 returncode=0,
