@@ -4,7 +4,22 @@ PYTHON := uv run python
 OSM_DIR = osm
 SINGAPORE_OSM_URL = https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf
 OSM_URL = $(SINGAPORE_OSM_URL)
-include $(HOME)/gitRepo/dotfiles/make/osm-country.mk
+
+DOTFILES_MK := $(HOME)/gitRepo/dotfiles/make/osm-country.mk
+
+.PHONY: country osm-country-fetch
+
+ifneq ($(wildcard $(DOTFILES_MK)),)
+include $(DOTFILES_MK)
+else
+COUNTRY_OSM_FILE ?= $(notdir $(OSM_URL))
+
+country osm-country-fetch:
+	@echo "error: '$@' needs evgeniyarbatov/dotfiles (private helper); not found at $(DOTFILES_MK)." >&2
+	@echo "Fetch manually: download $(OSM_URL) into $(OSM_DIR)/$(COUNTRY_OSM_FILE), then retry." >&2
+	@exit 1
+endif
+
 SINGAPORE_OSM_PATH = $(OSM_DIR)/$(notdir $(SINGAPORE_OSM_URL))
 
 OSM_STREETS_FILE = data/osm-streets.csv
