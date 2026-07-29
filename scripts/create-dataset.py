@@ -1,3 +1,4 @@
+import os
 import sys
 from pathlib import Path
 
@@ -7,13 +8,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from category_overrides import merge_category_dataframe
 
-streets_txt = "data/street-names.txt"
-categories_csv = "data/street_categories.csv"
-osm_streets_csv = "data/osm-streets.csv"
+streets_txt = os.environ.get("STREET_NAMES_FILE", "data/street-names.txt")
+categories_csv = os.environ.get("STREET_CATEGORIES_FILE", "data/street_categories.csv")
+osm_streets_csv = os.environ.get("OSM_STREETS_FILE", "data/osm-streets.csv")
 
-output_dir = Path("dataset")
-output_dir.mkdir(parents=True, exist_ok=True)
-output_file = output_dir / "singapore-streets.csv"
+output_file = Path(os.environ.get("DATASET_FILE", "dataset/singapore-streets.csv"))
+output_file.parent.mkdir(parents=True, exist_ok=True)
 
 streets_df = pd.read_csv(
     streets_txt,
