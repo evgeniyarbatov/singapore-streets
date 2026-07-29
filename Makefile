@@ -1,7 +1,11 @@
 # Uses uv (https://docs.astral.sh/uv) for dependency management — uv sync creates/updates .venv; run commands via uv run, no manual activation.
 PYTHON := uv run python
 
-OSM_DIR = osm
+DATA_ROOT ?= $(HOME)/data
+REPO_NAME := $(notdir $(CURDIR))
+DATA_DIR  ?= $(DATA_ROOT)/$(REPO_NAME)
+
+OSM_DIR := $(DATA_DIR)/osm
 SINGAPORE_OSM_URL = https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf
 OSM_URL = $(SINGAPORE_OSM_URL)
 
@@ -22,16 +26,19 @@ endif
 
 SINGAPORE_OSM_PATH = $(OSM_DIR)/$(notdir $(SINGAPORE_OSM_URL))
 
-OSM_STREETS_FILE = data/osm-streets.csv
-STREET_NAMES_FILE = data/street-names.txt
-STREET_CATEGORIES_FILE = data/street_categories.csv
-REVIEW_QUEUE_FILE = data/review-queue.csv
-CANONICAL_STREETS_FILE = data/canonical-streets.csv
-CATEGORY_STATS_FILE = data/category-stats.json
-DATASET_FILE = dataset/singapore-streets.csv
+# Tracked in git (osm/singapore.poly); kept at its repo path, independent of OSM_DIR.
+SINGAPORE_POLY_FILE := osm/singapore.poly
+
+OSM_STREETS_FILE = $(DATA_DIR)/osm-streets.csv
+STREET_NAMES_FILE = $(DATA_DIR)/street-names.txt
+STREET_CATEGORIES_FILE = $(DATA_DIR)/street_categories.csv
+REVIEW_QUEUE_FILE = $(DATA_DIR)/review-queue.csv
+CANONICAL_STREETS_FILE = $(DATA_DIR)/canonical-streets.csv
+CATEGORY_STATS_FILE = $(DATA_DIR)/category-stats.json
+DATASET_FILE = $(DATA_DIR)/dataset/singapore-streets.csv
 ALLOWLIST_FILE = data/allowlist.txt
-INVALID_ADDRESS_LOG = filtered/invalid-address.txt
-NOT_STREET_NAMES_LOG = filtered/not-street-names.txt
+INVALID_ADDRESS_LOG = $(DATA_DIR)/filtered/invalid-address.txt
+NOT_STREET_NAMES_LOG = $(DATA_DIR)/filtered/not-street-names.txt
 SINGAPORE_OSM_XML = $(OSM_DIR)/singapore.osm
 SINGAPORE_OSM_CLIPPED = $(OSM_DIR)/singapore.osm.pbf
 
@@ -57,8 +64,9 @@ install:
 osm: osm-country-fetch
 
 city:
+	@mkdir -p $(OSM_DIR)
 	@osmconvert $(SINGAPORE_OSM_PATH) \
-	-B=$(OSM_DIR)/singapore.poly \
+	-B=$(SINGAPORE_POLY_FILE) \
 	-o=$(OSM_DIR)/singapore.osm.pbf
 
 	@osmium cat --overwrite \
@@ -66,6 +74,7 @@ city:
 	-o $(SINGAPORE_OSM_XML)
 
 streets: install
+	@mkdir -p $(DATA_DIR)
 	@$(PYTHON) scripts/extract_streets.py \
 	$(SINGAPORE_OSM_XML) \
 	$(OSM_STREETS_FILE) \
@@ -90,17 +99,38 @@ categorize: install
 	$(STREET_CATEGORIES_FILE) \
 	--model $(MODEL)
 category-report: install
-	@$(PYTHON) scripts/category_report.py
+	@$(PYTHON) scripts/category_report.py \
+	--input $(STREET_CATEGORIES_FILE) \
+	--output $(CATEGORY_STATS_FILE)
 dataset: install
-	@$(PYTHON) scripts/create-dataset.py
+	@STREET_NAMES_FILE=$(STREET_NAMES_FILE) \
+	STREET_CATEGORIES_FILE=$(STREET_CATEGORIES_FILE) \
+	OSM_STREETS_FILE=$(OSM_STREETS_FILE) \
+	DATASET_FILE=$(DATASET_FILE) \
+	$(PYTHON) scripts/create-dataset.py
+
+# kaggle uploads whatever is in the target dir, so the tracked metadata file
+# is copied next to the generated CSV before invoking it.
 upload:
-	@kaggle datasets version -p dataset -m "update dataset"
+	@mkdir -p $(dir $(DATASET_FILE))
+	@cp dataset/dataset-metadata.json $(dir $(DATASET_FILE))
+	@kaggle datasets version -p $(dir $(DATASET_FILE)) -m "update dataset"
 
 site: install
-	@$(PYTHON) scripts/build_site.py --base-path "$(SITE_BASE)"
+	@$(PYTHON) scripts/build_site.py \
+	--dataset $(DATASET_FILE) \
+	--categories $(STREET_CATEGORIES_FILE) \
+	--osm $(OSM_STREETS_FILE) \
+	--canonical $(CANONICAL_STREETS_FILE) \
+	--base-path "$(SITE_BASE)"
 
 site-local: install
-	@$(PYTHON) scripts/build_site.py --base-path /
+	@$(PYTHON) scripts/build_site.py \
+	--dataset $(DATASET_FILE) \
+	--categories $(STREET_CATEGORIES_FILE) \
+	--osm $(OSM_STREETS_FILE) \
+	--canonical $(CANONICAL_STREETS_FILE) \
+	--base-path /
 
 site-serve: site-local
 	@echo "Serving $(SITE_DIST) at http://127.0.0.1:$(SITE_PORT)/"
@@ -121,7 +151,7 @@ all: streets clean canonical categorize category-report dataset
 
 reset:
 	@rm -f $(GENERATED_DATA)
-	@rm -rf filtered
+	@rm -rf $(DATA_DIR)/filtered
 
 reset-osm:
 	@rm -f $(SINGAPORE_OSM_PATH) $(SINGAPORE_OSM_CLIPPED) $(SINGAPORE_OSM_XML)
