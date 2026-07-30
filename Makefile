@@ -187,3 +187,6 @@ help:
 	@echo "lock            - update uv.lock"
 
 .PHONY: install osm city streets clean canonical categorize category-report dataset upload site site-local site-serve site-deploy test all reset reset-osm fresh fresh-all lock help
+
+# Entry point: streets, clean, canonical, categorize, category-report, dataset.
+run: all
