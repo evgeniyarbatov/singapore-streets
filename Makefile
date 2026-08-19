@@ -58,10 +58,12 @@ SITE_BASE ?= /singapore-streets/
 SITE_DIST = site/dist
 SITE_PORT ?= 8000
 
+BREW_NONINTERACTIVE = NONINTERACTIVE=1 HOMEBREW_NO_REQUIRE_TAP_TRUST=1
+
 install:
 	@uv sync
-	@command -v osmium >/dev/null || NONINTERACTIVE=1 brew install osmium-tool
-	@command -v ollama >/dev/null || NONINTERACTIVE=1 brew install ollama
+	@command -v osmium >/dev/null || $(BREW_NONINTERACTIVE) brew install osmium-tool
+	@command -v ollama >/dev/null || $(BREW_NONINTERACTIVE) brew install ollama
 
 osm: osm-country-fetch
 
