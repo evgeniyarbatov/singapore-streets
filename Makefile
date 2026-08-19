@@ -60,7 +60,8 @@ SITE_PORT ?= 8000
 
 install:
 	@uv sync
-	@command -v osmium >/dev/null || brew install osmium-tool
+	@command -v osmium >/dev/null || NONINTERACTIVE=1 brew install osmium-tool
+	@command -v ollama >/dev/null || NONINTERACTIVE=1 brew install ollama
 
 osm: osm-country-fetch
 
