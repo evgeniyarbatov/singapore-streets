@@ -60,20 +60,27 @@ SITE_PORT ?= 8000
 
 install:
 	@uv sync
+	@command -v osmium >/dev/null || brew install osmium-tool
 
 osm: osm-country-fetch
 
-city:
-	@mkdir -p $(OSM_DIR)
-	@osmconvert $(SINGAPORE_OSM_PATH) \
-	-B=$(SINGAPORE_POLY_FILE) \
-	-o=$(OSM_DIR)/singapore.osm.pbf
+city: $(SINGAPORE_OSM_XML)
 
+$(SINGAPORE_OSM_PATH):
+	@$(MAKE) osm
+
+$(SINGAPORE_OSM_CLIPPED): $(SINGAPORE_OSM_PATH) $(SINGAPORE_POLY_FILE)
+	@mkdir -p $(OSM_DIR)
+	@osmium extract --polygon $(SINGAPORE_POLY_FILE) \
+	-o $(SINGAPORE_OSM_CLIPPED) --overwrite \
+	$(SINGAPORE_OSM_PATH)
+
+$(SINGAPORE_OSM_XML): $(SINGAPORE_OSM_CLIPPED)
 	@osmium cat --overwrite \
 	$(SINGAPORE_OSM_CLIPPED) \
 	-o $(SINGAPORE_OSM_XML)
 
-streets: install
+streets: install $(SINGAPORE_OSM_XML)
 	@mkdir -p $(DATA_DIR)
 	@$(PYTHON) scripts/extract_streets.py \
 	$(SINGAPORE_OSM_XML) \
