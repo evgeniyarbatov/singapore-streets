@@ -18,6 +18,35 @@ Success looks like:
 
 ---
 
+## Why keep going
+
+Street names are a compressed record of a place's history that most people
+walk past without reading. Finishing the categorization and enrichment
+work turns ~4,926 names from a raw OSM export into something you can
+actually wander through — a different way of knowing a city than any map
+app gives you.
+
+## What it opens up
+
+Once the pipeline (extract → categorize → enrich → publish) is proven
+here, it's a template for doing the same "living catalog" treatment
+anywhere else street names carry real history — Saigon's post-1975
+renamings and Hanoi's directional naming logic are sitting right next to
+this repo, unexploited by the same method.
+
+## Connects to
+
+- **[private]** — same source data shape (OSM streets),
+  already asking a related question (what changed and why); a natural
+  second city for this pipeline once it's reusable.
+- **[private]**, **[private]** — same "read a
+  city's streets as data" instinct, different lens (orientation, walkability).
+- **[private]** — inverse operation (renaming streets by azimuth)
+  on the same kind of data; worth checking neither duplicates the other's
+  OSM extraction code.
+
+---
+
 ## Where We Are Today
 
 The pipeline is solid through categorization and dataset publish:
