@@ -34,17 +34,6 @@ anywhere else street names carry real history — Saigon's post-1975
 renamings and Hanoi's directional naming logic are sitting right next to
 this repo, unexploited by the same method.
 
-## Connects to
-
-- **[private]** — same source data shape (OSM streets),
-  already asking a related question (what changed and why); a natural
-  second city for this pipeline once it's reusable.
-- **[private]**, **[private]** — same "read a
-  city's streets as data" instinct, different lens (orientation, walkability).
-- **[private]** — inverse operation (renaming streets by azimuth)
-  on the same kind of data; worth checking neither duplicates the other's
-  OSM extraction code.
-
 ---
 
 ## Where We Are Today
