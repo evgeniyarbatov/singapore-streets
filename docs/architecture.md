@@ -86,7 +86,7 @@ Multiple OSM ways with the same name are chained when endpoints are within ~25 m
 
 ### `data/street-names.txt`
 
-Plain text, one street name per line. This is the canonical name list after cleaning. Row count is the project's street total (~4,400).
+Plain text, one street name per line. This is the canonical name list after cleaning. Row count is the project's street total (~4,792).
 
 ### `data/review-queue.csv`
 

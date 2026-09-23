@@ -12,6 +12,10 @@ from typing import Any
 import osmium
 import polyline
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from name_precision import normalize_display_name, orthographic_key, prefer_display_name
+
 # Tags consulted (in priority order) when a way/relation has no plain "name".
 # Also merged as aliases of the primary name when present.
 ALIAS_TAGS = ["name:en", "name:ms", "name:zh", "alt_name", "old_name"]
@@ -233,28 +237,35 @@ def merge_street_polylines(
 
     groups: dict[str, dict[str, Any]] = {}
     for street in streets:
-        name = street["name"]
+        normalized = normalize_display_name(str(street["name"]))
+        if not normalized:
+            continue
         group = groups.setdefault(
-            name,
+            orthographic_key(normalized),
             {
-                "name": name,
+                "variants": [],
                 "coords_list": [],
                 "osm_source": street["osm_source"],
                 "aliases": set(),
             },
         )
+        group["variants"].append(normalized)
         group["coords_list"].append(street["coords"])
-        group["aliases"].update(street.get("aliases", []))
+        group["aliases"].update(street.get("aliases") or [])
 
     merged: list[dict[str, Any]] = []
     for g in groups.values():
         paths = merge_segments(g["coords_list"])
+        name = prefer_display_name(list(g["variants"]))
+        aliases = set(g["aliases"])
+        aliases.update(variant for variant in set(g["variants"]) if variant != name)
+        aliases.discard(name)
         merged.append(
             {
-                "name": g["name"],
+                "name": name,
                 "polyline": encode_polylines(paths),
                 "osm_source": g["osm_source"],
-                "aliases": "|".join(sorted(g["aliases"])),
+                "aliases": "|".join(sorted(aliases)),
             }
         )
 

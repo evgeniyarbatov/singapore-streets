@@ -29,7 +29,7 @@ def find_named_lorong_numbers(lines: list[str]) -> set[str]:
 def is_invalid(line: str, named_lorong_numbers: set[str]) -> bool:
     starts_with_letter = bool(re.match(r"^[A-Z]", line))
     is_block = bool(re.match(r"^Blk", line, re.IGNORECASE))
-    contains_punctuation = bool(re.search(r"[;,:#()]", line))
+    contains_punctuation = bool(re.search(r"[;,:#().]", line))
     has_stop_words = bool(
         re.search(
             r"(^After|^Before|Opposite|^Entrance|Bus Station|MRT Station|Temple$|Playground|Fitness Centre|Wet Market$|Food Centre$|Bus Terminal$)",

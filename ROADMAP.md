@@ -6,7 +6,7 @@ A plan to grow this repo from an OSM extraction pipeline into a **comprehensive,
 
 ## Vision
 
-Singapore streets are rare and oddly specific. A single name can carry colonial history, a Malay place-word, a clan association, a rubber estate, a kampung that no longer exists, or a developer's poetic flourish from the 2010s. The goal is not just a count (~4,926 today) but a **living catalog** where every name can be found, understood, and revisited.
+Singapore streets are rare and oddly specific. A single name can carry colonial history, a Malay place-word, a clan association, a rubber estate, a kampung that no longer exists, or a developer's poetic flourish from the 2010s. The goal is not just a count (~4,792 today) but a **living catalog** where every name can be found, understood, and revisited.
 
 Success looks like:
 
@@ -55,7 +55,7 @@ OSM (Geofabrik) → clip to Singapore → extract names + polylines → clean/fi
 | **Dataset** (`create-dataset.py`) | `street_name`, `category`, `polyline` | Inner join drops uncategorized; no district / etymology / aliases columns |
 | **Tooling** | `make all` / `fresh` / `fresh-all`; uv; pre-commit + ruff + mypy; unit tests | No CI; not an installable package; no golden-file OSM regression |
 
-**Phase 2 outcome (current numbers):** ~4,926 streets; **99.8%** in the fixed taxonomy (10 uncategorized); sources roughly half rules / half LLM plus a handful of manual overrides.
+**Phase 2 outcome (current numbers):** ~4,792 streets; **99.8%** in the fixed taxonomy (8 uncategorized); sources roughly half rules / half LLM plus a handful of manual overrides.
 
 The [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-street-names) remains the public publish target. Next high-value gaps: official-source completeness (Phase 1.1), enrichment (Phase 3), and a browsable map (Phase 4).
 
@@ -114,7 +114,7 @@ The [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-str
 
 **Goal:** Replace open-ended LLM labels with a **stable, browsable category system** that still captures Singapore’s weirdness.
 
-**Status:** Complete for practical purposes — fixed taxonomy, rules → LLM → human overrides, 99.8% coverage, review queue of 10 names.
+**Status:** Complete for practical purposes — fixed taxonomy, rules → LLM → human overrides, 99.8% coverage, review queue of 8 names.
 
 ### 2.1 Design the taxonomy
 
@@ -151,7 +151,7 @@ Primary categories live in `data/taxonomy.yaml` (12 categories; Japanese/wartime
 - [ ] Inter-rater check: sample 100 streets, compare two models or model vs manual notes
 - [x] Report: streets per category / source / tag, uncategorized review queue → `make category-report` / `data/category-stats.json`
 
-**Phase 2 done when:** ≥95% of streets have a primary category from the fixed taxonomy; review queue for the rest is &lt;200 names. **Met** (99.8% / 10 names). Optional polish: inter-rater sample and clearing the last uncategorized streets via overrides.
+**Phase 2 done when:** ≥95% of streets have a primary category from the fixed taxonomy; review queue for the rest is &lt;200 names. **Met** (99.8% / 8 names). Optional polish: inter-rater sample and clearing the last uncategorized streets via overrides.
 
 ---
 

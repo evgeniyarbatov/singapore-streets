@@ -168,6 +168,37 @@ class TestExtractStreets(unittest.TestCase):
         self.assertEqual(duplicates["abc"], {"Alpha", "Beta"})
         self.assertEqual(set(non_streets), {"Gamma"})
 
+    def test_merge_street_polylines_folds_spelling_variants(self) -> None:
+        streets = [
+            {
+                "name": "Pan Island Expressway",
+                "coords": [(1.0, 1.0), (1.0, 1.001)],
+                "osm_source": "highway_name",
+                "aliases": ["泛岛快速公路"],
+            },
+            {
+                "name": "Pan-Island Expressway",
+                "coords": [(1.1, 1.1), (1.1, 1.101)],
+                "osm_source": "relation_name",
+                "aliases": ["Lebuhraya Rentas Pulau"],
+            },
+            {
+                "name": "Marina Costal Expressway",
+                "coords": [(1.2, 1.2), (1.2, 1.201)],
+                "osm_source": "highway_name",
+            },
+        ]
+
+        merged = {row["name"]: row for row in MODULE.merge_street_polylines(streets)}
+
+        self.assertEqual(set(merged), {"Pan-Island Expressway", "Marina Coastal Expressway"})
+        self.assertIn("Pan Island Expressway", merged["Pan-Island Expressway"]["aliases"])
+        self.assertIn("泛岛快速公路", merged["Pan-Island Expressway"]["aliases"])
+        parts = [
+            p for p in merged["Pan-Island Expressway"]["polyline"].split(MODULE.POLYLINE_SEP) if p
+        ]
+        self.assertEqual(len(parts), 2)
+
     def test_merge_street_polylines_merges_aliases(self) -> None:
         streets = [
             {

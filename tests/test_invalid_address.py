@@ -67,6 +67,16 @@ class TestInvalidAddress(unittest.TestCase):
             invalid_lines = invalid_path.read_text(encoding="utf-8").splitlines()
             self.assertEqual(invalid_lines, ["Lorong 99"])
 
+    def test_dotted_label_is_rejected(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            stdout = self._run_main(tmp_dir, "Orchard Road\nTo.Tree.Top.Walk\n")
+
+            self.assertEqual(stdout, "Orchard Road\n")
+            invalid_path = Path(tmp_dir) / "filtered" / "invalid-address.txt"
+            self.assertEqual(
+                invalid_path.read_text(encoding="utf-8").splitlines(), ["To.Tree.Top.Walk"]
+            )
+
     def test_reject_log_flag_overrides_default_path(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             self._run_main(

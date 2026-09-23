@@ -20,7 +20,7 @@ python scripts/extract_streets.py osm/singapore.osm data/osm-streets.csv data/st
    - name tag matching a street suffix pattern (`Road`, `Jalan`, `Lorong`, `Quay`, `Bukit`, `Kampong`, `Mount`, etc.)
 3. Also collects named relations (`type=route, route=road`, or any relation with a `highway` tag — e.g. expressways split across many unnamed member ways), stitching their member ways' geometry
 4. Resolves a primary name with fallback through `name`, `name:en`, `name:ms`, `name:zh`, `alt_name`, `old_name` — a way with no `name` tag but an `alt_name`/`old_name` is still captured instead of silently dropped. The other tag values become aliases.
-5. Groups segments by name and **merges polylines** when endpoints are within 25 m (remaining forks / disconnected arms become extra polylines joined by `;`); aliases are unioned per group
+5. Groups segments by spelling-insensitive name (`Pan-Island` with `Pan Island`, dashes and the `Costal` typo included) and **merges polylines** when endpoints are within 25 m (remaining forks / disconnected arms become extra polylines joined by `;`); aliases are unioned per group, including the unused spellings
 6. Flags duplicate geometries and null polylines to stderr, and writes them to `data/review-queue.csv` when a path is given
 7. Writes `data/osm-streets.csv` (with `name`, `polyline`, `osm_source`, `aliases` columns) and optionally `data/street-names.txt`
 
@@ -40,6 +40,7 @@ Normalizes spelling and abbreviations.
 
 - Title-cases names
 - Expands abbreviations: `Rd` → `Road`, `St` → `Street`, `Jln` → `Jalan`, `Bt` → `Bukit`, etc.
+- Collapses whitespace, turns en/em dashes into hyphens, and corrects `Costal` → `Coastal`
 - Fixes common encoding artifacts (`&apos;`, curly quotes)
 
 ```bash
@@ -72,6 +73,8 @@ Final street-name filter. Keeps names that look like real streets; rejects build
 - `Jalan …` or `Lorong …` prefixes, or `Bukit …` / `Kampong …` / `Mount …` prefixes
 - Directional variants (`Foo Road East`) when the base name already exists
 - Any name listed in the allowlist file (default `data/allowlist.txt`, override with `--allowlist`) — bypasses the building/mall and slash filters for confirmed official edge cases
+
+A prefix (`Bukit`, `Jalan`, `Lorong`) or a trailing street word does not keep a facility or a description. Those are rejected even when the name also contains a real road (`Bukit Timah Primary School`, `Proposed … Clementi Road`). Hyphen and spacing variants of one road are emitted once (`Pan-Island Expressway` rather than also `Pan Island Expressway`).
 
 **Rejects** → reject log path (default `filtered/not-street-names.txt`, override with `--reject-log`; includes a reason comment)
 

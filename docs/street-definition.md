@@ -37,6 +37,8 @@ Dropped during extract or clean (reject logs under `filtered/`):
 | Kind | How it is rejected |
 |------|--------------------|
 | Buildings, malls, hotels, condos | Keyword filter in `street-names.py` (mall, plaza, tower, condo, station, terminal, …) |
+| Facilities and descriptions that only look street-shaped | A `Bukit` / `Jalan` prefix or a trailing `Road` is not enough. Schools, hospitals, churches, parks, hotels, and works notes (`Interim`, `Proposed`, `Plot 2 Near …`, `Lush On Holland Hill`) are rejected. `Jalan Stadium` stays (the token is the road); `Jalan Besar Stadium` does not |
+| Duplicate spellings of one road | Hyphen, dash, and spacing variants fold to one name (`Pan-Island` / `Pan Island`, `Kallang–Paya Lebar`, `Marina Costal`) |
 | Address / POI fragments | Blocks (`Blk …`), punctuation-heavy labels, `@` handles (`invalid-address.py`) |
 | Transit and amenity labels | Stop words such as After/Before/Opposite, MRT Station, Bus Terminal, Food Centre, Wet Market, … |
 | Slash compound labels | Names containing `/` (unless allowlisted) |

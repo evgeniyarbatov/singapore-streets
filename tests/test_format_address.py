@@ -31,6 +31,13 @@ class TestFormatAddress(unittest.TestCase):
             "123 Road &Apos;Test' Jalan Lorong Avenue Boulevard Bukit After Before",
         )
 
+    def test_format_collapses_spacing_dashes_and_costal(self) -> None:
+        self.assertEqual(MODULE.format("Boon  Tiong Rd"), "Boon Tiong Road")
+        self.assertEqual(
+            MODULE.format("Kallang–Paya Lebar Expressway"), "Kallang-Paya Lebar Expressway"
+        )
+        self.assertEqual(MODULE.format("Marina Costal Expressway"), "Marina Coastal Expressway")
+
     def test_main_formats_lines(self) -> None:
         input_data = "foo rd\nbar st\n"
         expected_output = "Foo Road\nBar Street\n"

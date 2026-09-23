@@ -1,23 +1,15 @@
 from __future__ import annotations
 
-import re
 import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from name_precision import normalize_display_name
 
 
 def format(text: str) -> str:
-    text = text.title()
-    text = re.sub(r"&apos;", "'", text)
-    text = re.sub(r"’", "'", text)
-    text = re.sub(r"Rd\b", "Road", text)
-    text = re.sub(r"St\b", "Street", text)
-    text = re.sub(r"Dr\b", "Drive", text)
-    text = re.sub(r"Jln\b", "Jalan", text)
-    text = re.sub(r"Lor\b", "Lorong", text)
-    text = re.sub(r"Ave\b", "Avenue", text)
-    text = re.sub(r"Blvd\b", "Boulevard", text)
-    text = re.sub(r"Bt\b", "Bukit", text)
-    text = re.sub(r"Aft\b", "After", text)
-    return re.sub(r"Bef\b", "Before", text)
+    return normalize_display_name(text)
 
 
 def main() -> None:

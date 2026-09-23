@@ -93,6 +93,56 @@ class TestStreetNames(unittest.TestCase):
 
             self.assertEqual(stdout.splitlines(), ["Orchard Road", "Foo/Bar Road"])
 
+    def test_facility_and_description_labels_are_rejected(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            stdout = self._run_main(
+                tmp_dir,
+                "\n".join(
+                    [
+                        "Orchard Road",
+                        "Bukit Timah Primary School",
+                        "Mount Elizabeth Hospital",
+                        "Hospital Drive",
+                        "Church Street",
+                        "Jalan Stadium",
+                        "Jalan Besar Stadium",
+                        "Jalan Awang Interim Park",
+                        "Lorong 1 Realty Park",
+                        "Jalan Batu Park",
+                        "Hill",
+                        "Road",
+                        "That Coffee Place",
+                        "Holiday Inn Express Singapore Clarke Quay",
+                        "New Bridge Road",
+                        "Nihon Food Street",
+                        "Pullman Singapore Hill Street",
+                        "Pan Island Expressway",
+                        "Pan-Island Expressway",
+                        "Foo Road",
+                        "Foo Road East",
+                    ]
+                )
+                + "\n",
+            )
+
+            self.assertEqual(
+                sorted(stdout.splitlines()),
+                sorted(
+                    [
+                        "Orchard Road",
+                        "Hospital Drive",
+                        "Church Street",
+                        "Jalan Stadium",
+                        "Lorong 1 Realty Park",
+                        "New Bridge Road",
+                        "Nihon Food Street",
+                        "Pan-Island Expressway",
+                        "Foo Road",
+                        "Foo Road East",
+                    ]
+                ),
+            )
+
     def test_expanded_suffixes_are_kept(self) -> None:
         with tempfile.TemporaryDirectory() as tmp_dir:
             stdout = self._run_main(tmp_dir, "Marina Quay\nRaffles Place\nBukit Timah\n")
