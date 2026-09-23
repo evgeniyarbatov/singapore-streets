@@ -149,6 +149,36 @@ class TestCreateDataset(unittest.TestCase):
                 ],
             )
 
+    def test_joins_when_only_casing_differs(self) -> None:
+        script_path = Path(__file__).resolve().parents[1] / "scripts" / "create-dataset.py"
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            data_dir = Path(tmp_dir) / "data"
+            data_dir.mkdir(parents=True, exist_ok=True)
+
+            (data_dir / "street-names.txt").write_text("King's Road\n", encoding="utf-8")
+            (data_dir / "street_categories.csv").write_text(
+                "street_name,category\nKing'S Road,Colonial & British\n",
+                encoding="utf-8",
+            )
+            (data_dir / "osm-streets.csv").write_text(
+                "name,polyline\nKing'S Road,abc\n",
+                encoding="utf-8",
+            )
+
+            old_cwd = os.getcwd()
+            os.chdir(tmp_dir)
+            try:
+                run_script(script_path)
+            finally:
+                os.chdir(old_cwd)
+
+            output_path = Path(tmp_dir) / "dataset" / "singapore-streets.csv"
+            with open(output_path, encoding="utf-8", newline="") as handle:
+                rows = list(csv.DictReader(handle))
+
+            self.assertEqual(rows[0]["street_name"], "King's Road")
+            self.assertEqual(rows[0]["polyline"], "abc")
+
 
 if __name__ == "__main__":
     unittest.main()

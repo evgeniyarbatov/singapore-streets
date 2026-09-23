@@ -68,24 +68,90 @@ NON_STREET = re.compile(
 )
 
 
+# str.title() would turn these into King'S, Mcnair, Amk, One-North, Prince Of.
+# OSM already stores the form on the right; keep it, and repair a title()-damaged copy.
+CANONICAL_TOKENS = {
+    "one-north": "one-north",
+    "macpherson": "MacPherson",
+    "mactaggart": "MacTaggart",
+    "mcnair": "McNair",
+    "mccallum": "McCallum",
+    "mcnally": "McNally",
+    "amk": "AMK",
+    "bbq": "BBQ",
+    "gpl": "GPL",
+    "hpl": "HPL",
+    "hsbc": "HSBC",
+    "ite": "ITE",
+    "ns": "NS",
+    "nus": "NUS",
+    "ocbc": "OCBC",
+    "oue": "OUE",
+    "sfa": "SFA",
+    "spc": "SPC",
+    "ue": "UE",
+}
+SMALL_WORDS = frozenset({"of", "the", "and"})
+ABBREVIATIONS = (
+    ("Rd", "Road"),
+    ("St", "Street"),
+    ("Dr", "Drive"),
+    ("Jln", "Jalan"),
+    ("Lor", "Lorong"),
+    ("Ave", "Avenue"),
+    ("Blvd", "Boulevard"),
+    ("Bt", "Bukit"),
+    ("Aft", "After"),
+    ("Bef", "Before"),
+)
+
+
+def _cap_first_letter(token: str) -> str:
+    for index, char in enumerate(token):
+        if char.isalpha():
+            return token[:index] + char.upper() + token[index + 1 :]
+    return token
+
+
+def _repair_title_damage(token: str) -> str:
+    # title() capitalizes the possessive ("King'S") and the letter after Mc ("Mcnair").
+    token = re.sub(r"'S\b", "'s", token)
+    return re.sub(r"^Mc([a-z])", lambda match: "Mc" + match.group(1).upper(), token)
+
+
+def _recase_token(token: str, *, first: bool) -> str:
+    canonical = CANONICAL_TOKENS.get(token.casefold())
+    if canonical is not None:
+        return canonical
+    if token.casefold() in SMALL_WORDS and not first:
+        return token.casefold()
+    if any(char.isupper() for char in token):
+        return _repair_title_damage(token)
+    if "-" in token:
+        parts = token.split("-")
+        return "-".join(
+            _recase_token(part, first=first and index == 0) for index, part in enumerate(parts)
+        )
+    return _cap_first_letter(token)
+
+
 def normalize_display_name(text: str) -> str:
-    """Collapse spacing and dashes, expand abbreviations, fix the Costal typo."""
+    """Collapse spacing and dashes, expand abbreviations, keep OSM casing.
+
+    Does not use str.title(): that capitalizes after apostrophes and hyphens
+    and lowercases the rest, so King's, McNair, and AMK no longer match the
+    row that holds the polyline.
+    """
     text = text.replace("\u2013", "-").replace("\u2014", "-").replace("\u2212", "-")
+    text = re.sub(r"&apos;", "'", text, flags=re.IGNORECASE)
+    text = re.sub(r"[’‘ʼ]", "'", text)
     text = re.sub(r"[ \t]+", " ", text).strip()
-    text = text.title()
-    text = re.sub(r"&apos;", "'", text)
-    text = re.sub(r"’", "'", text)
-    text = re.sub(r"Rd\b", "Road", text)
-    text = re.sub(r"St\b", "Street", text)
-    text = re.sub(r"Dr\b", "Drive", text)
-    text = re.sub(r"Jln\b", "Jalan", text)
-    text = re.sub(r"Lor\b", "Lorong", text)
-    text = re.sub(r"Ave\b", "Avenue", text)
-    text = re.sub(r"Blvd\b", "Boulevard", text)
-    text = re.sub(r"Bt\b", "Bukit", text)
-    text = re.sub(r"Aft\b", "After", text)
-    text = re.sub(r"Bef\b", "Before", text)
-    return re.sub(r"\bCostal\b", "Coastal", text)
+    for source, replacement in ABBREVIATIONS:
+        text = re.sub(rf"\b{source}\b", replacement, text, flags=re.IGNORECASE)
+    text = re.sub(r"\bCostal\b", "Coastal", text, flags=re.IGNORECASE)
+    tokens = text.split(" ")
+    recased = [_recase_token(token, first=index == 0) for index, token in enumerate(tokens)]
+    return " ".join(recased)
 
 
 def orthographic_key(name: str) -> str:

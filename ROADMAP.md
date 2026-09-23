@@ -6,7 +6,7 @@ A plan to grow this repo from an OSM extraction pipeline into a **comprehensive,
 
 ## Vision
 
-Singapore streets are rare and oddly specific. A single name can carry colonial history, a Malay place-word, a clan association, a rubber estate, a kampung that no longer exists, or a developer's poetic flourish from the 2010s. The goal is not just a count (~4,792 today) but a **living catalog** where every name can be found, understood, and revisited.
+Singapore streets are rare and oddly specific. A single name can carry colonial history, a Malay place-word, a clan association, a rubber estate, a kampung that no longer exists, or a developer's poetic flourish from the 2010s. The goal is not just a count (~4,749 today) but a **living catalog** where every name can be found, understood, and revisited.
 
 Success looks like:
 
@@ -22,7 +22,7 @@ Success looks like:
 
 Street names are a compressed record of a place's history that most people
 walk past without reading. Finishing the categorization and enrichment
-work turns ~4,792 names from a raw OSM export into something you can
+work turns ~4,749 names from a raw OSM export into something you can
 actually wander through — a different way of knowing a city than any map
 app gives you.
 
@@ -55,7 +55,7 @@ OSM (Geofabrik) → clip to Singapore → extract names + polylines → clean/fi
 | **Dataset** (`create-dataset.py`) | `street_name`, `category`, `polyline` | Inner join drops uncategorized; no district / etymology / aliases columns |
 | **Tooling** | `make all` / `fresh` / `fresh-all`; uv; pre-commit + ruff + mypy; unit tests | No CI; not an installable package; no golden-file OSM regression |
 
-**Phase 2 outcome (current numbers):** ~4,792 streets; **99.8%** in the fixed taxonomy (8 uncategorized); sources roughly half rules / half LLM plus a handful of manual overrides.
+**Phase 2 outcome (current numbers):** ~4,749 streets; **99.8%** in the fixed taxonomy (8 uncategorized); sources roughly half rules / half LLM plus a handful of manual overrides.
 
 The [Kaggle dataset](https://www.kaggle.com/datasets/evgenyarbatov/singapore-street-names) remains the public publish target. Next high-value gaps: official-source completeness (Phase 1.1), enrichment (Phase 3), and a browsable map (Phase 4).
 

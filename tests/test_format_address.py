@@ -28,8 +28,30 @@ class TestFormatAddress(unittest.TestCase):
         formatted = MODULE.format(text)
         self.assertEqual(
             formatted,
-            "123 Road &Apos;Test' Jalan Lorong Avenue Boulevard Bukit After Before",
+            "123 Road 'Test' Jalan Lorong Avenue Boulevard Bukit After Before",
         )
+
+    def test_format_preserves_osm_casing(self) -> None:
+        cases = {
+            "King's Road": "King's Road",
+            "King'S Road": "King's Road",
+            "King&apos;s Road": "King's Road",
+            "McNair Road": "McNair Road",
+            "Mcnair Road": "McNair Road",
+            "MacPherson Road": "MacPherson Road",
+            "Macpherson Road": "MacPherson Road",
+            "MacTaggart Road": "MacTaggart Road",
+            "AMK Tech Link": "AMK Tech Link",
+            "Amk Tech Link": "AMK Tech Link",
+            "one-north Avenue": "one-north Avenue",
+            "One-North Avenue": "one-north Avenue",
+            "Prince of Wales Road": "Prince of Wales Road",
+            "Prince Of Wales Road": "Prince of Wales Road",
+            "foo rd": "Foo Road",
+        }
+        for raw, expected in cases.items():
+            self.assertEqual(MODULE.format(raw), expected, raw)
+            self.assertEqual(MODULE.format(expected), expected, expected)
 
     def test_format_collapses_spacing_dashes_and_costal(self) -> None:
         self.assertEqual(MODULE.format("Boon  Tiong Rd"), "Boon Tiong Road")

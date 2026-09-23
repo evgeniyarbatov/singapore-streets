@@ -38,7 +38,7 @@ python scripts/extract_streets.py osm/singapore.osm data/osm-streets.csv data/st
 
 Normalizes spelling and abbreviations.
 
-- Title-cases names
+- Capitalizes an all-lowercase name without `str.title()`, so King's, McNair, MacPherson, one-north, and AMK stay in the form OSM uses
 - Expands abbreviations: `Rd` → `Road`, `St` → `Street`, `Jln` → `Jalan`, `Bt` → `Bukit`, etc.
 - Collapses whitespace, turns en/em dashes into hyphens, and corrects `Costal` → `Coastal`
 - Fixes common encoding artifacts (`&apos;`, curly quotes)

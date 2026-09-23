@@ -7,6 +7,16 @@ import pandas as pd
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from category_overrides import merge_category_dataframe
+from name_precision import normalize_display_name
+
+
+def _normalize_column(frame: pd.DataFrame, column: str | int) -> pd.DataFrame:
+    frame = frame.copy()
+    frame[column] = frame[column].map(
+        lambda value: normalize_display_name(value) if isinstance(value, str) else value
+    )
+    return frame
+
 
 streets_txt = os.environ.get("STREET_NAMES_FILE", "data/street-names.txt")
 categories_csv = os.environ.get("STREET_CATEGORIES_FILE", "data/street_categories.csv")
@@ -15,9 +25,12 @@ osm_streets_csv = os.environ.get("OSM_STREETS_FILE", "data/osm-streets.csv")
 output_file = Path(os.environ.get("DATASET_FILE", "dataset/singapore-streets.csv"))
 output_file.parent.mkdir(parents=True, exist_ok=True)
 
-streets_df = pd.read_csv(
-    streets_txt,
-    header=None,
+streets_df = _normalize_column(
+    pd.read_csv(
+        streets_txt,
+        header=None,
+    ),
+    0,
 )
 
 categories_df = pd.read_csv(categories_csv)
@@ -31,6 +44,7 @@ else:
     categories_df = categories_df[[0, 1]]
     categories_df.columns = pd.Index(["street_name", "category"])
 
+categories_df = _normalize_column(categories_df, "street_name")
 categories_df = merge_category_dataframe(categories_df)
 
 merged_df = streets_df.merge(
@@ -42,6 +56,7 @@ merged_df = streets_df.merge(
 
 osm_streets_df = pd.read_csv(osm_streets_csv)
 osm_streets_df = osm_streets_df.rename(columns={"name": "street_name"})
+osm_streets_df = _normalize_column(osm_streets_df, "street_name")
 
 osm_streets_df = osm_streets_df[["street_name", "polyline"]]
 
