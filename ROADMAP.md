@@ -22,7 +22,7 @@ Success looks like:
 
 Street names are a compressed record of a place's history that most people
 walk past without reading. Finishing the categorization and enrichment
-work turns ~4,926 names from a raw OSM export into something you can
+work turns ~4,792 names from a raw OSM export into something you can
 actually wander through — a different way of knowing a city than any map
 app gives you.
 
