@@ -1,5 +1,7 @@
 # Singapore Streets 🇸🇬
 
+[![tests](https://github.com/evgeniyarbatov/singapore-streets/actions/workflows/tests.yml/badge.svg)](https://github.com/evgeniyarbatov/singapore-streets/actions/workflows/tests.yml)
+
 Exploring Singapore street names with OpenStreetMap.
 
 **Browse the map:** [evgeniyarbatov.github.io/singapore-streets](https://evgeniyarbatov.github.io/singapore-streets/)
