@@ -188,4 +188,4 @@ Tests live in `tests/` and mirror `scripts/`. They cover extraction/merge logic,
 
 ## Future direction
 
-See [ROADMAP.md](../ROADMAP.md) for planned work: official-source diffing (Phase 1.1), enrichment and etymology (Phase 3), memory-lane features (Phase 4.2), and packaging/CI hardening (Phase 5).
+See [ROADMAP.md](../ROADMAP.md) for planned work: completeness, enrichment, memory-lane features, and a self-refreshing pipeline.
