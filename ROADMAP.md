@@ -6,10 +6,6 @@ A **living catalog** of Singapore street names where every name can be found, un
 
 Once the pipeline (extract → categorize → enrich → publish) is proven here, it is a template for other cities whose street names carry history, such as Saigon's post-1975 renamings or Hanoi's naming logic.
 
-## Where We Are
-
-Extraction from OSM, a stable 12-category taxonomy (99.8% coverage), the Kaggle dataset, a public map site, and CI are in place. What remains is making the list **complete**, the names **meaningful**, the site **personal**, and the pipeline **self-refreshing**.
-
 ## Themes
 
 ### Completeness
