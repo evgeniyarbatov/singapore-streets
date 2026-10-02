@@ -4,6 +4,8 @@
 
 <img width="3200" height="2000" alt="singapore-streets-wordcloud-compressed" src="https://github.com/user-attachments/assets/4d91e392-dba8-4008-8195-062e31cd99cf" />
 
+## About
+
 Exploring Singapore street names with OpenStreetMap.
 
 **Browse the map:** [evgeniyarbatov.github.io/singapore-streets](https://evgeniyarbatov.github.io/singapore-streets/)
