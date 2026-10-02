@@ -2,6 +2,8 @@
 
 [![tests](https://github.com/evgeniyarbatov/singapore-streets/actions/workflows/tests.yml/badge.svg)](https://github.com/evgeniyarbatov/singapore-streets/actions/workflows/tests.yml)
 
+<img width="3200" height="2000" alt="singapore-streets-wordcloud" src="https://github.com/user-attachments/assets/51415ed8-4f4b-4ce9-9740-f6248c0c3b49" />
+
 Exploring Singapore street names with OpenStreetMap.
 
 **Browse the map:** [evgeniyarbatov.github.io/singapore-streets](https://evgeniyarbatov.github.io/singapore-streets/)
