@@ -2,7 +2,7 @@
 
 [![tests](https://github.com/evgeniyarbatov/singapore-streets/actions/workflows/tests.yml/badge.svg)](https://github.com/evgeniyarbatov/singapore-streets/actions/workflows/tests.yml)
 
-<img width="3200" height="2000" alt="singapore-streets-wordcloud" src="https://github.com/user-attachments/assets/51415ed8-4f4b-4ce9-9740-f6248c0c3b49" />
+<img width="3200" height="2000" alt="singapore-streets-wordcloud-compressed" src="https://github.com/user-attachments/assets/4d91e392-dba8-4008-8195-062e31cd99cf" />
 
 Exploring Singapore street names with OpenStreetMap.
 
@@ -134,7 +134,3 @@ make category-report
 ```bash
 make test
 ```
-
-## Story
-
-I became interested in learning about Singapore street names after running long distances in Singapore. Then one day my son asked me how many streets there are in Singapore, and I decided to find out the answer. This turned out to be interesting as there is nothing obvious that defines a street name in OSM data. I think this is one of those projects where you can always make incremental improvements and discover more.
