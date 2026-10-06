@@ -62,6 +62,8 @@ BREW_NONINTERACTIVE = NONINTERACTIVE=1 HOMEBREW_NO_ASK=1 HOMEBREW_NO_REQUIRE_TAP
 
 install:
 	@uv sync
+
+system-deps:
 	@command -v osmium >/dev/null || $(BREW_NONINTERACTIVE) brew install osmium-tool
 	@command -v ollama >/dev/null || $(BREW_NONINTERACTIVE) brew install ollama
 
@@ -72,13 +74,13 @@ city: $(SINGAPORE_OSM_XML)
 $(SINGAPORE_OSM_PATH):
 	@$(MAKE) osm
 
-$(SINGAPORE_OSM_CLIPPED): $(SINGAPORE_OSM_PATH) $(SINGAPORE_POLY_FILE)
+$(SINGAPORE_OSM_CLIPPED): $(SINGAPORE_OSM_PATH) $(SINGAPORE_POLY_FILE) | system-deps
 	@mkdir -p $(OSM_DIR)
 	@osmium extract --polygon $(SINGAPORE_POLY_FILE) \
 	-o $(SINGAPORE_OSM_CLIPPED) --overwrite \
 	$(SINGAPORE_OSM_PATH)
 
-$(SINGAPORE_OSM_XML): $(SINGAPORE_OSM_CLIPPED)
+$(SINGAPORE_OSM_XML): $(SINGAPORE_OSM_CLIPPED) | system-deps
 	@osmium cat --overwrite \
 	$(SINGAPORE_OSM_CLIPPED) \
 	-o $(SINGAPORE_OSM_XML)
@@ -103,7 +105,7 @@ canonical: install
 	@$(PYTHON) scripts/canonical_streets.py \
 	$(STREET_NAMES_FILE) \
 	$(CANONICAL_STREETS_FILE)
-categorize: install
+categorize: install system-deps
 	@$(PYTHON) scripts/categorize_streets.py \
 	$(STREET_NAMES_FILE) \
 	$(STREET_CATEGORIES_FILE) \
@@ -175,6 +177,7 @@ lock:
 
 help:
 	@echo "install         - uv sync dependencies"
+	@echo "system-deps     - brew install osmium-tool and ollama if missing"
 	@echo "osm             - fetch country OSM extract"
 	@echo "city            - clip OSM extract to city bounds"
 	@echo "streets         - extract streets from OSM data"
@@ -196,7 +199,7 @@ help:
 	@echo "fresh-all       - reset, reset-osm, osm, city, all"
 	@echo "lock            - update uv.lock"
 
-.PHONY: install osm city streets clean canonical categorize category-report dataset upload site site-local site-serve site-deploy test all reset reset-osm fresh fresh-all lock help
+.PHONY: install system-deps osm city streets clean canonical categorize category-report dataset upload site site-local site-serve site-deploy test all reset reset-osm fresh fresh-all lock help
 
 # Entry point: streets, clean, canonical, categorize, category-report, dataset.
 run: all
