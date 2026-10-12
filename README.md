@@ -4,6 +4,12 @@
 
 <img width="3200" height="2000" alt="singapore-streets-wordcloud-compressed" src="https://github.com/user-attachments/assets/4d91e392-dba8-4008-8195-062e31cd99cf" />
 
+## Status
+
+| Folder | Status | Last touched | Next step |
+|---|---|---|---|
+| root | active | 2026-10-06 | — |
+
 ## About
 
 Exploring Singapore street names with OpenStreetMap.
