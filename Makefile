@@ -11,6 +11,8 @@ OSM_URL = $(SINGAPORE_OSM_URL)
 
 DOTFILES_MK := $(HOME)/gitRepo/dotfiles/make/osm-country.mk
 
+.DEFAULT_GOAL := help
+
 .PHONY: country osm-country-fetch
 
 ifneq ($(wildcard $(DOTFILES_MK)),)
@@ -60,7 +62,7 @@ SITE_PORT ?= 8000
 
 BREW_NONINTERACTIVE = NONINTERACTIVE=1 HOMEBREW_NO_ASK=1 HOMEBREW_NO_REQUIRE_TAP_TRUST=1
 
-install:
+setup:
 	@uv sync
 
 system-deps:
@@ -85,14 +87,14 @@ $(SINGAPORE_OSM_XML): $(SINGAPORE_OSM_CLIPPED) | system-deps
 	$(SINGAPORE_OSM_CLIPPED) \
 	-o $(SINGAPORE_OSM_XML)
 
-streets: install $(SINGAPORE_OSM_XML)
+streets: setup $(SINGAPORE_OSM_XML)
 	@mkdir -p $(DATA_DIR)
 	@$(PYTHON) scripts/extract_streets.py \
 	$(SINGAPORE_OSM_XML) \
 	$(OSM_STREETS_FILE) \
 	$(STREET_NAMES_FILE) \
 	$(REVIEW_QUEUE_FILE)
-clean: install
+clean-names: setup
 	@tmp="$$(mktemp)"; \
 	cat $(STREET_NAMES_FILE) | \
 	$(PYTHON) scripts/format-address.py | \
@@ -101,20 +103,20 @@ clean: install
 	sort | uniq > "$$tmp"; \
 	mv "$$tmp" $(STREET_NAMES_FILE)
 
-canonical: install
+canonical: setup
 	@$(PYTHON) scripts/canonical_streets.py \
 	$(STREET_NAMES_FILE) \
 	$(CANONICAL_STREETS_FILE)
-categorize: install system-deps
+categorize: setup system-deps
 	@$(PYTHON) scripts/categorize_streets.py \
 	$(STREET_NAMES_FILE) \
 	$(STREET_CATEGORIES_FILE) \
 	--model $(MODEL)
-category-report: install
+category-report: setup
 	@$(PYTHON) scripts/category_report.py \
 	--input $(STREET_CATEGORIES_FILE) \
 	--output $(CATEGORY_STATS_FILE)
-dataset: install
+dataset: setup
 	@STREET_NAMES_FILE=$(STREET_NAMES_FILE) \
 	STREET_CATEGORIES_FILE=$(STREET_CATEGORIES_FILE) \
 	OSM_STREETS_FILE=$(OSM_STREETS_FILE) \
@@ -128,7 +130,7 @@ upload:
 	@cp dataset/dataset-metadata.json $(dir $(DATASET_FILE))
 	@kaggle datasets version -p $(dir $(DATASET_FILE)) -m "update dataset"
 
-site: install
+site: setup
 	@$(PYTHON) scripts/build_site.py \
 	--dataset $(DATASET_FILE) \
 	--categories $(STREET_CATEGORIES_FILE) \
@@ -136,7 +138,7 @@ site: install
 	--canonical $(CANONICAL_STREETS_FILE) \
 	--base-path "$(SITE_BASE)"
 
-site-local: install
+site-local: setup
 	@$(PYTHON) scripts/build_site.py \
 	--dataset $(DATASET_FILE) \
 	--categories $(STREET_CATEGORIES_FILE) \
@@ -157,9 +159,9 @@ site-deploy: site
 	@echo "One-time: repo Settings → Pages → Source = GitHub Actions"
 	@echo "URL: https://evgeniyarbatov.github.io/singapore-streets/"
 
-test: install
+test: setup
 	@$(PYTHON) -m unittest discover -s tests
-all: streets clean canonical categorize category-report dataset
+all: streets clean-names canonical categorize category-report dataset
 
 reset:
 	@rm -f $(GENERATED_DATA)
@@ -176,12 +178,13 @@ lock:
 	@uv lock
 
 help:
-	@echo "install         - uv sync dependencies"
+	@echo "run             - streets, clean-names, canonical, categorize, category-report, dataset"
+	@echo "setup           - uv sync dependencies"
 	@echo "system-deps     - brew install osmium-tool and ollama if missing"
 	@echo "osm             - fetch country OSM extract"
 	@echo "city            - clip OSM extract to city bounds"
 	@echo "streets         - extract streets from OSM data"
-	@echo "clean           - dedupe/normalize street names"
+	@echo "clean-names     - dedupe/normalize street names"
 	@echo "canonical       - build canonical streets file"
 	@echo "categorize      - categorize streets with the model"
 	@echo "category-report - print category stats"
@@ -199,7 +202,7 @@ help:
 	@echo "fresh-all       - reset, reset-osm, osm, city, all"
 	@echo "lock            - update uv.lock"
 
-.PHONY: install system-deps osm city streets clean canonical categorize category-report dataset upload site site-local site-serve site-deploy test all reset reset-osm fresh fresh-all lock help
+.PHONY: setup system-deps osm city streets clean-names canonical categorize category-report dataset upload site site-local site-serve site-deploy test all reset reset-osm fresh fresh-all lock help
 
-# Entry point: streets, clean, canonical, categorize, category-report, dataset.
+# Entry point: streets, clean-names, canonical, categorize, category-report, dataset.
 run: all

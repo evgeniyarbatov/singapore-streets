@@ -32,7 +32,7 @@ python scripts/extract_streets.py osm/singapore.osm data/osm-streets.csv data/st
 
 ## Cleaning chain
 
-`make clean` pipes three scripts together. Each reads stdin and writes stdout; rejects are logged under `filtered/`.
+`make clean-names` pipes three scripts together. Each reads stdin and writes stdout; rejects are logged under `filtered/`.
 
 ### `format-address.py`
 
@@ -87,7 +87,7 @@ cat data/street-names.txt \
   | sort | uniq > data/street-names.txt
 ```
 
-**Makefile target:** `make clean`
+**Makefile target:** `make clean-names`
 
 ### `canonical_streets.py`
 

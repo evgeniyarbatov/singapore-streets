@@ -14,7 +14,7 @@ Geofabrik OSM PBF
   extract_streets.py            Named highways → polylines + name list
        │
        ▼
-  make clean                    format-address → invalid-address → street-names
+  make clean-names              format-address → invalid-address → street-names
        │
        ▼
   categorize_streets.py         Rules → LLM → human review overrides
@@ -35,7 +35,7 @@ Each stage writes artifacts under `data/` or `dataset/`. Intermediate reject log
 
 **OSM as source of truth for geometry.** Street polylines come from OSM `highway` ways and named relations with `name` (or alias) tags. There is no separate geocoding step — the same extract that produces names also produces coordinates. What counts as a street (include / exclude / gray zone) is defined in [street-definition.md](street-definition.md).
 
-**Cleaning is a filter chain, not a single pass.** Three small stdin/stdout scripts run in sequence during `make clean`. Each step has a narrow job (normalize spelling, drop junk, keep only street-shaped names). Rejected lines go to an explicit `--reject-log` path (default under `filtered/`) for inspection, and a curated `data/allowlist.txt` lets confirmed edge cases skip the building/slash filters.
+**Cleaning is a filter chain, not a single pass.** Three small stdin/stdout scripts run in sequence during `make clean-names`. Each step has a narrow job (normalize spelling, drop junk, keep only street-shaped names). Rejected lines go to an explicit `--reject-log` path (default under `filtered/`) for inspection, and a curated `data/allowlist.txt` lets confirmed edge cases skip the building/slash filters.
 
 **Stable taxonomy over free-form labels.** Categories are defined in `data/taxonomy.yaml` — currently 12 primary categories plus `uncategorized`. Classification prefers deterministic rules, then a constrained local LLM (Ollama).
 

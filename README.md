@@ -41,7 +41,7 @@ Architecture, street definition, and script reference: [docs/](docs/).
 ## Setup
 
 ```bash
-make install
+make setup
 ```
 
 ## Generated Data
@@ -67,7 +67,7 @@ make city
 make streets
 
 # 4. Normalize and filter street names
-make clean
+make clean-names
 
 # 5. Group directional variants into a canonical name table (optional)
 make canonical
