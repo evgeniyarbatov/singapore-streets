@@ -221,6 +221,20 @@ Edit `data/taxonomy.yaml`, then re-run `make categorize --no-llm` to apply rule 
 
 ---
 
+## Wiki
+
+### `name_elements.py`
+
+Counts the words used in street names and groups numbered series (`Lorong N Geylang`) and families sharing a stem before a common suffix (`Tampines Avenue`, `Tampines Road`). The `/wiki` skill takes every count from this file.
+
+```bash
+python scripts/name_elements.py dataset/singapore-streets.csv wiki-facts.json
+```
+
+**Makefile target:** `make wiki-facts`
+
+---
+
 ## Quick reference
 
 | Script | Input | Output |
@@ -235,3 +249,4 @@ Edit `data/taxonomy.yaml`, then re-run `make categorize --no-llm` to apply rule 
 | `category_report.py` | `street_categories.csv` | stdout + `category-stats.json` |
 | `create-dataset.py` | names + categories + OSM CSV | `dataset/singapore-streets.csv` |
 | `taxonomy.py` | `data/taxonomy.yaml` | (imported by other scripts) |
+| `name_elements.py` | dataset CSV | `wiki-facts.json` |

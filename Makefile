@@ -38,6 +38,7 @@ REVIEW_QUEUE_FILE = $(DATA_DIR)/review-queue.csv
 CANONICAL_STREETS_FILE = $(DATA_DIR)/canonical-streets.csv
 CATEGORY_STATS_FILE = $(DATA_DIR)/category-stats.json
 DATASET_FILE = $(DATA_DIR)/dataset/singapore-streets.csv
+WIKI_FACTS_FILE = $(DATA_DIR)/wiki-facts.json
 ALLOWLIST_FILE = data/allowlist.txt
 INVALID_ADDRESS_LOG = $(DATA_DIR)/filtered/invalid-address.txt
 NOT_STREET_NAMES_LOG = $(DATA_DIR)/filtered/not-street-names.txt
@@ -123,6 +124,9 @@ dataset: setup
 	DATASET_FILE=$(DATASET_FILE) \
 	$(PYTHON) scripts/create-dataset.py
 
+wiki-facts: setup
+	@$(PYTHON) scripts/name_elements.py $(DATASET_FILE) $(WIKI_FACTS_FILE)
+
 # kaggle uploads whatever is in the target dir, so the tracked metadata file
 # is copied next to the generated CSV before invoking it.
 upload:
@@ -202,10 +206,11 @@ help:
 	@echo "reset-osm       - remove downloaded/converted OSM files"
 	@echo "fresh           - reset + all"
 	@echo "fresh-all       - reset, reset-osm, osm, city, all"
+	@echo "wiki-facts      - name elements, series and families for the wiki"
 	@echo "e2e             - osm, city, all, test, site"
 	@echo "lock            - update uv.lock"
 
-.PHONY: setup system-deps osm city streets clean-names canonical categorize category-report dataset upload site site-local site-serve site-deploy test all reset reset-osm fresh fresh-all e2e lock help
+.PHONY: setup system-deps osm city streets clean-names canonical categorize category-report dataset wiki-facts upload site site-local site-serve site-deploy test all reset reset-osm fresh fresh-all e2e lock help
 
 # Entry point: streets, clean-names, canonical, categorize, category-report, dataset.
 run: all

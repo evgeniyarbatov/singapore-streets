@@ -28,6 +28,10 @@ make site-deploy  # rebuild + print deploy steps
 
 Pushing `site/dist` on `main` deploys via `.github/workflows/pages.yml`.
 
+## Wiki
+
+[wiki/](wiki/index.md) explains what street names mean and the patterns among them; open it as an Obsidian vault. Grow it with `/wiki` in Claude Code (`/wiki lint` to check it), after `/pipeline` has built the dataset.
+
 ## Documentation
 
 Architecture, street definition, and script reference: [docs/](docs/).
