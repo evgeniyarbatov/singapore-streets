@@ -174,6 +174,8 @@ fresh: reset all
 
 fresh-all: reset reset-osm osm city all
 
+e2e: osm city all test site
+
 lock:
 	@uv lock
 
@@ -200,9 +202,10 @@ help:
 	@echo "reset-osm       - remove downloaded/converted OSM files"
 	@echo "fresh           - reset + all"
 	@echo "fresh-all       - reset, reset-osm, osm, city, all"
+	@echo "e2e             - osm, city, all, test, site"
 	@echo "lock            - update uv.lock"
 
-.PHONY: setup system-deps osm city streets clean-names canonical categorize category-report dataset upload site site-local site-serve site-deploy test all reset reset-osm fresh fresh-all lock help
+.PHONY: setup system-deps osm city streets clean-names canonical categorize category-report dataset upload site site-local site-serve site-deploy test all reset reset-osm fresh fresh-all e2e lock help
 
 # Entry point: streets, clean-names, canonical, categorize, category-report, dataset.
 run: all
