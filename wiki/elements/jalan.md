@@ -9,7 +9,7 @@ Malay for "road", abbreviated Jln.[^3] It comes first in the name, so Jalan Besa
 
 ## History
 
-An advisory committee for naming roads and streets, set up in 1967, recommended Malay place names to foster a sense of national identity, which explains the city's jalans and lorongs.[^2] For a time all roads in newly built residential areas were given Malay names, often with Jalan or Lorong.[^3] The policy was amended in 1968 after opposition from property developers and residents and a lack of Malay terms for new streets.[^3]
+An advisory committee for naming roads and streets, set up in 1967, recommended Malay place names to foster a sense of national identity, which explains the city's jalans and [[lorong|lorongs]].[^2] For a time all roads in newly built residential areas were given Malay names, often with Jalan or Lorong.[^3] The policy was amended in 1968 after opposition from property developers and residents and a lack of Malay terms for new streets.[^3]
 
 Current guidelines say non-English names such as Lorong and Jalan are to be avoided for new street names.[^1]
 

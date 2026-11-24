@@ -8,3 +8,13 @@
 - elements/street.md: written
 - elements/drive.md: written
 - index.md: added the five element pages; Road, Jalan and Street under Start here
+
+## 2026-11-24 ingest
+
+- elements/lane.md: written
+- elements/lorong.md: written
+- elements/walk.md: written
+- elements/view.md: written
+- elements/crescent.md: written
+- elements/road.md, street.md, drive.md, jalan.md: linked the new element pages
+- index.md: added the five pages; Lorong and Crescent under Start here

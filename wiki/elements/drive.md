@@ -9,9 +9,9 @@ aliases: [Dr]
 
 ## How it is used
 
-Drive is the only descriptor the naming board lists for both major and minor arterial roads. It appears with Boulevard, [[avenue|Avenue]] and Way for major arterial roads, and with [[road|Road]] and [[street|Street]] for minor arterial and primary access roads.[^1] Drive is missing from the board's one-line hierarchy that runs from Expressway to Lane.[^1]
+Drive is the only descriptor the naming board lists for both major and minor arterial roads. It appears with Boulevard, [[avenue|Avenue]] and Way for major arterial roads, and with [[road|Road]] and [[street|Street]] for minor arterial and primary access roads.[^1] Drive is missing from the board's one-line hierarchy that runs from Expressway to [[lane|Lane]].[^1]
 
-The board suggests that streets in one neighbourhood can share a locality name with different descriptors, giving "West Coast" with Drive, Avenue, Heights or View as its example.[^1]
+The board suggests that streets in one neighbourhood can share a locality name with different descriptors, giving "West Coast" with Drive, Avenue, Heights or [[view|View]] as its example.[^1]
 
 The Malay element Persiaran ("drive") was used in Persiaran Keliling, a road since renamed Circuit Road.[^2]
 

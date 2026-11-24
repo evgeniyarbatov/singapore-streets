@@ -9,7 +9,7 @@ The most common generic element in Singapore street names.[^3] 1,021 of the 4,78
 
 ## How it is used
 
-The naming board ranks street descriptors from major arterial roads down to local access roads: Expressway > Highway > Boulevard > Avenue > Way > Road > Street > Walk > Lane.[^1] In its table of road categories, Road appears with [[drive|Drive]] and [[street|Street]] for minor arterial and primary access roads.[^1]
+The naming board ranks street descriptors from major arterial roads down to local access roads: Expressway > Highway > Boulevard > Avenue > Way > Road > Street > [[walk|Walk]] > [[lane|Lane]].[^1] In its table of road categories, Road appears with [[drive|Drive]] and [[street|Street]] for minor arterial and primary access roads.[^1]
 
 Within British military camps, roads were named after famous British streets.[^2]
 

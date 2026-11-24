@@ -9,7 +9,7 @@ aliases: [St]
 
 ## How it is used
 
-In the naming board's hierarchy, Street ranks below [[road|Road]] and above Walk and Lane.[^1] It is listed with Road and [[drive|Drive]] for minor arterial and primary access roads.[^1] A numbered Street may carry a letter suffix, written with Arabic numerals only, as in "Street 5A".[^1] On road signs the abbreviation St is also used for Saint.[^3]
+In the naming board's hierarchy, Street ranks below [[road|Road]] and above [[walk|Walk]] and [[lane|Lane]].[^1] It is listed with Road and [[drive|Drive]] for minor arterial and primary access roads.[^1] A numbered Street may carry a letter suffix, written with Arabic numerals only, as in "Street 5A".[^1] On road signs the abbreviation St is also used for Saint.[^3]
 
 Early names in the colonial town were practical, such as Market Street.[^2] High Street was developed after Stamford Raffles landed in 1819 and was named for its topography.[^2]
 
