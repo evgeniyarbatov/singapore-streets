@@ -7,3 +7,4 @@ data/**
 !data/categories-override.csv
 filtered/
 dataset/*.csv
+wiki/.obsidian/
